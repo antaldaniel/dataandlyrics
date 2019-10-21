@@ -1,0 +1,24 @@
+---
+title: Testing a new post
+author: Daniel Antal
+date: '2019-10-21'
+slug: testing-a-new-post
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2019-10-21T18:08:07+02:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+
+```{r}
+plot ( hist(mtcars$cyl))
+```
+
