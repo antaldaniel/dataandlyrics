@@ -61,7 +61,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Founders
+- Editors
 ---
 
 Réka Szentirmay is a seasoned localisation professional with more than a decade of experience in translations, technical documentation and project management. With a background in journalism, social sciences and the theory of photography and film, Szentirmay strengthens the team from the perspective of digital humanities.
