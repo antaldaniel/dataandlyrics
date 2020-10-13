@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Creative Data Observatories</title>
+    <title>Data &amp; Lyrics</title>
     <link>/author/</link>
       <atom:link href="/author/index.xml" rel="self" type="application/rss+xml" />
-    <description>Creative Data Observatories</description>
+    <description>Data &amp; Lyrics</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Creative Data Observatories</title>
+      <title>Data &amp; Lyrics</title>
       <link>/author/</link>
     </image>
     

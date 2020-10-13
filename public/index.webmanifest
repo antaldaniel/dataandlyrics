@@ -1,9 +1,9 @@
 {
-  "name": "Creative Data Observatories",
-  "short_name": "Creative Data Observatories",
+  "name": "Data &amp; Lyrics",
+  "short_name": "Data &amp; Lyrics",
   "lang": "en-us",
-  "theme_color": "#4caf50",
-  "background_color": "#4caf50",
+  "theme_color": "#2962ff",
+  "background_color": "#2962ff",
   "icons": [{
     "src": "/images/icon_hu02d4214244b58f4d9dfd2bf839db7a24_35739_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",

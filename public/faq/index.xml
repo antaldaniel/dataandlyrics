@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Reproducible Research | Creative Data Observatories</title>
+    <title>Reproducible Research | Data &amp; Lyrics</title>
     <link>/faq/</link>
       <atom:link href="/faq/index.xml" rel="self" type="application/rss+xml" />
     <description>Reproducible Research</description>

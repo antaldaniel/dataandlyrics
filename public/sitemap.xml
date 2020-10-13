@@ -8,12 +8,12 @@
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/author/daniel-antal-cfa/</loc>
     <lastmod>2020-09-25T15:31:39+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/daniel-antal-cfa/</loc>
+    <loc>/</loc>
     <lastmod>2020-09-25T15:31:39+02:00</lastmod>
   </url>
   
@@ -293,26 +293,6 @@
   </url>
   
   <url>
-    <loc>/project/</loc>
-    <lastmod>2020-03-27T09:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/consulting/</loc>
-    <lastmod>2020-03-27T09:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/reproducible-consulting/</loc>
-    <lastmod>2020-03-27T09:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/reproducible-research/</loc>
-    <lastmod>2020-03-27T09:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tag/team-building/</loc>
     <lastmod>2020-03-14T20:55:37+01:00</lastmod>
   </url>
@@ -328,7 +308,7 @@
   </url>
   
   <url>
-    <loc>/project/open_data/</loc>
+    <loc>/project/</loc>
     <lastmod>2020-02-13T00:00:00+01:00</lastmod>
   </url>
   
@@ -498,12 +478,12 @@
   </url>
   
   <url>
-    <loc>/tag/reprodubile-research/</loc>
+    <loc>/project/music_observatory/</loc>
     <lastmod>2019-08-26T08:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/music_observatory/</loc>
+    <loc>/tag/reprodubile-research/</loc>
     <lastmod>2019-08-26T08:00:00+02:00</lastmod>
   </url>
   
@@ -535,11 +515,6 @@
   <url>
     <loc>/publication/slovak_music_industry_2019/</loc>
     <lastmod>2019-03-26T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/observatory/</loc>
-    <lastmod>2019-02-27T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -680,10 +655,6 @@
   
   <url>
     <loc>/author/katya-nagy/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/line/</loc>
   </url>
   
   <url>

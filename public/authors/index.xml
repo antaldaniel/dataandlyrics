@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Creative Data Observatories</title>
+    <title>Authors | Data &amp; Lyrics</title>
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
@@ -65,36 +65,7 @@
       <link>/author/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/author/</guid>
-      <description>&lt;p&gt;Reprex B.V. is a reproducible research company.  We believe that whenever a business or policy consulting team, a research institute, or data journalism team has already used, formatted, and analyzed data from an external source at least twice, this procedure should be automated. This makes it error-free, well documented, cheap and re-useable. Furthermore, making data collection ongoing instead being ad hoc saves data acquisition, validation and supervision costs. We would like to help medium-sized business, policy, NGO, scientific and data journalism organizations in this,  who do not have the institutional capacity to hire data scientists and engineers.&lt;/p&gt;
-&lt;p&gt;Our solutions cover automating data acquisition, processing, validation, auditing, documentation, visualization and presentation workflows, so that they can focus on what humans are best: making sense of the data.&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;Reprex&lt;/code&gt; means &lt;code&gt;reproducible example&lt;/code&gt; in data science.  When you are stuck with a problem, creating a reproducible example allows other computer scientists, statisticians, programmers or data users to solve it. In 80% of the cases, you usually find the solution while creating a generalized example &amp;ndash;  which also means that you never have to repeat this task again.  If you have ever downloaded, formatted, visualized, cited a datasource twice in your work, there is a high chance that you will need it again. We would like to make this process automatic, with daily updating the data, the formatting, the visualizations and the citations.&lt;/p&gt;
-&lt;p&gt;In the 20% other cases, you can reach out for help easily. We want to help you making your codes, data ingestions, document and presentation templates reproducible, and give help when you are stuck. Call us!&lt;/p&gt;
-&lt;p&gt;An &lt;code&gt;observatory&lt;/code&gt; is a location used for observing terrestrial or celestial events. We are building highly automated data observatories in the fields of business, policy and social sciences to support research and development and evidence-based policymaking. We are following the best practices of reproducible research.&lt;/p&gt;
-&lt;p&gt;The observatories give a comprehensive view of our minimal viable products. We are working on the launch of three observatories, starting with 
-&lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;music.dataobservatory.eu&lt;/a&gt; and 
-
-&lt;a href=&#34;https://ccs.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ccs.dataobservatory.eu&lt;/a&gt; that we will finalize until 14 September 2020. Our Demo Music Observatory is already partially functional, and showcases all of the elements of reproducible research workflow, but some implementation (automatic doi versioning) and a full selection of the indicators is not yet finished. Out of our 2000 pan-European indicators, we will select about 50-50 in our demo observatories for daily refreshed availability.&lt;/p&gt;
-&lt;p&gt;Whenever we collaborate with members of the open source, open data community, we apply the 
-&lt;a href=&#34;https://www.contributor-covenant.org/version/2/0/code_of_conduct/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Contributor Covenant&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;do-you-want-to-help-our-start&#34;&gt;Do you want to help our start?&lt;/h2&gt;
-&lt;p&gt;We would like to enter into the Validation Lab of one of the best artificial intelligence incubators in early September. Talented team members, letters of intents and assignments from organizations will give a lot of credibility to our start 
-&lt;a href=&#34;http://dataobservatory.eu/team/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Meet our team »&lt;/a&gt;.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Put as in contact with people who love to write code in R and interested in automating business and social science research and primary data collection such as surveying. 
-&lt;a href=&#34;http://dataobservatory.eu/#featured&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out what sort of code we create »&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Introduce us to people who need data and information to make better informed decision and analysis in music, film, book publishing, photography services or socially responsible finance.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Share contacts of data journalists who would like to develop stories from big survey programs like Eurobarometer, Afrobarometer and Lationbarometro, or base their storytelling on data and its visualizations. 
-&lt;a href=&#34;http://retroharmonize.satellitereport.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;See our survey harmonization examples »&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;You can share this in with our 
-&lt;a href=&#34;http://dataobservatory.eu/post/2020-08-24-start-up/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;start-up post»&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Thanks again for your good wishes and encouragements, and hope to hear from you soon!&lt;/p&gt;
+      <description>&lt;p&gt;A blog about music, data, lyrics and analytics.&lt;/p&gt;
 </description>
     </item>
     
@@ -123,15 +94,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/author/katya-nagy/</guid>
       <description>&lt;p&gt;Kátya is a freelance PR professional, journalist and has been working on the former CEEMID music professional surveys and other background research since 2015. Her role is to make sure that all large and small music organizations can participate in our research projects in the target countries, and receive the research output. Before we automate a process, she check the facts on the ground. She has been supporting our research in 12 countries in the past, and she is helping us reaching out to 12 new countries in our new team.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Line</title>
-      <link>/author/line/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/author/line/</guid>
-      <description>&lt;p&gt;Line Matson is a freelance project manager and visual artist working across cultural projects and digital mediums. As consultant and advisor to Reprex B.V., she provides guidance with navigating visual and auditory elements.&lt;/p&gt;
 </description>
     </item>
     

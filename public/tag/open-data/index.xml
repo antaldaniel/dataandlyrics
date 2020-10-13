@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>open-data | Creative Data Observatories</title>
+    <title>open-data | Data &amp; Lyrics</title>
     <link>/tag/open-data/</link>
       <atom:link href="/tag/open-data/index.xml" rel="self" type="application/rss+xml" />
     <description>open-data</description>
@@ -434,47 +434,6 @@ Final Report.&lt;/em&gt;, 397–417. Luxembourg.
 &lt;p&gt;Our 
 &lt;a href=&#34;https://danielantal.eu/publication/ceereport_2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Central &amp;amp; Eastern European Music Industry Report 2020&lt;/a&gt; is based on our data collection in 12 countries. Every visualization and data cited in the report is programatically created, and can be refreshed or translated automatically. It was 
 &lt;a href=&#34;https://danielantal.eu/post/2020-01-30-ceereport/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;presented&lt;/a&gt; as a good case-study on national and comparative evidence-based policymaking in the cultural and creative sector on the CCS Ecosystems: FLIPPING THE ODDS Conference – a two-day high-level stakeholder event jointly organized by Geothe-Institute and the DG Education and Culture of the European Commission with the Creative FLIP project.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Exploiting Open Data</title>
-      <link>/project/open_data/</link>
-      <pubDate>Thu, 13 Feb 2020 00:00:00 +0100</pubDate>
-      <guid>/project/open_data/</guid>
-      <description>&lt;p&gt;In Europe, municipalities, state authorities, governments, and the EU itself are creating vast data assets to serve various public needs.  Since 2003 the EU and its members states have theoretically opened these vast data resources for the re-use of the market sector when there are no privacy or national security concerns present.&lt;/p&gt;
-&lt;p&gt;Right after the opening of these data assets, it was estimated that the value of re-used public sector data, for example geographical, company registry, court, transport infrastructure data is around 25-47 billion euros. In the last 15 years, there have been signficant new investments into data assets, and futher innovation on using data.&lt;/p&gt;
-&lt;p&gt;In many cases, the re-usable public data offers a consistent and cheap alternative to private data collection, for example, pan-European surveying.&lt;/p&gt;
-&lt;h2 id=&#34;advantages-of-psi&#34;&gt;Advantages of PSI&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;There are vast data assets available for marginal cost, or for free, in size and value that could not be profitably financed by the private sector.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Re-use of taxpayer funded research increases the value for tax money, and avoids unnecessary duplication of data investments.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;It is not possible to collect past data in the present. Public sources, however, often contain hidden data going back for 10-20 years or even more.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;difficulties-of-psi&#34;&gt;Difficulties of PSI&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Re-usable data was created for a different purpose. While the data may be of high quality, it is likely not to be processed in the form the re-user wants to see it.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;The data is often not documented, or not documented for the purpose of re-use.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;The data is often difficult to find.  It is technically re-usable, but even its existence is unknown for most business users.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;The direct data costs of PSI are usually low - users only have to pay marginal costs, or sometimes they are not charged for a fair use of the data. However, the data processing costs are significant, because the data was not prepared for the business users needs.  The data processing requires a special understanding of statistical standards and public data. This is one of our specialities - besides having a very detailed &amp;lsquo;treasure map&amp;rsquo; of European PSI.  We are creating thousands of high-quality, pan-European business and policy indicators from open data sources.&lt;/p&gt;
-&lt;h2 id=&#34;legal-background&#34;&gt;Legal Background&lt;/h2&gt;
-&lt;p&gt;In the EU, open data is governed by the 
-&lt;a href=&#34;https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1561563110433&amp;amp;uri=CELEX:32019L1024&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Directive on open data and the re-use of public sector information - in short: Open Data Directive (EU) 2019/1024&lt;/a&gt;. It entered into force on 16 July 2019. It replaces the 
-&lt;a href=&#34;https://eur-lex.europa.eu/legal-content/en/ALL/?uri=CELEX:32003L0098&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Public Sector Information Directive&lt;/a&gt;, also known as the ‘PSI Directive’ which dated from 2003 and was subsequently amended in 2013. The founder of CEEMID, Daniel Antal has been involved in Open Data and 
-&lt;a href=&#34;https://danielantal.eu/publication/hungary_psi_2009/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PSI since 2008&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
