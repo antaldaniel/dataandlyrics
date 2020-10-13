@@ -11,7 +11,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Co-founder
+role: Editor
 
 # Organizations/Affiliations
 organizations:
@@ -64,7 +64,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Founders
+- Editors
 ---
 
 Daniel Antal is an experienced management consultant who applies a thoroughly professional approach based in economics, finance and data science in his practice. As a quantitatively trained financial economist, he uses a variety of sound valuation methods, corporate finance models, forecasting tools and economic impact analysis for his recommendations, and applies the [standards and ethical guidelines](https://www.cfainstitute.org/en/ethics-standards/ethics/code-of-ethics-standards-of-conduct-guidance) of the Chartered Financial Analyst Institute. 
