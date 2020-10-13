@@ -71,30 +71,5 @@
 </description>
     </item>
     
-    <item>
-      <title>Reproducible Survey Harmonization: retroharmonize Is Released</title>
-      <link>/post/2020-09-21-retroharmonize_release/</link>
-      <pubDate>Mon, 21 Sep 2020 11:31:39 +0200</pubDate>
-      <guid>/post/2020-09-21-retroharmonize_release/</guid>
-      <description>&lt;p&gt;Our original intention was to make surveying more accessible for music and creative industry partners, by relying more on already existing survey data, and better designing complementary, smaller surveys, becasue surveying, opinion polling is becoming increasingly expensive in the develop world.  People are less and less likely to sit down for an interview in their houses.  We have tried to harmonize our custom surveys, particuarly with Kantar in Hungary and Focus in Slovakia with exisiting EU projects.  But we ended up making a part of international survey harmonization across countries and throughout years easier to automate.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/img/packages/ab_plot1.png&#34; alt=&#34;Harmonized results from Afrobarometer&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Surveys are like sensors for natural sciences and industrial production. They are essential for almost any social and economic statistical indicator, for calculating the inflation, parts of the GDP, participation in education programs.  Making surveys easier to harmonize and exploit more already existing survey data can bring down research cost, and can increase research value at the same time. (See our earlier blog post 
-&lt;a href=&#34;https://dataobservatory.eu/post/2020-07-10-retroharmonize/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Increase The Value Of Market Research With Open Data And Survey Harmonization&lt;/a&gt;.)&lt;/p&gt;
-&lt;p&gt;So, if you are an R user, you can use &lt;code&gt;install.packages(“retroharmonize”)&lt;/code&gt; to get the released 0.1.13 version and make tutorials with real Eurobarometer or Afrobarometer microdata.  With &lt;code&gt;devtools::install_github(&amp;quot;antaldaniel/retroharmonize&amp;quot;)&lt;/code&gt; you can already install the current development version 0.1.14, which handles perl-like regex, which will be necessary for our next tutorial in the making for 
-&lt;a href=&#34;https://www.arabbarometer.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Arab Barometer&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Related&lt;/strong&gt;:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://retroharmonize.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;retroharmonize package website&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://github.com/antaldaniel/retroharmonize/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;retroharmonize on github&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
   </channel>
 </rss>

@@ -45,22 +45,6 @@
     </item>
     
     <item>
-      <title>R</title>
-      <link>/tag/r/</link>
-      <pubDate>Mon, 21 Sep 2020 11:31:39 +0200</pubDate>
-      <guid>/tag/r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>surveys</title>
-      <link>/tag/surveys/</link>
-      <pubDate>Mon, 21 Sep 2020 11:31:39 +0200</pubDate>
-      <guid>/tag/surveys/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>music</title>
       <link>/tag/music/</link>
       <pubDate>Tue, 15 Sep 2020 08:00:39 +0200</pubDate>
@@ -77,18 +61,18 @@
     </item>
     
     <item>
-      <title>survey</title>
-      <link>/tag/survey/</link>
-      <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/tag/survey/</guid>
+      <title>R</title>
+      <link>/tag/r/</link>
+      <pubDate>Tue, 15 Sep 2020 08:00:39 +0200</pubDate>
+      <guid>/tag/r/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>harmonization</title>
-      <link>/tag/harmonization/</link>
-      <pubDate>Thu, 09 Jul 2020 15:00:00 +0200</pubDate>
-      <guid>/tag/harmonization/</guid>
+      <title>survey</title>
+      <link>/tag/survey/</link>
+      <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/tag/survey/</guid>
       <description></description>
     </item>
     
@@ -189,30 +173,6 @@
     </item>
     
     <item>
-      <title>CCI</title>
-      <link>/tag/cci/</link>
-      <pubDate>Tue, 24 Mar 2020 13:30:00 +0100</pubDate>
-      <guid>/tag/cci/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>documentation</title>
-      <link>/tag/documentation/</link>
-      <pubDate>Tue, 24 Mar 2020 13:30:00 +0100</pubDate>
-      <guid>/tag/documentation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>music-observatory</title>
-      <link>/tag/music-observatory/</link>
-      <pubDate>Tue, 24 Mar 2020 13:30:00 +0100</pubDate>
-      <guid>/tag/music-observatory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>team-building</title>
       <link>/tag/team-building/</link>
       <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
@@ -241,6 +201,14 @@
       <link>/tag/bulgaria/</link>
       <pubDate>Wed, 29 Jan 2020 16:00:00 +0100</pubDate>
       <guid>/tag/bulgaria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CCI</title>
+      <link>/tag/cci/</link>
+      <pubDate>Wed, 29 Jan 2020 16:00:00 +0100</pubDate>
+      <guid>/tag/cci/</guid>
       <description></description>
     </item>
     
@@ -309,6 +277,22 @@
     </item>
     
     <item>
+      <title>cee</title>
+      <link>/tag/cee/</link>
+      <pubDate>Sat, 09 Nov 2019 11:00:00 +0100</pubDate>
+      <guid>/tag/cee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>value-gap</title>
+      <link>/tag/value-gap/</link>
+      <pubDate>Sat, 09 Nov 2019 11:00:00 +0100</pubDate>
+      <guid>/tag/value-gap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Croatia</title>
       <link>/tag/croatia/</link>
       <pubDate>Thu, 31 Oct 2019 12:00:00 +0100</pubDate>
@@ -317,10 +301,18 @@
     </item>
     
     <item>
-      <title>PCR</title>
+      <title>pcr</title>
       <link>/tag/pcr/</link>
       <pubDate>Thu, 31 Oct 2019 12:00:00 +0100</pubDate>
       <guid>/tag/pcr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pricing</title>
+      <link>/tag/pricing/</link>
+      <pubDate>Thu, 31 Oct 2019 12:00:00 +0100</pubDate>
+      <guid>/tag/pricing/</guid>
       <description></description>
     </item>
     
@@ -333,10 +325,34 @@
     </item>
     
     <item>
-      <title>value-gap</title>
-      <link>/tag/value-gap/</link>
-      <pubDate>Thu, 31 Oct 2019 12:00:00 +0100</pubDate>
-      <guid>/tag/value-gap/</guid>
+      <title>data-animation</title>
+      <link>/tag/data-animation/</link>
+      <pubDate>Mon, 23 Sep 2019 19:00:00 +0200</pubDate>
+      <guid>/tag/data-animation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hitlists</title>
+      <link>/tag/hitlists/</link>
+      <pubDate>Mon, 23 Sep 2019 19:00:00 +0200</pubDate>
+      <guid>/tag/hitlists/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spotify</title>
+      <link>/tag/spotify/</link>
+      <pubDate>Mon, 23 Sep 2019 19:00:00 +0200</pubDate>
+      <guid>/tag/spotify/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>music-export</title>
+      <link>/tag/music-export/</link>
+      <pubDate>Fri, 20 Sep 2019 10:30:00 +0200</pubDate>
+      <guid>/tag/music-export/</guid>
       <description></description>
     </item>
     
@@ -345,6 +361,134 @@
       <link>/tag/reprodubile-research/</link>
       <pubDate>Mon, 26 Aug 2019 08:00:00 +0200</pubDate>
       <guid>/tag/reprodubile-research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>surveys</title>
+      <link>/tag/surveys/</link>
+      <pubDate>Mon, 26 Aug 2019 08:00:00 +0200</pubDate>
+      <guid>/tag/surveys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>career</title>
+      <link>/tag/career/</link>
+      <pubDate>Sun, 21 Jul 2019 18:00:00 +0200</pubDate>
+      <guid>/tag/career/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>living standards</title>
+      <link>/tag/living-standards/</link>
+      <pubDate>Sun, 21 Jul 2019 18:00:00 +0200</pubDate>
+      <guid>/tag/living-standards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>musicinan</title>
+      <link>/tag/musicinan/</link>
+      <pubDate>Sun, 21 Jul 2019 18:00:00 +0200</pubDate>
+      <guid>/tag/musicinan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>audiovisual</title>
+      <link>/tag/audiovisual/</link>
+      <pubDate>Fri, 08 Jun 2018 00:00:00 +0200</pubDate>
+      <guid>/tag/audiovisual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>software</title>
+      <link>/tag/software/</link>
+      <pubDate>Fri, 08 Jun 2018 00:00:00 +0200</pubDate>
+      <guid>/tag/software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multipliers</title>
+      <link>/tag/multipliers/</link>
+      <pubDate>Wed, 18 Apr 2018 19:00:00 +0200</pubDate>
+      <guid>/tag/multipliers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>emerging-markets</title>
+      <link>/tag/emerging-markets/</link>
+      <pubDate>Wed, 01 Nov 2017 09:00:00 +0100</pubDate>
+      <guid>/tag/emerging-markets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>music-publishing</title>
+      <link>/tag/music-publishing/</link>
+      <pubDate>Fri, 29 Sep 2017 00:00:00 +0200</pubDate>
+      <guid>/tag/music-publishing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ex ante</title>
+      <link>/tag/ex-ante/</link>
+      <pubDate>Thu, 12 Nov 2015 19:00:00 +0100</pubDate>
+      <guid>/tag/ex-ante/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>grants</title>
+      <link>/tag/grants/</link>
+      <pubDate>Thu, 12 Nov 2015 19:00:00 +0100</pubDate>
+      <guid>/tag/grants/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>royalties</title>
+      <link>/tag/royalties/</link>
+      <pubDate>Thu, 12 Nov 2015 19:00:00 +0100</pubDate>
+      <guid>/tag/royalties/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cisac</title>
+      <link>/tag/cisac/</link>
+      <pubDate>Mon, 18 Nov 2013 00:00:00 +0100</pubDate>
+      <guid>/tag/cisac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hedonic-pricing</title>
+      <link>/tag/hedonic-pricing/</link>
+      <pubDate>Mon, 18 Nov 2013 00:00:00 +0100</pubDate>
+      <guid>/tag/hedonic-pricing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>restaurants</title>
+      <link>/tag/restaurants/</link>
+      <pubDate>Mon, 18 Nov 2013 00:00:00 +0100</pubDate>
+      <guid>/tag/restaurants/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>valuation</title>
+      <link>/tag/valuation/</link>
+      <pubDate>Mon, 18 Nov 2013 00:00:00 +0100</pubDate>
+      <guid>/tag/valuation/</guid>
       <description></description>
     </item>
     
