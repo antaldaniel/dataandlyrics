@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Co-Founder
+role: Editor
 
 # Organizations/Affiliations
 organizations:
