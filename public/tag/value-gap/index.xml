@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>value-gap | Creative Data Observatories</title>
+    <link>/tag/value-gap/</link>
+      <atom:link href="/tag/value-gap/index.xml" rel="self" type="application/rss+xml" />
+    <description>value-gap</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 31 Oct 2019 12:00:00 +0100</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>value-gap</title>
+      <link>/tag/value-gap/</link>
+    </image>
+    
+    <item>
+      <title>Private Copying in Croatia</title>
+      <link>/publication/private_copying_croatia_2019/</link>
+      <pubDate>Thu, 31 Oct 2019 12:00:00 +0100</pubDate>
+      <guid>/publication/private_copying_croatia_2019/</guid>
+      <description>&lt;p&gt;Press release: 
+&lt;a href=&#34;https://www.zamp.hr/clanak/pregled/2197/studija-naknade-za-privatno-kopiranje-btl-u-hrvatskoj-drasticno-ispod-prosjeka-eu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Studija: Naknade za privatno kopiranje (BTL) u Hrvatskoj drastično ispod prosjeka EU&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Short summary in Croatian: 
+&lt;a href=&#34;https://www.zamp.hr/uploads/documents/Saetak_studije_na_hrvatskom_jeziku.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Privatno kopiranje u Hrvatskoj&lt;/a&gt;
+Full text in English: 
+&lt;a href=&#34;https://www.zamp.hr/uploads/documents/Studija_privatno_kopiranje_u_Hrvatskoj_DA_CEEMID.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Private Copying in Croatia&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

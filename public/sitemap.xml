@@ -113,51 +113,6 @@
   </url>
   
   <url>
-    <loc>/publication-type/0/</loc>
-    <lastmod>2020-08-25T16:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2020-08-25T16:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/eurobarometer/</loc>
-    <lastmod>2020-08-25T16:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/marta-kolczynska/</loc>
-    <lastmod>2020-08-25T16:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-08-25T16:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2020-08-25T16:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/category/r/</loc>
-    <lastmod>2020-08-25T16:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/r-bloggers/</loc>
-    <lastmod>2020-08-25T16:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/retorharmonize_2020/</loc>
-    <lastmod>2020-08-25T16:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/2020-08-24-start-up/</loc>
     <lastmod>2020-09-01T17:34:00+02:00</lastmod>
   </url>
@@ -293,27 +248,12 @@
   </url>
   
   <url>
-    <loc>/publication/eurobarometer_2020/</loc>
-    <lastmod>2020-06-25T16:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/geography/</loc>
-    <lastmod>2020-06-03T17:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/regions/</loc>
-    <lastmod>2020-06-03T17:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/regions_2020/</loc>
-    <lastmod>2020-06-03T17:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tag/ceemid/</loc>
+    <lastmod>2020-04-22T17:30:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/eurobarometer/</loc>
     <lastmod>2020-04-22T17:30:00+02:00</lastmod>
   </url>
   
@@ -498,6 +438,16 @@
   </url>
   
   <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-01-29T16:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-01-29T16:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tag/serbia/</loc>
     <lastmod>2020-01-29T16:00:00+01:00</lastmod>
   </url>
@@ -505,6 +455,31 @@
   <url>
     <loc>/tag/slovakia/</loc>
     <lastmod>2020-01-29T16:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/croatia/</loc>
+    <lastmod>2019-10-31T12:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/pcr/</loc>
+    <lastmod>2019-10-31T12:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/private_copying_croatia_2019/</loc>
+    <lastmod>2019-10-31T12:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/private-copying/</loc>
+    <lastmod>2019-10-31T12:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/value-gap/</loc>
+    <lastmod>2019-10-31T12:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -518,23 +493,13 @@
   </url>
   
   <url>
+    <loc>/publication/slovak_music_industry_2019/</loc>
+    <lastmod>2019-03-26T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/project/observatory/</loc>
     <lastmod>2019-02-27T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/iotabales/</loc>
-    <lastmod>2018-12-22T11:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/iotables_2018/</loc>
-    <lastmod>2018-12-22T11:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/multipliers/</loc>
-    <lastmod>2018-12-22T11:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -548,11 +513,20 @@
   </url>
   
   <url>
+    <loc>/publication/hungary_music_industry_2014/</loc>
+    <lastmod>2015-05-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/author/</loc>
   </url>
   
   <url>
     <loc>/author/andres/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
   </url>
   
   <url>

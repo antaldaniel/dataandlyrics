@@ -77,22 +77,6 @@
     </item>
     
     <item>
-      <title>Eurobarometer</title>
-      <link>/tag/eurobarometer/</link>
-      <pubDate>Tue, 25 Aug 2020 16:00:00 +0200</pubDate>
-      <guid>/tag/eurobarometer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>r-bloggers</title>
-      <link>/tag/r-bloggers/</link>
-      <pubDate>Tue, 25 Aug 2020 16:00:00 +0200</pubDate>
-      <guid>/tag/r-bloggers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>survey</title>
       <link>/tag/survey/</link>
       <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
@@ -109,26 +93,18 @@
     </item>
     
     <item>
-      <title>geography</title>
-      <link>/tag/geography/</link>
-      <pubDate>Wed, 03 Jun 2020 17:00:00 +0200</pubDate>
-      <guid>/tag/geography/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>regions</title>
-      <link>/tag/regions/</link>
-      <pubDate>Wed, 03 Jun 2020 17:00:00 +0200</pubDate>
-      <guid>/tag/regions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>CEEMID</title>
       <link>/tag/ceemid/</link>
       <pubDate>Wed, 22 Apr 2020 17:00:00 +0200</pubDate>
       <guid>/tag/ceemid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eurobarometer</title>
+      <link>/tag/eurobarometer/</link>
+      <pubDate>Wed, 22 Apr 2020 17:00:00 +0200</pubDate>
+      <guid>/tag/eurobarometer/</guid>
       <description></description>
     </item>
     
@@ -333,26 +309,42 @@
     </item>
     
     <item>
+      <title>Croatia</title>
+      <link>/tag/croatia/</link>
+      <pubDate>Thu, 31 Oct 2019 12:00:00 +0100</pubDate>
+      <guid>/tag/croatia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PCR</title>
+      <link>/tag/pcr/</link>
+      <pubDate>Thu, 31 Oct 2019 12:00:00 +0100</pubDate>
+      <guid>/tag/pcr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>private-copying</title>
+      <link>/tag/private-copying/</link>
+      <pubDate>Thu, 31 Oct 2019 12:00:00 +0100</pubDate>
+      <guid>/tag/private-copying/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>value-gap</title>
+      <link>/tag/value-gap/</link>
+      <pubDate>Thu, 31 Oct 2019 12:00:00 +0100</pubDate>
+      <guid>/tag/value-gap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>reprodubile-research</title>
       <link>/tag/reprodubile-research/</link>
       <pubDate>Mon, 26 Aug 2019 08:00:00 +0200</pubDate>
       <guid>/tag/reprodubile-research/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>iotabales</title>
-      <link>/tag/iotabales/</link>
-      <pubDate>Sat, 22 Dec 2018 11:00:00 +0100</pubDate>
-      <guid>/tag/iotabales/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>multipliers</title>
-      <link>/tag/multipliers/</link>
-      <pubDate>Sat, 22 Dec 2018 11:00:00 +0100</pubDate>
-      <guid>/tag/multipliers/</guid>
       <description></description>
     </item>
     
