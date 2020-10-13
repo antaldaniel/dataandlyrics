@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel Antal | Creative Data Observatories</title>
+    <link>/author/daniel-antal/</link>
+      <atom:link href="/author/daniel-antal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daniel Antal</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 15 Sep 2020 08:00:39 +0200</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Daniel Antal</title>
+      <link>/author/daniel-antal/</link>
+    </image>
+    
+    <item>
+      <title>Launching Our Demo Music Observatory</title>
+      <link>/post/2020-09-15-music-observatory-launch/</link>
+      <pubDate>Tue, 15 Sep 2020 08:00:39 +0200</pubDate>
+      <guid>/post/2020-09-15-music-observatory-launch/</guid>
+      <description>&lt;p&gt;Today, on 15 September 2020, we officially launched our &lt;code&gt;minimal viable product&lt;/code&gt; as we promised to partners back in February. This was a particularly difficult period for everybody. We aspired to deliver by September in a very different environment, our hopes for commissioned work went up in flames with the pandemic, and our targeted users, musicians and music entrepreneurs, talent managers, music venues lost most of their income. The organizations helping them, granting authorities, export offices and collective management societies are overwhelmed with the problem. During these troublesome times, our team expanded, attracted great new talent, and kept working.&lt;/p&gt;
+&lt;p&gt;Our first product is the 
+&lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo Music Observatory&lt;/a&gt;, a collaborative, automated research-based 
+&lt;a href=&#34;https://dataobservatory.eu/faq/observatories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;observatory&lt;/a&gt; for the music industry, one that is particularly hard hit by the COVID19 crisis. Not only great artists, composers, technicians, managers fell victim to the virus, but musicians lost about 50–90% of their income from live music. This translates to a 100% loss for the live music technicians and managers.&lt;/p&gt;
+&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/fQJHflWPS34&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+See our 
+&lt;a href=&#34;https://dataobservatory.eu/post/2020-09-11-creating-automated-observatory/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;earlier blogpost&lt;/a&gt; on what you see on the video.&lt;/p&gt;
+&lt;p&gt;The music industry was never a place for great job security. For putting up a show, you usually need a network of 10–200 artists, technicians and managers to work together as freelancers without all those social benefits that many people enjoy in other walks of life. We have been trying to figure out how to help this microenterprise and freelancer-network based industry with research for five years. Our aim is to make them competitive when they are talking with their buyers: Google, Apple, Spotify, who are really heavy-weight data and AI pros. Our better plan their tours, when they will be back on the road, to understand what sort of audiences and purchasing power waits for them in different European cities.&lt;/p&gt;
+&lt;p&gt;We are launching at a time when the music industry is crying for help.Therefore, we have decided to make our demo observatory open and unfinished. Over the last 7 years, we have built up about 2000 music and creative sector indicators to be used for business KPIs, forecasting targets, grant evaluations, royalty valuations, concert demography target group analysis and other professional uses. We would like to open up, based on your needs, about 50 well-designed indicators, and pledge to keep it daily refreshed, corrected, documented, citaable, downloadable. Also, feel free to use our most valuable source code—use it for your own purposes, even modify it, as long as you keep it open.&lt;/p&gt;
+&lt;p&gt;For our smaller partners, we follow what musicians do these days on Bandcamp: name your price. We make a pledge to our small partners: if you need reliable data to plan your next grant calls, calculate royalties, compensations, predict hit candidates, give us the job—and name your price. Post-corona, you can take for a dollar the best music from Bandcamp. You can take our research products, for a limited period, for any amount you name, as long as  it is for a good cause and serves the industry, musicians, technicians or managers. In return, we ask for your feedback. Help us validate whether we are on the right track, tell us how we can cooperate after the pandemic, in better times.&lt;/p&gt;
+&lt;p&gt;Our larger and better funded partners? We ask you to pay the price we name, because we believe that it is a well-justified, fair and competitive price, set by pricing experts.&lt;/p&gt;
+&lt;p&gt;We appreciate it if you take a look at our offering, or if you pass this blogpost on to your colleagues in the industry.  Our main target audience initially are music professional in broader Europe, but we are planning to cover all major global markets very soon, too. Feedback from the U.S., Australia, Canada, Colombia, Brazil &amp;amp; Argentina is particularly welcome as we have great plans over there!&lt;/p&gt;
+&lt;h2 id=&#34;who-we-are&#34;&gt;Who we are?&lt;/h2&gt;
+&lt;p&gt;We 
+&lt;a href=&#34;https://dataobservatory.eu/post/2020-08-24-start-up/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;started&lt;/a&gt; our operations on 1 September 2020 on the basis of 
+&lt;a href=&#34;http://documentation.ceemid.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CEEMID&lt;/a&gt;, a pan-European data observatory that created about 2000 music and creative industry indicators for its users. In the coming days, we are gradually opening up about 50 
+&lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;music industry&lt;/a&gt; and 50 broader creative industry indicators in a fully reproducible workflow, with daily re-freshed, re-processed, well-formatted and documented indicators for business and policy decisions.&lt;/p&gt;
+&lt;p&gt;We would like to validate this approach in one of the world&amp;rsquo;s most prestigious university-backed incubator programs, in the 
+&lt;a href=&#34;https://www.yesdelft.com/yes-programs/ai-blockchain-validation-lab/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yes!Delft AI/Blockchain Validation Lab&lt;/a&gt;. We&amp;rsquo;re finalist on their selection, and all help before 23 September from our friends in the music industry is more than appreciated. If we get there, we can rely on probably the best pros in Europe to make our offering better tailored and financially sustainable.&lt;/p&gt;
+&lt;h2 id=&#34;get-in-touch&#34;&gt;Get in touch!&lt;/h2&gt;
+&lt;p&gt;We use the very simple and extremely secure &lt;strong&gt;keybase.io&lt;/strong&gt;, a kind of mix of Whatsapp, Skype, Google Drive, One Drive and zoom. You can get in touch on that platform with us in anytime 
+&lt;a href=&#34;https://keybase.io/team/reprexcommunity&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can easily contact on LinkedIn 
+&lt;a href=&#34;https://www.linkedin.com/in/antaldaniel/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel&lt;/a&gt; or 
+&lt;a href=&#34;https://www.linkedin.com/in/k%C3%A1tya-nagy-a9447730/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kátya&lt;/a&gt; and of course, we have a usually working 
+&lt;a href=&#34;https://dataobservatory.eu/#about&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;email contact form&lt;/a&gt;, too. Our email is name.surname at our main domain.&lt;/p&gt;
+&lt;h2 id=&#34;video-credits&#34;&gt;Video credits&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Data acquisition and processing: Daniel Antal, CFA and Marta Kołczyńska, PhD (
+&lt;a href=&#34;https://music.dataobservatory.eu/economy.html#demand&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;survey data&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;Documentation automation: Sandor Budai&lt;/li&gt;
+&lt;li&gt;Video art: Line Matson&lt;/li&gt;
+&lt;li&gt;Music: 
+&lt;a href=&#34;https://www.youtube.com/moonmoonmoon&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Moon Moon Moon&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Creating An Automated Data Observatory</title>
+      <link>/post/2020-09-11-creating-automated-observatory/</link>
+      <pubDate>Fri, 11 Sep 2020 16:00:39 +0200</pubDate>
+      <guid>/post/2020-09-11-creating-automated-observatory/</guid>
+      <description>&lt;p&gt;We are building data ecosystems, so called observatories, where scientific, business, policy and civic users can find factual information, data, evidence for their domain.  Our open source, open data, open collaboration approach allows to connect various open and proprietary data sources, and our reproducible research workflows allow us to automate data collection, processing, publication, documentation and presentation.&lt;/p&gt;
+&lt;p&gt;Our scripts are checking data sources, such as Eurostat&amp;rsquo;s Eurobase, Spotify&amp;rsquo;s API and other music industry sources every day for new information, and process any data corrections or new disclosure, interpolate, backcast or forecast missing values, make currency translations and unit conversions. This is shown illustrated with an 
+&lt;a href=&#34;https://dataobservatory.eu/post/2020-07-25-reproducible_ingestion/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;earlier post&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/fQJHflWPS34&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;For direct access to the file visit 
+&lt;a href=&#34;https://dataobservatory.eu/video/making-of-dmo.mp4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this link&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In the video we show automated the creation of an observatory website with well-formatted, statistical data dissemination, a technical document in PDF and an ebook can be automated.  In our view, our technology is particularly useful technology in business and scientific researech projects, where it is important that always the most timely and correct data is being analyzed, and remains automatically documented and cited. We are ready deploy public, collaborative, or private data observatories in short time.&lt;/p&gt;
+&lt;p&gt;Data processing costs can be as high as 80% for any in-house AI deployment project. We work mainly with organization that do not have in house data science team, and acquire their data anyway from outside the organization. In their case, this rate can be as high as 95%, meaning that getting and processing the data for deploying AI can be 20x more expensive than the AI solution itself.&lt;/p&gt;
+&lt;p&gt;AI solutions require a large amount of standardized, well processed data to learn from.  We want to radically decrease the cost of data acquisition and processing for our users so that exploiting AI becomes in their reach. This is particularly important in one of our target industries, the music industries, where most of the global sales is algorithmic and AI-driven. Artists, bands, small labels, publishers, even small country national associations cannot remain competitive if they cannot participate in this technological revolution.&lt;/p&gt;
+&lt;p&gt;We 
+&lt;a href=&#34;https://dataobservatory.eu/post/2020-08-24-start-up/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;started&lt;/a&gt; our operations on 1 September 2020 on the basis of 
+&lt;a href=&#34;http://documentation.ceemid.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CEEMID&lt;/a&gt;, a pan-European data observatory that created about 2000 music and creative industry indicators for its users. In the coming days, we are gradually opening up about 50 
+&lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;music industry&lt;/a&gt; and 50 broader creative industry indicators in a fully reproducible workflow, with daily re-freshed, re-processed, well-formatted and documented indicators for business and policy decisions.&lt;/p&gt;
+&lt;p&gt;We would like to validate this approach in one of the world&amp;rsquo;s most prestigious university-backed incubator programs, in the 
+&lt;a href=&#34;https://www.yesdelft.com/yes-programs/ai-blockchain-validation-lab/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yes!Delft AI/Blockchain Validation Lab&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;video-credits&#34;&gt;Video credits&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Data acquisition and processing: Daniel Antal, CFA and Marta Kołczyńska, PhD (
+&lt;a href=&#34;https://music.dataobservatory.eu/economy.html#demand&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;survey data&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;Documentation automation: Sandor Budai&lt;/li&gt;
+&lt;li&gt;Video art: Line Matson&lt;/li&gt;
+&lt;li&gt;Music: 
+&lt;a href=&#34;https://www.youtube.com/moonmoonmoon&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Moon Moon Moon&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>retroharmonize R package for survey harmonization</title>
+      <link>/publication/retorharmonize_2020/</link>
+      <pubDate>Tue, 25 Aug 2020 16:00:00 +0200</pubDate>
+      <guid>/publication/retorharmonize_2020/</guid>
+      <description>&lt;p&gt;The aim of &lt;code&gt;retroharmonize&lt;/code&gt; is to provide tools for reproducible
+retrospective (ex-post) harmonization of datasets that contain variables
+measuring the same concepts but coded in different ways. Ex-post data
+harmonization enables better use of existing data and creates new
+research opportunities. For example, harmonizing data from different
+countries enables cross-national comparisons, while merging data from
+different time points makes it possible to track changes over time.&lt;/p&gt;
+&lt;p&gt;Retrospective data harmonization is associated with challenges including
+conceptual issues with establishing equivalence and comparability,
+practical complications of having to standardize the naming and coding
+of variables, technical difficulties with merging data stored in
+different formats, and the need to document a large number of data
+transformations. The &lt;code&gt;retroharmonize&lt;/code&gt; package assists with the latter
+three components, freeing up the capacity of researchers to focus on the
+first.&lt;/p&gt;
+&lt;p&gt;Specifically, the &lt;code&gt;retroharmonize&lt;/code&gt; package proposes a reproducible
+workflow, including a new class for storing data together with the
+harmonized and original metadata, as well as functions for importing
+data from different formats, harmonizing data and metadata, documenting
+the harmonization process, and converting between data types. See
+
+&lt;a href=&#34;https://retroharmonize.dataobservatory.eu/reference/retrohamonize.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
+for an overview of the functionalities.&lt;/p&gt;
+&lt;p&gt;The new &lt;code&gt;labelled_spss_survey()&lt;/code&gt; class is an extension of 
+&lt;a href=&#34;https://haven.tidyverse.org/reference/labelled_spss.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;haven’s
+labelled_spss
+class&lt;/a&gt;. It not
+only preserves variable and value labels and the user-defined missing
+range, but also gives an identifier, for example, the filename or the
+wave number, to the vector. Additionally, it enables the preservation –
+as metadata attributes – of the original variable names, labels, and
+value codes and labels, from the source data, in addition to the
+harmonized variable names, labels, and value codes and labels. This way,
+the harmonized data also contain the pre-harmonization record. The
+stored original metadata can be used for validation and documentation
+purposes.&lt;/p&gt;
+&lt;p&gt;The vignette 
+&lt;a href=&#34;https://retroharmonize.dataobservatory.eu/articles/labelled_spss_survey.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Working With The labelled_spss_survey
+Class&lt;/a&gt;
+provides more information about the &lt;code&gt;labelled_spss_survey()&lt;/code&gt; class.&lt;/p&gt;
+&lt;p&gt;In 
+&lt;a href=&#34;https://retroharmonize.dataobservatory.eu/articles/harmonize_labels.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Harmonize Value
+Labels&lt;/a&gt;
+we discuss the characteristics of the &lt;code&gt;labelled_spss_survey()&lt;/code&gt; class and
+demonstrates the problems that using this class solves.&lt;/p&gt;
+&lt;p&gt;We also provide two extensive case studies illustrating how the
+&lt;code&gt;retroharmonize&lt;/code&gt; package can be used for ex-post harmonization of data
+from cross-national surveys on the example of the
+
+&lt;a href=&#34;https://retroharmonize.dataobservatory.eu/articles/afrobarometer.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Afrobarometer&lt;/a&gt;
+and the
+
+&lt;a href=&#34;https://retroharmonize.dataobservatory.eu/articles/eurobarometer.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eurobarometer&lt;/a&gt;.
+The creators of &lt;code&gt;retroharmonize&lt;/code&gt; are not affiliated with either
+Afrobarometer, Eurobarometer, or the organizations that designs,
+produces or archives their surveys.&lt;/p&gt;
+&lt;h2 id=&#34;code-of-conduct&#34;&gt;Code of Conduct&lt;/h2&gt;
+&lt;p&gt;Please note that the &lt;code&gt;retroharmonize&lt;/code&gt; project is released with a
+
+&lt;a href=&#34;https://www.contributor-covenant.org/version/2/0/code_of_conduct/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Contributor Code of
+Conduct&lt;/a&gt;.
+By contributing to this project, you agree to abide by its terms.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>eurobarometer R package</title>
+      <link>/publication/eurobarometer_2020/</link>
+      <pubDate>Thu, 25 Jun 2020 16:00:00 +0200</pubDate>
+      <guid>/publication/eurobarometer_2020/</guid>
+      <description>&lt;p&gt;Please review the 
+&lt;a href=&#34;https://eurobarometer.dataobservatory.eu/articles/workflow.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;workflow&lt;/a&gt; here.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>regions R package</title>
+      <link>/publication/regions_2020/</link>
+      <pubDate>Wed, 03 Jun 2020 17:00:00 +0200</pubDate>
+      <guid>/publication/regions_2020/</guid>
+      <description>&lt;h2 id=&#34;installation&#34;&gt;Installation&lt;/h2&gt;
+&lt;p&gt;You can install the development version from
+
+&lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt; with:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;devtools::install_github(&amp;quot;rOpenGov/regions&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;or the released version from CRAN:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;install.packages(&amp;quot;devtools&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://regions.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;regions&lt;/a&gt; currently takes care of 20,000 sub-divisional boundary changes in Europe since 1999. Comparing departments of France in 2013, with 2007 vojvodinas of Poland and 2018 megyék in Hungary? This extremely errorprone work is automated, as a result, you can compare 110-260 regions for far better analysis. regions was downloaded about 600 researchers in the first month after release.&lt;/p&gt;
+&lt;p&gt;You can review the complete package documentation on
+
+&lt;a href=&#34;https://regions.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;regions.dataobservatory.eu&lt;/a&gt;. If you find
+any problems with the code, please raise an issue on
+
+&lt;a href=&#34;https://github.com/antaldaniel/regions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt;. Pull requests are
+welcome if you agree with the 
+&lt;a href=&#34;https://contributor-covenant.org/version/2/0/CODE_OF_CONDUCT.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Contributor Code of
+Conduct&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If you use &lt;code&gt;regions&lt;/code&gt; in your work, please 
+&lt;a href=&#34;https://doi.org/10.5281/zenodo.3825696&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;cite the
+package&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;motivation&#34;&gt;Motivation&lt;/h2&gt;
+&lt;p&gt;Working with sub-national statistics has many benefits. In policymaking or in social sciences, it is a common practice to compare national statistics, which can be hugely misleading. The United States of America, the Federal Republic of Germany, Slovakia and Luxembourg are all countries, but they differ vastly in size and social homogeneity. Comparing Slovakia and Luxembourg to the federal states or even regions within Germany, or the states of Germany and the United States can provide more adequate insights. Statistically, the similarity of the aggregation level and high number of observations can allow more precise control of model parameters and errors.&lt;/p&gt;
+&lt;p&gt;The advantages of switching from a national level of the analysis to a
+sub-national level comes with a huge price in data processing,
+validation and imputation. The package Regions aims to help this
+process.&lt;/p&gt;
+&lt;p&gt;This package is an offspring of the
+
+&lt;a href=&#34;http://ropengov.github.io/eurostat/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eurostat&lt;/a&gt; package on
+
+&lt;a href=&#34;http://ropengov.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rOpenGov&lt;/a&gt;. It started as a tool to validate and re-code regional Eurostat statistics, but it aims to be a general solution for all sub-national statistics. It will be developed parallel with other rOpenGov packages.&lt;/p&gt;
+&lt;h2 id=&#34;sub-national-statistics-have-many-challenges&#34;&gt;Sub-national Statistics Have Many Challenges&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Frequent boundary changes&lt;/strong&gt;: as opposed to national boundaries,
+the territorial units, typologies are often change, and this makes
+the validation and recoding of observation necessary across time.
+For example, in the European Union, sub-national typologies change
+about every three years and you have to make sure that you compare
+the right French region in time, or, if you can make the time-wise
+comparison at all.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Hierarchical aggregation and special imputation&lt;/strong&gt;: missingness is
+very frequent in sub-national statistics, because they are created
+with a serious time-lag compared to national ones, and because they
+are often not back-casted after boundary changes. You cannot use
+standard imputation algorithms because the observations are not
+similarly aggregated or averaged. Often, the information is
+seemingly missing, and it is present with an obsolete typology code.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;package-functionality&#34;&gt;Package functionality&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Generic vocabulary translation and joining functions for
+geographically coded data&lt;/li&gt;
+&lt;li&gt;Keeping track of the boundary changes within the European Union
+between 1999-2021&lt;/li&gt;
+&lt;li&gt;Vocabulary translation and joining functions for standardized
+European Union statistics&lt;/li&gt;
+&lt;li&gt;Vocabulary translation for the &lt;code&gt;ISO-3166-2&lt;/code&gt; based Google data and
+the European Union&lt;/li&gt;
+&lt;li&gt;Imputation functions from higher aggregation hierarchy levels to
+lower ones, for example from &lt;code&gt;NUTS1&lt;/code&gt; to &lt;code&gt;NUTS2&lt;/code&gt; or from &lt;code&gt;ISO-3166-1&lt;/code&gt;
+to &lt;code&gt;ISO-3166-2&lt;/code&gt; (impute down)&lt;/li&gt;
+&lt;li&gt;Imputation functions from lower hierarchy levels to higher ones
+(impute up)&lt;/li&gt;
+&lt;li&gt;Aggregation function from lower hierarchy levels to higher ones, for
+example from NUTS3 to &lt;code&gt;NUTS1&lt;/code&gt; or from &lt;code&gt;ISO-3166-2&lt;/code&gt; to &lt;code&gt;ISO-3166-1&lt;/code&gt;
+(aggregate; under development)&lt;/li&gt;
+&lt;li&gt;Disaggregation functions from higher hierarchy levels to lower ones,
+again, for example from &lt;code&gt;NUTS1&lt;/code&gt; to &lt;code&gt;NUTS2&lt;/code&gt; or from &lt;code&gt;ISO-3166-1&lt;/code&gt; to
+&lt;code&gt;ISO-3166-2&lt;/code&gt; (disaggregate; under development)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;vignettes--articles&#34;&gt;Vignettes / Articles&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://regions.danielantal.eu/articles/Regional_stats.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Working With Regional, Sub-National Statistical
+Products&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://regions.danielantal.eu/articles/validation.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Validating Your
+Typology&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://regions.danielantal.eu/articles/recode.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Recoding And
+Relabelling&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://regions.danielantal.eu/articles/google_mobility_report.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Typology Of The Google Mobility Reports
+(COVID-19)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;feedback&#34;&gt;Feedback?&lt;/h2&gt;
+&lt;p&gt;Raise and 
+&lt;a href=&#34;https://github.com/antaldaniel/eurobarometer/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;issue&lt;/a&gt; on Github or 
+&lt;a href=&#34;https://danielantal.eu/#contact&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;get in touch&lt;/a&gt;. Downloaders from CRAN: 
+
+&lt;a href=&#34;https://cran.r-project.org/package=regions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://cranlogs.r-pkg.org/badges/regions&#34; alt=&#34;metacrandownloads&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Yes!Delft Co-Lab</title>
+      <link>/post/yes-delft-co-lab/</link>
+      <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/post/yes-delft-co-lab/</guid>
+      <description>
+
+
+&lt;p&gt;I have been searching around for a good incubation program for the transition of the data, software and of course people in the loose CEEMID network into a real company, and I was fascinated by the professionalism and unique viewpoint of Yes!Delft.&lt;/p&gt;
+&lt;p&gt;I view on CEEMID as a professional success that brought together dozens of small entities with the help of dozens of dedicated people from the content side. But CEEMID is financially hardly viable and needs a new business model and a new organizational approach to sustain itself and grow. CEEMID started as a cooperation project, not as an institution, but now, as the biggest music &amp;amp; creative sector data project in Europe, and most likely, in the world, it acquired enough know-how and data to institutionalize.&lt;/p&gt;
+&lt;p&gt;According to their &lt;a href=&#34;https://www.yesdelft.com/events/colab-nov15/&#34;&gt;intro&lt;/a&gt; &lt;em&gt;“Research over the past 4 decades has shown that startups that are co-founded by a team are more successful. In the Co-Lab workshop, as a single founder, founding team, or entrepreneurial minded person, you’ll get the tools and connections to find that new member of your dream team to help you reach the top!”&lt;/em&gt; (See the entire &lt;a href=&#34;https://www.yesdelft.com/wp-content/uploads/2019/09/CO-LAB-GUIDE.pdf&#34;&gt;Co-Lab Guide on their website&lt;/a&gt;.)&lt;/p&gt;
+&lt;p&gt;CEEMID made its biggest growth in 2019, it got in touch with dozens of new partners in a series of new countries from Austria to Armenia, but its reorganization into a startup was a debacle. Our research product was a &lt;a href=&#34;https://dataobservatory.eu/post/2020-01-30-ceereport/&#34;&gt;big international success&lt;/a&gt;, but the continuation is far from certain.&lt;/p&gt;
+&lt;p&gt;This Co-Lab gave me very important insight into why. For me, the most important lesson was that it is not the team member who has the most desired or important technical skills who may be the best co-founder to make a successful organization, but the one who will best complement myself and other co-founders. Skills can be bought on the job market once the business model is validated and the revenues are coming. To get there, you need co-founders with a strong dedication, diverse educational and cultural background, and complementing psychological traits to overcome the difficulties of the first period, where the business model is not yet validated and there is no money coming in.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Central &amp; Eastern European Music Industry Report 2020</title>
+      <link>/publication/ceereport_2020/</link>
+      <pubDate>Wed, 29 Jan 2020 16:00:00 +0100</pubDate>
+      <guid>/publication/ceereport_2020/</guid>
+      <description>&lt;p&gt;CEEMID &amp;amp; Consolidated Independent presented and discussed with stakeholders the  
+&lt;a href=&#34;https://danielantal.eu/publication/ceereport_2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Central &amp;amp; Eastern European Music Industry Report 2020&lt;/a&gt; as a case-study on national and comparative evidence-based policymaking in the cultural and creative sector on the 
+&lt;a href=&#34;http://creativeflip.creativehubs.net/2019/12/03/flipping-the-odds/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CCS Ecosystems: FLIPPING THE ODDS Conference&lt;/a&gt; – a two-day high-level stakeholder event jointly organized by Geothe-Institute and the DG Education and Culture of the European Commission with the Creative FLIP project.&lt;/p&gt;
+&lt;p&gt;The CEE Report builds on the results of the first 
+&lt;a href=&#34;https://danielantal.eu/publication/hungary_music_industry_2014/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hungarian&lt;/a&gt;, 
+&lt;a href=&#34;https://danielantal.eu/publication/slovak_music_industry_2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slovak&lt;/a&gt;, 
+&lt;a href=&#34;https://danielantal.eu/publication/private_copying_croatia_2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Croatian&lt;/a&gt; and 
+&lt;a href=&#34;http://czdev.ceemid.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Czech&lt;/a&gt; music industry reports are compared with Armenian, Austrian, Bulgarian, Lithuanian, Serbian and Slovenian data and findings.&lt;/p&gt;
+&lt;p&gt;Our research findings were earlier presented and discussed in Vienna, Prague, Budapest and Bratislava with stakeholders.&lt;/p&gt;
+&lt;p&gt;You can find the earlier presentations in the 
+&lt;a href=&#34;#posts&#34;&gt;blog&lt;/a&gt; section of the website.&lt;/p&gt;
+&lt;h2 id=&#34;executive-summary&#34;&gt;Executive Summary&lt;/h2&gt;
+&lt;p&gt;The first Central European Music Industry Report is the result of a co-operation that started among stakeholders in three EU countries five years ago to measure the economic value added of music – the basis of a modern royalty pricing system. This gave birth to CEEMID, originally the Central &amp;amp; Eastern European Music Industry Databases, a data integration programme that now in 2020, covers all of Europe. CEEMID fulfils similar roles to the planned European Music Observatory and supports all pillars of the future pan-European system.&lt;/p&gt;
+&lt;p&gt;The comparison of Western and Eastern music audiences reveals key demographic differences that make the unchanged adoption of business practices from mature markets in the region questionable. 
+&lt;a href=&#34;http://ceereport2020.ceemid.eu/audience.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chapter 2&lt;/a&gt; of this report will show these differences and their consequences on music markets, in terms of visiting and acquisition likelihood, frequency, seasonality and purchasing capacity. This is an example of how CEEMID fulfils the role of Pillar 3 (music, society and citizenship) in the planned European Music Observatory.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://ceereport2020.ceemid.eu/supply.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chapter 3&lt;/a&gt; contrasts market demand with the supply strategies of musicians. CEEMID has been surveying music professionals, including artists, technicians and managers about their working conditions, market conditions and plans for five years across a growing number of countries. In 2019 we invited 100 national and regional stakeholders to distribute our surveys. In some countries, our surveys already have several years of historic data, making the resulting musician database probably the largest ever source of data about how music is produced and how musicians live. We are constantly looking for partners to roll out this survey to new countries in new languages.&lt;/p&gt;
+&lt;p&gt;The CEE region has comparative advantages in big music events like festivals, and it has become one of the most important hubs for cultural tourism in the world. We explain this phenomenon in Chapter 4 by showing the differences in demand composition, demography and supply of venues in the second chapter. The lack of a modern and dense network of permanent music venues gave rise to magnificent music festivals in the CEE. Open’er, Sziget and Exit are among the biggest and best festivals in the world, closely followed by several smaller festivals in all countries. The share of festivals in the live music market is many times higher than in Western Europe and they provide vital export revenues to the local music economies. However, they play a limited role in finding new audiences for local artists, as they are increasingly programming for Western audiences by providing shows of international hits. They can only very partially fill in the gaps left by the small venue problem that hit the emerging markets harder than the UK or Australia, where policy action had been already taken to reverse the decline of the availability of smaller live music venues.&lt;/p&gt;
+&lt;p&gt;On the recording side, our analysis shows that modern digital services are growing at a faster rate than in mature markets. Because of lower repertoire competition, streaming quantities are similar for a typical Austrian, Czech, Hungarian, Polish or Slovak track than in the mature markets. However, revenue growth is limited because of the interplay of several analysed factors. Our analysis of the live and recorded music markets shows that CEEMID fulfils the roles of the Pillar 1 (music economy) of the planned European Music Observatory.&lt;/p&gt;
+&lt;p&gt;Most recorded music sales revenue in the region comes from streaming platforms, just like in the mature markets. Successful sales strategies require a solid knowledge of the global marketplace and the ability to understand and train sales algorithms. Micro-enterprises, such as independent labels, have very limited ability to cope with these functions, given that they do not have market research or R&amp;amp;D functions. CEEMID and Consolidated Independent have started initiating open, national R&amp;amp;D consortia to create the necessary concentration in data assets, analytical capacity and budgets to close this gap. As a first step, CEEMID and Consolidated Independent have created a large, independent music dataset based on hundreds of millions of royalty statement entries to create our market indexes, styled after stock market and bond market indexes. Streaming opportunities are fast changing as roll-out of streaming services is happening at a different rate in various territories; subscription charges and the exchange rate to the producer’s currency vary and repertoire competition emerges in the market. Our volume and revenue indexes in 
+&lt;a href=&#34;http://ceereport2020.ceemid.eu/export.html#recexport&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chapter 5.3&lt;/a&gt; are aimed at creating sales algorithms that optimize sales volumes and expected revenues. We believe that this analysis also reveals that CEEMID partially fulfils the roles of Pillar 2 (music diversity and circulation) and feeds important data into Pillar 4 (innovation).&lt;/p&gt;
+&lt;p&gt;The region has far bigger untapped potential than most music business executives believe. Households in the region spend a significantly lower share of their recreational budget on music than their Western, Southern or Nordic peers. The region has a lot of untapped cultural purchasing power because servicing is particularly challenging in both the live and recorded sides of the business.&lt;/p&gt;
+&lt;p&gt;This upside potential cannot be tapped without better pricing. Royalty levels are often very low in the region. Due to many combined effects analysed in this short report, the gap between royalties earned in the CEE and Western Europe is several times bigger than the difference in GDP or national average wage. These gaps are partly caused by special interests preventing collective management from charging appropriate tariffs for restaurants, media companies or electronic appliance importers and manufacturers, and partly by unfavourable taxation of cultural products and services.&lt;/p&gt;
+&lt;p&gt;CEEMID was designed to create economic evidence on royalty pricing, private copying compensation and the creation of economic value added in the industry. In the first Hungarian Music Industry Report of ProArt and in the first Slovak Music Industry Report we have shown that economic and taxation policies of the CEE countries aimed to support car and electronics manufacturing create a distorted, unfavourable economic regime for creative industries. We want to help local stakeholders with economic evidence to correct these discriminatory policies during the overhaul of the EU VAT system. We have been helping various national organizations with economic evidence, presented in the light of latest EU jurisprudence, to improve their pricing activities. Our thousands of indicators were also used in ex ante evaluations of granting schemes.&lt;/p&gt;
+&lt;p&gt;In 2020, all EU member states will change their copyright administration legislation because of the national implementations of the 2019/790 Digital Single Market directive. CEEMID provides evidence in several countries about the size and impact mechanism of the value transfer, and generally the widespread use of the copyright exemption for private copying. We believe that the thousands of pan-European music industry indicators that we have aggregated over the five years will play a vital role in these regulatory processes.&lt;/p&gt;
+&lt;p&gt;CEEMID fulfils its roles with a very thorough exploitation of the EU’s 17-years-old Open Data regime with the re-use of public sector information, and a very careful mapping of the music industry. These maps help us conduct annual surveys among musicians and the audience, and they help us connect (always with pre-approval and with a user mandate) to industry databases. We do not only cover the EU countries, but increasingly (potential) candidate countries and neighbourhood countries.&lt;/p&gt;
+&lt;p&gt;In our vision, this data collection and integration, i.e. Pillars 1-3 should be available for all music stakeholders, should remain public and publicly funded. The last Pillar of the observatory, innovation, is where private entities should compete. The founders of CEEMID and Consolidated Independent believe that this report demonstrates the business and policy benefits of such a system with the analysis of the Central &amp;amp; Eastern European music markets. We believe that this way CEEMID is in a position to serve most of the planned functions of the envisioned European Music Observatory, and we are looking for ways to make either our thousands of indicators, or our data collection and integration software open source and available for all stakeholders in the EU and its neighbours. CEEMID was born out of necessity to level out the different levels of public research and statistical coverage of the EU member states. In our view, private entities in the future should focus their investments in Pillar 4 of the planned observatory, i.e. competing in innovation with creating new models, algorithms and services based on data that is available throughout the European Union without giving further advantage to the already mature markets.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>iotables R package</title>
+      <link>/publication/iotables_2018/</link>
+      <pubDate>Sat, 22 Dec 2018 11:00:00 +0100</pubDate>
+      <guid>/publication/iotables_2018/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://iotables.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;iotables&lt;/a&gt; processes all the symmetric input-output tables of the EU member states, and calculates direct, indirect and induced effects, multipliers for GVA, employment, taxation. These are important inputs into policy evaluation, business forecasting, or granting/development indicator design. iotables is used by about 800 experts around the world.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

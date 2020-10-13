@@ -1,0 +1,1389 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.8.0">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Creative Observatories">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="If your analytical work has used a certain type of data at least two times in the past, it is likely that the data will be needed again.  This is a good time to make the data ingestion automatic and reproducible.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="/post/2020-07-25-reproducible_ingestion/">
+
+  
+
+
+  
+  
+  
+  <meta name="theme-color" content="#4caf50">
+  
+
+  
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
+    
+
+    
+
+    
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js" integrity="sha256-Md1qLToewPeKjfAHU1zyPwOutccPAm5tahnaw7Osw0A=" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
+  
+
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.css">
+
+  
+
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-180460335-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-180460335-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+  
+
+
+  
+
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/images/icon_hu02d4214244b58f4d9dfd2bf839db7a24_35739_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu02d4214244b58f4d9dfd2bf839db7a24_35739_192x192_fill_lanczos_center_2.png">
+
+  <link rel="canonical" href="/post/2020-07-25-reproducible_ingestion/">
+
+  
+  
+  
+  
+  
+    
+  
+  
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="og:site_name" content="Creative Data Observatories">
+  <meta property="og:url" content="/post/2020-07-25-reproducible_ingestion/">
+  <meta property="og:title" content="Reproducible data ingestion in practice | Creative Data Observatories">
+  <meta property="og:description" content="If your analytical work has used a certain type of data at least two times in the past, it is likely that the data will be needed again.  This is a good time to make the data ingestion automatic and reproducible."><meta property="og:image" content="/post/2020-07-25-reproducible_ingestion/featured.png">
+  <meta property="twitter:image" content="/post/2020-07-25-reproducible_ingestion/featured.png"><meta property="og:locale" content="en-us">
+  
+    
+      <meta property="article:published_time" content="2020-07-24T15:00:00&#43;02:00">
+    
+    <meta property="article:modified_time" content="2020-07-24T15:00:00&#43;02:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "/post/2020-07-25-reproducible_ingestion/"
+  },
+  "headline": "Reproducible data ingestion in practice",
+  
+  "image": [
+    "/post/2020-07-25-reproducible_ingestion/featured.png"
+  ],
+  
+  "datePublished": "2020-07-24T15:00:00+02:00",
+  "dateModified": "2020-07-24T15:00:00+02:00",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Daniel Antal, CFA"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Data \u0026 Lyrics",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "/images/icon_hu02d4214244b58f4d9dfd2bf839db7a24_35739_192x192_fill_lanczos_center_2.png"
+    }
+  },
+  "description": "If your analytical work has used a certain type of data at least two times in the past, it is likely that the data will be needed again.  This is a good time to make the data ingestion automatic and reproducible."
+}
+</script>
+
+  
+
+  
+
+
+  
+
+
+  
+
+
+
+
+
+  <title>Reproducible data ingestion in practice | Creative Data Observatories</title>
+
+</head>
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/">Creative Data Observatories</a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">Creative Data Observatories</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link  active" href="/post/"><span>Blog</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#featured"><span>Initiatives</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/team/"><span>Team</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/faq/"><span>FAQ</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      <li class="nav-item">
+        <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+
+
+<div class="article-container pt-3">
+  <h1>Reproducible data ingestion in practice</h1>
+
+  
+
+  
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  
+  <span><a href="/author/daniel-antal-cfa/">Daniel Antal, CFA</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Jul 24, 2020
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    6 min read
+  </span>
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 480px;">
+  <div style="position: relative">
+    <img src="/post/2020-07-25-reproducible_ingestion/featured_hu4fd226cbd35637018169e6d7ed311330_214954_720x0_resize_lanczos_2.png" alt="" class="featured-image">
+    
+  </div>
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <h2 id="how-does-a-reproducible-data-ingestion-look-like-in-practice">How does a reproducible data ingestion look like in practice?</h2>
+<p>If your analytical work has used a certain type of data at least two times in the past, it is likely that the data will be needed again.  This is a good time to make the data ingestion automatic and reproducible.  We demonstrate a simple data ingestion from Eurostat.  Daniel is part of the 
+<a href="http://ropengov.github.io/" target="_blank" rel="noopener">rOpenGov</a> collective that maintains the 
+<a href="https://github.com/ropengov/eurostat" target="_blank" rel="noopener">eurostat</a> package for reproducible access to the European statistical agencies data warehouse.</p>
+<pre><code class="language-r">library(eurostat)
+nuts3_population_raw &lt;- get_eurostat (&quot;demo_r_pjangrp3&quot;) 
+nuts3_population_metadata &lt;- get_eurostat_toc() %&gt;%
+  filter ( code == &quot;demo_r_pjangrp3&quot; ) %&gt;%
+  distinct_all () 
+
+last_update &lt;- nuts3_population_metadata$`last update of data`
+first_data &lt;- nuts3_population_metadata$`data start`
+</code></pre>
+<p>The metadata entries to this statistics suggest that the latest data is from Thursday 14 May, 2020, so it is high time to refresh your data tables and update your charts. Sadly, the metadata suggest that on this occasion the table went through structural changes, so you may get a different spreadsheet table when you downloaded compared to the last occasion.  You may think that this is another reason to automate the ingestion into a well-defined, tidy table format.</p>
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;"> title </th>
+   <th style="text-align:left;"> code </th>
+   <th style="text-align:left;"> last update of data </th>
+   <th style="text-align:left;"> last table structure change </th>
+   <th style="text-align:left;"> data start </th>
+   <th style="text-align:left;"> data end </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> Population on 1 January by age group, sex and NUTS 3 region </td>
+   <td style="text-align:left;"> demo_r_pjangrp3 </td>
+   <td style="text-align:left;"> 14.05.2020 </td>
+   <td style="text-align:left;"> 14.05.2020 </td>
+   <td style="text-align:left;"> 2014 </td>
+   <td style="text-align:left;"> 2019 </td>
+  </tr>
+</tbody>
+</table>
+<p>Looking at the head of this raw data, you realize that this is not table, but a little database! It contains population divisions by sex and age groups.  However, your indicator is the total population of each <code>NUTS3</code> regions, so let’s filter out only the total population for both sexes.</p>
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;"> sex </th>
+   <th style="text-align:left;"> unit </th>
+   <th style="text-align:left;"> age </th>
+   <th style="text-align:left;"> geo </th>
+   <th style="text-align:left;"> time </th>
+   <th style="text-align:right;"> values </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> T </td>
+   <td style="text-align:left;"> NR </td>
+   <td style="text-align:left;"> Y_LT5 </td>
+   <td style="text-align:left;"> NO07 </td>
+   <td style="text-align:left;"> 2018-01-01 </td>
+   <td style="text-align:right;"> 25108 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> M </td>
+   <td style="text-align:left;"> NR </td>
+   <td style="text-align:left;"> Y10-14 </td>
+   <td style="text-align:left;"> DED44 </td>
+   <td style="text-align:left;"> 2014-01-01 </td>
+   <td style="text-align:right;"> 4620 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> F </td>
+   <td style="text-align:left;"> NR </td>
+   <td style="text-align:left;"> Y45-49 </td>
+   <td style="text-align:left;"> FRB </td>
+   <td style="text-align:left;"> 2014-01-01 </td>
+   <td style="text-align:right;"> 88590 </td>
+  </tr>
+</tbody>
+</table>
+<p>Looking at the head of this raw data, you realize that this is not table, but a little database! It contains population divisions by sex and age groups.  However, your indicator is the total population of each <code>NUTS3</code> regions, so let’s filter out only the total population for both sexes.</p>
+<pre><code class="language-r">nuts3_population &lt;- nuts3_population_raw %&gt;%
+  filter ( sex == &quot;T&quot;,             # for both sexes
+           age == &quot;TOTAL&quot;) %&gt;%     # for all age groups
+  mutate ( year = as.integer(substr(as.character(time), 1,4)), 
+           indicator = paste0(&quot;population_sex-&quot;, sex, &quot;_unit-&quot;, unit, 
+                               &quot;_age-&quot;, age)) %&gt;%
+  select ( -all_of(c(&quot;sex&quot;, &quot;unit&quot;, &quot;age&quot;))) 
+</code></pre>
+<p>The following table is already tidy &mdash; each observation corresponds with a small region of Europe.  The filtering information as metadata is included in the indicator&rsquo;s name.</p>
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;"> geo </th>
+   <th style="text-align:left;"> time </th>
+   <th style="text-align:right;"> values </th>
+   <th style="text-align:right;"> year </th>
+   <th style="text-align:left;"> indicator </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> HU222 </td>
+   <td style="text-align:left;"> 2015-01-01 </td>
+   <td style="text-align:right;"> 253997 </td>
+   <td style="text-align:right;"> 2015 </td>
+   <td style="text-align:left;"> population_sex-T_unit-NR_age-TOTAL </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> NO </td>
+   <td style="text-align:left;"> 2014-01-01 </td>
+   <td style="text-align:right;"> 5107970 </td>
+   <td style="text-align:right;"> 2014 </td>
+   <td style="text-align:left;"> population_sex-T_unit-NR_age-TOTAL </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> ES704 </td>
+   <td style="text-align:left;"> 2016-01-01 </td>
+   <td style="text-align:right;"> 112087 </td>
+   <td style="text-align:right;"> 2016 </td>
+   <td style="text-align:left;"> population_sex-T_unit-NR_age-TOTAL </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> FRK12 </td>
+   <td style="text-align:left;"> 2015-01-01 </td>
+   <td style="text-align:right;"> 146219 </td>
+   <td style="text-align:right;"> 2015 </td>
+   <td style="text-align:left;"> population_sex-T_unit-NR_age-TOTAL </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> DE3 </td>
+   <td style="text-align:left;"> 2018-01-01 </td>
+   <td style="text-align:right;"> 3613495 </td>
+   <td style="text-align:right;"> 2018 </td>
+   <td style="text-align:left;"> population_sex-T_unit-NR_age-TOTAL </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> NL225 </td>
+   <td style="text-align:left;"> 2019-01-01 </td>
+   <td style="text-align:right;"> 400685 </td>
+   <td style="text-align:right;"> 2019 </td>
+   <td style="text-align:left;"> population_sex-T_unit-NR_age-TOTAL </td>
+  </tr>
+</tbody>
+</table>
+<p><img src="data_ingest_files/figure-html/choropleth-1.png" alt=""><!-- --></p>
+<p>The population size is rather homogeneous &mdash; no wonder, the small regions of Europe are exactly defined to be roughly of equal size and easily comparable.</p>
+<p>You are wondering how you could match this data with your own records, or data acquired from Google about number of restaurants or searchers for concerts?</p>
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;"> geo </th>
+   <th style="text-align:left;"> time </th>
+   <th style="text-align:right;"> values </th>
+   <th style="text-align:right;"> year </th>
+   <th style="text-align:left;"> indicator </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> IE042 </td>
+   <td style="text-align:left;"> 2017-01-01 </td>
+   <td style="text-align:right;"> 451293 </td>
+   <td style="text-align:right;"> 2017 </td>
+   <td style="text-align:left;"> population_sex-T_unit-NR_age-TOTAL </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> SI044 </td>
+   <td style="text-align:left;"> 2014-01-01 </td>
+   <td style="text-align:right;"> 112848 </td>
+   <td style="text-align:right;"> 2014 </td>
+   <td style="text-align:left;"> population_sex-T_unit-NR_age-TOTAL </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> DE225 </td>
+   <td style="text-align:left;"> 2015-01-01 </td>
+   <td style="text-align:right;"> 77927 </td>
+   <td style="text-align:right;"> 2015 </td>
+   <td style="text-align:left;"> population_sex-T_unit-NR_age-TOTAL </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> PL621 </td>
+   <td style="text-align:left;"> 2016-01-01 </td>
+   <td style="text-align:right;"> 523096 </td>
+   <td style="text-align:right;"> 2016 </td>
+   <td style="text-align:left;"> population_sex-T_unit-NR_age-TOTAL </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> TRB13 </td>
+   <td style="text-align:left;"> 2018-01-01 </td>
+   <td style="text-align:right;"> 273354 </td>
+   <td style="text-align:right;"> 2018 </td>
+   <td style="text-align:left;"> population_sex-T_unit-NR_age-TOTAL </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> FRK24 </td>
+   <td style="text-align:left;"> 2018-01-01 </td>
+   <td style="text-align:right;"> 1261373 </td>
+   <td style="text-align:right;"> 2018 </td>
+   <td style="text-align:left;"> population_sex-T_unit-NR_age-TOTAL </td>
+  </tr>
+</tbody>
+</table>
+<p>There is no easy solution for this problem.  Within the EU in the last 20 years there were several thousand internal boundary changes &mdash; states, provinces, regions are rather free to change their internal administration boundaries. Regions are constantly changing their names or their spelling, too. Sometimes they use a standard English translation of their region, sometimes only the national language variants.  In Greece or Bulgaria they do not even use the Latin alphabet!</p>
+<p>
+<a href="https://satellitereport.com/author/daniel/" target="_blank" rel="noopener">Daniel</a> and 
+<a href="https://satellitereport.com/author/istvan-zsoldos/" target="_blank" rel="noopener">Istvan</a> created and released an open-source code library, 
+<a href="http://regions.danielantal.eu/" target="_blank" rel="noopener">regions</a> to deal with similar issues. It allows the changes between boundary definition between 1999-2021, or the connection of the globally used geographical typology adopted by Google with Eurostat&rsquo;s EU-only definitions.</p>
+<p>For example, you can already foresee that there are future changes (to be implemented from the year 2021) that will affect two of these regions.</p>
+<pre><code class="language-r">set.seed(21)
+validate_for_2021 &lt;- nuts3_population  %&gt;%
+  select ( -all_of(c(&quot;time&quot;, &quot;indicator&quot;)) ) %&gt;%
+  sample_n(8) %&gt;%
+  regions::validate_nuts_regions(., nuts_year = 2021 ) 
+</code></pre>
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;"> geo </th>
+   <th style="text-align:right;"> values </th>
+   <th style="text-align:right;"> year </th>
+   <th style="text-align:left;"> typology </th>
+   <th style="text-align:left;"> valid_2021 </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> DE248 </td>
+   <td style="text-align:right;"> 115681 </td>
+   <td style="text-align:right;"> 2018 </td>
+   <td style="text-align:left;"> nuts_level_3 </td>
+   <td style="text-align:left;"> TRUE </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> BG422 </td>
+   <td style="text-align:right;"> 228141 </td>
+   <td style="text-align:right;"> 2019 </td>
+   <td style="text-align:left;"> nuts_level_3 </td>
+   <td style="text-align:left;"> TRUE </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> UKN13 </td>
+   <td style="text-align:right;"> 139774 </td>
+   <td style="text-align:right;"> 2014 </td>
+   <td style="text-align:left;"> NA </td>
+   <td style="text-align:left;"> FALSE </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> FRH0 </td>
+   <td style="text-align:right;"> 3276543 </td>
+   <td style="text-align:right;"> 2014 </td>
+   <td style="text-align:left;"> nuts_level_2 </td>
+   <td style="text-align:left;"> TRUE </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> DEB3 </td>
+   <td style="text-align:right;"> 2031780 </td>
+   <td style="text-align:right;"> 2016 </td>
+   <td style="text-align:left;"> nuts_level_2 </td>
+   <td style="text-align:left;"> TRUE </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> ITG25 </td>
+   <td style="text-align:right;"> 335097 </td>
+   <td style="text-align:right;"> 2014 </td>
+   <td style="text-align:left;"> NA </td>
+   <td style="text-align:left;"> FALSE </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> DE71A </td>
+   <td style="text-align:right;"> 232848 </td>
+   <td style="text-align:right;"> 2016 </td>
+   <td style="text-align:left;"> nuts_level_3 </td>
+   <td style="text-align:left;"> TRUE </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> FI1D5 </td>
+   <td style="text-align:right;"> 68677 </td>
+   <td style="text-align:right;"> 2014 </td>
+   <td style="text-align:left;"> nuts_level_3 </td>
+   <td style="text-align:left;"> TRUE </td>
+  </tr>
+</tbody>
+</table>
+<p>There is trouble ahead, but we have a table that is tidy and works for the time being.  Let&rsquo;s save it and document it.</p>
+<pre><code class="language-r">eurostat::get_bibentry(&quot;demo_r_pjangrp3&quot;)
+</code></pre>
+<pre><code>## @Misc{demo_r_pjangrp3_14-05-2020,
+##   title = {Population on 1 January by age group, sex and NUTS 3 region [demo_r_pjangrp3]},
+##   url = {https://ec.europa.eu/eurostat/web/products-datasets/-/demo_r_pjangrp3},
+##   language = {en},
+##   year = {14.05.2020},
+##   publisher = {Eurostat},
+##   author = {{Eurostat}},
+##   urldate = {2020-07-25},
+## }
+</code></pre>
+<h2 id="what-is-reproducibility-in-this-case">What is reproducibility in this case?</h2>
+<p><strong>Replicability</strong> means that somebody else in your team can get exactly the same data as in this post.</p>
+<ul>
+<li>Recording exactly what have your analysts downloaded, including source, date, filtering settings</li>
+</ul>
+<p><strong>Reproducibility</strong> means that not only your team, but an external auditor or a peer reviewer can easily validate that your data is sound. All our solutions are opens source, and use the most popular statistical programming language, R. Anybody with a basic knowledge of R, or probably even SQL (we use an extension of R that uses SQL-like syntax) can read if everything goes allright. Your team can even modify the code.</p>
+<ul>
+<li>Creating a documentation that you updates your reports data citations</li>
+</ul>
+<p><strong>Confirmability</strong> means that somebody who is not using . All our solutions are opens source, and use the most popular statistical programming language, R.  R is supported by Microsofts BI products, SPSS and other statistical software, too. We are not a software company, there is no vendor lock-in, and our work can be confirmed with other statistical software.</p>
+<ul>
+<li>Data acquired via our data gathering apps is automatically documented, follows tidy formats and valid abbreviations, and can be confirmed in a wide range of statistical and spreadsheet applications, including SPSS, Excel, OpenOffice, Google Spreadsheets.</li>
+<li>Bringing the data to a tidy format which is easy to join with other data in a spreadsheet application, or stored in a relational database.</li>
+<li>Validating the data structure, in this case, with special attention to regional boundaries and regional names.</li>
+</ul>
+<p><strong>Auditability</strong> means that external auditors can validate that the data your team uses from our app is correct.</p>
+<ul>
+<li>We are following methodological guidelines and definitions set by international bodies such as Eurostat&rsquo;s ESSNet statistical network or IFRS.</li>
+<li>Our critical software code is not only open source, but goes through various levels of statistical peer-review. We are sending for scientific validation and peer-review our methodology, too.</li>
+<li>Being open source allows us to make any corrections, updates, should any problem or standard change affect the data.</li>
+</ul>
+<div id="references" class="section level2 unnumbered">
+<h2>References</h2>
+<div id="refs" class="references">
+<div id="ref-R-regions">
+<p>Antal, Daniel. 2020. <em>Regions: Processing Regional Statistics</em>. <a href="https://regions.danielantal.eu/">https://regions.danielantal.eu/</a>.</p>
+</div>
+<div id="ref-demo_r_pjangrp3_14-05-2020">
+<p>Eurostat. n.d. Eurostat. Accessed July 25, 2020. <a href="https://ec.europa.eu/eurostat/web/products-datasets/-/demo_r_pjangrp3">https://ec.europa.eu/eurostat/web/products-datasets/-/demo_r_pjangrp3</a>.</p>
+</div>
+<div id="ref-R-eurostat">
+<p>Lahti, Leo, Janne Huovari, Markus Kainu, and Przemyslaw Biecek. 2020. <em>Eurostat: Tools for Eurostat Open Data</em>. <a href="https://CRAN.R-project.org/package=eurostat">https://CRAN.R-project.org/package=eurostat</a>.</p>
+<div id="ref-R-eurostat">
+<p>Hadley Wickham. 2014. <em>Tidy Data</em>.Journal of Statistical Software vol 59, no 10.<a href="https://www.jstatsoft.org/v059/i10">https://www.jstatsoft.org/v059/i10</a>.</p>
+</div>
+</div>
+</div>
+
+    </div>
+
+    
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/r/">R</a>
+  
+  <a class="badge badge-light" href="/tag/open-data/">open-data</a>
+  
+  <a class="badge badge-light" href="/tag/reproducible/">reproducible</a>
+  
+</div>
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=/post/2020-07-25-reproducible_ingestion/&amp;text=Reproducible%20data%20ingestion%20in%20practice" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=/post/2020-07-25-reproducible_ingestion/&amp;t=Reproducible%20data%20ingestion%20in%20practice" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Reproducible%20data%20ingestion%20in%20practice&amp;body=/post/2020-07-25-reproducible_ingestion/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=/post/2020-07-25-reproducible_ingestion/&amp;title=Reproducible%20data%20ingestion%20in%20practice" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=Reproducible%20data%20ingestion%20in%20practice%20/post/2020-07-25-reproducible_ingestion/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=/post/2020-07-25-reproducible_ingestion/&amp;title=Reproducible%20data%20ingestion%20in%20practice" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    
+
+
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/author/daniel-antal-cfa/"></a></h5>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/post/2020-07-10-retroharmonize/">Increase The Value Of Market Research With Open Data And Survey Harmonization</a></li>
+      
+      <li><a href="/post/2020-04-22-regional-eurobarometer/">Regionalized Cultural Access and Participation (Books And Libraries) And Science Attitudes Variables</a></li>
+      
+      <li><a href="/post/2020-04-16-regional-opendata-release/">First CEEMID Regional Open Data Release</a></li>
+      
+      <li><a href="/post/2020-03-24-documentation/">Documenting CEEMID For Open Data Use</a></li>
+      
+      <li><a href="/project/reporting/">Automated Reporting</a></li>
+      
+    </ul>
+  </div>
+  
+
+
+
+  </div>
+</article>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js" integrity="sha256-eOgo0OtLL4cdq7RdwRUiGKLX9XsIJ7nGhWEKbohmVAQ=" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/r.min.js"></script>
+        
+      
+
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
+    
+
+    
+    
+    <script>const code_highlighting = true;</script>
+    
+
+    
+    
+    <script>const isSiteThemeDark = false;</script>
+    
+
+    
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.c816d323c3a55093dae0829b44ea1ca8.js"></script>
+
+    
+
+
+
+
+
+
+  
+  
+  <div class="container">
+    <footer class="site-footer">
+  
+  <p class="powered-by">
+    
+      <a href="/privacy/">Privacy Policy</a>
+    
+    
+       &middot; 
+      <a href="/terms/">Terms</a>
+    
+  </p>
+  
+
+  <p class="powered-by">
+    © 2020 &middot; 
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" class="back-to-top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

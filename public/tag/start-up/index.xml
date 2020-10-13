@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>start-up | Creative Data Observatories</title>
+    <link>/tag/start-up/</link>
+      <atom:link href="/tag/start-up/index.xml" rel="self" type="application/rss+xml" />
+    <description>start-up</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 25 Sep 2020 15:31:39 +0200</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>start-up</title>
+      <link>/tag/start-up/</link>
+    </image>
+    
+    <item>
+      <title>Product/Market Fit Validation in Yes!Delft</title>
+      <link>/post/2020-09-25-yesdelft-validation/</link>
+      <pubDate>Fri, 25 Sep 2020 15:31:39 +0200</pubDate>
+      <guid>/post/2020-09-25-yesdelft-validation/</guid>
+      <description>&lt;p&gt;We would like to validate our product market/fit in two segments, business/policy research and scientific research, with a supporting role given to data journalism. Because we want to follow a bootstrapping strategy, we must focus on those clients where we find the highest value proposition, which is of course easier said than done.  We see much interest in our offering from other continents, therefore we truly welcome the opportunity that we can do this on a truly global business canvas in one of the worlds’ 
+&lt;a href=&#34;https://www.yesdelft.com/news/yesdelft-among-the-top-5-business-incubators-in-the-world/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;top five incubators&lt;/a&gt;, the number 2 university-backed incubator in the world, second to none in Europe, in the 
+&lt;a href=&#34;https://www.yesdelft.com/focus-areas/artificial-intelligence/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yes!Delft AI+Blockchain&lt;/a&gt; Validation Lab.&lt;/p&gt;
+&lt;p&gt;In Europe hundreds of thousands of microenterprises, such as record labels, video producers or book publishers are facing data and AI giants like Google’s YouTube, Apple Music, Spotify, Netflix or Amazon. If the recommendation engines of these giants do not recommend their songs, films or books, then their investments are doomed to fail, because about half of the global sales are driven by AI algorithms. When they make a claim for the missing money, they will immediately find themselves in a dispute with gigabytes of data that they can only handle with a data scientist, even though they do not even have an IT professional or an HR professional to make the hire.&lt;/p&gt;
+&lt;p&gt;An awful lot of money, creativity and real values are at stake, and we want to be on the creator’s side, their technician’s side, their manager’s side when they want to get a fair share from the pie and they want to help these industry leader to make the pie grow.&lt;/p&gt;
+&lt;p&gt;The 
+&lt;a href=&#34;http://www.unesco.org/new/en/culture/themes/creativity/arts-education/research-cooperation/observatories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UNESCO&lt;/a&gt; and the EU have been promoting as an organizational solution the fragmentation problem with the so-called data observatories that are pooling the business, policy, and scientific research needs of various domains, like music. This is an idea that we really like, and we believe that our research automation solutions can help these observatories to grow faster as ecosystems, create better quality and more timely data and research products and a far lower cost.&lt;/p&gt;
+&lt;p&gt;We define ourselves as a reproducible research company inspired by the philosophy of open collaboration, based on open-source software and open data. We want to explore various revenue models around these ideas.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;We are not committed to open source licensing if more permissive licensing policies provide us with better opportunities.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;We would like to explore various data-as-service models, because we do not want to be locked into the position of cheap open data vendors.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;We want to deploy AI applications that really help earning money in these sectors with playlisting, recommendation engines, forecasting applications, or royalty valuations, because our open collaboration approach brings up enough data sooner to than its alternatives, because it manages inherent conflicts of interests, fragmentation, and decentralization better than hierarchical solutions.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Timeline&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;In January CEEMID reached its peak: we introduced a 12-country 
+&lt;a href=&#34;https://dataobservatory.eu/post/2020-01-30-ceereport/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;reproducible research project&lt;/a&gt; made with only freelancers in Brussels, presented as best use case of evidence-based policy design.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;In February Daniel visited the 
+&lt;a href=&#34;https://dataobservatory.eu/post/yes-delft-co-lab/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yes!Delft Co-Lab&lt;/a&gt; to find out who would be the best co-founder to re-launch CEEMID as an enterprise.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;In April we started to 
+&lt;a href=&#34;https://dataobservatory.eu/post/2020-04-16-regional-opendata-release/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;release our data&lt;/a&gt; as open data for validation.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;One month ago we 
+&lt;a href=&#34;https://dataobservatory.eu/post/2020-08-24-start-up/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;started-up&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Then we launched the 
+&lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;music.dataobservatory.eu&lt;/a&gt; project.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A few other 
+&lt;a href=&#34;https://music.dataobservatory.eu/annex.html#other-observatories&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data observatories&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Bonus:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.palato.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Palato&lt;/a&gt; in the Hague, where we took our selfie and had an absolutely amazing dinner after the pitch. Check them out!&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

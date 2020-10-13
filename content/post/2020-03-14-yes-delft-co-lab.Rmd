@@ -1,0 +1,30 @@
+---
+title: Yes!Delft Co-Lab
+author: Daniel Antal
+date: '2020-02-22'
+slug: yes-delft-co-lab
+categories: []
+tags:
+  - team-building
+subtitle: ''
+summary: 'CEEMID started as a cooperation project, not as an institution, and now, as the biggest music & creative sector data project in Europe, and most likely, in the world, it badly needs to re-organize its loose team around a new business model and a new organizational approach.'
+authors: [Daniel Antal]
+lastmod: '2020-03-14T20:55:37+01:00'
+featured: yes
+draft: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+I have been searching around for a good incubation program for the transition of the data, software and of course people in the loose CEEMID network into a real company, and I was fascinated by the professionalism and unique viewpoint of Yes!Delft.  
+
+I view on CEEMID as a professional success that brought together dozens of small entities with the help of dozens of dedicated people from the content side.  But CEEMID is financially hardly viable and needs a new business model and a new organizational approach to sustain itself and grow. CEEMID started as a cooperation project, not as an institution, but now, as the biggest music & creative sector data project in Europe, and most likely, in the world, it acquired enough know-how and data to institutionalize.
+
+According to their [intro](https://www.yesdelft.com/events/colab-nov15/) *"Research over the past 4 decades has shown that startups that are co-founded by a team are more successful. In the Co-Lab workshop, as a single founder, founding team, or entrepreneurial minded person, you’ll get the tools and connections to find that new member of your dream team to help you reach the top!"* (See the entire [Co-Lab Guide on their website](https://www.yesdelft.com/wp-content/uploads/2019/09/CO-LAB-GUIDE.pdf).)
+
+CEEMID made its biggest growth in 2019, it got in touch with dozens of new partners in a series of new countries from Austria to Armenia, but its reorganization into a startup was a debacle. Our research product was a [big international success](https://dataobservatory.eu/post/2020-01-30-ceereport/), but the continuation is far from certain. 
+
+This Co-Lab gave me very important insight into why.  For me, the most important lesson was that it is not the team member who has the most desired or important technical skills who may be the best co-founder to make a successful organization, but the one who will best complement myself and other co-founders.  Skills can be bought on the job market once the business model is validated and the revenues are coming.  To get there, you need co-founders with a strong dedication, diverse educational and cultural background, and complementing psychological traits to overcome the difficulties of the first period, where the business model is not yet validated and there is no money coming in.

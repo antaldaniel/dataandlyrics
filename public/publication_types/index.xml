@@ -1,38 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publication_types | Data &amp; Lyrics</title>
+    <title>Publication_types | Creative Data Observatories</title>
     <link>/publication_types/</link>
       <atom:link href="/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 25 Aug 2020 16:00:00 +0200</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publication_types</title>
       <link>/publication_types/</link>
     </image>
     
     <item>
-      <title>3</title>
-      <link>/publication_types/3/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/publication_types/3/</guid>
+      <title>0</title>
+      <link>/publication-type/0/</link>
+      <pubDate>Tue, 25 Aug 2020 16:00:00 +0200</pubDate>
+      <guid>/publication-type/0/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>2</title>
-      <link>/publication_types/2/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/publication_types/2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>1</title>
-      <link>/publication_types/1/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>/publication_types/1/</guid>
+      <title>4</title>
+      <link>/publication-type/4/</link>
+      <pubDate>Wed, 29 Jan 2020 16:00:00 +0100</pubDate>
+      <guid>/publication-type/4/</guid>
       <description></description>
     </item>
     

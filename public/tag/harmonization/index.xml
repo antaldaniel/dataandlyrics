@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>harmonization | Creative Data Observatories</title>
+    <link>/tag/harmonization/</link>
+      <atom:link href="/tag/harmonization/index.xml" rel="self" type="application/rss+xml" />
+    <description>harmonization</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 09 Jul 2020 15:00:00 +0200</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>harmonization</title>
+      <link>/tag/harmonization/</link>
+    </image>
+    
+    <item>
+      <title>Increase The Value Of Market Research With Open Data And Survey Harmonization</title>
+      <link>/post/2020-07-10-retroharmonize/</link>
+      <pubDate>Thu, 09 Jul 2020 15:00:00 +0200</pubDate>
+      <guid>/post/2020-07-10-retroharmonize/</guid>
+      <description>&lt;p&gt;In the last weeks I have been releasing the early source code of two R packages, 
+&lt;a href=&#34;https://dataobservatory.eu/publication/retorharmonize_2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;retroharmonize&lt;/a&gt; for the &lt;em&gt;ex post&lt;/em&gt; harmonization infrastructure of surveys, and  
+&lt;a href=&#34;https://dataobservatory.eu/publication/eurobarometer_2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eurobarometer&lt;/a&gt; for Eurobarometer-specific work, complemented by my earlier release of 
+&lt;a href=&#34;https://dataobservatory.eu/publication/regions_2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;regions&lt;/a&gt;, which tracks about 20,000 regional boundary changes of French departments, Polish voivodeships and Hungarian counties, and other sub-national divisions of about 32 European countries.&lt;/p&gt;
+&lt;p&gt;The very technical terms of &lt;em&gt;ex ante&lt;/em&gt; , &lt;em&gt;ex post&lt;/em&gt; or retrospective harmonization hide opportunities that can significantly increase the value for money in empirical market research, potentially increasing the value of a high-cost, high-value survey to multiple times of its euro value.&lt;/p&gt;
+&lt;p&gt;In my work, I have used &lt;em&gt;ex ante&lt;/em&gt; harmonized questionnaires with EU survey programs, for example, the harmonized CAP surveys to determine the characteristics of concert audiences in a country, or people who download music to their computers.  The EU has been opening up its own survey programs in a piecemeal fashion, and surveys used by the European Commission, the Parliament, or even the national statistical offices are becoming more and more available.  After harmonizing the questions, I can apply &lt;em&gt;ex post&lt;/em&gt; harmonization of the results, too, resulting in a far more valuable research document:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;I can usually compare the basic values, such as concert visiting likelihood in the past – for example, I surveyed Hungary and Slovakia first in 2015, but immediately could compare with 2013 and 2007 data.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;/img/dataanimation/concert_hu_animation_smooth.gif&#34; alt=&#34;Harmonized concert visiting questions over time&#34;&gt;&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;I get international benchmarks for free, for example, German, Czech, French data.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;/img/music/cee_concert_demography_16x9.jpg&#34; alt=&#34;Harmonized concert visiting questions accross countries&#34;&gt;&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Using the hierarchical nature of CAP surveys, I can make reasonable estimates of details that I survey only in one or few countries, such as visiting jazz concerts, and not concert only; or copying non-licensed music to devices.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Of course, there is no free lunch here.  I can access millions of euros values of survey data, but nobody will make prepare it for my use. These surveys were processed for different users and different uses and joining them with my data is a very difficult task that I had been doing better and better in the past 5 years. To make this work as error-free as possible, I will publish the critical elements of the code as open source software on CRAN soon - the github release is an early version of this.&lt;/p&gt;
+&lt;p&gt;Much of the current momentum is due to a new contributor to these packages, 
+&lt;a href=&#34;https://martakolczynska.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Marta Kołczyńska&lt;/a&gt;, who is an excellent R programmer and a bright academic in international survey harmonization and reproducible research.&lt;/p&gt;
+&lt;h2 id=&#34;related&#34;&gt;Related&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The website of the  
+&lt;a href=&#34;https://retroharmonize.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;retroharmonize&lt;/a&gt; package&lt;/li&gt;
+&lt;li&gt;The website of the 
+&lt;a href=&#34;https://eurobarometer.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eurobarometer&lt;/a&gt; package&lt;/li&gt;
+&lt;li&gt;The website of the 
+&lt;a href=&#34;http://regions.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;regions&lt;/a&gt; package&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

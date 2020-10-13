@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ceemid | Satellite Report</title>
+    <link>/tags/ceemid/</link>
+      <atom:link href="/tags/ceemid/index.xml" rel="self" type="application/rss+xml" />
+    <description>ceemid</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Feb 2019 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>ceemid</title>
+      <link>/tags/ceemid/</link>
+    </image>
+    
+    <item>
+      <title>Music Observatory</title>
+      <link>/project/musicobservatory/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0100</pubDate>
+      <guid>/project/musicobservatory/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://ceemid.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CEEMID&lt;/a&gt; is a data integration system that could provide to be a model and starting point of building a 
+&lt;a href=&#34;https://documentation.ceemid.eu/index.php?title=European_Music_Observatory&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;European Music Observatory&lt;/a&gt; based on open data, open-source software using best statistics, data science and AI practices. CEEMID has created thousands of high-value, hard music industry indicators using open data sources, industry data sources, surveys and various APIs to relevant other data sources. (More on 
+&lt;a href=&#34;https://ceemid.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ceemid.eu&lt;/a&gt; website.)&lt;/p&gt;
+&lt;p&gt;CEEMID is aiming to transfer thousands of indicators and a verifiable, open-source software that creates them to the European Music Observatory to give Europe-wide acces timely, reliable, actionable statistics and indicators for the music industry, policymakers and music professionals. (Read more about our 
+&lt;a href=&#34;https://documentation.ceemid.eu/index.php?title=Main_Page#Data_Coverage&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data coverage&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Satellite Report is aiming to support this transition, and at the same time, create new data products for other creative industries.&lt;/p&gt;
+&lt;h2 id=&#34;data-coverage&#34;&gt;Data Coverage&lt;/h2&gt;
+&lt;p&gt;Our primary goal is to provide thousands of indicators for the three pillars of the European Music Observatory (See 
+&lt;a href=&#34;https://danielantal.eu/presentation/ceemid-observatory&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;presentation&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Pillar 1: 
+&lt;a href=&#34;https://documentation.ceemid.eu/index.php?title=Music_Economy_of_Europe&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Music Economy of Europe&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Pillar 2: 
+&lt;a href=&#34;https://documentation.ceemid.eu/index.php?title=Music_Diversity_and_Circulation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Music Diversity and Circulation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Pillar 3: 
+&lt;a href=&#34;https://documentation.ceemid.eu/index.php?title=Music,_Society_and_Citizenship&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Music, Society and Citizenship&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Pillar 4: input data for business and technical innovation, i.e. the 
+&lt;a href=&#34;https://documentation.ceemid.eu/index.php?title=Innovation_pillar&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Innovation pillar&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Because we cover all areas of innovative uses (predictive AI modelling, forecasting, royalty setting and pricing, audience targetting, policy indicators) we believe that further data domains must be covered.&lt;/p&gt;
+&lt;p&gt;We believe that a very large segment of CEEMID&amp;rsquo;s and the European Music Observatory&amp;rsquo;s data coverage is based on public-interest data that is collected by public authorities. Therefore, CEEMID was based on the regulatory framework provided by the Directive on open data and the re-use of public sector information provides a common legal framework for a European market for government-held data (public sector information). It a regulatory framework that is built around two key pillars of the internal market: transparency and fair competition.  In our view, these principles should apply to European Music Observatory, too.&lt;/p&gt;
+&lt;h2 id=&#34;open-source-open-data-open-collaboration&#34;&gt;Open source, open data, open collaboration&lt;/h2&gt;
+&lt;p&gt;We believe that the European Music Observatory must rely on open-source statistical software written in the R statistical language like CEEMID. (Read 
+&lt;a href=&#34;https://documentation.ceemid.eu/index.php?title=Open-source_software&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;why&lt;/a&gt;.)&lt;/p&gt;
+&lt;p&gt;In the EU, open data is governed by the 
+&lt;a href=&#34;https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1561563110433&amp;amp;uri=CELEX:32019L1024&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Directive on open data and the re-use of public sector information - in short: Open Data Directive (EU) 2019 / 1024&lt;/a&gt;. It entered into force on 16 July 2019. It replaces the 
+&lt;a href=&#34;https://eur-lex.europa.eu/legal-content/en/ALL/?uri=CELEX:32003L0098&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Public Sector Information Directive&lt;/a&gt;, also known as the ‘PSI Directive’ which dated from 2003 and was subsequently amended in 2013. The founder of CEEMID, Daniel Antal has been involved in Open Data and PSI since 2008.&lt;/p&gt;
+&lt;p&gt;CEEMID uses the open source 
+&lt;a href=&#34;https://documentation.ceemid.eu/index.php?title=R_%28programming_language%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;statistical programming language R&lt;/a&gt;, and various open source R programs.  CEEMID also releases some of its customary program code developed to create its indicators (See 
+&lt;a href=&#34;https://danielantal.eu/project/opendata/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;open data&lt;/a&gt; on this site). This allows an open collaboration with statisticians working in national statistics authorities and in independent research institutions in the EU and globally.  For example, this allowed us to compare test results on calculating economic impact indicators for the creative industries and other industries with the 
+&lt;a href=&#34;http://iotables.ceemid.eu/articles/united_kingdom_2010.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UK statistical office&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The use of open source software and the open source R statistical language allows a continuous peer-review of data ingestion, processing, corrections and indicator creation by statisticians, data scientists and academics.  Statistical products of national statistical offices, sometimes Eurostat itself, not to mention data providers that are not part of the system of national statistical offices, such as the European Audiovisual Observatory, are plagued with data errors that are corrected and amended relatively slowly.&lt;/p&gt;
+&lt;h2 id=&#34;data-integration-instead-of-centralisation&#34;&gt;Data integration instead of centralisation&lt;/h2&gt;
+&lt;p&gt;From the originally envisioned, centralized, permission-based data structure, due to practical considerations, CEEMID switched to a more flexible, decentralized approach. This approach is based on continuous 
+&lt;a href=&#34;https://documentation.ceemid.eu/index.php?title=Main_Page#Data_Integration&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data integration&lt;/a&gt;, which requires permissions to use business confidential information only in use. This allowed a rapid extension of CEEMID to the whole of Europe and go even beyond.  As a result of continous data integration it already includes hundreds of indicators foreseen in all pillars of the planned European Music Observatory.&lt;/p&gt;
+&lt;p&gt;While CEEMID is aware of and uses the metadata of CISAC&amp;rsquo;s, IFPI&amp;rsquo;s, EAO&amp;rsquo;s, and other industry sources&amp;rsquo; data, it does not contain this data, only when a user with permission for the use of these industry sources requires the integration of such data with other CEEMID data, or user-specific data.  While this approach makes sharing results more cumbersome, it provided a path to increase the number of useful indicators from a few dozens to around a thousand. Furthermore, it exponentially increases the value of CISAC&amp;rsquo;s, IFPI&amp;rsquo;s or EAO&amp;rsquo;s data, especially when designing better royalty rates, or creating economic evidence for litigation. Take a look at a simple, non-confidential example 
+&lt;a href=&#34;https://danielantal.eu/post/cee_mini_17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blog post&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We will integrate data into open data products and music industry intelligence apps from the following sources:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Nationally representative 
+&lt;a href=&#34;https://danielantal.eu/usecase/cap/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CAP surveys&lt;/a&gt; of music users and film viewers.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Anonymous 
+&lt;a href=&#34;https://danielantal.eu/usecase/musicians/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CEEMID Music Professional Surveys&lt;/a&gt; and &lt;em&gt;CEEMID Audiovisual Professional Surveys&lt;/em&gt; about their work, incomes and costs. See example 
+&lt;a href=&#34;https://danielantal.eu/post/career_path/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blog post&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Big data sources from various geolocational applications about events and location visits 
+&lt;a href=&#34;https://www.youtube.com/watch?v=3lW8bhQ2fbY&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;small video&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Automatic data retrieval from open data sources, including statistical data and EU-funded research. See example 
+&lt;a href=&#34;https://danielantal.eu/post/how_many_ever_pay/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blog post&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

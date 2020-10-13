@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>open-data | Satellite Report</title>
+    <link>/tags/open-data/</link>
+      <atom:link href="/tags/open-data/index.xml" rel="self" type="application/rss+xml" />
+    <description>open-data</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 13 Feb 2020 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>open-data</title>
+      <link>/tags/open-data/</link>
+    </image>
+    
+    <item>
+      <title>OpenData</title>
+      <link>/project/opendata/</link>
+      <pubDate>Thu, 13 Feb 2020 00:00:00 +0100</pubDate>
+      <guid>/project/opendata/</guid>
+      <description>&lt;p&gt;I have been involved in various OpenData projects since 2007, shortly after the introduction of the groundbreaking 
+&lt;a href=&#34;https://eur-lex.europa.eu/legal-content/en/ALL/?uri=CELEX:32003L0098&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Re-Use of Public Sector Information Directive&lt;/a&gt; (last year replaced with the new 
+&lt;a href=&#34;https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1561563110433&amp;amp;uri=CELEX:32019L1024&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Data Directive&lt;/a&gt;) of the Euroepan Union. (A brief history of this important EU policy can be found 
+&lt;a href=&#34;https://ec.europa.eu/digital-single-market/en/european-legislation-reuse-public-sector-information&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; and its importance 
+&lt;a href=&#34;https://www.europeandataportal.eu/sites/default/files/re-using_open_data.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(pdf)&lt;/a&gt;.)&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Press the tag below to see more examples&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,70 +1,358 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags | Data &amp; Lyrics</title>
+    <title>Tags | Creative Data Observatories</title>
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 25 Sep 2020 15:31:39 +0200</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
     
     <item>
-      <title>Source Themes</title>
-      <link>/tags/source-themes/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/source-themes/</guid>
+      <title>open-data</title>
+      <link>/tag/open-data/</link>
+      <pubDate>Fri, 25 Sep 2020 15:31:39 +0200</pubDate>
+      <guid>/tag/open-data/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Deep Learning</title>
-      <link>/tags/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/deep-learning/</guid>
+      <title>open-source</title>
+      <link>/tag/open-source/</link>
+      <pubDate>Fri, 25 Sep 2020 15:31:39 +0200</pubDate>
+      <guid>/tag/open-source/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Demo</title>
-      <link>/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/demo/</guid>
+      <title>reproducible</title>
+      <link>/tag/reproducible/</link>
+      <pubDate>Fri, 25 Sep 2020 15:31:39 +0200</pubDate>
+      <guid>/tag/reproducible/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Academic</title>
-      <link>/tags/academic/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/academic/</guid>
+      <title>start-up</title>
+      <link>/tag/start-up/</link>
+      <pubDate>Fri, 25 Sep 2020 15:31:39 +0200</pubDate>
+      <guid>/tag/start-up/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>plot</title>
-      <link>/tags/plot/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <guid>/tags/plot/</guid>
+      <title>R</title>
+      <link>/tag/r/</link>
+      <pubDate>Mon, 21 Sep 2020 11:31:39 +0200</pubDate>
+      <guid>/tag/r/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>R Markdown</title>
-      <link>/tags/r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <guid>/tags/r-markdown/</guid>
+      <title>surveys</title>
+      <link>/tag/surveys/</link>
+      <pubDate>Mon, 21 Sep 2020 11:31:39 +0200</pubDate>
+      <guid>/tag/surveys/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>regression</title>
-      <link>/tags/regression/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <guid>/tags/regression/</guid>
+      <title>music</title>
+      <link>/tag/music/</link>
+      <pubDate>Tue, 15 Sep 2020 08:00:39 +0200</pubDate>
+      <guid>/tag/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>observatory</title>
+      <link>/tag/observatory/</link>
+      <pubDate>Tue, 15 Sep 2020 08:00:39 +0200</pubDate>
+      <guid>/tag/observatory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eurobarometer</title>
+      <link>/tag/eurobarometer/</link>
+      <pubDate>Tue, 25 Aug 2020 16:00:00 +0200</pubDate>
+      <guid>/tag/eurobarometer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>r-bloggers</title>
+      <link>/tag/r-bloggers/</link>
+      <pubDate>Tue, 25 Aug 2020 16:00:00 +0200</pubDate>
+      <guid>/tag/r-bloggers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>survey</title>
+      <link>/tag/survey/</link>
+      <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/tag/survey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>harmonization</title>
+      <link>/tag/harmonization/</link>
+      <pubDate>Thu, 09 Jul 2020 15:00:00 +0200</pubDate>
+      <guid>/tag/harmonization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>geography</title>
+      <link>/tag/geography/</link>
+      <pubDate>Wed, 03 Jun 2020 17:00:00 +0200</pubDate>
+      <guid>/tag/geography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>regions</title>
+      <link>/tag/regions/</link>
+      <pubDate>Wed, 03 Jun 2020 17:00:00 +0200</pubDate>
+      <guid>/tag/regions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CEEMID</title>
+      <link>/tag/ceemid/</link>
+      <pubDate>Wed, 22 Apr 2020 17:00:00 +0200</pubDate>
+      <guid>/tag/ceemid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>regional</title>
+      <link>/tag/regional/</link>
+      <pubDate>Wed, 22 Apr 2020 17:00:00 +0200</pubDate>
+      <guid>/tag/regional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>European Music Observatory</title>
+      <link>/tag/european-music-observatory/</link>
+      <pubDate>Thu, 16 Apr 2020 17:00:00 +0200</pubDate>
+      <guid>/tag/european-music-observatory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>music-demand</title>
+      <link>/tag/music-demand/</link>
+      <pubDate>Thu, 16 Apr 2020 17:00:00 +0200</pubDate>
+      <guid>/tag/music-demand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COVID-19</title>
+      <link>/tag/covid-19/</link>
+      <pubDate>Wed, 15 Apr 2020 13:00:00 +0200</pubDate>
+      <guid>/tag/covid-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>geolocations</title>
+      <link>/tag/geolocations/</link>
+      <pubDate>Wed, 15 Apr 2020 13:00:00 +0200</pubDate>
+      <guid>/tag/geolocations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>public-policy</title>
+      <link>/tag/public-policy/</link>
+      <pubDate>Wed, 15 Apr 2020 13:00:00 +0200</pubDate>
+      <guid>/tag/public-policy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>covid19</title>
+      <link>/tag/covid19/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/tag/covid19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>social-distancing</title>
+      <link>/tag/social-distancing/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/tag/social-distancing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reproducible-consulting</title>
+      <link>/tag/reproducible-consulting/</link>
+      <pubDate>Fri, 27 Mar 2020 09:00:00 +0100</pubDate>
+      <guid>/tag/reproducible-consulting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reproducible-research</title>
+      <link>/tag/reproducible-research/</link>
+      <pubDate>Fri, 27 Mar 2020 09:00:00 +0100</pubDate>
+      <guid>/tag/reproducible-research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CCI</title>
+      <link>/tag/cci/</link>
+      <pubDate>Tue, 24 Mar 2020 13:30:00 +0100</pubDate>
+      <guid>/tag/cci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>documentation</title>
+      <link>/tag/documentation/</link>
+      <pubDate>Tue, 24 Mar 2020 13:30:00 +0100</pubDate>
+      <guid>/tag/documentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>music-observatory</title>
+      <link>/tag/music-observatory/</link>
+      <pubDate>Tue, 24 Mar 2020 13:30:00 +0100</pubDate>
+      <guid>/tag/music-observatory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>team-building</title>
+      <link>/tag/team-building/</link>
+      <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/tag/team-building/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Armenia</title>
+      <link>/tag/armenia/</link>
+      <pubDate>Wed, 29 Jan 2020 16:00:00 +0100</pubDate>
+      <guid>/tag/armenia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Austria</title>
+      <link>/tag/austria/</link>
+      <pubDate>Wed, 29 Jan 2020 16:00:00 +0100</pubDate>
+      <guid>/tag/austria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bulgaria</title>
+      <link>/tag/bulgaria/</link>
+      <pubDate>Wed, 29 Jan 2020 16:00:00 +0100</pubDate>
+      <guid>/tag/bulgaria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Czechia</title>
+      <link>/tag/czechia/</link>
+      <pubDate>Wed, 29 Jan 2020 16:00:00 +0100</pubDate>
+      <guid>/tag/czechia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hungary</title>
+      <link>/tag/hungary/</link>
+      <pubDate>Wed, 29 Jan 2020 16:00:00 +0100</pubDate>
+      <guid>/tag/hungary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lithuania</title>
+      <link>/tag/lithuania/</link>
+      <pubDate>Wed, 29 Jan 2020 16:00:00 +0100</pubDate>
+      <guid>/tag/lithuania/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>market-report</title>
+      <link>/tag/market-report/</link>
+      <pubDate>Wed, 29 Jan 2020 16:00:00 +0100</pubDate>
+      <guid>/tag/market-report/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>music-industry</title>
+      <link>/tag/music-industry/</link>
+      <pubDate>Wed, 29 Jan 2020 16:00:00 +0100</pubDate>
+      <guid>/tag/music-industry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>opendata</title>
+      <link>/tag/opendata/</link>
+      <pubDate>Wed, 29 Jan 2020 16:00:00 +0100</pubDate>
+      <guid>/tag/opendata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Serbia</title>
+      <link>/tag/serbia/</link>
+      <pubDate>Wed, 29 Jan 2020 16:00:00 +0100</pubDate>
+      <guid>/tag/serbia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slovakia</title>
+      <link>/tag/slovakia/</link>
+      <pubDate>Wed, 29 Jan 2020 16:00:00 +0100</pubDate>
+      <guid>/tag/slovakia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reprodubile-research</title>
+      <link>/tag/reprodubile-research/</link>
+      <pubDate>Mon, 26 Aug 2019 08:00:00 +0200</pubDate>
+      <guid>/tag/reprodubile-research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iotabales</title>
+      <link>/tag/iotabales/</link>
+      <pubDate>Sat, 22 Dec 2018 11:00:00 +0100</pubDate>
+      <guid>/tag/iotabales/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multipliers</title>
+      <link>/tag/multipliers/</link>
+      <pubDate>Sat, 22 Dec 2018 11:00:00 +0100</pubDate>
+      <guid>/tag/multipliers/</guid>
       <description></description>
     </item>
     

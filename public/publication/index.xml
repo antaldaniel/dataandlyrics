@@ -1,71 +1,245 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Data &amp; Lyrics</title>
+    <title>Publications | Creative Data Observatories</title>
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 25 Aug 2020 16:00:00 +0200</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
+      <title>retroharmonize R package for survey harmonization</title>
+      <link>/publication/retorharmonize_2020/</link>
+      <pubDate>Tue, 25 Aug 2020 16:00:00 +0200</pubDate>
+      <guid>/publication/retorharmonize_2020/</guid>
+      <description>&lt;p&gt;The aim of &lt;code&gt;retroharmonize&lt;/code&gt; is to provide tools for reproducible
+retrospective (ex-post) harmonization of datasets that contain variables
+measuring the same concepts but coded in different ways. Ex-post data
+harmonization enables better use of existing data and creates new
+research opportunities. For example, harmonizing data from different
+countries enables cross-national comparisons, while merging data from
+different time points makes it possible to track changes over time.&lt;/p&gt;
+&lt;p&gt;Retrospective data harmonization is associated with challenges including
+conceptual issues with establishing equivalence and comparability,
+practical complications of having to standardize the naming and coding
+of variables, technical difficulties with merging data stored in
+different formats, and the need to document a large number of data
+transformations. The &lt;code&gt;retroharmonize&lt;/code&gt; package assists with the latter
+three components, freeing up the capacity of researchers to focus on the
+first.&lt;/p&gt;
+&lt;p&gt;Specifically, the &lt;code&gt;retroharmonize&lt;/code&gt; package proposes a reproducible
+workflow, including a new class for storing data together with the
+harmonized and original metadata, as well as functions for importing
+data from different formats, harmonizing data and metadata, documenting
+the harmonization process, and converting between data types. See
 
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;https://retroharmonize.dataobservatory.eu/reference/retrohamonize.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
+for an overview of the functionalities.&lt;/p&gt;
+&lt;p&gt;The new &lt;code&gt;labelled_spss_survey()&lt;/code&gt; class is an extension of 
+&lt;a href=&#34;https://haven.tidyverse.org/reference/labelled_spss.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;haven’s
+labelled_spss
+class&lt;/a&gt;. It not
+only preserves variable and value labels and the user-defined missing
+range, but also gives an identifier, for example, the filename or the
+wave number, to the vector. Additionally, it enables the preservation –
+as metadata attributes – of the original variable names, labels, and
+value codes and labels, from the source data, in addition to the
+harmonized variable names, labels, and value codes and labels. This way,
+the harmonized data also contain the pre-harmonization record. The
+stored original metadata can be used for validation and documentation
+purposes.&lt;/p&gt;
+&lt;p&gt;The vignette 
+&lt;a href=&#34;https://retroharmonize.dataobservatory.eu/articles/labelled_spss_survey.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Working With The labelled_spss_survey
+Class&lt;/a&gt;
+provides more information about the &lt;code&gt;labelled_spss_survey()&lt;/code&gt; class.&lt;/p&gt;
+&lt;p&gt;In 
+&lt;a href=&#34;https://retroharmonize.dataobservatory.eu/articles/harmonize_labels.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Harmonize Value
+Labels&lt;/a&gt;
+we discuss the characteristics of the &lt;code&gt;labelled_spss_survey()&lt;/code&gt; class and
+demonstrates the problems that using this class solves.&lt;/p&gt;
+&lt;p&gt;We also provide two extensive case studies illustrating how the
+&lt;code&gt;retroharmonize&lt;/code&gt; package can be used for ex-post harmonization of data
+from cross-national surveys on the example of the
+
+&lt;a href=&#34;https://retroharmonize.dataobservatory.eu/articles/afrobarometer.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Afrobarometer&lt;/a&gt;
+and the
+
+&lt;a href=&#34;https://retroharmonize.dataobservatory.eu/articles/eurobarometer.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eurobarometer&lt;/a&gt;.
+The creators of &lt;code&gt;retroharmonize&lt;/code&gt; are not affiliated with either
+Afrobarometer, Eurobarometer, or the organizations that designs,
+produces or archives their surveys.&lt;/p&gt;
+&lt;h2 id=&#34;code-of-conduct&#34;&gt;Code of Conduct&lt;/h2&gt;
+&lt;p&gt;Please note that the &lt;code&gt;retroharmonize&lt;/code&gt; project is released with a
+
+&lt;a href=&#34;https://www.contributor-covenant.org/version/2/0/code_of_conduct/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Contributor Code of
+Conduct&lt;/a&gt;.
+By contributing to this project, you agree to abide by its terms.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>An example journal article</title>
-      <link>/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+      <title>eurobarometer R package</title>
+      <link>/publication/eurobarometer_2020/</link>
+      <pubDate>Thu, 25 Jun 2020 16:00:00 +0200</pubDate>
+      <guid>/publication/eurobarometer_2020/</guid>
+      <description>&lt;p&gt;Please review the 
+&lt;a href=&#34;https://eurobarometer.dataobservatory.eu/articles/workflow.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;workflow&lt;/a&gt; here.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>An example conference paper</title>
-      <link>/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
+      <title>regions R package</title>
+      <link>/publication/regions_2020/</link>
+      <pubDate>Wed, 03 Jun 2020 17:00:00 +0200</pubDate>
+      <guid>/publication/regions_2020/</guid>
+      <description>&lt;h2 id=&#34;installation&#34;&gt;Installation&lt;/h2&gt;
+&lt;p&gt;You can install the development version from
 
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
+&lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt; with:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;devtools::install_github(&amp;quot;rOpenGov/regions&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;or the released version from CRAN:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;install.packages(&amp;quot;devtools&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://regions.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;regions&lt;/a&gt; currently takes care of 20,000 sub-divisional boundary changes in Europe since 1999. Comparing departments of France in 2013, with 2007 vojvodinas of Poland and 2018 megyék in Hungary? This extremely errorprone work is automated, as a result, you can compare 110-260 regions for far better analysis. regions was downloaded about 600 researchers in the first month after release.&lt;/p&gt;
+&lt;p&gt;You can review the complete package documentation on
 
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;https://regions.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;regions.dataobservatory.eu&lt;/a&gt;. If you find
+any problems with the code, please raise an issue on
+
+&lt;a href=&#34;https://github.com/antaldaniel/regions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt;. Pull requests are
+welcome if you agree with the 
+&lt;a href=&#34;https://contributor-covenant.org/version/2/0/CODE_OF_CONDUCT.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Contributor Code of
+Conduct&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If you use &lt;code&gt;regions&lt;/code&gt; in your work, please 
+&lt;a href=&#34;https://doi.org/10.5281/zenodo.3825696&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;cite the
+package&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;motivation&#34;&gt;Motivation&lt;/h2&gt;
+&lt;p&gt;Working with sub-national statistics has many benefits. In policymaking or in social sciences, it is a common practice to compare national statistics, which can be hugely misleading. The United States of America, the Federal Republic of Germany, Slovakia and Luxembourg are all countries, but they differ vastly in size and social homogeneity. Comparing Slovakia and Luxembourg to the federal states or even regions within Germany, or the states of Germany and the United States can provide more adequate insights. Statistically, the similarity of the aggregation level and high number of observations can allow more precise control of model parameters and errors.&lt;/p&gt;
+&lt;p&gt;The advantages of switching from a national level of the analysis to a
+sub-national level comes with a huge price in data processing,
+validation and imputation. The package Regions aims to help this
+process.&lt;/p&gt;
+&lt;p&gt;This package is an offspring of the
+
+&lt;a href=&#34;http://ropengov.github.io/eurostat/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eurostat&lt;/a&gt; package on
+
+&lt;a href=&#34;http://ropengov.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rOpenGov&lt;/a&gt;. It started as a tool to validate and re-code regional Eurostat statistics, but it aims to be a general solution for all sub-national statistics. It will be developed parallel with other rOpenGov packages.&lt;/p&gt;
+&lt;h2 id=&#34;sub-national-statistics-have-many-challenges&#34;&gt;Sub-national Statistics Have Many Challenges&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Frequent boundary changes&lt;/strong&gt;: as opposed to national boundaries,
+the territorial units, typologies are often change, and this makes
+the validation and recoding of observation necessary across time.
+For example, in the European Union, sub-national typologies change
+about every three years and you have to make sure that you compare
+the right French region in time, or, if you can make the time-wise
+comparison at all.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Hierarchical aggregation and special imputation&lt;/strong&gt;: missingness is
+very frequent in sub-national statistics, because they are created
+with a serious time-lag compared to national ones, and because they
+are often not back-casted after boundary changes. You cannot use
+standard imputation algorithms because the observations are not
+similarly aggregated or averaged. Often, the information is
+seemingly missing, and it is present with an obsolete typology code.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;package-functionality&#34;&gt;Package functionality&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Generic vocabulary translation and joining functions for
+geographically coded data&lt;/li&gt;
+&lt;li&gt;Keeping track of the boundary changes within the European Union
+between 1999-2021&lt;/li&gt;
+&lt;li&gt;Vocabulary translation and joining functions for standardized
+European Union statistics&lt;/li&gt;
+&lt;li&gt;Vocabulary translation for the &lt;code&gt;ISO-3166-2&lt;/code&gt; based Google data and
+the European Union&lt;/li&gt;
+&lt;li&gt;Imputation functions from higher aggregation hierarchy levels to
+lower ones, for example from &lt;code&gt;NUTS1&lt;/code&gt; to &lt;code&gt;NUTS2&lt;/code&gt; or from &lt;code&gt;ISO-3166-1&lt;/code&gt;
+to &lt;code&gt;ISO-3166-2&lt;/code&gt; (impute down)&lt;/li&gt;
+&lt;li&gt;Imputation functions from lower hierarchy levels to higher ones
+(impute up)&lt;/li&gt;
+&lt;li&gt;Aggregation function from lower hierarchy levels to higher ones, for
+example from NUTS3 to &lt;code&gt;NUTS1&lt;/code&gt; or from &lt;code&gt;ISO-3166-2&lt;/code&gt; to &lt;code&gt;ISO-3166-1&lt;/code&gt;
+(aggregate; under development)&lt;/li&gt;
+&lt;li&gt;Disaggregation functions from higher hierarchy levels to lower ones,
+again, for example from &lt;code&gt;NUTS1&lt;/code&gt; to &lt;code&gt;NUTS2&lt;/code&gt; or from &lt;code&gt;ISO-3166-1&lt;/code&gt; to
+&lt;code&gt;ISO-3166-2&lt;/code&gt; (disaggregate; under development)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;vignettes--articles&#34;&gt;Vignettes / Articles&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://regions.danielantal.eu/articles/Regional_stats.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Working With Regional, Sub-National Statistical
+Products&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://regions.danielantal.eu/articles/validation.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Validating Your
+Typology&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://regions.danielantal.eu/articles/recode.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Recoding And
+Relabelling&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://regions.danielantal.eu/articles/google_mobility_report.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Typology Of The Google Mobility Reports
+(COVID-19)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;feedback&#34;&gt;Feedback?&lt;/h2&gt;
+&lt;p&gt;Raise and 
+&lt;a href=&#34;https://github.com/antaldaniel/eurobarometer/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;issue&lt;/a&gt; on Github or 
+&lt;a href=&#34;https://danielantal.eu/#contact&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;get in touch&lt;/a&gt;. Downloaders from CRAN: 
+
+&lt;a href=&#34;https://cran.r-project.org/package=regions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://cranlogs.r-pkg.org/badges/regions&#34; alt=&#34;metacrandownloads&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Central &amp; Eastern European Music Industry Report 2020</title>
+      <link>/publication/ceereport_2020/</link>
+      <pubDate>Wed, 29 Jan 2020 16:00:00 +0100</pubDate>
+      <guid>/publication/ceereport_2020/</guid>
+      <description>&lt;p&gt;CEEMID &amp;amp; Consolidated Independent presented and discussed with stakeholders the  
+&lt;a href=&#34;https://danielantal.eu/publication/ceereport_2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Central &amp;amp; Eastern European Music Industry Report 2020&lt;/a&gt; as a case-study on national and comparative evidence-based policymaking in the cultural and creative sector on the 
+&lt;a href=&#34;http://creativeflip.creativehubs.net/2019/12/03/flipping-the-odds/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CCS Ecosystems: FLIPPING THE ODDS Conference&lt;/a&gt; – a two-day high-level stakeholder event jointly organized by Geothe-Institute and the DG Education and Culture of the European Commission with the Creative FLIP project.&lt;/p&gt;
+&lt;p&gt;The CEE Report builds on the results of the first 
+&lt;a href=&#34;https://danielantal.eu/publication/hungary_music_industry_2014/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hungarian&lt;/a&gt;, 
+&lt;a href=&#34;https://danielantal.eu/publication/slovak_music_industry_2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slovak&lt;/a&gt;, 
+&lt;a href=&#34;https://danielantal.eu/publication/private_copying_croatia_2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Croatian&lt;/a&gt; and 
+&lt;a href=&#34;http://czdev.ceemid.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Czech&lt;/a&gt; music industry reports are compared with Armenian, Austrian, Bulgarian, Lithuanian, Serbian and Slovenian data and findings.&lt;/p&gt;
+&lt;p&gt;Our research findings were earlier presented and discussed in Vienna, Prague, Budapest and Bratislava with stakeholders.&lt;/p&gt;
+&lt;p&gt;You can find the earlier presentations in the 
+&lt;a href=&#34;#posts&#34;&gt;blog&lt;/a&gt; section of the website.&lt;/p&gt;
+&lt;h2 id=&#34;executive-summary&#34;&gt;Executive Summary&lt;/h2&gt;
+&lt;p&gt;The first Central European Music Industry Report is the result of a co-operation that started among stakeholders in three EU countries five years ago to measure the economic value added of music – the basis of a modern royalty pricing system. This gave birth to CEEMID, originally the Central &amp;amp; Eastern European Music Industry Databases, a data integration programme that now in 2020, covers all of Europe. CEEMID fulfils similar roles to the planned European Music Observatory and supports all pillars of the future pan-European system.&lt;/p&gt;
+&lt;p&gt;The comparison of Western and Eastern music audiences reveals key demographic differences that make the unchanged adoption of business practices from mature markets in the region questionable. 
+&lt;a href=&#34;http://ceereport2020.ceemid.eu/audience.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chapter 2&lt;/a&gt; of this report will show these differences and their consequences on music markets, in terms of visiting and acquisition likelihood, frequency, seasonality and purchasing capacity. This is an example of how CEEMID fulfils the role of Pillar 3 (music, society and citizenship) in the planned European Music Observatory.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://ceereport2020.ceemid.eu/supply.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chapter 3&lt;/a&gt; contrasts market demand with the supply strategies of musicians. CEEMID has been surveying music professionals, including artists, technicians and managers about their working conditions, market conditions and plans for five years across a growing number of countries. In 2019 we invited 100 national and regional stakeholders to distribute our surveys. In some countries, our surveys already have several years of historic data, making the resulting musician database probably the largest ever source of data about how music is produced and how musicians live. We are constantly looking for partners to roll out this survey to new countries in new languages.&lt;/p&gt;
+&lt;p&gt;The CEE region has comparative advantages in big music events like festivals, and it has become one of the most important hubs for cultural tourism in the world. We explain this phenomenon in Chapter 4 by showing the differences in demand composition, demography and supply of venues in the second chapter. The lack of a modern and dense network of permanent music venues gave rise to magnificent music festivals in the CEE. Open’er, Sziget and Exit are among the biggest and best festivals in the world, closely followed by several smaller festivals in all countries. The share of festivals in the live music market is many times higher than in Western Europe and they provide vital export revenues to the local music economies. However, they play a limited role in finding new audiences for local artists, as they are increasingly programming for Western audiences by providing shows of international hits. They can only very partially fill in the gaps left by the small venue problem that hit the emerging markets harder than the UK or Australia, where policy action had been already taken to reverse the decline of the availability of smaller live music venues.&lt;/p&gt;
+&lt;p&gt;On the recording side, our analysis shows that modern digital services are growing at a faster rate than in mature markets. Because of lower repertoire competition, streaming quantities are similar for a typical Austrian, Czech, Hungarian, Polish or Slovak track than in the mature markets. However, revenue growth is limited because of the interplay of several analysed factors. Our analysis of the live and recorded music markets shows that CEEMID fulfils the roles of the Pillar 1 (music economy) of the planned European Music Observatory.&lt;/p&gt;
+&lt;p&gt;Most recorded music sales revenue in the region comes from streaming platforms, just like in the mature markets. Successful sales strategies require a solid knowledge of the global marketplace and the ability to understand and train sales algorithms. Micro-enterprises, such as independent labels, have very limited ability to cope with these functions, given that they do not have market research or R&amp;amp;D functions. CEEMID and Consolidated Independent have started initiating open, national R&amp;amp;D consortia to create the necessary concentration in data assets, analytical capacity and budgets to close this gap. As a first step, CEEMID and Consolidated Independent have created a large, independent music dataset based on hundreds of millions of royalty statement entries to create our market indexes, styled after stock market and bond market indexes. Streaming opportunities are fast changing as roll-out of streaming services is happening at a different rate in various territories; subscription charges and the exchange rate to the producer’s currency vary and repertoire competition emerges in the market. Our volume and revenue indexes in 
+&lt;a href=&#34;http://ceereport2020.ceemid.eu/export.html#recexport&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chapter 5.3&lt;/a&gt; are aimed at creating sales algorithms that optimize sales volumes and expected revenues. We believe that this analysis also reveals that CEEMID partially fulfils the roles of Pillar 2 (music diversity and circulation) and feeds important data into Pillar 4 (innovation).&lt;/p&gt;
+&lt;p&gt;The region has far bigger untapped potential than most music business executives believe. Households in the region spend a significantly lower share of their recreational budget on music than their Western, Southern or Nordic peers. The region has a lot of untapped cultural purchasing power because servicing is particularly challenging in both the live and recorded sides of the business.&lt;/p&gt;
+&lt;p&gt;This upside potential cannot be tapped without better pricing. Royalty levels are often very low in the region. Due to many combined effects analysed in this short report, the gap between royalties earned in the CEE and Western Europe is several times bigger than the difference in GDP or national average wage. These gaps are partly caused by special interests preventing collective management from charging appropriate tariffs for restaurants, media companies or electronic appliance importers and manufacturers, and partly by unfavourable taxation of cultural products and services.&lt;/p&gt;
+&lt;p&gt;CEEMID was designed to create economic evidence on royalty pricing, private copying compensation and the creation of economic value added in the industry. In the first Hungarian Music Industry Report of ProArt and in the first Slovak Music Industry Report we have shown that economic and taxation policies of the CEE countries aimed to support car and electronics manufacturing create a distorted, unfavourable economic regime for creative industries. We want to help local stakeholders with economic evidence to correct these discriminatory policies during the overhaul of the EU VAT system. We have been helping various national organizations with economic evidence, presented in the light of latest EU jurisprudence, to improve their pricing activities. Our thousands of indicators were also used in ex ante evaluations of granting schemes.&lt;/p&gt;
+&lt;p&gt;In 2020, all EU member states will change their copyright administration legislation because of the national implementations of the 2019/790 Digital Single Market directive. CEEMID provides evidence in several countries about the size and impact mechanism of the value transfer, and generally the widespread use of the copyright exemption for private copying. We believe that the thousands of pan-European music industry indicators that we have aggregated over the five years will play a vital role in these regulatory processes.&lt;/p&gt;
+&lt;p&gt;CEEMID fulfils its roles with a very thorough exploitation of the EU’s 17-years-old Open Data regime with the re-use of public sector information, and a very careful mapping of the music industry. These maps help us conduct annual surveys among musicians and the audience, and they help us connect (always with pre-approval and with a user mandate) to industry databases. We do not only cover the EU countries, but increasingly (potential) candidate countries and neighbourhood countries.&lt;/p&gt;
+&lt;p&gt;In our vision, this data collection and integration, i.e. Pillars 1-3 should be available for all music stakeholders, should remain public and publicly funded. The last Pillar of the observatory, innovation, is where private entities should compete. The founders of CEEMID and Consolidated Independent believe that this report demonstrates the business and policy benefits of such a system with the analysis of the Central &amp;amp; Eastern European music markets. We believe that this way CEEMID is in a position to serve most of the planned functions of the envisioned European Music Observatory, and we are looking for ways to make either our thousands of indicators, or our data collection and integration software open source and available for all stakeholders in the EU and its neighbours. CEEMID was born out of necessity to level out the different levels of public research and statistical coverage of the EU member states. In our view, private entities in the future should focus their investments in Pillar 4 of the planned observatory, i.e. competing in innovation with creating new models, algorithms and services based on data that is available throughout the European Union without giving further advantage to the already mature markets.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>iotables R package</title>
+      <link>/publication/iotables_2018/</link>
+      <pubDate>Sat, 22 Dec 2018 11:00:00 +0100</pubDate>
+      <guid>/publication/iotables_2018/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://iotables.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;iotables&lt;/a&gt; processes all the symmetric input-output tables of the EU member states, and calculates direct, indirect and induced effects, multipliers for GVA, employment, taxation. These are important inputs into policy evaluation, business forecasting, or granting/development indicator design. iotables is used by about 800 experts around the world.&lt;/p&gt;
 </description>
     </item>
     

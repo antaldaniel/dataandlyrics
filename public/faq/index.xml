@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reproducible Research | Creative Data Observatories</title>
+    <link>/faq/</link>
+      <atom:link href="/faq/index.xml" rel="self" type="application/rss+xml" />
+    <description>Reproducible Research</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 10 Jul 2020 10:00:00 +0200</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Reproducible Research</title>
+      <link>/faq/</link>
+    </image>
+    
+    <item>
+      <title>Reproducible Research</title>
+      <link>/faq/reproducible/</link>
+      <pubDate>Thu, 16 Jul 2020 10:00:00 +0200</pubDate>
+      <guid>/faq/reproducible/</guid>
+      <description>&lt;h2 id=&#34;reproducible-research&#34;&gt;Reproducible Research&lt;/h2&gt;
+&lt;p&gt;We apply data science, and intersection of quantitative social sciences &amp;amp; management science, statistics and computer science, to make data collection, processing and analysis fully reproducible.  Our observatory systems allow users to save thousands of working hours in data collection, in senior supervision, documentation and compliance functions. We want to help business researchers, policymakers, scientists and journalist to focus on what they do best, and use the latest, most complete, and perfectly processed information to support their work.&lt;/p&gt;
+&lt;p&gt;Our methodology can be used in business consultancy, evidence-based policy making, social and management science and data journalism. We thrive to support all these communities, because by incorporating their different review, confirmation and auditing processing, and provide an even more reliable, robust data services to all of our users.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Reviewability&lt;/strong&gt; means that our application’s results are can be assessed and judged by our user’s experts, or experts they trust. We not only automate data collection and cleaning, but we also automate documentation.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Reviewability for &lt;em&gt;professional consultants&lt;/em&gt; means that the data is always avaible with the freshest forms and with up-to-date documentation, instead of ad hoc spreadsheets collected, modified and overwritten by junior staff. The usual error-prone work that junior staff does is done by our observatory system automatically, and all the latest spreadsheets are available for all staff.&lt;/li&gt;
+&lt;li&gt;Reviewability in a &lt;em&gt;scientific context&lt;/em&gt; means that our observatory systems produce the research data in a well-documented format that adheres to the expectation of social scientific and management science peer-review.&lt;/li&gt;
+&lt;li&gt;Reviewability in &lt;em&gt;data journalism&lt;/em&gt; means that all the data is automatically refreshed and present for journalistic and editorial source-checking and analysis.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Reproducibility&lt;/strong&gt; means that we are providing data products and tools that allow the exact duplication of our results during assessments. The most important aspect of our reproducibility is that we make the entire statistical program code either fully open source, or make the entire algorithm available for our clients. From the raw data that they give us, or we collect for them, they can arrive step-by-step to the same indicator or KPI values. Reproducibility ensures that there is no lock-in to our applications. You can always chose a different data and software vendor, or compare our results with them.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Reproducibility in &lt;em&gt;a consulting context&lt;/em&gt; means that our data is well-processed and described, and a senior analyst can re-create it, or even modify it to the organizations needs.&lt;/li&gt;
+&lt;li&gt;In &lt;em&gt;a scientific context&lt;/em&gt; it means that other researchers can reproduce the scientific findings which are supported by our data, because it is of high quality, well formatted and documented.&lt;/li&gt;
+&lt;li&gt;In &lt;em&gt;data journalism&lt;/em&gt; this means that journalist can reliably follow leads and sources over a longer period of time.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We are creating applications that are confirmable and auditable. These are usually required by the ethical guidelines and professional standards of our users.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Confirmability&lt;/strong&gt; means that using our applications findings leads to the same professional results as other available software and information. Our data products use the open-source statistical programming language R. We provide details about our algorithms and methodology to confirm our results in SPSS or Stata or sometimes even in Excel or OpenOffice. Confirmability is often a requirement of various ethical guideleins and professional standards that our clients must adhere to in the legal, economic or policy-making professions.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Reproducibility in a &lt;em&gt;consulting context&lt;/em&gt; means that our data is well-processed and described, and a senior analyst can re-create it, or even modify it to the organizations needs.  They can confront the data with their qualitative results or parallel information bases.&lt;/li&gt;
+&lt;li&gt;In a &lt;em&gt;scientific context&lt;/em&gt; it means that other researchers can reproduce the scientific findings which are supported by our data, because it is of high quality, well formatted and documented. If any issues are raised with scientific confirmation, we assist our scientific partner to amend, replace or correct the problematic data.&lt;/li&gt;
+&lt;li&gt;In &lt;em&gt;data journalism&lt;/em&gt; this means that journalist can reliably follow leads and sources over a longer period of time. We review the entire data pipeline if our journalistic partners find contrary evidence or red flags with our data sources.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Auditability&lt;/strong&gt; means that our data and software is archived in a way that external auditors can later review, reproduce and confirm our findings.  This is a &lt;em&gt;stricter form of data retention&lt;/em&gt; that most organizations apply, because we do not only archive results step-by-step but all computational steps – as if your colleagues would not only save every step in Excel but also their keystrokes. While auditability is a requirement in accounting, but we are extending this approach to all the quantitative work of a professional organization in an advisory or consulting capacity.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Auditability means that we are following &lt;em&gt;professional guidelines and standards&lt;/em&gt; of various statistical, accounting, national accounting and other professional bodies to develop our indicators and data products, and we allow auditors to review not only our data, but the entire history of the data processing, including key elements of our software code, and our general methodology.&lt;/li&gt;
+&lt;li&gt;Auditability means for us that we make our critical methods and software code available for &lt;em&gt;peer-review&lt;/em&gt; both as a software on CRAN and as a statistical method in an appropriate, peer-reviewed journal.&lt;/li&gt;
+&lt;li&gt;In a data journalism context our data products can be subject to &lt;em&gt;full editorial and journalistic&lt;/em&gt; review, from source to publication.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Apps</title>
+      <link>/faq/modeling/</link>
+      <pubDate>Fri, 10 Jul 2020 10:00:00 +0200</pubDate>
+      <guid>/faq/modeling/</guid>
+      <description>&lt;h3 id=&#34;analytics-applications&#34;&gt;Analytics applications&lt;/h3&gt;
+&lt;p&gt;With the increasing availability of connected and big data, automated regressions, forecasting, predictive machine learning &amp;amp; AI helps modern organizations to reach their business, policy and scientific goals, or help data journalists to reveal hidden patterns. Our applications can run tens of thousands of model variants and help to focus data analysis human intuition and knowledge on the most promising leads. The use of these analytics methods relies on often hundreds of standardized and independent variables (&amp;ldquo;features&amp;rdquo;), which cannot be consistently maintained by error-prone human analyst work.  Our data integration applications makes sure that the data is available in a statistically tidy, easy to use format. Our analytics applications adhere to the tidy modelling standards, which allow the proper documentation and comparison of hundreds of model families from the simpler linear and multiple regressions to advanced non-linear models, supervised and unsupervised models.&lt;/p&gt;
+&lt;p&gt;Organization investing into reproducible research can rely on tens of thousands of analytical model candidates for their work &amp;mdash; putting traditional analysts into an impossible competition.  We believe that our applications should produce thosandds of model candidates and comparisons, and leave human wisdom and intuition to refining the most promising leads.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Consulting</title>
+      <link>/faq/consulting/</link>
+      <pubDate>Fri, 10 Jul 2020 10:00:00 +0200</pubDate>
+      <guid>/faq/consulting/</guid>
+      <description>&lt;h2 id=&#34;analyitcs-consultation&#34;&gt;Analyitcs consultation&lt;/h2&gt;
+&lt;p&gt;We support our reproducible data collection, analysis and reporting with management and policy consulting and training.  We not only make far more, better documented and higher quality data available for your consulting, policy or editorial teams, but we show them how to find answers with advanced analytics tools for strategic or detailed questions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cultural Access and Participation surveys</title>
+      <link>/faq/cap/</link>
+      <pubDate>Fri, 10 Jul 2020 10:00:00 +0200</pubDate>
+      <guid>/faq/cap/</guid>
+      <description>&lt;p&gt;Cultural Access and Participation Surveys are standardized surveys designed to measure various market-based and non-market based (amateur, liturgical, etc.) cultural activities, including concerts, streaming subscriptions, singing, etc.  They are based on various quantative sociological models and had been standardized by the Eurostat working group 
+&lt;a href=&#34;http://ec.europa.eu/assets/eac/culture/library/reports/ess-net-report_en.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ESSNet-Culture&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The CEEMID CAP surveys are usually live interviews that allow cross-country comparison, and they are used both for market forecasting, market analytics, royalty and compensation value setting.&lt;/p&gt;
+&lt;h2 id=&#34;cap-europe-2013&#34;&gt;CAP Europe 2013&lt;/h2&gt;
+&lt;p&gt;We use the data of the CAP 2013 survey for cross-country comparisons and for model calibration, because it includes all EU countries.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/cee_concert_demography_16x9.jpg&#34; alt=&#34;Comparative Demography with CAP EU 2013&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;cap-europe-2007&#34;&gt;CAP Europe 2007&lt;/h2&gt;
+&lt;p&gt;We use the data of the CAP 2007 survey for understanding cross-country dynamics and long-term changes, because it includes all EU countries. For example, we can determine in which countries visit &lt;code&gt;Generation Z&lt;/code&gt; 20-years-old people more concerts or cinemas than their &lt;code&gt;Generation X&lt;/code&gt; and &lt;code&gt;Generation Y&lt;/code&gt; peers when they were 20-years-old.&lt;/p&gt;
+&lt;h2 id=&#34;cap-hungary-2019&#34;&gt;CAP Hungary 2019&lt;/h2&gt;
+&lt;p&gt;The CAP Hungary 2019 survey fieldwork is under way.&lt;/p&gt;
+&lt;h2 id=&#34;cap-hungary-2018&#34;&gt;CAP Hungary 2018&lt;/h2&gt;
+&lt;p&gt;The CAP Hungary 2018 survey was designed for a full market analysis in Hungary on the music and audiovisual sectors, particularly to calculate the equitable remuneration for private copying, the value transfer to YouTube and other media platforms, and the development of the audidence for Hungarian films.&lt;/p&gt;
+&lt;h2 id=&#34;cap-hungary-2017&#34;&gt;CAP Hungary 2017&lt;/h2&gt;
+&lt;p&gt;The CAP Hungary 2017 survey was designed for a full market analysis in Hungary on the music and audiovisual sectors, particularly to calculate the equitable remuneration for private copying. A separate mini-CAP survey was designed to capture the value transfer to YouTube, which was later incorporated into the CAP Hungary 2018-2019 surveys.&lt;/p&gt;
+&lt;h2 id=&#34;cap-croatia-2017&#34;&gt;CAP Croatia 2017&lt;/h2&gt;
+&lt;p&gt;The CAP Croatia 2017 survey was designed for the creation of the Private Copying in Croatia report, which is prepared for the forthcoming Croatian Copyright legislation changes on private copying and the value gap.  The survey was conducted by Hendall on a sample of 800 respondents.&lt;/p&gt;
+&lt;h2 id=&#34;cap-slovakaia-2015&#34;&gt;CAP Slovakaia 2015&lt;/h2&gt;
+&lt;p&gt;The CAP Slovakia 2015 survey was designed as a part of a larger survey that also incorporated attitudes towards Slovak culture and non-standard survey questions designed by Focus.  The CAP Survey was used to create the 
+&lt;a href=&#34;https://danielantal.eu/publication/slovak_music_industry_2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slovak Music Industry Report&lt;/a&gt; and to make various legislative impact assessment presentations during the modification of the Slovak Copyright Law on private copying and radio quotas.&lt;/p&gt;
+&lt;h2 id=&#34;cap-hungary-2015&#34;&gt;CAP Hungary 2015&lt;/h2&gt;
+&lt;p&gt;The CAP Hungary 2015 survey was designed for a full market analysis in Hungary on the music and audiovisual sectors. It was used in the 
+&lt;a href=&#34;http://www.gvh.hu/sajtoszoba/sajtokozlemenyek/2016_os_sajtokozlemenyek/az_ures_hordozoi_dij_fogasztoi_visszaigenylesenek_.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;competition authority case&lt;/a&gt; related to the Hungarian private copying regime and in a consulting project related to better finding the audience of Hungarian cinemas in their domestic theatrical market.&lt;/p&gt;
+&lt;p&gt;The survey was conducted by TNS Hoffmann (currently named Kantar Hoffmann.)&lt;/p&gt;
+&lt;h2 id=&#34;cap-hungary-2014&#34;&gt;CAP Hungary 2014&lt;/h2&gt;
+&lt;p&gt;The CAP Hungary 2014 was a non-representative, large-sample online survey to pilot the later surveys.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Apps</title>
+      <link>/faq/dashboards/</link>
+      <pubDate>Fri, 10 Jul 2020 10:00:00 +0200</pubDate>
+      <guid>/faq/dashboards/</guid>
+      <description>&lt;h2 id=&#34;reproducible-dashboards&#34;&gt;Reproducible dashboards&lt;/h2&gt;
+&lt;p&gt;Our apps can integrate your internal financial or transactional data with thousands of external indicators from official statistics to satellite sensory data.  We make sure that your organization always has valid KPIs that are aware of the changes of your working environment.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Curation</title>
+      <link>/faq/curation/</link>
+      <pubDate>Fri, 10 Jul 2020 10:00:00 +0200</pubDate>
+      <guid>/faq/curation/</guid>
+      <description>&lt;h2 id=&#34;data-curation&#34;&gt;Data curation&lt;/h2&gt;
+&lt;p&gt;We are reviewing and processing thousands of business and policy indicators from the most various open and confidential data sources, and constantly evaluate their availability, reliability, timeliness, consistency and other properties. During the production of our indicators, we are going back to primary sources, such as standardized survey microdata, accounting or API microdata. We believe that our greatest asset is our detailed map of public and confidential data. We can help designing your own private observatory that find the best value for money indicators for your professional business, policymaking, scientific or journalistic needs. We can usually find better, cheaper or more timely data, and process it for use.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Maps</title>
+      <link>/faq/data_maps/</link>
+      <pubDate>Fri, 10 Jul 2020 10:00:00 +0200</pubDate>
+      <guid>/faq/data_maps/</guid>
+      <description>&lt;p&gt;The copyright and neighboring right royalty is the wage-like earning of the music performer, the composer and producer. In popular music performers usually play their own composition and sing their own lyrics. If the musician is self-published, all the three royalties directly pay the artist’s work. If a professional publisher is helping the artist as a composer, or a record producer as a recorded performer, they usually share the respective royalty revenues. In emerging markets fewer, in mature markets more composers are represented by publishers and performers by record labels.&lt;/p&gt;
+&lt;h2 id=&#34;classification-of-industries&#34;&gt;Classification of Industries&lt;/h2&gt;
+&lt;p&gt;The nature of the creative jobs is that they contain a wide range of activities. Economists and government policymakers classify industries with the &lt;em&gt;Nomenclature statistique des activités économiques dans la Communauté européenne&lt;/em&gt;, in short, with the NACE classification in Europe. This classification is largely harmonized on UN level and can be used to compare almost all economies in the world. The NACE classification has its origins in the economic structure of the middle 20th century, and it is more appropriate for the classification of manufacturing and trading activities, such as car manufacturing, or retail sale of cars.&lt;/p&gt;
+&lt;p&gt;The music industry is not even recognized by the NACE classification. For example, musicians often perform music (NACE group 90), compose music (NACE group 90), and at the same time do sound recordings (NACE group 58) and teach music (NACE group 85). Many EU member states do not even create government economic statistics for the NACE 90 classes.&lt;/p&gt;
+&lt;p&gt;This is the main reason why music is not well represented in governmental statistics, which is mainly based on tax returns data from ‘clear’ activity groups, such as sound recordings only. Most creative enterprises, and music businesses are no excemptions, do not have a clear economic activity.&lt;/p&gt;
+&lt;h2 id=&#34;microenterprises--freelancers&#34;&gt;Microenterprises &amp;amp; Freelancers&lt;/h2&gt;
+&lt;p&gt;The music industry, for various reasons, is not part of the NACE industry, and music industry data must be mapped from different data sources.  A further difficulty is that music industry, similarly to the other creative and cultural industries, mainly works in freelancer networks and microenterprises.  All over Europe, microenterprises are exempted from many statistical reporting, and they are filing simplified tax and financial reports.&lt;/p&gt;
+&lt;p&gt;The government statistics are largely based on tax returns and other filings of corporate entities with at least 5 employees.  While most manufacturing or trading activities, or licensed service activities such as insurance or banking, are easy to classify, the creative industries are different.  &lt;strong&gt;Because most creative enterprises are smaller than 5 people, they do not file many data for the government or the tax authorities, and they often carry out heterogeneous activities&lt;/strong&gt;.  For example, the music industry is not even recognized by the NACE classification – the live music and compositions can be found in the NACE 90 class, and the sound recordings in the NACE 58 class, and many countries do not even create government economic statistics for the NACE 90 classes.&lt;/p&gt;
+&lt;h2 id=&#34;standardized-mapping&#34;&gt;Standardized mapping&lt;/h2&gt;
+&lt;p&gt;CEEMID has been mapping data sources for composer, producer and performer royalties, and other data sources since 2014, based on the standard mapping technique developed originally in the United States and later adopted to the EU ^[Hull, Geoffrey P., Thomas W. Hutchison, Richard Strasser, and Geoffrey P. Hull. 2011. &lt;em&gt;The Music Business and Recording Industry Delivering Music in the 21st Century.&lt;/em&gt; New York: Routledge; Leurdijk, Adnra, and Nieuwenhuis Ottilie. 2012. &lt;em&gt;Statistical, Ecosystems and Competitiveness Analysis of the Media and Content Industries. The Music Industry.&lt;/em&gt; 25277 EN. Edited by Jean Paul Simon. Luxembourg: Publications Office of the European Union, 2012: Joint Research Centre Institute for Prospective Technological Studies (IPTS).].&lt;/p&gt;
+&lt;p&gt;CEEMID designed and administered the world&amp;rsquo;s biggest data collection on how musicians work and earn their living.  Over the course of 6 years we collected anonymous data among musicians related to their touring habits, income, costs, recording expenses and income in various channels.&lt;/p&gt;
+&lt;p&gt;About 100 stakeholders, among them many collective management organizations helped our work.  Some collective management organizations provided us with anonymous payout lists, which was essential to validate the representativeness of our samples.  We reconstructed the density function of actual payouts, and collected data until our anonymous responses showed a very accurately similar shape.&lt;/p&gt;
+&lt;p&gt;Because the music industry all over Europe is mainly made of microenterprise and freelancers, getting an overal picture of the music industry is very difficult.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Observatories</title>
+      <link>/faq/observatories/</link>
+      <pubDate>Fri, 10 Jul 2020 10:00:00 +0200</pubDate>
+      <guid>/faq/observatories/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;A &lt;em&gt;private observatory&lt;/em&gt; is a data integration system, which automatically collects external information, processes it and professionally joins it with internal data resources.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A &lt;em&gt;collaborative observatory&lt;/em&gt; is a data integration system that has a map to collaborating institutions’s data resources, and is able to exploit their synergies by automatically combining their data, triggered by an authorization of all involved parties.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A &lt;em&gt;public observatory&lt;/em&gt; is a collaborative observatory that intends to make at least some of its data assets available as open data. 
+ode chunk to prevent printing of the R code that generated the plot.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Our observatories fulfil important functions in data collection, processing, integration, and automated modelling. We provide these services as custom software as service products in the form of 
+&lt;a href=&#34;reproducible/apps/&#34;&gt;data applications&lt;/a&gt;.  To design a good observatory that fulfils your business, policy, scientific or journalistic needs, we provide data curating as a consulting service.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Apps</title>
+      <link>/faq/apps/</link>
+      <pubDate>Fri, 10 Jul 2020 10:00:00 +0200</pubDate>
+      <guid>/faq/apps/</guid>
+      <description>&lt;h2 id=&#34;reproducible-data-retrieval&#34;&gt;Reproducible Data Retrieval&lt;/h2&gt;
+&lt;p&gt;In many consulting companies and think tanks, junior staff is downloading statistical data, reports, and other external information for later use. We believe that this approach is wasteful, error-prone, and creates huge unnecessary workload during the analysis and the supervision of the work.&lt;/p&gt;
+&lt;p&gt;Analysts usually spend at least 80% of their work with data processing steps: pulling information out from spreadsheets and resources, and try to match them. Data arriving even from respectable institutions such as the Eurostat or industry organizations need a lot of adjustment for unit of measure, regional boundary changes, decimal places, and various identifier abbreviations. These steps cannot be reproduced in a file-based, spreadsheet workflow, and they create a major bottleneck in senior staff supervision.&lt;/p&gt;
+&lt;p&gt;Our applications put the data from various sources into tidy formats (a statistical definition of well-formatted data that can easily be joined with other data tables), making sure that suitable unit and currency translations took place, the missing values are professionally interpolated, forecasted or backcasted, and the latest data revisions are available.  We provide a one-point entry of well-formatted data for further use in your team&amp;rsquo;s favorite spreadsheet or statistical applications like Excel, OpenOffice, SPSS or Stata.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Experimental &amp; Big Data Sources</title>
+      <link>/faq/experimental/</link>
+      <pubDate>Fri, 10 Jul 2020 10:00:00 +0200</pubDate>
+      <guid>/faq/experimental/</guid>
+      <description>&lt;p&gt;CEEMID was made out of necessity in EU member states when official statistics are missing key elements of the music or other creative industries.  We had been experimenting with big data sources since 2017, especially to find ways to break down statistics to regional or city level, and to find leading indictors or estimators where government statistics are not available, or available only with a very long time delay.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://webgate.ec.europa.eu/fpfis/mwikis/essnetbigdata/index.php/Main_Page&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ESSnet Big Data&lt;/a&gt; is a project within the European statistical system (ESS) jointly undertaken by 28 partners. Its objective is the integration of big data in the regular production of official statistics, through pilots exploring the potential of selected big data sources, and through building and implementing concrete applications. We are closely monitoring such developments, and aim to integrate ESSNet Big Data recommendations into the CEEMID workflow 
+&lt;a href=&#34;/publication/creating_better_2015/&#34;&gt;similarly to&lt;/a&gt; earlier ESSnet Culture recommendations.&lt;/p&gt;
+&lt;h2 id=&#34;google-trends&#34;&gt;Google Trends&lt;/h2&gt;
+&lt;p&gt;Google Trends creates a fully anonymous sample of Google search traffic. Because of the way Google allows the use of Google Trends and scales results, it is very complicated to use Google Trends across regions and countries.  However, our experience shows that Google Trends is an excellent short-term forecasting tool for ticket sales.  It also means that it can serve as a good estimator for ticket sales for regions and territories where few reliable data sources exist.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/seasonality_plot.jpg&#34; alt=&#34;CEE concert seasonality analysis&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;geolocational-data&#34;&gt;Geolocational data&lt;/h2&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/3lW8bhQ2fbY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Existing Observatories</title>
+      <link>/faq/otherobservatories/</link>
+      <pubDate>Fri, 10 Jul 2020 10:00:00 +0200</pubDate>
+      <guid>/faq/otherobservatories/</guid>
+      <description>&lt;h2 id=&#34;existing-observatories---independent-from-us&#34;&gt;Existing observatories - independent from us&lt;/h2&gt;
+&lt;p&gt;Observatories are created to permanently collect data, information, and createa  knowledge-base for research and development, science, evidence-based policymaking, usually by Consortia of business, NGO, scientific and public bodies.&lt;/p&gt;
+&lt;p&gt;We are aiming to create similar observatories, but we are in no way affiliated or connected to the following, existing observatories that we see as role models. Our mission is to serve similar observatories with research automation, making the observatory&amp;rsquo;s services less costly, more timely with higher level of quality control.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;The 
+&lt;a href=&#34;https://ec.europa.eu/digital-single-market/en/european-digital-media-observatory&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;European Digital Media Observatory&lt;/a&gt; was launched on 1 June 2020.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The 
+&lt;a href=&#34;https://www.eafo.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;European Alternative Fuels Observatory&lt;/a&gt; is an European Commission funded initiative which provides open and free information, amongst others to support Member States with the implementation of EU Directive 2014/94 on the deployment of alternative fuels infrastructure. The EAFO is maintained by the 
+&lt;a href=&#34;https://www.eafo.eu/knowledge-center/consortium&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EAFO Consortium&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The 
+&lt;a href=&#34;https://www.energypoverty.eu/about/about-observatory&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EU Energy Poverty Observatory&lt;/a&gt; (EPOV) is an initiative by the European Commission to help Member States in their efforts to combat energy poverty. It exists to improve the measuring, monitoring and sharing of knowledge and best practice on energy poverty. The EU Energy Poverty Observatory (EPOV) has been developed by a consortium of 13 organisations, including universities, think tanks, and the business sector.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The 
+&lt;a href=&#34;https://www.clustercollaboration.eu/eu-initiatives/european-cluster-observatory&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;European Observatory for Clusters and Industrial Change&lt;/a&gt; to help Europe&amp;rsquo;s regions and countries in designing better and more evidence-based cluster policies and initiatives. This platform is funded by the EU programme for the Competitiveness of Enterprises and SMEs (COSME).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The 
+&lt;a href=&#34;http://www.euro.who.int/en/about-us/partners/observatory&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;European Observatory on Health Systems and Policies&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The 
+&lt;a href=&#34;https://www.feantsaresearch.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;European Observatory on Homelessness&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The 
+&lt;a href=&#34;https://euipo.europa.eu/ohimportal/en/web/observatory/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;European Observatory on Infringements of Intellectual Property&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The 
+&lt;a href=&#34;http://www.clusterobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cluster Observatory&lt;/a&gt; of the Center for Strategy and Competitiveness at the Stockholm School of Economics, which started out originally as the European Cluster Observatory.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The 
+&lt;a href=&#34;https://www.obs.coe.int/en/web/observatoire/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;European Audiovisual Observatory&lt;/a&gt; of the Council of Europe works in a more complicated environment, as it is created by EU member states and non-member states before the EU was born with the Maastricht Treaty.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The 
+&lt;a href=&#34;http://observatory.culturepartnership.eu/en/page/observatory&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eastern Partnership Cultural Observatory&lt;/a&gt; has an out of EU reach.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Harmonized Surveys</title>
+      <link>/faq/surveys/</link>
+      <pubDate>Fri, 10 Jul 2020 10:00:00 +0200</pubDate>
+      <guid>/faq/surveys/</guid>
+      <description>&lt;p&gt;We are designing survey questionnaires and create data integration code for harmonized surveys. Harmonized surveys are asking the very same questions, and they can be integrated. Our surveys planned for 2020 in Slovakia for example have comparative data from earlier years in Slovakia, but also from its neighbouring countries and Germany or France.&lt;/p&gt;
+&lt;p&gt;The core of our survey harmonization software is open source and is under peer-review, it can be found on 
+&lt;a href=&#34;https://retroharmonize.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;retroharmonize.dataobservatory.eu&lt;/a&gt; and 
+&lt;a href=&#34;https://eurobarometer.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eurobarometer.dataobservatory.eu/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The very technical terms of &lt;em&gt;ex ante&lt;/em&gt; , &lt;em&gt;ex post&lt;/em&gt; or retrospective harmonization hide opportunities that can significantly increase the value for money in empirical market research, potentially increasing the value of a high-cost, high-value survey to multiple times of its euro value.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;We can usually compare the basic values, such as concert visiting likelihood in the past – for example, I surveyed Hungary and Slovakia first in 2015, but immediately could compare with 2013 and 2007 data.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;/gif/concert_hu_animation.gif&#34; alt=&#34;Harmonized concert visiting questions over time&#34;&gt;&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;We get international benchmarks for free, for example, German, Czech, French data.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;/img/cee_concert_demography_15x10.jpg&#34; alt=&#34;Harmonized concert visiting questions accross countries&#34;&gt;&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Using the hierarchical nature of our surveys, we can make reasonable estimates of details that we only in one or few countries for the whole EU.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The value added to our surveys are building on our investment into a reproducible research infrastructure that is able to connect to millions of interview transcriptions programatically.&lt;/p&gt;
+&lt;p&gt;We are making critical elements of our software open source (for non-commercial use), because we believe that the key elements of reproducibility, particularly replicability and confirmability rely on a full openness about our data processing and data transformations.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The website of the  
+&lt;a href=&#34;http://retroharmonize.satellitereport.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;retroharmonize&lt;/a&gt; package&lt;/li&gt;
+&lt;li&gt;The website of the 
+&lt;a href=&#34;http://eurobarometer.danielantal.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eurobarometer&lt;/a&gt; package&lt;/li&gt;
+&lt;li&gt;The website of the 
+&lt;a href=&#34;http://regions.danielantal.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;regions&lt;/a&gt; package&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;cultural-access-and-participation-surveys&#34;&gt;Cultural Access and Participation surveys&lt;/h3&gt;
+&lt;p&gt;Cultural Access and Participation Surveys are standardized surveys designed to measure various market-based and non-market based (amateur, liturgical, etc.) cultural activities, including concerts, streaming subscriptions, singing, etc.  They are based on various quantative sociological models and had been standardized by the Eurostat working group 
+&lt;a href=&#34;http://ec.europa.eu/assets/eac/culture/library/reports/ess-net-report_en.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ESSNet-Culture&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The CEEMID CAP surveys are usually live interviews that allow cross-country comparison, and they are used both for market forecasting, market analytics, royalty and compensation value setting.&lt;/p&gt;
+&lt;h2 id=&#34;cap-europe-2013&#34;&gt;CAP Europe 2013&lt;/h2&gt;
+&lt;p&gt;We use the data of the CAP 2013 survey for cross-country comparisons and for model calibration, because it includes all EU countries.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/cee_concert_demography_16x9.jpg&#34; alt=&#34;Comparative Demography with CAP EU 2013&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;cap-europe-2007&#34;&gt;CAP Europe 2007&lt;/h2&gt;
+&lt;p&gt;We use the data of the CAP 2007 survey for understanding cross-country dynamics and long-term changes, because it includes all EU countries. For example, we can determine in which countries visit &lt;code&gt;Generation Z&lt;/code&gt; 20-years-old people more concerts or cinemas than their &lt;code&gt;Generation X&lt;/code&gt; and &lt;code&gt;Generation Y&lt;/code&gt; peers when they were 20-years-old.&lt;/p&gt;
+&lt;h2 id=&#34;cap-hungary-2019&#34;&gt;CAP Hungary 2019&lt;/h2&gt;
+&lt;p&gt;The CAP Hungary 2019 survey fieldwork is under way.&lt;/p&gt;
+&lt;h2 id=&#34;cap-hungary-2018&#34;&gt;CAP Hungary 2018&lt;/h2&gt;
+&lt;p&gt;The CAP Hungary 2018 survey was designed for a full market analysis in Hungary on the music and audiovisual sectors, particularly to calculate the equitable remuneration for private copying, the value transfer to YouTube and other media platforms, and the development of the audidence for Hungarian films.&lt;/p&gt;
+&lt;h2 id=&#34;cap-hungary-2017&#34;&gt;CAP Hungary 2017&lt;/h2&gt;
+&lt;p&gt;The CAP Hungary 2017 survey was designed for a full market analysis in Hungary on the music and audiovisual sectors, particularly to calculate the equitable remuneration for private copying. A separate mini-CAP survey was designed to capture the value transfer to YouTube, which was later incorporated into the CAP Hungary 2018-2019 surveys.&lt;/p&gt;
+&lt;h2 id=&#34;cap-croatia-2017&#34;&gt;CAP Croatia 2017&lt;/h2&gt;
+&lt;p&gt;The CAP Croatia 2017 survey was designed for the creation of the Private Copying in Croatia report, which is prepared for the forthcoming Croatian Copyright legislation changes on private copying and the value gap.  The survey was conducted by Hendall on a sample of 800 respondents.&lt;/p&gt;
+&lt;h2 id=&#34;cap-slovakaia-2015&#34;&gt;CAP Slovakaia 2015&lt;/h2&gt;
+&lt;p&gt;The CAP Slovakia 2015 survey was designed as a part of a larger survey that also incorporated attitudes towards Slovak culture and non-standard survey questions designed by Focus.  The CAP Survey was used to create the 
+&lt;a href=&#34;https://danielantal.eu/publication/slovak_music_industry_2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slovak Music Industry Report&lt;/a&gt; and to make various legislative impact assessment presentations during the modification of the Slovak Copyright Law on private copying and radio quotas.&lt;/p&gt;
+&lt;h2 id=&#34;cap-hungary-2015&#34;&gt;CAP Hungary 2015&lt;/h2&gt;
+&lt;p&gt;The CAP Hungary 2015 survey was designed for a full market analysis in Hungary on the music and audiovisual sectors. It was used in the 
+&lt;a href=&#34;http://www.gvh.hu/sajtoszoba/sajtokozlemenyek/2016_os_sajtokozlemenyek/az_ures_hordozoi_dij_fogasztoi_visszaigenylesenek_.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;competition authority case&lt;/a&gt; related to the Hungarian private copying regime and in a consulting project related to better finding the audience of Hungarian cinemas in their domestic theatrical market.&lt;/p&gt;
+&lt;p&gt;The survey was conducted by TNS Hoffmann (currently named Kantar Hoffmann.)&lt;/p&gt;
+&lt;h2 id=&#34;cap-hungary-2014&#34;&gt;CAP Hungary 2014&lt;/h2&gt;
+&lt;p&gt;The CAP Hungary 2014 was a non-representative, large-sample online survey to pilot the later surveys.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Apps</title>
+      <link>/faq/integration/</link>
+      <pubDate>Fri, 10 Jul 2020 10:00:00 +0200</pubDate>
+      <guid>/faq/integration/</guid>
+      <description>&lt;h2 id=&#34;data-integration-applications&#34;&gt;Data integration applications&lt;/h2&gt;
+&lt;p&gt;Data integration applications automatically collect data from open data, various APIs, industry partners, and our clients internal system. They process them using valid interpolation, forecasting, backcasting, currency translation, unit conversion, imputation, avoiding error-prone, difficult statistical work to put the data in its best form. We make them available in the forms of charts, maps, and simple, easy-to use spreadsheets that adhere to the statistical definition of tidy data, i.e. data that is easy to join in spreadsheet models or in relational databases.&lt;/p&gt;
+&lt;p&gt;We believe in ongoing data collection. If you have needed a certain data at least twice in your organization, we believe the best to start recording the information permanently. Instead of acquiring, downloading, buying data when you need it, we offer a better value for automatic collection.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Journalism</title>
+      <link>/faq/journalism/</link>
+      <pubDate>Fri, 10 Jul 2020 10:00:00 +0200</pubDate>
+      <guid>/faq/journalism/</guid>
+      <description>&lt;p&gt;For data journalism, two cornerstones of reproducible research, namely reviewability by editors and confirmability by other sources are essential requirements.  Our data integration system can produce thousands of reviewable and confirmable facts.&lt;/p&gt;
+&lt;p&gt;Open data means that there is too much data and information available as business, scientific or journalistic, and we believe that our data sources should have scientific and journalistic corroboration for business uses, too.&lt;/p&gt;
+&lt;p&gt;We started a discussion with a premier data journalism team to review how our automated data products could fit into their journalistic production workflow.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Localization</title>
+      <link>/faq/localization/</link>
+      <pubDate>Fri, 10 Jul 2020 10:00:00 +0200</pubDate>
+      <guid>/faq/localization/</guid>
+      <description>&lt;h2 id=&#34;live-localization&#34;&gt;Live Localization&lt;/h2&gt;
+&lt;p&gt;Our 
+&lt;a href=&#34;https://satellitereport.com/reproducible/reports/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;live reporting technology&lt;/a&gt; is particularly suitable for international localization projects. We make sure that all non-textual elements, such as graphs, charts, bibliographies, footnotes are always updated in all language variants.&lt;/p&gt;
+&lt;p&gt;Often the presence of high labour-input tables and charts are the barriers to otherwise valuable language localizations. Our technology integrates the text with the data ingestion pipeline, the analysis and visualization and provides a good platform to automate this process, making newsletters, dashboards, interactive visualization open for multi-language use.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reports</title>
+      <link>/faq/reports/</link>
+      <pubDate>Fri, 10 Jul 2020 10:00:00 +0200</pubDate>
+      <guid>/faq/reports/</guid>
+      <description>&lt;h2 id=&#34;live-reports&#34;&gt;Live Reports&lt;/h2&gt;
+&lt;p&gt;Our live reports are self-refreshing business or policy reports, regulatory filings, reports to repeating management board committees and other similar uses. They are also very well placed as technical annexes of lengthy, complex policy or consulting documents.  They automatically update all charts, tables, data reference sentences, bibliographical and data citation annexes, making sure that your team always works with the best available data, and that all the documentation and presentation work is under reviewable, reproducible, confirmable and even auditable control.&lt;/p&gt;
+&lt;p&gt;Any newsletter, committee review document, regulatory filing that is periodical and is based on many data sources is a good candidate for our live reports. Complex consulting and research documents should be put on a reproducible footing even if they are not repeating, because the process makes documentation and validation fully automatic, saving countless senior oversight hours. Such live documents are very good candidates for re-use in later projects, too. Our 
+&lt;a href=&#34;http://ceereport2020.ceemid.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Central &amp;amp; Eastern European Music Industry Report&lt;/a&gt;, or the 
+&lt;a href=&#34;https://danielantal.eu/publication/slovak_music_industry_2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slovak Music Industry Report&lt;/a&gt; are fully automated and can be refreshed any time.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open Data &amp; Re-use Of Public Sector Information</title>
+      <link>/faq/psi/</link>
+      <pubDate>Fri, 10 Jul 2020 10:00:00 +0200</pubDate>
+      <guid>/faq/psi/</guid>
+      <description>&lt;p&gt;The European governments, and the EU itself, collects information that is worth billions of euros for the commercial and non-governmental sector. While PSI is generally free, or very cheap in the EU, the re-use of these information sources usually requires deep knowledge and further investment, given that these public information sources were never designed for the secondary public or commercial need.&lt;/p&gt;
+&lt;p&gt;Satellite Report founder Daniel Antal has been involved in the re-use of public sector information since 2003, when the EU first opened government sources to the business sector on a European level. Satellite Report builds on 17 years of experience with accessing various information sources originally collected by the public sector.&lt;/p&gt;
+&lt;p&gt;The re-use of public sector information directive which had been replaced in 2019 with the 
+&lt;a href=&#34;https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1561563110433&amp;amp;uri=CELEX:32019L1024&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EU Open Data Directive&lt;/a&gt;, and it allows a very wide access to data with a market value of tens of billions of euros.&lt;/p&gt;
+&lt;p&gt;There is no free lunch. Using these data sources makes avoids the data collection cost, but processing datasets originally created for governmental or scientific use requires a very significant investment. Our statistica software that helps in this process has been developed over years.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;We are creating thousans of music and audiovisual industry related indicators from raw data collected for other purposes, such as inflation measurement or public policy assessment in the EU using our proprietary software and some open source software.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Our economic impact assessment tool is, for example, builds heavily on our 
+&lt;a href=&#34;http://iotables.ceemid.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;iotables software&lt;/a&gt; that we released as an open source software within the framework of the 
+&lt;a href=&#34;http://ropengov.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rOpenGov&lt;/a&gt; collaboration.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Our Demo Observatories</title>
+      <link>/faq/demoobservatories/</link>
+      <pubDate>Fri, 10 Jul 2020 10:00:00 +0200</pubDate>
+      <guid>/faq/demoobservatories/</guid>
+      <description>&lt;h2 id=&#34;our-demo-observatories&#34;&gt;Our demo observatories&lt;/h2&gt;
+&lt;p&gt;Our apps can integrate your internal financial or transactional data with thousands of external indicators from official statistics to satellite sensory data.  We make sure that your organization always has valid KPIs that are aware of the changes of your working environment.&lt;/p&gt;
+&lt;p&gt;Our work is historically based on CEEMID, that integrated the data of about 100 music organizations with various other data sources, and created about 2000 statistical indicators for better pricing, advocating for better economic and tax policies, better granting or better marketing of music. CEEMID was constructed from the ad-hoc contributions of users, and was never meant to be public.&lt;/p&gt;
+&lt;p&gt;we are currently bringing out to the ligth in full transparency, with open code and open data several demo observatories for a permanent observation of social and economic data in an automated collection, processing, validation, documentation and publishing workflow. Most of this know-how was developed in CEEMID, but it is not specific to the music industry. We present them as a proof of concept for the best practices of our  research automation.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A demonstration and proof of concept that a modern, European data observatory can be in large part automated, and adhere to the highest standards of statistical disclosure, reproducible research and open policy analysis (see \ref(opa) 
+&lt;a href=&#34;#opa&#34;&gt;Evidence-based, Open Policy Analysis&lt;/a&gt;).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;musicdemoobservatoryeu&#34;&gt;music.demoobservatory.eu&lt;/h3&gt;
+&lt;p&gt;Currently the website is updated about every day. Each time a refreshment is made, the entire website in  
+&lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;html&lt;/a&gt;, the downloadable data catalogue in 
+&lt;a href=&#34;https://music.dataobservatory.eu/music_observatory.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pdf&lt;/a&gt; and 
+&lt;a href=&#34;https://music.dataobservatory.eu/music_observatory.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;epub ebook&lt;/a&gt; is re-created with new data tables, latest citation information and visualizations.  Unfortunately, during these daily updates the 
+&lt;a href=&#34;https://music.dataobservatory.eu/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;music.dataobservatory.eu&lt;/a&gt; goes blank for a few minutes &amp;mdash; we are working on a solution to avoid this inconvenience and schedule updates for late night hours (in Europe.)&lt;/p&gt;
+&lt;p&gt;We believe that a modern data observatory must improve how evidence is created and used in policy reports, and pass on the efficiency gains from increasing reproducibility and automation, therefore we pledge that the 
+&lt;a href=&#34;https://music.dataobservatory.eu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;music.dataobservatory.eu&lt;/a&gt; will comply with the 
+&lt;a href=&#34;https://www.bitss.org/opa/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Policy Analysis&lt;/a&gt; standards developed by the 
+&lt;a href=&#34;https://www.bitss.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Berkeley Initiative for Transparency in the Social Sciences&lt;/a&gt; &amp;amp; 
+&lt;a href=&#34;https://cega.berkeley.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Center for Effective Global Action&lt;/a&gt;. These standards are applied by the World Bank.&lt;/p&gt;
+&lt;h3 id=&#34;in-development&#34;&gt;In development&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;With our partners we are developing a similar demonstration for the broader cultural, creative and copyright-based industries, which will be revealed until 10 September.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;We are exploring the ideas of future data needs of several industries and policy areas with our partners.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Do you have an idea? Let us know!&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

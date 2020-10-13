@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>reprodubile-research | Creative Data Observatories</title>
+    <link>/tag/reprodubile-research/</link>
+      <atom:link href="/tag/reprodubile-research/index.xml" rel="self" type="application/rss+xml" />
+    <description>reprodubile-research</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 26 Aug 2019 08:00:00 +0200</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>reprodubile-research</title>
+      <link>/tag/reprodubile-research/</link>
+    </image>
+    
+    <item>
+      <title>Surveys</title>
+      <link>/project/music_observatory/</link>
+      <pubDate>Mon, 26 Aug 2019 08:00:00 +0200</pubDate>
+      <guid>/project/music_observatory/</guid>
+      <description>&lt;p&gt;The most important technical guideline on cultural statistics is the &lt;em&gt;Final Report of the Woking Group European Statistical System Network on Culture&lt;/em&gt; (in short: ESSnet-Culture) [@frank_guy_essnet-culture_2012].&lt;/p&gt;
+&lt;p&gt;ESSnet-Culture gave a thorough overview of cultural data sources, guidelines on standardizing data, and a technical definition of the domain, including an exact mapping of cultural and creative activities and occupations to statistical nomenclatures.&lt;/p&gt;
+&lt;h2 id=&#34;icet&#34;&gt;ICET model&lt;/h2&gt;
+&lt;p&gt;Cultural participation extends beyond the market-oriented forms of &amp;ldquo;cultural consumption&amp;rdquo; and include non-market forms, such as private copying or liturgical events.&lt;/p&gt;
+&lt;p&gt;The ESSnet-Culture working group endorsed the ICET model of quantifying cultural participation.   The aim of the ICET model is to create representative surveys, but it is a very good framework to join survey data with other data sources.  For example, the music industry and the audiovisual sector usually has extensive transaction data on most market-oriented activities.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Information&lt;/em&gt;: to seek, collect and spread information on culture;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Communication and community&lt;/em&gt;: to interact with others on cultural issues and to participate in cultural networks;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Enjoyment and expression&lt;/em&gt;: to enjoy exhibitions, art performances and other forms of cultural expression, to practice the arts for leisure, and to create online content;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Transaction&lt;/em&gt;: to buy art and to buy or reserve tickets for shows.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The generic questionnaire was developed by Jos de Haan and Andries van den Broek at the Netherlands Institute for Social Research, originally for extending cultural participation surveys to digital forms of culture [@de_haan_virtuele_2008; @de_haan_nowadays_2012]. This methodology was endorsed by ESSnet-Culture, and a rather detailed guideline can be found in the report of the &lt;em&gt;Task Force on Cultural Practices And Social Aspects Of Culture&lt;/em&gt;, in the ESSNet-Culture technical report (in general: pp. 236-242, survey methodology and harmonization pp. 242-255, recommendations: pp. 273-274; with examples on how to use the question hierarchy on pp. 397-417.)&lt;/p&gt;
+&lt;h2 id=&#34;target-population&#34;&gt;Target Population&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;When the target population is representative members of the general public, such as in the case of audience surveys, we use 
+&lt;a href=&#34;#cap&#34;&gt;CAP&lt;/a&gt; surveys.&lt;/li&gt;
+&lt;li&gt;When the target population is a professional or microenterprise group, such as performing artists or record labels, we use our 
+&lt;a href=&#34;#professional&#34;&gt;Professional group surveys&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;cap&#34;&gt;CAP surveys&lt;/h2&gt;
+&lt;p&gt;ESSnet-Culture has reviewed several pan-European CAP manifestations, and based on the recommendations, further CAP surveys were carried out in the European Union.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;European CAP 2001: Europeans&amp;rsquo; Participation in Cultural Activities (2001)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;CEE CAP 2003:  Candidate Countries Eurobarometer 2003.1 New Europeans and Culture, all later EU member states of the EU27, except for Croatia, but including Turkey.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;European CAP 2006:  Within the EU-SILC Module 2006 On Social Participation.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;European CAP 2007:  Includes the EU27 + United Kingdom but not Croatia, Romania and Bulgaria, conducted within Eurobarometer European Cultural Values (2007)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;European CAP 2013: Includes the EU27 + Croatia (only few weeks before the country&amp;rsquo;s accession.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;European CAP 2015: Within the EU-SILC Module 2015 On Social/Cultural Participation And Material Deprivation.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Based on these guidelines and examples, we have carried out several in-depth music and audiovisual domain oriented CAP surveys:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Hungary CAP 2014: a large, but non-representative online sample to test the methodology&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Hungary CAP 2015:&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Slovakia CAP 2015:&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Croatia CAP 2017:&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Hungary CAP 2017:&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Hungary CAP 2018:&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Hungary CAP 2019:&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Slovakia CAP 2020:&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;professional&#34;&gt;Professional Group Surveys&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Observatory</title>
+      <link>/project/observatory/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0100</pubDate>
+      <guid>/project/observatory/</guid>
+      <description>&lt;p&gt;An &lt;strong&gt;observatory&lt;/strong&gt; is a location used for observing terrestrial or celestial events. The European Commission and the Council of Europe are supporting numerous data observatories to support research and development and evidence-based policymaking. We are creating automated observatories following the best practices of reproducible research.&lt;/p&gt;
+&lt;p&gt;Satellite Report grew out of a such an observatory, 
+&lt;a href=&#34;https://ceemid.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CEEMID&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;how-to-start-a-data-observatory&#34;&gt;How To Start A Data Observatory?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;A &lt;strong&gt;private observatory&lt;/strong&gt; is a data integration system, which automatically collects external information, processes it and professionally joins it with internal data resources. We offer this to 
+&lt;a href=&#34;#business&#34;&gt;business&lt;/a&gt;, 
+&lt;a href=&#34;#science&#34;&gt;scientific research&lt;/a&gt;, 
+&lt;a href=&#34;#ngo&#34;&gt;think tank and NGO&lt;/a&gt; and 
+&lt;a href=&#34;#journalism&#34;&gt;journalism&lt;/a&gt; partners.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A &lt;strong&gt;collaborative observatory&lt;/strong&gt; is a data integration system that has a map to collaborating institutions’s data resources, and is able to exploit their synergies by automatically combining their data, triggered by an authorization of all involved parties. We offer this to Consortia of various entities. Daniel&amp;rsquo;s 
+&lt;a href=&#34;https://danielantal.eu/project/ceemid/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CEEMID project&lt;/a&gt; developed since 2014 is a good example of a collaborative observatory.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A &lt;strong&gt;public observatory&lt;/strong&gt; is a collaborative observatory that intends to make at least some of its data assets available as open data. ode chunk to prevent printing of the R code that generated the plot. We offer this for the European Union and its Consortia. 
+&lt;a href=&#34;https://documentation.satellitereport.com/index.php?title=Observatory&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;See some observatories »&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Our observatories fulfil important functions in data collection, processing, integration, and automated modelling. We provide these services as custom software as service products in the form of data applications. To design a good observatory that fulfils your business, policy, scientific or journalistic needs, we provide data curating as a consulting service.&lt;/p&gt;
+&lt;p&gt;A few public observatories:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;The 
+&lt;a href=&#34;https://www.eafo.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;European Alternative Fuels Observatory&lt;/a&gt; is an European Commission funded initiative which provides open and free information, amongst others to support Member States with the implementation of EU Directive 2014/94 on the deployment of alternative fuels infrastructure. The EAFO is maintained by the 
+&lt;a href=&#34;https://www.eafo.eu/knowledge-center/consortium&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EAFO Consortium&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The 
+&lt;a href=&#34;https://www.energypoverty.eu/about/about-observatory&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EU Energy Poverty Observatory&lt;/a&gt; (EPOV) is an initiative by the European Commission to help Member States in their efforts to combat energy poverty. It exists to improve the measuring, monitoring and sharing of knowledge and best practice on energy poverty, and it is developed by a consortium of universities, think tanks, and the business sector.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The 
+&lt;a href=&#34;https://www.clustercollaboration.eu/eu-initiatives/european-cluster-observatory&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;European Observatory for Clusters and Industrial Change&lt;/a&gt; to help Europe&amp;rsquo;s regions and countries in designing better and more evidence-based cluster policies and initiatives. This platform is funded by the EU programme for
+the Competitiveness of Enterprises and SMEs (COSME).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The 
+&lt;a href=&#34;http://www.clusterobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cluster Observatory&lt;/a&gt; of the Center for Strategy and Competitiveness at the Stockholm School of Economics, which started out originally as the European Cluster Observatory.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;reproducible-research&#34;&gt;Reproducible research&lt;/h2&gt;
+&lt;p&gt;We believe that a modern data observatory should be as much reproducible and automated as possible.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Following reproducible research principles leads to higher data quality, especially if it is based on open-source code.&lt;/li&gt;
+&lt;li&gt;Reproducible data can be automatically documented, which makes teamwork, collaboration and instant use far more efficient.&lt;/li&gt;
+&lt;li&gt;Reproducible research products offer far more efficient supervision and audit.  Quality control is cheaper and easier.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;open-source-open-data-open-collaboration&#34;&gt;Open source, open data, open collaboration&lt;/h2&gt;
+&lt;p&gt;In the EU, open data is governed by the 
+&lt;a href=&#34;https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1561563110433&amp;amp;uri=CELEX:32019L1024&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Directive on open data and the re-use of public sector information - in short: Open Data Directive (EU) 2019 / 1024&lt;/a&gt;. It entered into force on 16 July 2019. It replaces the 
+&lt;a href=&#34;https://eur-lex.europa.eu/legal-content/en/ALL/?uri=CELEX:32003L0098&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Public Sector Information Directive&lt;/a&gt;, also known as the ‘PSI Directive’ which dated from 2003 and was subsequently amended in 2013. The public sector offers tens of billions&amp;rsquo; euro worth data &amp;mdash; but without a free lunch.  While the data is available free or at marginal cost, it is processed to the needs of public authorities, public services, and require special know-how to be put to a secondary business or research use. Our founder, 
+&lt;a href=&#34;https://satellitereport.com/author/daniel/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel&lt;/a&gt;, has been involved in Open Data and PSI since 2003. Our expertise guarrantee that in the field of economics, finance, social sciences, and most policy areas your observatory starts with hundreds, or even thousands of re-used public sector indicators, often with a decade-long or even longer history.&lt;/p&gt;
+&lt;p&gt;We use the open source 
+&lt;a href=&#34;https://documentation.ceemid.eu/index.php?title=R_%28programming_language%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;statistical programming language R&lt;/a&gt;, and various open source R programs.  We also release some of our mission-critical code developed to create business and policy indicators &amp;mdash; see 
+&lt;a href=&#34;https://satellitereport.com/publication/eurobarometer_2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eurobarometer&lt;/a&gt;, 
+&lt;a href=&#34;https://satellitereport.com/publication/iotables_2018/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;iotables&lt;/a&gt;, 
+&lt;a href=&#34;https://satellitereport.com/publication/regions_2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;regions&lt;/a&gt;, 
+&lt;a href=&#34;http://retroharmonize.satellitereport.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;retroharmonize&lt;/a&gt;. Our important code goes through anonymous peer-review, and open for external review, audit. For example, this allowed us to compare test results on calculating economic impact indicators for the creative industries and other industries with the 
+&lt;a href=&#34;http://iotables.ceemid.eu/articles/united_kingdom_2010.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UK statistical office&lt;/a&gt;. You can even modify our code &amp;ndash; you just cannot copyright and close it for commercial use. In our view, this guarrantees the highest quality, but it also gives assurrances of transparency and makes vendor lock-in impossible. While developing these packages requires our special knowledge, their rich and peer-reviwedd documentation makes sure that you can always find a team member, or hire a data analyst who can work with them without us.&lt;/p&gt;
+&lt;p&gt;The use of open source software and the open source R statistical language allows a continuous peer-review of data ingestion, processing, corrections and indicator creation by statisticians, data scientists and academics.  Statistical products of national statistical offices, sometimes Eurostat itself, not to mention data providers that are not part of the system of national statistical offices, such as the European Audiovisual Observatory, are plagued with data errors that are corrected and amended relatively slowly.&lt;/p&gt;
+&lt;h2 id=&#34;data-integration-instead-of-centralisation&#34;&gt;Data integration instead of centralisation&lt;/h2&gt;
+&lt;p&gt;Our observatories by design are flexible and decentralized. Our continuous 
+&lt;a href=&#34;https://documentation.ceemid.eu/index.php?title=Main_Page#Data_Integration&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data integration&lt;/a&gt; allows to join and publish any data the observatory and its member have access to, and have rights and intentions to share or publish. We only keep metadata, i.e. a &amp;lsquo;data map&amp;rsquo; to make sure that whatever the Observatory&amp;rsquo;s members want to share or publish is always automatically available for processing and publication.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 4.5.0">
+  <meta name="generator" content="Source Themes Academic 4.8.0">
 
   
 
@@ -21,14 +21,14 @@
   
   
 
-  <meta name="author" content="Daniel Antal, CFA">
+  <meta name="author" content="Creative Observatories">
 
   
   
   
     
   
-  <meta name="description" content="Music Data Analyst">
+  <meta name="description" content="Blog about music, data and lyrics.">
 
   
   <link rel="alternate" hreflang="en-us" href="/">
@@ -39,7 +39,10 @@
   
   
   
-  <meta name="theme-color" content="#2962ff">
+  <meta name="theme-color" content="#4caf50">
+  
+
+  
   
 
   
@@ -48,7 +51,7 @@
   
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
@@ -60,8 +63,8 @@
       
       
         
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/github.min.css" crossorigin="anonymous" title="hl-light">
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
         
       
     
@@ -70,6 +73,118 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
     
 
+    
+
+    
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js" integrity="sha256-Md1qLToewPeKjfAHU1zyPwOutccPAm5tahnaw7Osw0A=" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+
+      
+      
+
+      
     
 
   
@@ -91,19 +206,58 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-180460335-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-180460335-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
   
-  <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Data &amp; Lyrics">
+  <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Creative Data Observatories">
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/img/icon-32.png">
-  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+  <link rel="icon" type="image/png" href="/images/icon_hu02d4214244b58f4d9dfd2bf839db7a24_35739_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu02d4214244b58f4d9dfd2bf839db7a24_35739_192x192_fill_lanczos_center_2.png">
 
   <link rel="canonical" href="/">
 
+  
   
   
   
@@ -114,13 +268,13 @@
   
   <meta property="twitter:card" content="summary">
   
-  <meta property="og:site_name" content="Data &amp; Lyrics">
+  <meta property="og:site_name" content="Creative Data Observatories">
   <meta property="og:url" content="/">
-  <meta property="og:title" content="Data &amp; Lyrics">
-  <meta property="og:description" content="Music Data Analyst"><meta property="og:image" content="/img/icon-192.png">
-  <meta property="twitter:image" content="/img/icon-192.png"><meta property="og:locale" content="en-us">
+  <meta property="og:title" content="Creative Data Observatories">
+  <meta property="og:description" content="Blog about music, data and lyrics."><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
+  <meta property="twitter:image" content="img/map[gravatar:%!s(bool=false) shape:circle]"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2030-06-01T13:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2020-09-25T15:31:39&#43;02:00">
   
 
   
@@ -140,7 +294,20 @@
 
 
   
-
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "@id": "/",
+  "name": "Data \u0026 Lyrics",
+  "logo": "/images/icon_hu02d4214244b58f4d9dfd2bf839db7a24_35739_192x192_fill_lanczos_center_2.png",
+  
+  
+  
+  
+  "url": "/"
+}
+</script>
 
   
 
@@ -148,10 +315,13 @@
   
 
 
+  
 
 
 
-  <title>Data &amp; Lyrics</title>
+
+
+  <title>Creative Data Observatories</title>
 
 </head>
 
@@ -190,24 +360,41 @@
 
 
   
-<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0 compensate-for-scrollbar" id="navbar-main">
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
   <div class="container">
 
     
-      <a class="navbar-brand" href="/">Data &amp; Lyrics</a>
-      
-      <button type="button" class="navbar-toggler" data-toggle="collapse"
-              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
-        <span><i class="fas fa-bars"></i></span>
-      </button>
-      
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/">Creative Data Observatories</a>
+    </div>
+    
 
     
-    <div class="collapse navbar-collapse" id="navbar">
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">Creative Data Observatories</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
 
       
-      
-      <ul class="navbar-nav mr-auto">
+      <ul class="navbar-nav d-md-inline-flex">
         
 
         
@@ -223,17 +410,10 @@
         
         
         
-        
-          
-          
-          
-            
-          
-          
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#posts" data-target="#posts"><span>Posts</span></a>
+          <a class="nav-link " href="/post/"><span>Blog</span></a>
         </li>
 
         
@@ -262,65 +442,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#projects" data-target="#projects"><span>Projects</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#featured" data-target="#featured"><span>Publications</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#talks" data-target="#talks"><span>Talks</span></a>
+          <a class="nav-link " href="/#featured" data-target="#featured"><span>Initiatives</span></a>
         </li>
 
         
@@ -342,7 +464,27 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/courses/"><span>Courses</span></a>
+          <a class="nav-link " href="/team/"><span>Team</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/faq/"><span>FAQ</span></a>
         </li>
 
         
@@ -377,37 +519,63 @@
         
         
 
-      
-      </ul>
-      <ul class="navbar-nav ml-auto">
-      
-
         
 
         
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
         <li class="nav-item">
-          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+          <a class="nav-link " href="/#about" data-target="#about"><span>Home</span></a>
         </li>
-        
 
         
-
-        
-        <li class="nav-item">
-          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
-        </li>
         
 
+      
+
+        
       </ul>
-
     </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      <li class="nav-item">
+        <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+
+    </ul>
+
   </div>
 </nav>
 
 
   
-
-
 
 
 
@@ -429,6 +597,166 @@
 
 
 
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="about" class="home-section wg-about   "  >
+    <div class="container">
+      
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+<div class="row">
+  <div class="col-12 col-lg-4">
+    <div id="profile">
+
+      
+      
+      <img class="avatar avatar-circle" src="/author/avatar_hufe0a7a2a3355f5fe8c714916a6e04471_31278_270x270_fill_q90_lanczos_center.jpg" alt="Creative Observatories">
+      
+
+      <div class="portrait-title">
+        <h2>Creative Observatories</h2>
+        
+
+        
+        <h3>
+          <a href="https://dataobservatory.eu/team/" target="_blank" rel="noopener">
+          <span>Reprex B.V.</span>
+          </a>
+        </h3>
+        
+      </div>
+
+      <ul class="network-icon" aria-hidden="true">
+        
+        
+        
+        
+          
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a href="/#contact" >
+            <i class="fas fa-envelope big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
+          
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a href="https://github.com/antaldaniel" target="_blank" rel="noopener">
+            <i class="fab fa-github big-icon"></i>
+          </a>
+        </li>
+        
+      </ul>
+
+    </div>
+  </div>
+  <div class="col-12 col-lg-8">
+
+    
+    <h1>About</h1>
+
+    <p>Reprex B.V. is a reproducible research company.  We believe that whenever a business or policy consulting team, a research institute, or data journalism team has already used, formatted, and analyzed data from an external source at least twice, this procedure should be automated. This makes it error-free, well documented, cheap and re-useable. Furthermore, making data collection ongoing instead being ad hoc saves data acquisition, validation and supervision costs. We would like to help medium-sized business, policy, NGO, scientific and data journalism organizations in this,  who do not have the institutional capacity to hire data scientists and engineers.</p>
+<p>Our solutions cover automating data acquisition, processing, validation, auditing, documentation, visualization and presentation workflows, so that they can focus on what humans are best: making sense of the data.</p>
+<p><code>Reprex</code> means <code>reproducible example</code> in data science.  When you are stuck with a problem, creating a reproducible example allows other computer scientists, statisticians, programmers or data users to solve it. In 80% of the cases, you usually find the solution while creating a generalized example &ndash;  which also means that you never have to repeat this task again.  If you have ever downloaded, formatted, visualized, cited a datasource twice in your work, there is a high chance that you will need it again. We would like to make this process automatic, with daily updating the data, the formatting, the visualizations and the citations.</p>
+<p>In the 20% other cases, you can reach out for help easily. We want to help you making your codes, data ingestions, document and presentation templates reproducible, and give help when you are stuck. Call us!</p>
+<p>An <code>observatory</code> is a location used for observing terrestrial or celestial events. We are building highly automated data observatories in the fields of business, policy and social sciences to support research and development and evidence-based policymaking. We are following the best practices of reproducible research.</p>
+<p>The observatories give a comprehensive view of our minimal viable products. We are working on the launch of three observatories, starting with 
+<a href="https://music.dataobservatory.eu/" target="_blank" rel="noopener">music.dataobservatory.eu</a> and 
+
+<a href="https://ccs.dataobservatory.eu/" target="_blank" rel="noopener">ccs.dataobservatory.eu</a> that we will finalize until 14 September 2020. Our Demo Music Observatory is already partially functional, and showcases all of the elements of reproducible research workflow, but some implementation (automatic doi versioning) and a full selection of the indicators is not yet finished. Out of our 2000 pan-European indicators, we will select about 50-50 in our demo observatories for daily refreshed availability.</p>
+<p>Whenever we collaborate with members of the open source, open data community, we apply the 
+<a href="https://www.contributor-covenant.org/version/2/0/code_of_conduct/" target="_blank" rel="noopener">Contributor Covenant</a>.</p>
+<h2 id="do-you-want-to-help-our-start">Do you want to help our start?</h2>
+<p>We would like to enter into the Validation Lab of one of the best artificial intelligence incubators in early September. Talented team members, letters of intents and assignments from organizations will give a lot of credibility to our start 
+<a href="http://dataobservatory.eu/team/" target="_blank" rel="noopener">Meet our team »</a>.</p>
+<ul>
+<li>
+<p>Put as in contact with people who love to write code in R and interested in automating business and social science research and primary data collection such as surveying. 
+<a href="http://dataobservatory.eu/#featured" target="_blank" rel="noopener">Check out what sort of code we create »</a></p>
+</li>
+<li>
+<p>Introduce us to people who need data and information to make better informed decision and analysis in music, film, book publishing, photography services or socially responsible finance.</p>
+</li>
+<li>
+<p>Share contacts of data journalists who would like to develop stories from big survey programs like Eurobarometer, Afrobarometer and Lationbarometro, or base their storytelling on data and its visualizations. 
+<a href="http://retroharmonize.satellitereport.com/" target="_blank" rel="noopener">See our survey harmonization examples »</a></p>
+</li>
+</ul>
+<p>You can share this in with our 
+<a href="http://dataobservatory.eu/post/2020-08-24-start-up/" target="_blank" rel="noopener">start-up post»</a>.</p>
+<p>Thanks again for your good wishes and encouragements, and hope to hear from you soon!</p>
+
+
+    <div class="row">
+
+      
+
+      
+
+    </div>
+  </div>
+</div>
+
+    </div>
+  </section>
 
   
   
@@ -495,6 +823,7 @@
 
 
 
+
   
 
 
@@ -528,87 +857,6 @@
 
 
 
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/post/testing-a-new-post/" >Testing a new post</a>
-    </h3>
-
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-        
-
-
-<div class="article-metadata">
-
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-          Last updated on
-      
-    
-    Oct 21, 2019
-  </span>
-  
-
-  
-
-  
-  <span class="middot-divider"></span>
-  <span class="article-reading-time">
-    1 min read
-  </span>
-  
-
-  
-  
-  
-
-  
-  
-
-</div>
-
-      
-    </div>
-
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-      
-    
-      
-        
-
-
-
-
-
-
-
-
-
-
-
-
   
 
 
@@ -616,12 +864,12 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="/post/writing-technical-content/" >Writing technical content in Academic</a>
+      <a href="/post/2020-09-25-yesdelft-validation/" >Product/Market Fit Validation in Yes!Delft</a>
     </h3>
 
     
     <div class="article-style">
-      Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the …
+      We see much interest in our offering from other continents, therefore we truly welcome the opportunity that we can do this on a truly global business canvas in one of the worlds’ top five incubators, the number 2 university-backed incubator in the world, in the Yes!Delft AI+Blockchain Validation Lab.
     </div>
     
 
@@ -637,6 +885,16 @@
 
   
   
+  
+  
+  <div>
+    
+
+  
+  <span><a href="/author/daniel-antal-cfa/">Daniel Antal, CFA</a></span>, <span><a href="/author/reka-szentirmay/">Réka Szentirmay</a></span>
+  </div>
+  
+  
 
   
   <span class="article-date">
@@ -644,7 +902,7 @@
     
       
     
-    Jul 12, 2019
+    Sep 25, 2020
   </span>
   
 
@@ -653,7 +911,7 @@
   
   <span class="middot-divider"></span>
   <span class="article-reading-time">
-    4 min read
+    3 min read
   </span>
   
 
@@ -676,8 +934,8 @@
     
     
     
-    <a href="/post/writing-technical-content/" >
-      <img src="/post/writing-technical-content/featured_huc72159e0fc0d14b85f60d34436a630f0_266353_150x0_resize_q90_lanczos.jpg" alt="">
+    <a href="/post/2020-09-25-yesdelft-validation/" >
+      <img src="/post/2020-09-25-yesdelft-validation/featured_huf888b2ef7576901cc6ff088b2181c9ef_195674_150x0_resize_q90_lanczos.jpg" alt="">
     </a>
     
   </div>
@@ -706,12 +964,12 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="/post/jupyter/" >Display Jupyter Notebooks with Academic</a>
+      <a href="/post/2020-09-21-retroharmonize_release/" >Reproducible Survey Harmonization: retroharmonize Is Released</a>
     </h3>
 
     
     <div class="article-style">
-      Learn how to blog in Academic using Jupyter notebooks
+      Our ex post survey harmonization package retroharmonize passed all automated tests and peer-reviews and was released today on CRAN.
     </div>
     
 
@@ -732,11 +990,8 @@
   <div>
     
 
-
-
   
-  <span><a href="/authors/admin/">Daniel Antal, CFA</a></span>
-
+  <span><a href="/author/daniel-antal-cfa/">Daniel Antal, CFA</a></span>
   </div>
   
   
@@ -746,10 +1001,8 @@
     
     
       
-          Last updated on
-      
     
-    Sep 5, 2019
+    Sep 21, 2020
   </span>
   
 
@@ -781,8 +1034,8 @@
     
     
     
-    <a href="/post/jupyter/" >
-      <img src="/post/jupyter/featured_hub1daa031c2af6888ff37bd93eb033a1a_71549_150x0_resize_lanczos_2.png" alt="">
+    <a href="/post/2020-09-21-retroharmonize_release/" >
+      <img src="/post/2020-09-21-retroharmonize_release/featured_hu4f1358e886f6a8e27383ade2cfa5193b_117541_150x0_resize_lanczos_2.png" alt="">
     </a>
     
   </div>
@@ -811,12 +1064,12 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="/post/getting-started/" >Academic: the website builder for Hugo</a>
+      <a href="/post/2020-09-15-music-observatory-launch/" >Launching Our Demo Music Observatory</a>
     </h3>
 
     
     <div class="article-style">
-      Create a beautifully simple website in under 10 minutes.
+      We would like to validate our open source, open data, open collaboration based reproducible observatory concept with the Demo Music Observatory. All feedback is welcome.
     </div>
     
 
@@ -837,11 +1090,8 @@
   <div>
     
 
-
-
   
-  <span><a href="/authors/admin/">Daniel Antal, CFA</a></span>
-
+  <span><a href="/author/daniel-antal/">Daniel Antal</a></span>, <span><a href="/author/reka-szentirmay/">Réka Szentirmay</a></span>
   </div>
   
   
@@ -851,10 +1101,8 @@
     
     
       
-          Last updated on
-      
     
-    Apr 17, 2019
+    Sep 15, 2020
   </span>
   
 
@@ -863,7 +1111,7 @@
   
   <span class="middot-divider"></span>
   <span class="article-reading-time">
-    3 min read
+    5 min read
   </span>
   
 
@@ -872,10 +1120,6 @@
   
 
   
-  
-  <span class="middot-divider"></span>
-  <span class="article-categories">
-    <i class="fas fa-folder mr-1"></i><a href="/categories/demo/">Demo</a></span>
   
 
 </div>
@@ -890,8 +1134,8 @@
     
     
     
-    <a href="/post/getting-started/" >
-      <img src="/post/getting-started/featured_hub9ee31969f44a6711206a2baf9f065b4_241861_150x0_resize_q90_lanczos.jpg" alt="">
+    <a href="/post/2020-09-15-music-observatory-launch/" >
+      <img src="/post/2020-09-15-music-observatory-launch/featured_hud9b11dacc1d400f9f29f317b4d842058_132649_150x0_resize_lanczos_2.png" alt="">
     </a>
     
   </div>
@@ -920,12 +1164,12 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="/post/2015-07-23-r-rmarkdown/" >Hello R Markdown</a>
+      <a href="/post/2020-09-11-creating-automated-observatory/" >Creating An Automated Data Observatory</a>
     </h3>
 
     
     <div class="article-style">
-      R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For …
+      The making of an automated and reproducible data tool for the music industry. A short video and a brief explanation.
     </div>
     
 
@@ -941,6 +1185,16 @@
 
   
   
+  
+  
+  <div>
+    
+
+  
+  <span><a href="/author/daniel-antal/">Daniel Antal</a></span>, <span><a href="/author/sandor-budai/">Sandor Budai</a></span>, <span><a href="/author/line-matson/">Line Matson</a></span>, <span><a href="/author/moon-moon-moon/">Moon Moon Moon</a></span>
+  </div>
+  
+  
 
   
   <span class="article-date">
@@ -948,7 +1202,7 @@
     
       
     
-    Jul 23, 2015
+    Sep 11, 2020
   </span>
   
 
@@ -957,7 +1211,7 @@
   
   <span class="middot-divider"></span>
   <span class="article-reading-time">
-    1 min read
+    3 min read
   </span>
   
 
@@ -966,10 +1220,6 @@
   
 
   
-  
-  <span class="middot-divider"></span>
-  <span class="article-categories">
-    <i class="fas fa-folder mr-1"></i><a href="/categories/r/">R</a></span>
   
 
 </div>
@@ -983,6 +1233,113 @@
   <div class="ml-3">
     
     
+    
+    <a href="/post/2020-09-11-creating-automated-observatory/" >
+      <img src="/post/2020-09-11-creating-automated-observatory/featured_hu44e479ba2644c3f6a823a5e3dbd7bfdb_69350_150x0_resize_lanczos_2.png" alt="">
+    </a>
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/post/2020-08-24-start-up/" >Starting-up</a>
+    </h3>
+
+    
+    <div class="article-style">
+      The big day has come: the co-founders singed off the documents at the public notary and started the registration of a reproducible research start-up. Do you want to help us?
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  
+  <span><a href="/author/daniel-antal-cfa/">Daniel Antal, CFA</a></span>, <span><a href="/author/reka-szentirmay/">Réka Szentirmay</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+          Last updated on
+      
+    
+    Sep 1, 2020
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    3 min read
+  </span>
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/post/2020-08-24-start-up/" >
+      <img src="/post/2020-08-24-start-up/featured_hu24a048bb7ae0443030e9459903db175a_119220_150x0_resize_q90_lanczos.jpg" alt="">
+    </a>
+    
   </div>
 </div>
 
@@ -990,7 +1347,268 @@
     
 
     
+    <div class="see-all">
+      <a href="/post/">
+        See all posts
+        <i class="fas fa-angle-right"></i>
+      </a>
+    </div>
+    
 
+  </div>
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="skills" class="home-section wg-featurette   "  >
+    <div class="container">
+      
+
+
+<div class="row featurette">
+  
+  <div class="col-md-12 section-heading">
+    <h1>Skills</h1>
+    
+  </div>
+  
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-4">
+    <div class="featurette-icon"><i class="fas fa-chart-line"></i></div>
+    <h3>Analyitcs</h3>
+    <p>Econometrics &amp; machine learning</p>
+  </div>
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-4">
+    <div class="featurette-icon"><i class="fas fa-poll"></i></div>
+    <h3>Surveys</h3>
+    <p>CAPI &amp; online</p>
+  </div>
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-4">
+    <div class="featurette-icon"><i class="fas fa-film"></i></div>
+    <h3>Film Industry</h3>
+    <p>Domain Specific Experience</p>
+  </div>
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-4">
+    <div class="featurette-icon"><i class="fas fa-music"></i></div>
+    <h3>Music Industry</h3>
+    <p>Domain Specific Experience</p>
+  </div>
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-4">
+    <div class="featurette-icon"><i class="fab fa-r-project"></i></div>
+    <h3>R</h3>
+    <p>Open Source Statistics</p>
+  </div>
+  
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="experience" class="home-section wg-experience   "  >
+    <div class="container">
+      
+
+
+
+<div class="row">
+  <div class="col-12 col-lg-4 section-heading">
+    <h1>History</h1>
+    
+  </div>
+  <div class="col-12 col-lg-8">
+    
+
+    
+    
+    
+    <div class="row experience">
+      
+      <div class="col-auto text-center flex-column d-none d-sm-flex">
+        <div class="row h-50">
+          <div class="col ">&nbsp;</div>
+          <div class="col">&nbsp;</div>
+        </div>
+        <div class="m-2">
+          <span class="badge badge-pill border exp-fill">&nbsp;</span>
+        </div>
+        <div class="row h-50">
+          <div class="col border-right">&nbsp;</div>
+          <div class="col">&nbsp;</div>
+        </div>
+      </div>
+      
+      <div class="col py-2">
+        <div class="card">
+          <div class="card-body">
+            <h4 class="card-title exp-title text-muted mt-0 mb-1">regions</h4>
+            <h4 class="card-title exp-company text-muted my-0"></h4>
+            <div class="text-muted exp-meta">
+              Jun 2020 –
+              
+                Present
+              
+              
+                <span class="middot-divider"></span>
+                <span>Den Haag, the Netherlands</span>
+              
+            </div>
+            <div class="card-text"><p>First release of <a href="http://regions.danielantal.eu/">regions</a> on CRAN.</p>
+<ul>
+<li>Harmonizing about 20,000 boundary changes within Europe since 1999</li>
+<li>Validating sub-national datasets</li>
+<li>Joining Google COVID datasets.</li>
+</ul>
+<p>[[experience]]
+title = &ldquo;Team Building&rdquo;
+company = &ldquo;Satellite Report BV&rdquo;
+company_url = &quot;&rdquo;
+location = &ldquo;Den Haag, the Netherlands&rdquo;
+date_start = &ldquo;2020-03-14&rdquo;
+date_end = &ldquo;2020-09-01&rdquo;
+description = &ldquo;team&rdquo;
+Responsibilities include:</p>
+<ul>
+<li>Analysing</li>
+<li>Modelling</li>
+<li>Deploying</li>
+</ul>
+</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <div class="row experience">
+      
+      <div class="col-auto text-center flex-column d-none d-sm-flex">
+        <div class="row h-50">
+          <div class="col border-right">&nbsp;</div>
+          <div class="col">&nbsp;</div>
+        </div>
+        <div class="m-2">
+          <span class="badge badge-pill border ">&nbsp;</span>
+        </div>
+        <div class="row h-50">
+          <div class="col ">&nbsp;</div>
+          <div class="col">&nbsp;</div>
+        </div>
+      </div>
+      
+      <div class="col py-2">
+        <div class="card">
+          <div class="card-body">
+            <h4 class="card-title exp-title text-muted mt-0 mb-1">CEEMID</h4>
+            <h4 class="card-title exp-company text-muted my-0"></h4>
+            <div class="text-muted exp-meta">
+              Apr 2014 –
+              
+                Mar 2020
+              
+              
+                <span class="middot-divider"></span>
+                <span>Budapest -&gt; Den Haag</span>
+              
+            </div>
+            <div class="card-text">An evolving project with more and more music industry stakeholders</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
   </div>
 </div>
 
@@ -1041,70 +1659,18 @@
 
 
 <div class="row">
-  <div class="col-xs-12 col-md-4 section-heading">
+  <div class="col-12 col-lg-4 section-heading">
 
     <h1>Projects</h1>
     
 
   </div>
-  <div class="col-xs-12 col-md-8">
+  <div class="col-12 col-lg-8">
 
 
 
     
 
-    
-
-      
-
-      
-      
-      
-      
-        
-      
-
-      <span class="d-none default-project-filter">*</span>
-
-      
-      
-      <div class="project-toolbar">
-        <div class="project-filters">
-          <div class="btn-toolbar">
-            <div class="btn-group flex-wrap">
-              
-                
-                
-                
-                  
-                
-                <a href="#" data-filter="*" class="btn btn-primary btn-lg active">All</a>
-              
-                
-                
-                
-                <a href="#" data-filter=".js-id-eurostat" class="btn btn-primary btn-lg">Social Data</a>
-              
-                
-                
-                
-                <a href="#" data-filter=".js-id-music" class="btn btn-primary btn-lg">Music Analytics</a>
-              
-                
-                
-                
-                <a href="#" data-filter=".js-id-data-animation" class="btn btn-primary btn-lg">Data Animation</a>
-              
-                
-                
-                
-                <a href="#" data-filter=".js-id-Demo" class="btn btn-primary btn-lg">Other</a>
-              
-            </div>
-          </div>
-        </div>
-      </div>
-      
     
 
     <div class="isotope projects-container js-layout-masonry ">
@@ -1113,9 +1679,6 @@
         
         
         
-          
-          
-        
 
         
           
@@ -1133,19 +1696,19 @@
 
 
 
-<div class="project-card project-item isotope-item js-id-Demo">
+<div class="project-card project-item isotope-item js-id-reproducible-research js-id-reproducible-consulting">
   <div class="card">
     
     
-    <a href="http://example.org" target="_blank" rel="noopener" class="card-image hover-overlay">
-      <img src="/project/external-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_329522_550x0_resize_q90_lanczos.jpg" alt="" class="img-responsive">
+    <a href="/project/consulting/"  class="card-image hover-overlay">
+      <img src="/project/consulting/featured_hu71073d2ea9a3d3cada5017e2cd7d4a39_263802_550x0_resize_q90_lanczos.jpg" alt="" class="img-responsive">
     </a>
     
     <div class="card-text">
-      <h4><a href="http://example.org" target="_blank" rel="noopener">External Project</a></h4>
+      <h4><a href="/project/consulting/" >Reproducible Consulting</a></h4>
       
       <div class="article-style">
-        <p>An example of linking directly to an external project website using <code>external_link</code>.</p>
+        <p>Making sure that your recommendations are confirmable and auditable.</p>
       </div>
       
     </div>
@@ -1176,19 +1739,148 @@
 
 
 
-<div class="project-card project-item isotope-item js-id-Deep-Learning">
+<div class="project-card project-item isotope-item js-id-open-data">
   <div class="card">
     
     
-    <a href="/project/internal-project/"  class="card-image hover-overlay">
-      <img src="/project/internal-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_224363_550x0_resize_q90_lanczos.jpg" alt="" class="img-responsive">
+    <a href="/project/reporting/"  class="card-image hover-overlay">
+      <img src="/project/reporting/featured_hu71073d2ea9a3d3cada5017e2cd7d4a39_263802_550x0_resize_q90_lanczos.jpg" alt="" class="img-responsive">
     </a>
     
     <div class="card-text">
-      <h4><a href="/project/internal-project/" >Internal Project</a></h4>
+      <h4><a href="/project/reporting/" >Automated Reporting</a></h4>
       
       <div class="article-style">
-        <p>An example of using the in-built project page.</p>
+        <p>Regulatory compliance, research and forecasting reports.</p>
+      </div>
+      
+    </div>
+  </div>
+</div>
+
+        
+
+      
+
+        
+        
+        
+
+        
+          
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<div class="project-card project-item isotope-item js-id-open-data">
+  <div class="card">
+    
+    
+    <a href="/project/open_data/"  class="card-image hover-overlay">
+      <img src="/project/open_data/featured_hu71073d2ea9a3d3cada5017e2cd7d4a39_263802_550x0_resize_q90_lanczos.jpg" alt="" class="img-responsive">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="/project/open_data/" >Exploiting Open Data</a></h4>
+      
+      <div class="article-style">
+        <p>Re-Use of Taxpayer Funded, Public Data Assets</p>
+      </div>
+      
+    </div>
+  </div>
+</div>
+
+        
+
+      
+
+        
+        
+        
+
+        
+          
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<div class="project-card project-item isotope-item js-id-ceemid js-id-surveys js-id-music-industry js-id-observatory js-id-reprodubile-research">
+  <div class="card">
+    
+    
+    <a href="/project/music_observatory/"  class="card-image hover-overlay">
+      <img src="/project/music_observatory/featured_hu791651d5ca2404d74016b85aa8de3dcd_59241_550x0_resize_q90_lanczos.jpg" alt="" class="img-responsive">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="/project/music_observatory/" >Surveys</a></h4>
+      
+      <div class="article-style">
+        <p>Collaborative reproducible research in the music industry</p>
+      </div>
+      
+    </div>
+  </div>
+</div>
+
+        
+
+      
+
+        
+        
+        
+
+        
+          
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<div class="project-card project-item isotope-item js-id-ceemid js-id-surveys js-id-music-industry js-id-observatory js-id-reprodubile-research">
+  <div class="card">
+    
+    
+    <a href="/project/observatory/"  class="card-image hover-overlay">
+      <img src="/project/observatory/featured_hu791651d5ca2404d74016b85aa8de3dcd_59241_550x0_resize_q90_lanczos.jpg" alt="" class="img-responsive">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="/project/observatory/" >Data Observatory</a></h4>
+      
+      <div class="article-style">
+        <p>Automated Data Observatory based on the principles of reproducible research</p>
       </div>
       
     </div>
@@ -1236,7 +1928,7 @@
   
   
 
-  <section id="tags" class="home-section wg-tag-cloud   "  >
+  <section id="people" class="home-section wg-people   "  >
     <div class="container">
       
 
@@ -1246,97 +1938,23 @@
 
 
 
-
-
-
+<div class="row justify-content-center people-widget">
   
-
-
-
-
-
-
-<div class="row">
-  <div class="col-12 col-lg-4 section-heading">
-    <h1>Popular Topics</h1>
+  <div class="col-md-12 section-heading">
+    <h1>Team</h1>
     
   </div>
-  <div class="col-12 col-lg-8">
-    
+  
 
-    
+  
 
-      
-      
-      
-      
-      
+  
+  
 
-      <div class="tag-cloud">
-        
-          
-          
-          
-          <a href="/tags/academic/" style="font-size:0.7rem">Academic</a>
-        
-          
-          
-          
-          <a href="/tags/deep-learning/" style="font-size:0.7rem">Deep Learning</a>
-        
-          
-          
-          
-          <a href="/tags/demo/" style="font-size:0.7rem">Demo</a>
-        
-          
-          
-          
-          <a href="/tags/plot/" style="font-size:0.7rem">plot</a>
-        
-          
-          
-          
-          <a href="/tags/r-markdown/" style="font-size:0.7rem">R Markdown</a>
-        
-          
-          
-          
-          <a href="/tags/regression/" style="font-size:0.7rem">regression</a>
-        
-          
-          
-          
-          <a href="/tags/source-themes/" style="font-size:2.7604512509375025rem">Source Themes</a>
-        
-      </div>
-    
-
+  
+  <div class="col-md-12">
+    <h2 class="mb-4">Founders</h2>
   </div>
-</div>
-
-    </div>
-  </section>
-
-  
-  
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-  
-
-  
-  
   
 
   
@@ -1344,589 +1962,187 @@
   
   
   
-
+    
   
-  
-
-  <section id="about" class="home-section wg-about   "  >
-    <div class="container">
-      
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-<div class="row">
-  <div class="col-12 col-lg-4">
-    <div id="profile">
-
+  <div class="col-12 col-sm-auto people-person">
+    
+    
       
       
-      <img class="portrait" src="/authors/admin/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_250x250_fill_q90_lanczos_center.jpg" alt="Avatar">
+    
+    
       
+      <a href="/author/daniel/"><img class="avatar avatar-circle" src="/author/daniel/avatar_hud88ed22bc3c29040ee8bdf20c6cd6530_105602_270x270_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+    
 
-      <div class="portrait-title">
-        <h2>Daniel Antal, CFA</h2>
-        <h3>Music Data Analyst</h3>
-
-        
-        <h3>
-          
-          <span>CEEMID</span>
-          
-        </h3>
-        
-      </div>
-
-      <ul class="network-icon" aria-hidden="true">
-        
-        
-        
-        
-          
-        
-        
-        
-        
-        
-          
-        
-        <li>
-          <a href="/#contact" >
-            <i class="fas fa-envelope big-icon"></i>
-          </a>
-        </li>
-        
-        
-        
-        
-          
-        
-        
-        
-        
-        
-          
-        
-        <li>
-          <a href="https://twitter.com/antaldaniel" target="_blank" rel="noopener">
-            <i class="fab fa-twitter big-icon"></i>
-          </a>
-        </li>
-        
-        
-        
-        
-          
-        
-        
-        
-        
-        
-          
-        
-        <li>
-          <a href="https://github.com/antaldaniel" target="_blank" rel="noopener">
-            <i class="fab fa-github big-icon"></i>
-          </a>
-        </li>
-        
-      </ul>
-
+    <div class="portrait-title">
+      <h2><a href="/author/daniel/">Daniel Antal, CFA</a></h2>
+      <h3>Co-founder</h3>
+      
+      
     </div>
   </div>
-  <div class="col-12 col-lg-8">
-
-    
-    <h1>Biography</h1>
-
-    <p>Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.</p>
-
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.</p>
-
-
-    <div class="row">
-
-      
-      <div class="col-md-5">
-        <h3>Interests</h3>
-        <ul class="ul-interests">
-          
-          <li>Artificial Intelligence</li>
-          
-          <li>Computational Linguistics</li>
-          
-          <li>Information Retrieval</li>
-          
-        </ul>
-      </div>
-      
-
-      
-      <div class="col-md-7">
-        <h3>Education</h3>
-        <ul class="ul-edu fa-ul">
-          
-          <li>
-            <i class="fa-li fas fa-graduation-cap"></i>
-            <div class="description">
-              <p class="course">PhD in Artificial Intelligence, 2012</p>
-              <p class="institution">Stanford University</p>
-            </div>
-          </li>
-          
-          <li>
-            <i class="fa-li fas fa-graduation-cap"></i>
-            <div class="description">
-              <p class="course">MEng in Artificial Intelligence, 2009</p>
-              <p class="institution">Massachusetts Institute of Technology</p>
-            </div>
-          </li>
-          
-          <li>
-            <i class="fa-li fas fa-graduation-cap"></i>
-            <div class="description">
-              <p class="course">BSc in Artificial Intelligence, 2008</p>
-              <p class="institution">Massachusetts Institute of Technology</p>
-            </div>
-          </li>
-          
-        </ul>
-      </div>
-      
-
-    </div>
-  </div>
-</div>
-
-    </div>
-  </section>
-
-  
-  
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-  
-
-  
-  
-  
-
   
   
   
   
-  
-
-  
-  
-
-  <section id="featured" class="home-section wg-featured   "  >
-    <div class="container">
-      
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="row">
-  <div class="col-12 col-lg-4 section-heading">
-    <h1>Featured Publications</h1>
-    
-  </div>
-  <div class="col-12 col-lg-8">
-
-    
-
-    
-      
-        
-
-
-
-
-
-  
-
-
-
-
-
-  
-
-
-<div class="card-simple">
-
   
     
-
-
-<div class="article-metadata">
-
   
-  
-  
-  
-  <div>
-    
-
-
-
-  
-  <span><a href="/authors/admin/">Daniel Antal, CFA</a></span>, <span><a href="/authors/robert-ford/">Robert Ford</a></span>
-
-  </div>
-  
-  
-
-  
-  <span class="article-date">
+  <div class="col-12 col-sm-auto people-person">
     
     
       
-    
-    2013-07-01
-  </span>
-  
-
-  
-  <span class="middot-divider"></span>
-  <span class="pub-publication">
-    
-      In <em>STC</em>
-    
-  </span>
-  
-
-  
-
-  
-  
-  
-
-  
-  
-
-</div>
-
-  
-
-  
-  
-  
-  
-  <a href="/publication/conference-paper/">
-      <img src="/publication/conference-paper/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_312700_918x517_fill_q90_lanczos_smart1.jpg" class="article-banner" alt="">
-  </a>
-  
-
-  <h3 class="article-title mb-1 mt-3">
-    <a href="/publication/conference-paper/">An example conference paper</a>
-  </h3>
-
-  
-  <div class="article-style">
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.</p>
-  </div>
-  
-
-  
-  <div class="btn-links">
-    
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/conference-paper/cite.bib">
-  Cite
-</button>
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/#" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/#" target="_blank" rel="noopener">
-  Dataset
-</a>
-
-
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/internal-project/">
-    Project
-  </a>
-  
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/#" target="_blank" rel="noopener">
-  Poster
-</a>
-
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/slides/example/" target="_blank">
-    Slides
-  </a>
-  
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/#" target="_blank" rel="noopener">
-  Video
-</a>
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/#" target="_blank" rel="noopener">
-  Source Document
-</a>
-
-
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://example.org" target="_blank" rel="noopener">
-    
-    Custom Link
-  </a>
-
-
-  </div>
-  
-
-</div>
-
       
     
-
-  </div>
-</div>
-
-    </div>
-  </section>
-
-  
-  
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-  
-
-  
-  
-  
-
-  
-  
-  
-  
-  
-
-  
-  
-
-  <section id="gallery" class="home-section wg-blank   "  >
-    <div class="container">
+    
       
+      <a href="/author/reka-szentirmay/"><img class="avatar avatar-circle" src="/author/reka-szentirmay/avatar_huf5ed6afce2a4c65582a6ad73b0bfdc97_81558_270x270_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+    
 
-
-<div class="row">
-  
-    <div class="col-12 col-lg-4 section-heading">
-      <h1>Gallery</h1>
+    <div class="portrait-title">
+      <h2><a href="/author/reka-szentirmay/">Réka Szentirmay</a></h2>
+      <h3>Co-Founder</h3>
+      
       
     </div>
-    <div class="col-12 col-lg-8">
+  </div>
+  
+  
+  
+
+  
+  <div class="col-md-12">
+    <h2 class="mb-4">Team</h2>
+  </div>
+  
+
+  
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
       
+      
+    
+    
+      
+      <a href="/author/andres/"><img class="avatar avatar-circle" src="/author/andres/avatar_huccfa58404f6afcbea347c8a825caa59b_94907_270x270_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+    
 
-
-
-
-
-
-
-  
-  
-
-
-<div class="gallery">
-
-  
-  
-  
-  
-    
-    
-    
-    
-    
-  <a data-fancybox="gallery-gallery" href="/home/gallery/gallery/theme-1950s.png" >
-  <img src="/home/gallery/gallery/theme-1950s_huaf5482f8cea0c5a703a328640e3b7509_21614_0x190_resize_lanczos_2.png" alt="">
-  </a>
-  
-    
-    
-    
-    
-    
-  <a data-fancybox="gallery-gallery" href="/home/gallery/gallery/theme-apogee.png" >
-  <img src="/home/gallery/gallery/theme-apogee_hu4b45d99db97150df01464c393bfd17d4_24119_0x190_resize_lanczos_2.png" alt="">
-  </a>
-  
-    
-    
-    
-    
-    
-  <a data-fancybox="gallery-gallery" href="/home/gallery/gallery/theme-coffee-playfair.png" >
-  <img src="/home/gallery/gallery/theme-coffee-playfair_hu446a8f670cc5622adcc77b97ba95f6c5_22462_0x190_resize_lanczos_2.png" alt="">
-  </a>
-  
-    
-    
-    
-    
-    
-  <a data-fancybox="gallery-gallery" href="/home/gallery/gallery/theme-dark.png" >
-  <img src="/home/gallery/gallery/theme-dark_hu1e8601ecc47f58eada7743fdcd709d3d_21456_0x190_resize_lanczos_2.png" alt="">
-  </a>
-  
-    
-    
-    
-    
-    
-  <a data-fancybox="gallery-gallery" href="/home/gallery/gallery/theme-default.png" >
-  <img src="/home/gallery/gallery/theme-default_huba6228b7bdf30e2f03f12ea91b2cba0d_21751_0x190_resize_lanczos_2.png" alt="">
-  </a>
-  
-    
-    
-    
-    
-    
-  <a data-fancybox="gallery-gallery" href="/home/gallery/gallery/theme-forest.png" >
-  <img src="/home/gallery/gallery/theme-forest_hu4f093a1c683134431456584193ea41ee_21797_0x190_resize_lanczos_2.png" alt="">
-  </a>
-  
-    
-    
-    
-    
-    
-  <a data-fancybox="gallery-gallery" href="/home/gallery/gallery/theme-ocean.png" >
-  <img src="/home/gallery/gallery/theme-ocean_hu14831ccafc2219f30a7a096fa7617e01_21760_0x190_resize_lanczos_2.png" alt="">
-  </a>
-  
-    
-    
-    
-    
-    
-  <a data-fancybox="gallery-gallery" href="/home/gallery/gallery/theme-strawberry.png" >
-  <img src="/home/gallery/gallery/theme-strawberry_hu36b0b347fcca08bd39e2df22dcedbdfb_39532_0x190_resize_lanczos_2.png" alt="">
-  </a>
-  
-
-  
-</div>
-
+    <div class="portrait-title">
+      <h2><a href="/author/andres/">Andrés García Molina, PhD</a></h2>
+      <h3>Data Scientist &amp; Ethnomusicologist</h3>
+      
+      
     </div>
+  </div>
+  
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <a href="/author/istvan-simon/"><img class="avatar avatar-circle" src="/author/istvan-simon/avatar_hu426d17e9ab086df11d7424dccbe7d9e5_50366_270x270_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/author/istvan-simon/">Istvan Simon</a></h2>
+      <h3>Reproducible Business Workflows</h3>
+      
+      
+    </div>
+  </div>
+  
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <a href="/author/istvan-zsoldos/"><img class="avatar avatar-circle" src="/author/istvan-zsoldos/avatar_hu9380aed1f34ee144fb32a087a88bd2cb_63818_270x270_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/author/istvan-zsoldos/">Istvan Zsoldos</a></h2>
+      <h3>Senior Data Analyst</h3>
+      
+      
+    </div>
+  </div>
+  
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <a href="/author/katya-nagy/"><img class="avatar avatar-circle" src="/author/katya-nagy/avatar_hud95fa200a0706a2520069c9fd1a065a5_146919_270x270_fill_lanczos_center_2.png" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/author/katya-nagy/">Kátya Nagy</a></h2>
+      <h3>Music Research Assistant</h3>
+      
+      
+    </div>
+  </div>
+  
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <a href="/author/line/"><img class="avatar avatar-circle" src="/author/line/avatar_hu2d0ae00bdb65624d08533d3bd3f41cff_74772_270x270_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/author/line/">Line Matson</a></h2>
+      <h3>Project-based Visual Designer</h3>
+      
+      
+    </div>
+  </div>
+  
   
 </div>
 
@@ -1998,6 +2214,7 @@
 
 
 
+
   
 
 
@@ -2017,132 +2234,850 @@
     
 
     
-      
-        
 
-
-
-
-
-
-
-
-  
-  
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/talk/example/" >Example Talk</a>
-    </h3>
-
-    
-    <div class="article-style">
-      An example talk using Academic&rsquo;s Markdown slides feature.
-    </div>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-      <div>
-        <span>
-          Jun 1, 2030 13:00 &mdash; 15:00
-        </span>
-        
-        <span class="middot-divider"></span>
-        <span>Source Themes HQ</span>
-        
-      </div>
-      
-
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/internal-project/">
-    Project
-  </a>
-  
-
-
-
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/slides/example/" target="_blank">
-    Slides
-  </a>
-  
-
-
-
-
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://twitter.com/georgecushen" target="_blank" rel="noopener">
-    <i class="fab fa-twitter mr-1"></i>
-    Follow
-  </a>
-
-
-    </div>
     
 
   </div>
-  <div class="ml-3">
-    
-    
-    
-    <a href="/talk/example/" >
-      <img src="/talk/example/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_620088_150x0_resize_q90_lanczos.jpg" alt="">
-    </a>
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="featured" class="home-section wg-featured   "  >
+    <div class="container">
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="row">
+  <div class="col-12 col-lg-4 section-heading">
+    <h1>Featured Publications</h1>
     
   </div>
+  <div class="col-12 col-lg-8">
+
+    
+
+    
+      
+        
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+<div class="card-simple">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  
+  <span><a href="/author/daniel-antal/">Daniel Antal</a></span>, <span><a href="/author/marta-kolczynska/">Marta Kolczynska</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    2020-08-25
+  </span>
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="pub-publication">
+    
+  </span>
+  
+
+  
+
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/category/r/">R</a></span>
+  
+
+</div>
+
+  
+
+  
+  
+  
+  
+  <a href="/publication/retorharmonize_2020/">
+      <img src="/publication/retorharmonize_2020/featured_huee908d24237d2b8aa12d56fbef0e578f_124144_918x517_fill_q90_lanczos_topleft.jpg" class="article-banner" alt="">
+  </a>
+  
+
+  <h3 class="article-title mb-1 mt-3">
+    <a href="/publication/retorharmonize_2020/">retroharmonize R package for survey harmonization</a>
+  </h3>
+
+  
+  <div class="article-style">
+    <p>The goal of retroharmonize is to facilitate retrospective (ex-post) harmonization of data, particularly survey data, in a reproducible manner. The package provides tools for organizing the metadata, standardizing the coding of variables, variable names and value labels, including missing values, and for documenting all transformations, with the help of comprehensive S3 classes.</p>
+  </div>
+  
+
+  
+  <div class="btn-links">
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/retorharmonize_2020/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+    
+  
+
+  
+    
+  
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/antaldaniel/eurobarometer" target="_blank" rel="noopener">
+  Source Document
+</a>
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.5281/zenodo.3901724" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+  </div>
+  
+
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+<div class="card-simple">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  
+  <span><a href="/author/daniel-antal/">Daniel Antal</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    2020-06-25
+  </span>
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="pub-publication">
+    
+  </span>
+  
+
+  
+
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/category/r/">R</a></span>
+  
+
+</div>
+
+  
+
+  
+  
+  
+  
+  <a href="/publication/eurobarometer_2020/">
+      <img src="/publication/eurobarometer_2020/featured_huf017ebd097201f45381cf02b6b40f758_101923_918x517_fill_q90_lanczos_topleft.jpg" class="article-banner" alt="">
+  </a>
+  
+
+  <h3 class="article-title mb-1 mt-3">
+    <a href="/publication/eurobarometer_2020/">eurobarometer R package</a>
+  </h3>
+
+  
+  <div class="article-style">
+    <p>The goal of eurobarometer is converting Eurobarometer microdata files, as stored by GESIS, into tidy R data frames and help common pre-processing problems.</p>
+  </div>
+  
+
+  
+  <div class="btn-links">
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/eurobarometer_2020/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+    
+  
+
+  
+    
+  
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/antaldaniel/eurobarometer" target="_blank" rel="noopener">
+  Source Document
+</a>
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.5281/zenodo.3901724" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+  </div>
+  
+
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+<div class="card-simple">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  
+  <span><a href="/author/daniel-antal/">Daniel Antal</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    2020-06-03
+  </span>
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="pub-publication">
+    
+  </span>
+  
+
+  
+
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/category/r/">R</a></span>
+  
+
+</div>
+
+  
+
+  
+  
+  
+  
+  <a href="/publication/regions_2020/">
+      <img src="/publication/regions_2020/featured_hu263bf68f5ed6a376e3f71d808ff0628b_70487_918x517_fill_q90_lanczos_topleft_2.png" class="article-banner" alt="">
+  </a>
+  
+
+  <h3 class="article-title mb-1 mt-3">
+    <a href="/publication/regions_2020/">regions R package</a>
+  </h3>
+
+  
+  <div class="article-style">
+    <p>An open source R package for validating sub-national statistical typologies, re-coding across standard typologies of sub-national statistics, and making valid aggregate level imputation, re-aggregation, re-weighting and projection down to lower hierarchical levels to create meaningful data panels and time series.</p>
+  </div>
+  
+
+  
+  <div class="btn-links">
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/regions_2020/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+    
+  
+
+  
+    
+  
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/rOpenGov/regions/" target="_blank" rel="noopener">
+  Source Document
+</a>
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.5281/zenodo.3825696" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+  </div>
+  
+
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+<div class="card-simple">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  
+  <span><a href="/author/daniel-antal/">Daniel Antal</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    2020-01-29
+  </span>
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="pub-publication">
+    
+  </span>
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+  
+  <a href="/publication/ceereport_2020/">
+      <img src="/publication/ceereport_2020/featured_huc92d3517b110efc1c138410e66c0679c_66963_918x517_fill_q90_lanczos_center.jpg" class="article-banner" alt="">
+  </a>
+  
+
+  <h3 class="article-title mb-1 mt-3">
+    <a href="/publication/ceereport_2020/">Central &amp; Eastern European Music Industry Report 2020</a>
+  </h3>
+
+  
+  <div class="article-style">
+    <p>The results of the first Hungarian, Slovak, Croatian and Czech music industry reports are compared with Armenian, Austrian, Bulgarian, Lithuanian, Serbian and Slovenian data and findings.</p>
+  </div>
+  
+
+  
+  <div class="btn-links">
+    
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://ceereport2020.ceemid.eu/CEE_Report.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/ceereport_2020/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+    
+  
+
+  
+    
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.13140/RG.2.2.21450.31686" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+  </div>
+  
+
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+<div class="card-simple">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  
+  <span><a href="/author/daniel-antal/">Daniel Antal</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    2018-12-22
+  </span>
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="pub-publication">
+    
+  </span>
+  
+
+  
+
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/category/r/">R</a></span>
+  
+
+</div>
+
+  
+
+  
+  
+  
+  
+  <a href="/publication/iotables_2018/">
+      <img src="/publication/iotables_2018/featured_huf017ebd097201f45381cf02b6b40f758_101923_918x517_fill_q90_lanczos_topleft.jpg" class="article-banner" alt="">
+  </a>
+  
+
+  <h3 class="article-title mb-1 mt-3">
+    <a href="/publication/iotables_2018/">iotables R package</a>
+  </h3>
+
+  
+  <div class="article-style">
+    <p>The goal of eurobarometer is converting Eurobarometer microdata files, as stored by GESIS, into tidy R data frames and help common pre-processing problems.</p>
+  </div>
+  
+
+  
+  <div class="btn-links">
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/iotables_2018/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+    
+  
+
+  
+    
+  
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://rOpenGov/iotables/" target="_blank" rel="noopener">
+  Source Document
+</a>
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.5281/zenodo.2531818" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+  </div>
+  
+
 </div>
 
       
     
 
-    
+  
 
   </div>
 </div>
@@ -2215,6 +3150,7 @@
 
 
 
+
   
 
 
@@ -2263,12 +3199,12 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="/publication/preprint/" >An example preprint / working paper</a>
+      <a href="/publication/retorharmonize_2020/" >retroharmonize R package for survey harmonization</a>
     </h3>
 
     
     <div class="article-style">
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex …
+      The goal of retroharmonize is to facilitate retrospective (ex-post) harmonization of data, particularly survey data, in a reproducible …
     </div>
     
 
@@ -2280,11 +3216,8 @@
       <div>
         
 
-
-
   
-  <span><a href="/authors/admin/">Daniel Antal, CFA</a></span>
-
+  <span><a href="/author/daniel-antal/">Daniel Antal</a></span>, <span><a href="/author/marta-kolczynska/">Marta Kolczynska</a></span>
       </div>
       
     </div>
@@ -2301,42 +3234,32 @@
 
 
   
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/retorharmonize_2020/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+    
+  
+
+  
     
   
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://arxiv.org/pdf/1512.04133v1" target="_blank" rel="noopener">
-  PDF
-</a>
 
 
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/#" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/#" target="_blank" rel="noopener">
-  Dataset
-</a>
-
-
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/internal-project/">
-    Project
-  </a>
-  
 
 
 
@@ -2344,52 +3267,15 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/#" target="_blank" rel="noopener">
-  Poster
-</a>
-
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/slides/example/" target="_blank">
-    Slides
-  </a>
-  
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/#" target="_blank" rel="noopener">
-  Video
-</a>
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/#" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/antaldaniel/eurobarometer" target="_blank" rel="noopener">
   Source Document
 </a>
 
 
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.5281/zenodo.3901724" target="_blank" rel="noopener">
+  DOI
+</a>
 
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://example.org" target="_blank" rel="noopener">
-    
-    Custom Link
-  </a>
 
 
     </div>
@@ -2400,8 +3286,8 @@
     
     
     
-    <a href="/publication/preprint/" >
-      <img src="/publication/preprint/featured_hu559a5add5185b02575aa8333502ab2cc_220813_150x0_resize_q90_lanczos.jpg" alt="">
+    <a href="/publication/retorharmonize_2020/" >
+      <img src="/publication/retorharmonize_2020/featured_huee908d24237d2b8aa12d56fbef0e578f_124144_150x0_resize_q90_lanczos.jpg" alt="">
     </a>
     
   </div>
@@ -2433,12 +3319,12 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="/publication/journal-article/" >An example journal article</a>
+      <a href="/publication/eurobarometer_2020/" >eurobarometer R package</a>
     </h3>
 
     
     <div class="article-style">
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex …
+      The goal of eurobarometer is converting Eurobarometer microdata files, as stored by GESIS, into tidy R data frames and help common …
     </div>
     
 
@@ -2450,11 +3336,8 @@
       <div>
         
 
-
-
   
-  <span><a href="/authors/admin/">Daniel Antal, CFA</a></span>, <span><a href="/authors/robert-ford/">Robert Ford</a></span>
-
+  <span><a href="/author/daniel-antal/">Daniel Antal</a></span>
       </div>
       
     </div>
@@ -2471,19 +3354,13 @@
 
 
   
-    
-  
 
 
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://arxiv.org/pdf/1512.04133v1" target="_blank" rel="noopener">
-  PDF
-</a>
 
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/journal-article/cite.bib">
+        data-filename="/publication/eurobarometer_2020/cite.bib">
   Cite
 </button>
 
@@ -2491,17 +3368,33 @@
 
 
 
+  
+    
+  
+
+  
+    
+  
+
+
+
+
+
 
 
 
   
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/slides/example/" target="_blank">
-    Slides
-  </a>
   
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/antaldaniel/eurobarometer" target="_blank" rel="noopener">
+  Source Document
+</a>
 
 
-
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.5281/zenodo.3901724" target="_blank" rel="noopener">
+  DOI
+</a>
 
 
 
@@ -2513,8 +3406,8 @@
     
     
     
-    <a href="/publication/journal-article/" >
-      <img src="/publication/journal-article/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_214168_150x0_resize_q90_lanczos.jpg" alt="">
+    <a href="/publication/eurobarometer_2020/" >
+      <img src="/publication/eurobarometer_2020/featured_huf017ebd097201f45381cf02b6b40f758_101923_150x0_resize_q90_lanczos.jpg" alt="">
     </a>
     
   </div>
@@ -2546,12 +3439,12 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="/publication/conference-paper/" >An example conference paper</a>
+      <a href="/publication/regions_2020/" >regions R package</a>
     </h3>
 
     
     <div class="article-style">
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex …
+      An open source R package for validating sub-national statistical typologies, re-coding across standard typologies of sub-national …
     </div>
     
 
@@ -2563,11 +3456,128 @@
       <div>
         
 
+  
+  <span><a href="/author/daniel-antal/">Daniel Antal</a></span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
 
 
   
-  <span><a href="/authors/admin/">Daniel Antal, CFA</a></span>, <span><a href="/authors/robert-ford/">Robert Ford</a></span>
 
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/regions_2020/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+    
+  
+
+  
+    
+  
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/rOpenGov/regions/" target="_blank" rel="noopener">
+  Source Document
+</a>
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.5281/zenodo.3825696" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/regions_2020/" >
+      <img src="/publication/regions_2020/featured_hu263bf68f5ed6a376e3f71d808ff0628b_70487_150x0_resize_lanczos_2.png" alt="">
+    </a>
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/publication/ceereport_2020/" >Central &amp; Eastern European Music Industry Report 2020</a>
+    </h3>
+
+    
+    <div class="article-style">
+      The results of the first Hungarian, Slovak, Croatian and Czech music industry reports are compared with Armenian, Austrian, Bulgarian, …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  
+  <span><a href="/author/daniel-antal/">Daniel Antal</a></span>
       </div>
       
     </div>
@@ -2589,95 +3599,41 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://ceereport2020.ceemid.eu/CEE_Report.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/conference-paper/cite.bib">
+        data-filename="/publication/ceereport_2020/cite.bib">
   Cite
 </button>
 
 
-  
+
+
+
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/#" target="_blank" rel="noopener">
-  Code
+
+  
+    
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.13140/RG.2.2.21450.31686" target="_blank" rel="noopener">
+  DOI
 </a>
 
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/#" target="_blank" rel="noopener">
-  Dataset
-</a>
-
-
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/internal-project/">
-    Project
-  </a>
-  
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/#" target="_blank" rel="noopener">
-  Poster
-</a>
-
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/slides/example/" target="_blank">
-    Slides
-  </a>
-  
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/#" target="_blank" rel="noopener">
-  Video
-</a>
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/#" target="_blank" rel="noopener">
-  Source Document
-</a>
-
-
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://example.org" target="_blank" rel="noopener">
-    
-    Custom Link
-  </a>
 
 
     </div>
@@ -2688,8 +3644,128 @@
     
     
     
-    <a href="/publication/conference-paper/" >
-      <img src="/publication/conference-paper/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_312700_150x0_resize_q90_lanczos.jpg" alt="">
+    <a href="/publication/ceereport_2020/" >
+      <img src="/publication/ceereport_2020/featured_huc92d3517b110efc1c138410e66c0679c_66963_150x0_resize_q90_lanczos.jpg" alt="">
+    </a>
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/publication/iotables_2018/" >iotables R package</a>
+    </h3>
+
+    
+    <div class="article-style">
+      The goal of eurobarometer is converting Eurobarometer microdata files, as stored by GESIS, into tidy R data frames and help common …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  
+  <span><a href="/author/daniel-antal/">Daniel Antal</a></span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/iotables_2018/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+    
+  
+
+  
+    
+  
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://rOpenGov/iotables/" target="_blank" rel="noopener">
+  Source Document
+</a>
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.5281/zenodo.2531818" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/iotables_2018/" >
+      <img src="/publication/iotables_2018/featured_huf017ebd097201f45381cf02b6b40f758_101923_150x0_resize_q90_lanczos.jpg" alt="">
     </a>
     
   </div>
@@ -2698,6 +3774,184 @@
       
     
 
+    
+
+  </div>
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="tags" class="home-section wg-tag-cloud   "  >
+    <div class="container">
+      
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<div class="row">
+  <div class="col-12 col-lg-4 section-heading">
+    <h1>Popular Topics</h1>
+    
+  </div>
+  <div class="col-12 col-lg-8">
+    
+
+    
+
+      
+      
+      
+      
+      
+      
+
+      <div class="tag-cloud">
+        
+          
+          
+          
+          <a href="/tag/armenia/" style="font-size:0.7rem">Armenia</a>
+        
+          
+          
+          
+          <a href="/tag/austria/" style="font-size:0.7rem">Austria</a>
+        
+          
+          
+          
+          <a href="/tag/bulgaria/" style="font-size:0.7rem">Bulgaria</a>
+        
+          
+          
+          
+          <a href="/tag/cci/" style="font-size:0.7rem">CCI</a>
+        
+          
+          
+          
+          <a href="/tag/ceemid/" style="font-size:1.4630058309007024rem">CEEMID</a>
+        
+          
+          
+          
+          <a href="/tag/czechia/" style="font-size:0.7rem">Czechia</a>
+        
+          
+          
+          
+          <a href="/tag/eurobarometer/" style="font-size:0.9816027500369371rem">Eurobarometer</a>
+        
+          
+          
+          
+          <a href="/tag/geolocations/" style="font-size:0.7rem">geolocations</a>
+        
+          
+          
+          
+          <a href="/tag/hungary/" style="font-size:0.7rem">Hungary</a>
+        
+          
+          
+          
+          <a href="/tag/lithuania/" style="font-size:0.7rem">Lithuania</a>
+        
+          
+          
+          
+          <a href="/tag/market-report/" style="font-size:0.7rem">market-report</a>
+        
+          
+          
+          
+          <a href="/tag/music/" style="font-size:0.7rem">music</a>
+        
+          
+          
+          
+          <a href="/tag/music-industry/" style="font-size:1.1814030808637654rem">music-industry</a>
+        
+          
+          
+          
+          <a href="/tag/observatory/" style="font-size:0.9816027500369371rem">observatory</a>
+        
+          
+          
+          
+          <a href="/tag/open-data/" style="font-size:1.944408911764468rem">open-data</a>
+        
+          
+          
+          
+          <a href="/tag/open-source/" style="font-size:0.7rem">open-source</a>
+        
+          
+          
+          
+          <a href="/tag/r/" style="font-size:1.5700662276928212rem">R</a>
+        
+          
+          
+          
+          <a href="/tag/r-bloggers/" style="font-size:1.1814030808637654rem">r-bloggers</a>
+        
+          
+          
+          
+          <a href="/tag/reproducible/" style="font-size:1.4630058309007024rem">reproducible</a>
+        
+          
+          
+          
+          <a href="/tag/surveys/" style="font-size:1.4630058309007024rem">surveys</a>
+        
+      </div>
     
 
   </div>
@@ -2761,7 +4015,7 @@
     
 
     <div class="mb-3">
-      <form name="contact" method="POST" action="https://formspree.io/daniel.antal@ceemid.eu">
+      <form name="contact" method="POST" action="https://formspree.io/mail@dataobservatory.eu">
         <div class="form-group form-inline">
           <label class="sr-only" for="inputName">Name</label>
           <input type="text" name="name" class="form-control w-100" id="inputName" placeholder="Name" required>
@@ -2787,18 +4041,6 @@
 
       
       
-        
-        
-        
-        
-        
-        
-        
-        <li>
-          <i class="fa-li fas fa-map-marker fa-2x" aria-hidden="true"></i>
-          <span id="person-address">The Hague, Zuid-Holland, 2592TA, Netherlands</span>
-        </li>
-      
 
       
 
@@ -2821,7 +4063,7 @@
       
       <li>
         <i class="fa-li fab fa-twitter fa-2x" aria-hidden="true"></i>
-        <a href="https://twitter.com/data_lyrics" target="_blank" rel="noopener">DM Me</a>
+        <a href="https://twitter.com/antaldaniel" target="_blank" rel="noopener">DM Me</a>
       </li>
       
       
@@ -2835,22 +4077,44 @@
       
       <li>
         <i class="fa-li fab fa-skype fa-2x" aria-hidden="true"></i>
-        <a href="skype:echo123?call" >Skype Me</a>
+        <a href="skype:antaldaniel.hu" >Skype Me</a>
+      </li>
+      
+      
+      
+      
+        
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <i class="fa-li fab fa-keybase fa-2x" aria-hidden="true"></i>
+        <a href="https://keybase.io/team/reprexcommunity" target="_blank" rel="noopener">Get in touch on Keybase</a>
+      </li>
+      
+      
+      
+      
+        
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <i class="fa-li fab fa-telegram fa-2x" aria-hidden="true"></i>
+        <a href="https://telegram.me/antaldaniel" target="_blank" rel="noopener">Telegram Me</a>
       </li>
       
 
     </ul>
 
-    
-    <div class="d-none">
-      <input id="map-provider" value="2">
-      <input id="map-lat" value="52.0785">
-      <input id="map-lng" value="4.3313">
-      <input id="map-dir" value="The Hague, Zuid-Holland, 2592TA, Netherlands">
-      <input id="map-zoom" value="15">
-      <input id="map-api-key" value="">
-    </div>
-    <div id="map"></div>
     
 
   </div>
@@ -2865,9 +4129,6 @@
 
     
     
-
-    
-    
     
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
@@ -2878,14 +4139,12 @@
 
       
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js" integrity="sha256-1zu+3BnLYV9LdiY85uXMzii3bdrkelyp37e0ZyTAQh0=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js" integrity="sha256-eOgo0OtLL4cdq7RdwRUiGKLX9XsIJ7nGhWEKbohmVAQ=" crossorigin="anonymous"></script>
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/r.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/r.min.js"></script>
         
       
 
-      
-      
     
 
     
@@ -2895,7 +4154,12 @@
 
     
     
-    <script>hljs.initHighlightingOnLoad();</script>
+    <script>const code_highlighting = true;</script>
+    
+
+    
+    
+    <script>const isSiteThemeDark = false;</script>
     
 
     
@@ -2960,7 +4224,7 @@
     
     
     
-    <script src="/js/academic.min.d6bd04fdad2ad213aa8111c5a3b72fc5.js"></script>
+    <script src="/js/academic.min.c816d323c3a55093dae0829b44ea1ca8.js"></script>
 
     
 
@@ -2986,7 +4250,7 @@
   
 
   <p class="powered-by">
-    
+    © 2020 &middot; 
 
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>team-building | Satellite Report</title>
+    <link>/tags/team-building/</link>
+      <atom:link href="/tags/team-building/index.xml" rel="self" type="application/rss+xml" />
+    <description>team-building</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 14 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>team-building</title>
+      <link>/tags/team-building/</link>
+    </image>
+    
+    <item>
+      <title>Yes!Delft Co-Lab</title>
+      <link>/post/yes-delft-co-lab/</link>
+      <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/post/yes-delft-co-lab/</guid>
+      <description>
+
+
+&lt;p&gt;I participated on the Yes!Delft Co-Lab in Delft.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

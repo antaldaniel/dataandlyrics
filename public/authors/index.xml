@@ -1,34 +1,175 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Data &amp; Lyrics</title>
+    <title>Authors | Creative Data Observatories</title>
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 25 Sep 2020 15:31:39 +0200</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
     
     <item>
+      <title>Daniel Antal, CFA</title>
+      <link>/author/daniel-antal-cfa/</link>
+      <pubDate>Fri, 25 Sep 2020 15:31:39 +0200</pubDate>
+      <guid>/author/daniel-antal-cfa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Réka Szentirmay</title>
+      <link>/author/reka-szentirmay/</link>
+      <pubDate>Fri, 25 Sep 2020 15:31:39 +0200</pubDate>
+      <guid>/author/reka-szentirmay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel Antal</title>
+      <link>/author/daniel-antal/</link>
+      <pubDate>Tue, 15 Sep 2020 08:00:39 +0200</pubDate>
+      <guid>/author/daniel-antal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Line Matson</title>
+      <link>/author/line-matson/</link>
+      <pubDate>Fri, 11 Sep 2020 16:00:39 +0200</pubDate>
+      <guid>/author/line-matson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moon Moon Moon</title>
+      <link>/author/moon-moon-moon/</link>
+      <pubDate>Fri, 11 Sep 2020 16:00:39 +0200</pubDate>
+      <guid>/author/moon-moon-moon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sandor Budai</title>
+      <link>/author/sandor-budai/</link>
+      <pubDate>Fri, 11 Sep 2020 16:00:39 +0200</pubDate>
+      <guid>/author/sandor-budai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marta Kolczynska</title>
+      <link>/author/marta-kolczynska/</link>
+      <pubDate>Tue, 25 Aug 2020 16:00:00 +0200</pubDate>
+      <guid>/author/marta-kolczynska/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title></title>
-      <link>/authors/admin/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
+      <link>/author/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/author/</guid>
+      <description>&lt;p&gt;Reprex B.V. is a reproducible research company.  We believe that whenever a business or policy consulting team, a research institute, or data journalism team has already used, formatted, and analyzed data from an external source at least twice, this procedure should be automated. This makes it error-free, well documented, cheap and re-useable. Furthermore, making data collection ongoing instead being ad hoc saves data acquisition, validation and supervision costs. We would like to help medium-sized business, policy, NGO, scientific and data journalism organizations in this,  who do not have the institutional capacity to hire data scientists and engineers.&lt;/p&gt;
+&lt;p&gt;Our solutions cover automating data acquisition, processing, validation, auditing, documentation, visualization and presentation workflows, so that they can focus on what humans are best: making sense of the data.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Reprex&lt;/code&gt; means &lt;code&gt;reproducible example&lt;/code&gt; in data science.  When you are stuck with a problem, creating a reproducible example allows other computer scientists, statisticians, programmers or data users to solve it. In 80% of the cases, you usually find the solution while creating a generalized example &amp;ndash;  which also means that you never have to repeat this task again.  If you have ever downloaded, formatted, visualized, cited a datasource twice in your work, there is a high chance that you will need it again. We would like to make this process automatic, with daily updating the data, the formatting, the visualizations and the citations.&lt;/p&gt;
+&lt;p&gt;In the 20% other cases, you can reach out for help easily. We want to help you making your codes, data ingestions, document and presentation templates reproducible, and give help when you are stuck. Call us!&lt;/p&gt;
+&lt;p&gt;An &lt;code&gt;observatory&lt;/code&gt; is a location used for observing terrestrial or celestial events. We are building highly automated data observatories in the fields of business, policy and social sciences to support research and development and evidence-based policymaking. We are following the best practices of reproducible research.&lt;/p&gt;
+&lt;p&gt;The observatories give a comprehensive view of our minimal viable products. We are working on the launch of three observatories, starting with 
+&lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;music.dataobservatory.eu&lt;/a&gt; and 
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
+&lt;a href=&#34;https://ccs.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ccs.dataobservatory.eu&lt;/a&gt; that we will finalize until 14 September 2020. Our Demo Music Observatory is already partially functional, and showcases all of the elements of reproducible research workflow, but some implementation (automatic doi versioning) and a full selection of the indicators is not yet finished. Out of our 2000 pan-European indicators, we will select about 50-50 in our demo observatories for daily refreshed availability.&lt;/p&gt;
+&lt;p&gt;Whenever we collaborate with members of the open source, open data community, we apply the 
+&lt;a href=&#34;https://www.contributor-covenant.org/version/2/0/code_of_conduct/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Contributor Covenant&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;do-you-want-to-help-our-start&#34;&gt;Do you want to help our start?&lt;/h2&gt;
+&lt;p&gt;We would like to enter into the Validation Lab of one of the best artificial intelligence incubators in early September. Talented team members, letters of intents and assignments from organizations will give a lot of credibility to our start 
+&lt;a href=&#34;http://dataobservatory.eu/team/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Meet our team »&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Put as in contact with people who love to write code in R and interested in automating business and social science research and primary data collection such as surveying. 
+&lt;a href=&#34;http://dataobservatory.eu/#featured&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out what sort of code we create »&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Introduce us to people who need data and information to make better informed decision and analysis in music, film, book publishing, photography services or socially responsible finance.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Share contacts of data journalists who would like to develop stories from big survey programs like Eurobarometer, Afrobarometer and Lationbarometro, or base their storytelling on data and its visualizations. 
+&lt;a href=&#34;http://retroharmonize.satellitereport.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;See our survey harmonization examples »&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You can share this in with our 
+&lt;a href=&#34;http://dataobservatory.eu/post/2020-08-24-start-up/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;start-up post»&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Thanks again for your good wishes and encouragements, and hope to hear from you soon!&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Robert Ford</title>
-      <link>/authors/robert-ford/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/authors/robert-ford/</guid>
-      <description></description>
+      <title>Andres</title>
+      <link>/author/andres/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/author/andres/</guid>
+      <description>&lt;p&gt;Andrés is a data scientist and an ethnomusicologist. He is an experienced international researcher with interests that lie at the intersection between data science and the humanities. He helps our team with quantifying (ethno-)musicological variables to train better AI models and to make our Demo Music Observatory more valuable for its users. He also helps us reach out to potential partners in North America.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Daniel</title>
+      <link>/author/daniel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/author/daniel/</guid>
+      <description>&lt;p&gt;Daniel Antal is an experienced management consultant who applies a thoroughly professional approach based in economics, finance and data science in his practice. As a quantitatively trained financial economist, he uses a variety of sound valuation methods, corporate finance models, forecasting tools and economic impact analysis for his recommendations, and applies the 
+&lt;a href=&#34;https://www.cfainstitute.org/en/ethics-standards/ethics/code-of-ethics-standards-of-conduct-guidance&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;standards and ethical guidelines&lt;/a&gt; of the Chartered Financial Analyst Institute.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Istvan Simon</title>
+      <link>/author/istvan-simon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/author/istvan-simon/</guid>
+      <description>&lt;p&gt;Istvan is an experienced technology entrepreneur venturing new digital solutions and business models. Before that he was a consulting actuary for a decade with large and smaller clients in Northern, Western and Eastern Europe. His business understanding paired with his highly quantitative background and programming skills make him able to help our business research partners turn their research and risk management workflows reproducible and more automated. Istvan follows the 
+&lt;a href=&#34;http://actuary.hu/weblap2/wp-content/uploads/Etikai-Szabalyzat-20161111-clean.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code of Ethics of the Hungarian Actuarial Society&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Istvan Zsoldos</title>
+      <link>/author/istvan-zsoldos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/author/istvan-zsoldos/</guid>
+      <description>&lt;p&gt;Istvan has experience in macroeconomics, corporate advisory and using data science to reveal information hidden in the data. He has experience with working for large corporations, having served as the lead economist of WSE:MOL as well as being an independent consultant. He is a contributor to the 
+&lt;a href=&#34;publication/regions_2020/&#34;&gt;regions package&lt;/a&gt; that we use for the creation of sub-national indicators and data panels.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kátya Nagy</title>
+      <link>/author/katya-nagy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/author/katya-nagy/</guid>
+      <description>&lt;p&gt;Kátya is a freelance PR professional, journalist and has been working on the former CEEMID music professional surveys and other background research since 2015. Her role is to make sure that all large and small music organizations can participate in our research projects in the target countries, and receive the research output. Before we automate a process, she check the facts on the ground. She has been supporting our research in 12 countries in the past, and she is helping us reaching out to 12 new countries in our new team.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Line</title>
+      <link>/author/line/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/author/line/</guid>
+      <description>&lt;p&gt;Line Matson is a freelance project manager and visual artist working across cultural projects and digital mediums. As consultant and advisor to Reprex B.V., she provides guidance with navigating visual and auditory elements.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Réka Szentirmay</title>
+      <link>/author/reka-szentirmay/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/author/reka-szentirmay/</guid>
+      <description>&lt;p&gt;Réka Szentirmay is a seasoned localisation professional with more than a decade of experience in translations, technical documentation and project management. With a background in journalism, social sciences and the theory of photography and film, Szentirmay strengthens the team from the perspective of digital humanities.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

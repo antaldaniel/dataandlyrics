@@ -1,475 +1,1092 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Data &amp; Lyrics</title>
+    <title>Posts | Creative Data Observatories</title>
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 25 Sep 2020 15:31:39 +0200</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
     
     <item>
-      <title>Testing a new post</title>
-      <link>/post/testing-a-new-post/</link>
-      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/post/testing-a-new-post/</guid>
-      <description>
-
-
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;plot ( hist(mtcars$cyl))&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2019-10-21-testing-a-new-post_files/figure-html/unnamed-chunk-1-1.png&#34; width=&#34;672&#34; /&gt;&lt;img src=&#34;/post/2019-10-21-testing-a-new-post_files/figure-html/unnamed-chunk-1-2.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+      <title>Product/Market Fit Validation in Yes!Delft</title>
+      <link>/post/2020-09-25-yesdelft-validation/</link>
+      <pubDate>Fri, 25 Sep 2020 15:31:39 +0200</pubDate>
+      <guid>/post/2020-09-25-yesdelft-validation/</guid>
+      <description>&lt;p&gt;We would like to validate our product market/fit in two segments, business/policy research and scientific research, with a supporting role given to data journalism. Because we want to follow a bootstrapping strategy, we must focus on those clients where we find the highest value proposition, which is of course easier said than done.  We see much interest in our offering from other continents, therefore we truly welcome the opportunity that we can do this on a truly global business canvas in one of the worlds’ 
+&lt;a href=&#34;https://www.yesdelft.com/news/yesdelft-among-the-top-5-business-incubators-in-the-world/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;top five incubators&lt;/a&gt;, the number 2 university-backed incubator in the world, second to none in Europe, in the 
+&lt;a href=&#34;https://www.yesdelft.com/focus-areas/artificial-intelligence/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yes!Delft AI+Blockchain&lt;/a&gt; Validation Lab.&lt;/p&gt;
+&lt;p&gt;In Europe hundreds of thousands of microenterprises, such as record labels, video producers or book publishers are facing data and AI giants like Google’s YouTube, Apple Music, Spotify, Netflix or Amazon. If the recommendation engines of these giants do not recommend their songs, films or books, then their investments are doomed to fail, because about half of the global sales are driven by AI algorithms. When they make a claim for the missing money, they will immediately find themselves in a dispute with gigabytes of data that they can only handle with a data scientist, even though they do not even have an IT professional or an HR professional to make the hire.&lt;/p&gt;
+&lt;p&gt;An awful lot of money, creativity and real values are at stake, and we want to be on the creator’s side, their technician’s side, their manager’s side when they want to get a fair share from the pie and they want to help these industry leader to make the pie grow.&lt;/p&gt;
+&lt;p&gt;The 
+&lt;a href=&#34;http://www.unesco.org/new/en/culture/themes/creativity/arts-education/research-cooperation/observatories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UNESCO&lt;/a&gt; and the EU have been promoting as an organizational solution the fragmentation problem with the so-called data observatories that are pooling the business, policy, and scientific research needs of various domains, like music. This is an idea that we really like, and we believe that our research automation solutions can help these observatories to grow faster as ecosystems, create better quality and more timely data and research products and a far lower cost.&lt;/p&gt;
+&lt;p&gt;We define ourselves as a reproducible research company inspired by the philosophy of open collaboration, based on open-source software and open data. We want to explore various revenue models around these ideas.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;We are not committed to open source licensing if more permissive licensing policies provide us with better opportunities.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;We would like to explore various data-as-service models, because we do not want to be locked into the position of cheap open data vendors.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;We want to deploy AI applications that really help earning money in these sectors with playlisting, recommendation engines, forecasting applications, or royalty valuations, because our open collaboration approach brings up enough data sooner to than its alternatives, because it manages inherent conflicts of interests, fragmentation, and decentralization better than hierarchical solutions.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Timeline&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;In January CEEMID reached its peak: we introduced a 12-country 
+&lt;a href=&#34;https://dataobservatory.eu/post/2020-01-30-ceereport/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;reproducible research project&lt;/a&gt; made with only freelancers in Brussels, presented as best use case of evidence-based policy design.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;In February Daniel visited the 
+&lt;a href=&#34;https://dataobservatory.eu/post/yes-delft-co-lab/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yes!Delft Co-Lab&lt;/a&gt; to find out who would be the best co-founder to re-launch CEEMID as an enterprise.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;In April we started to 
+&lt;a href=&#34;https://dataobservatory.eu/post/2020-04-16-regional-opendata-release/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;release our data&lt;/a&gt; as open data for validation.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;One month ago we 
+&lt;a href=&#34;https://dataobservatory.eu/post/2020-08-24-start-up/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;started-up&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Then we launched the 
+&lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;music.dataobservatory.eu&lt;/a&gt; project.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A few other 
+&lt;a href=&#34;https://music.dataobservatory.eu/annex.html#other-observatories&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data observatories&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Bonus:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.palato.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Palato&lt;/a&gt; in the Hague, where we took our selfie and had an absolutely amazing dinner after the pitch. Check them out!&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
     <item>
-      <title>Writing technical content in Academic</title>
-      <link>/post/writing-technical-content/</link>
-      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/post/writing-technical-content/</guid>
-      <description>&lt;p&gt;Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;On this page, you&#39;ll find some examples of the types of technical content that can be rendered with Academic.&lt;/p&gt;
-
-&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
-
-&lt;h3 id=&#34;code&#34;&gt;Code&lt;/h3&gt;
-
-&lt;p&gt;Academic supports a Markdown extension for highlighting code syntax. You can enable this feature by toggling the &lt;code&gt;highlight&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;```python
-import pandas as pd
-data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
-data.head()
-```
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;renders as&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;import pandas as pd
-data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
-data.head()
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h3 id=&#34;math&#34;&gt;Math&lt;/h3&gt;
-
-&lt;p&gt;Academic supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the &lt;code&gt;math&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file and adding &lt;code&gt;markup: mmark&lt;/code&gt; to your page front matter.&lt;/p&gt;
-
-&lt;p&gt;To render &lt;em&gt;inline&lt;/em&gt; or &lt;em&gt;block&lt;/em&gt; math, wrap your LaTeX math with &lt;code&gt;$$...$$&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;Example &lt;strong&gt;math block&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;$$\gamma_{n} = \frac{ 
-\left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T 
-\left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}
-{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;renders as&lt;/p&gt;
-
-&lt;p&gt;&lt;span  class=&#34;math&#34;&gt;\[\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}\]&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;Example &lt;strong&gt;inline math&lt;/strong&gt; &lt;code&gt;$$\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2$$&lt;/code&gt; renders as &lt;span  class=&#34;math&#34;&gt;\(\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2\)&lt;/span&gt; .&lt;/p&gt;
-
-&lt;p&gt;Example &lt;strong&gt;multi-line math&lt;/strong&gt; using the &lt;code&gt;\\&lt;/code&gt; math linebreak:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;$$f(k;p_0^*) = \begin{cases} p_0^* &amp;amp; \text{if }k=1, \\
-1-p_0^* &amp;amp; \text {if }k=0.\end{cases}$$
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;renders as&lt;/p&gt;
-
-&lt;p&gt;&lt;span  class=&#34;math&#34;&gt;\[f(k;p_0^*) = \begin{cases} p_0^* &amp; \text{if }k=1, \\
-1-p_0^* &amp; \text {if }k=0.\end{cases}\]&lt;/span&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;diagrams&#34;&gt;Diagrams&lt;/h3&gt;
-
-&lt;p&gt;Academic supports a Markdown extension for diagrams. You can enable this feature by toggling the &lt;code&gt;diagram&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file or by adding &lt;code&gt;diagram: true&lt;/code&gt; to your page front matter.&lt;/p&gt;
-
-&lt;p&gt;An example &lt;strong&gt;flowchart&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;```mermaid
-graph TD;
-  A--&amp;gt;B;
-  A--&amp;gt;C;
-  B--&amp;gt;D;
-  C--&amp;gt;D;
-```
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;renders as&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;graph TD;
-  A--&amp;gt;B;
-  A--&amp;gt;C;
-  B--&amp;gt;D;
-  C--&amp;gt;D;
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;An example &lt;strong&gt;sequence diagram&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;```mermaid
-sequenceDiagram
-  participant Alice
-  participant Bob
-  Alice-&amp;gt;John: Hello John, how are you?
-  loop Healthcheck
-      John-&amp;gt;John: Fight against hypochondria
-  end
-  Note right of John: Rational thoughts &amp;lt;br/&amp;gt;prevail...
-  John--&amp;gt;Alice: Great!
-  John-&amp;gt;Bob: How about you?
-  Bob--&amp;gt;John: Jolly good!
-```
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;renders as&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;sequenceDiagram
-  participant Alice
-  participant Bob
-  Alice-&amp;gt;John: Hello John, how are you?
-  loop Healthcheck
-      John-&amp;gt;John: Fight against hypochondria
-  end
-  Note right of John: Rational thoughts &amp;lt;br/&amp;gt;prevail...
-  John--&amp;gt;Alice: Great!
-  John-&amp;gt;Bob: How about you?
-  Bob--&amp;gt;John: Jolly good!
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;An example &lt;strong&gt;Gantt diagram&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;```mermaid
-gantt
-  dateFormat  YYYY-MM-DD
-  section Section
-  A task           :a1, 2014-01-01, 30d
-  Another task     :after a1  , 20d
-  section Another
-  Task in sec      :2014-01-12  , 12d
-  another task      : 24d
-```
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;renders as&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;gantt
-  dateFormat  YYYY-MM-DD
-  section Section
-  A task           :a1, 2014-01-01, 30d
-  Another task     :after a1  , 20d
-  section Another
-  Task in sec      :2014-01-12  , 12d
-  another task      : 24d
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h3 id=&#34;todo-lists&#34;&gt;Todo lists&lt;/h3&gt;
-
-&lt;p&gt;You can even write your todo lists in Academic too:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;- [x] Write math example
-- [x] Write diagram example
-- [ ] Do something else
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;renders as&lt;/p&gt;
-
+      <title>Reproducible Survey Harmonization: retroharmonize Is Released</title>
+      <link>/post/2020-09-21-retroharmonize_release/</link>
+      <pubDate>Mon, 21 Sep 2020 11:31:39 +0200</pubDate>
+      <guid>/post/2020-09-21-retroharmonize_release/</guid>
+      <description>&lt;p&gt;Our original intention was to make surveying more accessible for music and creative industry partners, by relying more on already existing survey data, and better designing complementary, smaller surveys, becasue surveying, opinion polling is becoming increasingly expensive in the develop world.  People are less and less likely to sit down for an interview in their houses.  We have tried to harmonize our custom surveys, particuarly with Kantar in Hungary and Focus in Slovakia with exisiting EU projects.  But we ended up making a part of international survey harmonization across countries and throughout years easier to automate.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/packages/ab_plot1.png&#34; alt=&#34;Harmonized results from Afrobarometer&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Surveys are like sensors for natural sciences and industrial production. They are essential for almost any social and economic statistical indicator, for calculating the inflation, parts of the GDP, participation in education programs.  Making surveys easier to harmonize and exploit more already existing survey data can bring down research cost, and can increase research value at the same time. (See our earlier blog post 
+&lt;a href=&#34;https://dataobservatory.eu/post/2020-07-10-retroharmonize/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Increase The Value Of Market Research With Open Data And Survey Harmonization&lt;/a&gt;.)&lt;/p&gt;
+&lt;p&gt;So, if you are an R user, you can use &lt;code&gt;install.packages(“retroharmonize”)&lt;/code&gt; to get the released 0.1.13 version and make tutorials with real Eurobarometer or Afrobarometer microdata.  With &lt;code&gt;devtools::install_github(&amp;quot;antaldaniel/retroharmonize&amp;quot;)&lt;/code&gt; you can already install the current development version 0.1.14, which handles perl-like regex, which will be necessary for our next tutorial in the making for 
+&lt;a href=&#34;https://www.arabbarometer.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Arab Barometer&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Related&lt;/strong&gt;:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;input type=&#34;checkbox&#34; checked=&#34;&#34; disabled=&#34;&#34;&gt; Write math example&lt;/li&gt;
-&lt;li&gt;&lt;input type=&#34;checkbox&#34; checked=&#34;&#34; disabled=&#34;&#34;&gt; Write diagram example&lt;/li&gt;
-&lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled=&#34;&#34;&gt; Do something else&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://retroharmonize.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;retroharmonize package website&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/antaldaniel/retroharmonize/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;retroharmonize on github&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Launching Our Demo Music Observatory</title>
+      <link>/post/2020-09-15-music-observatory-launch/</link>
+      <pubDate>Tue, 15 Sep 2020 08:00:39 +0200</pubDate>
+      <guid>/post/2020-09-15-music-observatory-launch/</guid>
+      <description>&lt;p&gt;Today, on 15 September 2020, we officially launched our &lt;code&gt;minimal viable product&lt;/code&gt; as we promised to partners back in February. This was a particularly difficult period for everybody. We aspired to deliver by September in a very different environment, our hopes for commissioned work went up in flames with the pandemic, and our targeted users, musicians and music entrepreneurs, talent managers, music venues lost most of their income. The organizations helping them, granting authorities, export offices and collective management societies are overwhelmed with the problem. During these troublesome times, our team expanded, attracted great new talent, and kept working.&lt;/p&gt;
+&lt;p&gt;Our first product is the 
+&lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo Music Observatory&lt;/a&gt;, a collaborative, automated research-based 
+&lt;a href=&#34;https://dataobservatory.eu/faq/observatories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;observatory&lt;/a&gt; for the music industry, one that is particularly hard hit by the COVID19 crisis. Not only great artists, composers, technicians, managers fell victim to the virus, but musicians lost about 50–90% of their income from live music. This translates to a 100% loss for the live music technicians and managers.&lt;/p&gt;
+&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/fQJHflWPS34&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
-&lt;h3 id=&#34;tables&#34;&gt;Tables&lt;/h3&gt;
+See our 
+&lt;a href=&#34;https://dataobservatory.eu/post/2020-09-11-creating-automated-observatory/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;earlier blogpost&lt;/a&gt; on what you see on the video.&lt;/p&gt;
+&lt;p&gt;The music industry was never a place for great job security. For putting up a show, you usually need a network of 10–200 artists, technicians and managers to work together as freelancers without all those social benefits that many people enjoy in other walks of life. We have been trying to figure out how to help this microenterprise and freelancer-network based industry with research for five years. Our aim is to make them competitive when they are talking with their buyers: Google, Apple, Spotify, who are really heavy-weight data and AI pros. Our better plan their tours, when they will be back on the road, to understand what sort of audiences and purchasing power waits for them in different European cities.&lt;/p&gt;
+&lt;p&gt;We are launching at a time when the music industry is crying for help.Therefore, we have decided to make our demo observatory open and unfinished. Over the last 7 years, we have built up about 2000 music and creative sector indicators to be used for business KPIs, forecasting targets, grant evaluations, royalty valuations, concert demography target group analysis and other professional uses. We would like to open up, based on your needs, about 50 well-designed indicators, and pledge to keep it daily refreshed, corrected, documented, citaable, downloadable. Also, feel free to use our most valuable source code—use it for your own purposes, even modify it, as long as you keep it open.&lt;/p&gt;
+&lt;p&gt;For our smaller partners, we follow what musicians do these days on Bandcamp: name your price. We make a pledge to our small partners: if you need reliable data to plan your next grant calls, calculate royalties, compensations, predict hit candidates, give us the job—and name your price. Post-corona, you can take for a dollar the best music from Bandcamp. You can take our research products, for a limited period, for any amount you name, as long as  it is for a good cause and serves the industry, musicians, technicians or managers. In return, we ask for your feedback. Help us validate whether we are on the right track, tell us how we can cooperate after the pandemic, in better times.&lt;/p&gt;
+&lt;p&gt;Our larger and better funded partners? We ask you to pay the price we name, because we believe that it is a well-justified, fair and competitive price, set by pricing experts.&lt;/p&gt;
+&lt;p&gt;We appreciate it if you take a look at our offering, or if you pass this blogpost on to your colleagues in the industry.  Our main target audience initially are music professional in broader Europe, but we are planning to cover all major global markets very soon, too. Feedback from the U.S., Australia, Canada, Colombia, Brazil &amp;amp; Argentina is particularly welcome as we have great plans over there!&lt;/p&gt;
+&lt;h2 id=&#34;who-we-are&#34;&gt;Who we are?&lt;/h2&gt;
+&lt;p&gt;We 
+&lt;a href=&#34;https://dataobservatory.eu/post/2020-08-24-start-up/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;started&lt;/a&gt; our operations on 1 September 2020 on the basis of 
+&lt;a href=&#34;http://documentation.ceemid.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CEEMID&lt;/a&gt;, a pan-European data observatory that created about 2000 music and creative industry indicators for its users. In the coming days, we are gradually opening up about 50 
+&lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;music industry&lt;/a&gt; and 50 broader creative industry indicators in a fully reproducible workflow, with daily re-freshed, re-processed, well-formatted and documented indicators for business and policy decisions.&lt;/p&gt;
+&lt;p&gt;We would like to validate this approach in one of the world&amp;rsquo;s most prestigious university-backed incubator programs, in the 
+&lt;a href=&#34;https://www.yesdelft.com/yes-programs/ai-blockchain-validation-lab/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yes!Delft AI/Blockchain Validation Lab&lt;/a&gt;. We&amp;rsquo;re finalist on their selection, and all help before 23 September from our friends in the music industry is more than appreciated. If we get there, we can rely on probably the best pros in Europe to make our offering better tailored and financially sustainable.&lt;/p&gt;
+&lt;h2 id=&#34;get-in-touch&#34;&gt;Get in touch!&lt;/h2&gt;
+&lt;p&gt;We use the very simple and extremely secure &lt;strong&gt;keybase.io&lt;/strong&gt;, a kind of mix of Whatsapp, Skype, Google Drive, One Drive and zoom. You can get in touch on that platform with us in anytime 
+&lt;a href=&#34;https://keybase.io/team/reprexcommunity&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can easily contact on LinkedIn 
+&lt;a href=&#34;https://www.linkedin.com/in/antaldaniel/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel&lt;/a&gt; or 
+&lt;a href=&#34;https://www.linkedin.com/in/k%C3%A1tya-nagy-a9447730/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kátya&lt;/a&gt; and of course, we have a usually working 
+&lt;a href=&#34;https://dataobservatory.eu/#about&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;email contact form&lt;/a&gt;, too. Our email is name.surname at our main domain.&lt;/p&gt;
+&lt;h2 id=&#34;video-credits&#34;&gt;Video credits&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Data acquisition and processing: Daniel Antal, CFA and Marta Kołczyńska, PhD (
+&lt;a href=&#34;https://music.dataobservatory.eu/economy.html#demand&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;survey data&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;Documentation automation: Sandor Budai&lt;/li&gt;
+&lt;li&gt;Video art: Line Matson&lt;/li&gt;
+&lt;li&gt;Music: 
+&lt;a href=&#34;https://www.youtube.com/moonmoonmoon&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Moon Moon Moon&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Creating An Automated Data Observatory</title>
+      <link>/post/2020-09-11-creating-automated-observatory/</link>
+      <pubDate>Fri, 11 Sep 2020 16:00:39 +0200</pubDate>
+      <guid>/post/2020-09-11-creating-automated-observatory/</guid>
+      <description>&lt;p&gt;We are building data ecosystems, so called observatories, where scientific, business, policy and civic users can find factual information, data, evidence for their domain.  Our open source, open data, open collaboration approach allows to connect various open and proprietary data sources, and our reproducible research workflows allow us to automate data collection, processing, publication, documentation and presentation.&lt;/p&gt;
+&lt;p&gt;Our scripts are checking data sources, such as Eurostat&amp;rsquo;s Eurobase, Spotify&amp;rsquo;s API and other music industry sources every day for new information, and process any data corrections or new disclosure, interpolate, backcast or forecast missing values, make currency translations and unit conversions. This is shown illustrated with an 
+&lt;a href=&#34;https://dataobservatory.eu/post/2020-07-25-reproducible_ingestion/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;earlier post&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Represent your data in tables:&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/fQJHflWPS34&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+&lt;p&gt;For direct access to the file visit 
+&lt;a href=&#34;https://dataobservatory.eu/video/making-of-dmo.mp4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this link&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In the video we show automated the creation of an observatory website with well-formatted, statistical data dissemination, a technical document in PDF and an ebook can be automated.  In our view, our technology is particularly useful technology in business and scientific researech projects, where it is important that always the most timely and correct data is being analyzed, and remains automatically documented and cited. We are ready deploy public, collaborative, or private data observatories in short time.&lt;/p&gt;
+&lt;p&gt;Data processing costs can be as high as 80% for any in-house AI deployment project. We work mainly with organization that do not have in house data science team, and acquire their data anyway from outside the organization. In their case, this rate can be as high as 95%, meaning that getting and processing the data for deploying AI can be 20x more expensive than the AI solution itself.&lt;/p&gt;
+&lt;p&gt;AI solutions require a large amount of standardized, well processed data to learn from.  We want to radically decrease the cost of data acquisition and processing for our users so that exploiting AI becomes in their reach. This is particularly important in one of our target industries, the music industries, where most of the global sales is algorithmic and AI-driven. Artists, bands, small labels, publishers, even small country national associations cannot remain competitive if they cannot participate in this technological revolution.&lt;/p&gt;
+&lt;p&gt;We 
+&lt;a href=&#34;https://dataobservatory.eu/post/2020-08-24-start-up/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;started&lt;/a&gt; our operations on 1 September 2020 on the basis of 
+&lt;a href=&#34;http://documentation.ceemid.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CEEMID&lt;/a&gt;, a pan-European data observatory that created about 2000 music and creative industry indicators for its users. In the coming days, we are gradually opening up about 50 
+&lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;music industry&lt;/a&gt; and 50 broader creative industry indicators in a fully reproducible workflow, with daily re-freshed, re-processed, well-formatted and documented indicators for business and policy decisions.&lt;/p&gt;
+&lt;p&gt;We would like to validate this approach in one of the world&amp;rsquo;s most prestigious university-backed incubator programs, in the 
+&lt;a href=&#34;https://www.yesdelft.com/yes-programs/ai-blockchain-validation-lab/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yes!Delft AI/Blockchain Validation Lab&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;video-credits&#34;&gt;Video credits&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Data acquisition and processing: Daniel Antal, CFA and Marta Kołczyńska, PhD (
+&lt;a href=&#34;https://music.dataobservatory.eu/economy.html#demand&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;survey data&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;Documentation automation: Sandor Budai&lt;/li&gt;
+&lt;li&gt;Video art: Line Matson&lt;/li&gt;
+&lt;li&gt;Music: 
+&lt;a href=&#34;https://www.youtube.com/moonmoonmoon&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Moon Moon Moon&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Starting-up</title>
+      <link>/post/2020-08-24-start-up/</link>
+      <pubDate>Mon, 24 Aug 2020 10:15:00 +0200</pubDate>
+      <guid>/post/2020-08-24-start-up/</guid>
+      <description>&lt;p&gt;The big day has come: the co-founders singed off the documents at the public notary and started the registration of a reproducible research start-up in Leiden.  We got a lot of support from our friends! Your encouragement gives us a lot of energy to accomplish our first milestones, and to get Reprex B.V. going!&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Reprex means &amp;lsquo;reproducible example&amp;rsquo; in data science.  When you are stuck with a problem, creating a reproducible example allows other computer scientists, statisticians, programmers or data users to solve it. In 80% of the cases, you usually find the solution while creating a generalized example.  In the 20% other cases, you can reach out for help easily.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;In the coming days, we are launching demo versions of our headline products, data observatories. 
+&lt;a href=&#34;https://music.dataobservatory.eu/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;music.dataobservatory.eu&lt;/a&gt; will be a fully automated online service that every day collects, processes, cleans, and publishes scientifically valid data about European music.  Very soon after we will launch two other observatories.&lt;/p&gt;
+&lt;p&gt;The creative and cultural sector, NGOs, most research institutions, data journalism teams are usually very small, and they do not have internal IT or data science capacities.  We would like to provide them a transparent, high quality, and fully open source solution to acquire data, process it without errors, document it and make sense of it. We would like to embrace the idea of open collaboration among creative enterprises, scientific researchers, NGOs, data journalists and policymakers with our work.&lt;/p&gt;
+&lt;p&gt;Our work will comply with the 
+&lt;a href=&#34;https://www.bitss.org/opa/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Policy Analysis&lt;/a&gt; standards developed by the 
+&lt;a href=&#34;https://www.bitss.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Berkeley Initiative for Transparency in the Social Sciences&lt;/a&gt; &amp;amp; 
+&lt;a href=&#34;https://cega.berkeley.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Center for Effective Global Action&lt;/a&gt; and the four principles of 
+&lt;a href=&#34;http://dataobservatory.eu/reproducible/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;reproducible research&lt;/a&gt;: reviewability, replicability, confirmability and auditability.  We believe that these standards apply in reproducible finance, empirical evidence presentation in courts, or advocating sound policies and producing high-quality journalism.&lt;/p&gt;
+&lt;h2 id=&#34;help&#34;&gt;Do you want to help our start?&lt;/h2&gt;
+&lt;p&gt;We would like to enter into the Validation Lab of one of the best artificial intelligence incubators in early September. Talented team members, letters of intents and assignments from organizations will give a lot of credibility to our start 
+&lt;a href=&#34;http://dataobservatory.eu/team/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Meet our team »&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Put as in contact with people who love to write code in R and interested in automating business and social science research and primary data collection such as surveying. 
+&lt;a href=&#34;http://dataobservatory.eu/#featured&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out what sort of code we create »&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Introduce us to people who need data and information to make better informed decision and analysis in music, film, book publishing, photography services or socially responsible finance.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Share contacts of data journalists who would like to develop stories from big survey programs like 
+&lt;a href=&#34;https://ec.europa.eu/commfrontoffice/publicopinion/index.cfm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eurobarometer&lt;/a&gt;, 
+&lt;a href=&#34;https://www.afrobarometer.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Afrobarometer&lt;/a&gt; and 
+&lt;a href=&#34;https://www.latinobarometro.org/lat.jsp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lationbarometro&lt;/a&gt;, or base their storytelling on data and its visualizations. 
+&lt;a href=&#34;http://retroharmonize.satellitereport.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;See our survey harmonization examples »&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Do you know such people?  Send over this post or connect us in an email or social media message!&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Thanks again for your good wishes and encouragements, and hope to hear from you soon!&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2020 Music Professionals Survey Wave</title>
+      <link>/post/2020-music-professional-survey-wave/</link>
+      <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/post/2020-music-professional-survey-wave/</guid>
+      <description>&lt;p&gt;CEEMID is conducing its 8th survey programme this among musicians, music professionals, and music managers. This is the largest empirical research program in the world about how people work and earn their living in the music industry.&lt;/p&gt;
+&lt;h2 id=&#34;why&#34;&gt;Why?&lt;/h2&gt;
+&lt;p&gt;We are teaming up with some music organizations and research universities to form a Music Observatory, which will support all participant countries musicians with free data for royalty calculation, advocacy at government, tour scheduling and tour planning.  This year we particularly focus on effective COVID19 relief measures, too.&lt;/p&gt;
+&lt;p&gt;See the results of last years&amp;rsquo; results:
+
+&lt;a href=&#34;http://ceereport2020.ceemid.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Central European Music Industry Report 2020&lt;/a&gt; - free download in PDF, epub, or browse the html version.
+
+&lt;a href=&#34;post/2020-01-30-ceereport/&#34;&gt;CCS Ecosystems: Evidence-Driven CCI Policy &amp;amp; The Central &amp;amp; Eastern European Music Industry Report&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;what&#34;&gt;What?&lt;/h2&gt;
+&lt;p&gt;We are asking music organizations to send out our questionnaires to their members, and we ask musicians to forward our questionnaires to music technicians and managers, too. After the fieldwork is done, we are sending back statistically analysed data, reports to the participating countries, and assist local music organizations to make the best use of the data.&lt;/p&gt;
+&lt;h2 id=&#34;which-countries-are-covered-this-year&#34;&gt;Which countries are covered this year?&lt;/h2&gt;
+&lt;p&gt;Previous year we covered emerging Europe Austria, Czechia, Croatia, Hungary, Lithuania, Serbia, Slovakia, Slovenia.&lt;/p&gt;
+&lt;p&gt;This year we are aiming to cover some of our regularly surveyed countries, and a number of new, mainly developed markets. The countries will be announced shortly.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reproducible data ingestion in practice</title>
+      <link>/post/2020-07-25-reproducible_ingestion/</link>
+      <pubDate>Fri, 24 Jul 2020 15:00:00 +0200</pubDate>
+      <guid>/post/2020-07-25-reproducible_ingestion/</guid>
+      <description>&lt;h2 id=&#34;how-does-a-reproducible-data-ingestion-look-like-in-practice&#34;&gt;How does a reproducible data ingestion look like in practice?&lt;/h2&gt;
+&lt;p&gt;If your analytical work has used a certain type of data at least two times in the past, it is likely that the data will be needed again.  This is a good time to make the data ingestion automatic and reproducible.  We demonstrate a simple data ingestion from Eurostat.  Daniel is part of the 
+&lt;a href=&#34;http://ropengov.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rOpenGov&lt;/a&gt; collective that maintains the 
+&lt;a href=&#34;https://github.com/ropengov/eurostat&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eurostat&lt;/a&gt; package for reproducible access to the European statistical agencies data warehouse.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;library(eurostat)
+nuts3_population_raw &amp;lt;- get_eurostat (&amp;quot;demo_r_pjangrp3&amp;quot;) 
+nuts3_population_metadata &amp;lt;- get_eurostat_toc() %&amp;gt;%
+  filter ( code == &amp;quot;demo_r_pjangrp3&amp;quot; ) %&amp;gt;%
+  distinct_all () 
+
+last_update &amp;lt;- nuts3_population_metadata$`last update of data`
+first_data &amp;lt;- nuts3_population_metadata$`data start`
 &lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;renders as&lt;/p&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;First Header&lt;/th&gt;
-&lt;th&gt;Second Header&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
+&lt;p&gt;The metadata entries to this statistics suggest that the latest data is from Thursday 14 May, 2020, so it is high time to refresh your data tables and update your charts. Sadly, the metadata suggest that on this occasion the table went through structural changes, so you may get a different spreadsheet table when you downloaded compared to the last occasion.  You may think that this is another reason to automate the ingestion into a well-defined, tidy table format.&lt;/p&gt;
+&lt;table class=&#34;table table-striped table-hover table-condensed table-responsive&#34; style=&#34;margin-left: auto; margin-right: auto;&#34;&gt;
+ &lt;thead&gt;
+  &lt;tr&gt;
+   &lt;th style=&#34;text-align:left;&#34;&gt; title &lt;/th&gt;
+   &lt;th style=&#34;text-align:left;&#34;&gt; code &lt;/th&gt;
+   &lt;th style=&#34;text-align:left;&#34;&gt; last update of data &lt;/th&gt;
+   &lt;th style=&#34;text-align:left;&#34;&gt; last table structure change &lt;/th&gt;
+   &lt;th style=&#34;text-align:left;&#34;&gt; data start &lt;/th&gt;
+   &lt;th style=&#34;text-align:left;&#34;&gt; data end &lt;/th&gt;
+  &lt;/tr&gt;
+ &lt;/thead&gt;
 &lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Content Cell&lt;/td&gt;
-&lt;td&gt;Content Cell&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Content Cell&lt;/td&gt;
-&lt;td&gt;Content Cell&lt;/td&gt;
-&lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; Population on 1 January by age group, sex and NUTS 3 region &lt;/td&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; demo_r_pjangrp3 &lt;/td&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; 14.05.2020 &lt;/td&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; 14.05.2020 &lt;/td&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; 2014 &lt;/td&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; 2019 &lt;/td&gt;
+  &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-
-&lt;h3 id=&#34;asides&#34;&gt;Asides&lt;/h3&gt;
-
-&lt;p&gt;Academic supports a Markdown extension for asides, also referred to as &lt;em&gt;notices&lt;/em&gt; or &lt;em&gt;hints&lt;/em&gt;. By prefixing a paragraph with &lt;code&gt;A&amp;gt;&lt;/code&gt;, it will render as an aside. You can enable this feature by adding &lt;code&gt;markup: mmark&lt;/code&gt; to your page front matter, or alternatively using the &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/#alerts&#34;&gt;&lt;em&gt;Alert&lt;/em&gt; shortcode&lt;/a&gt;.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;A&amp;gt; A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
+&lt;p&gt;Looking at the head of this raw data, you realize that this is not table, but a little database! It contains population divisions by sex and age groups.  However, your indicator is the total population of each &lt;code&gt;NUTS3&lt;/code&gt; regions, so let’s filter out only the total population for both sexes.&lt;/p&gt;
+&lt;table class=&#34;table table-striped table-hover table-condensed table-responsive&#34; style=&#34;margin-left: auto; margin-right: auto;&#34;&gt;
+ &lt;thead&gt;
+  &lt;tr&gt;
+   &lt;th style=&#34;text-align:left;&#34;&gt; sex &lt;/th&gt;
+   &lt;th style=&#34;text-align:left;&#34;&gt; unit &lt;/th&gt;
+   &lt;th style=&#34;text-align:left;&#34;&gt; age &lt;/th&gt;
+   &lt;th style=&#34;text-align:left;&#34;&gt; geo &lt;/th&gt;
+   &lt;th style=&#34;text-align:left;&#34;&gt; time &lt;/th&gt;
+   &lt;th style=&#34;text-align:right;&#34;&gt; values &lt;/th&gt;
+  &lt;/tr&gt;
+ &lt;/thead&gt;
+&lt;tbody&gt;
+  &lt;tr&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; T &lt;/td&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; NR &lt;/td&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; Y_LT5 &lt;/td&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; NO07 &lt;/td&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; 2018-01-01 &lt;/td&gt;
+   &lt;td style=&#34;text-align:right;&#34;&gt; 25108 &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; M &lt;/td&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; NR &lt;/td&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; Y10-14 &lt;/td&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; DED44 &lt;/td&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; 2014-01-01 &lt;/td&gt;
+   &lt;td style=&#34;text-align:right;&#34;&gt; 4620 &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; F &lt;/td&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; NR &lt;/td&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; Y45-49 &lt;/td&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; FRB &lt;/td&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; 2014-01-01 &lt;/td&gt;
+   &lt;td style=&#34;text-align:right;&#34;&gt; 88590 &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Looking at the head of this raw data, you realize that this is not table, but a little database! It contains population divisions by sex and age groups.  However, your indicator is the total population of each &lt;code&gt;NUTS3&lt;/code&gt; regions, so let’s filter out only the total population for both sexes.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;nuts3_population &amp;lt;- nuts3_population_raw %&amp;gt;%
+  filter ( sex == &amp;quot;T&amp;quot;,             # for both sexes
+           age == &amp;quot;TOTAL&amp;quot;) %&amp;gt;%     # for all age groups
+  mutate ( year = as.integer(substr(as.character(time), 1,4)), 
+           indicator = paste0(&amp;quot;population_sex-&amp;quot;, sex, &amp;quot;_unit-&amp;quot;, unit, 
+                               &amp;quot;_age-&amp;quot;, age)) %&amp;gt;%
+  select ( -all_of(c(&amp;quot;sex&amp;quot;, &amp;quot;unit&amp;quot;, &amp;quot;age&amp;quot;))) 
 &lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;renders as&lt;/p&gt;
-
-&lt;aside&gt;
-&lt;p&gt;A Markdown aside is useful for displaying notices, hints, or definitions to your readers.&lt;/p&gt;
-&lt;/aside&gt;
-
-&lt;h3 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h3&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Display Jupyter Notebooks with Academic</title>
-      <link>/post/jupyter/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/post/jupyter/</guid>
-      <description>
-
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
-Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
+&lt;p&gt;The following table is already tidy &amp;mdash; each observation corresponds with a small region of Europe.  The filtering information as metadata is included in the indicator&amp;rsquo;s name.&lt;/p&gt;
+&lt;table class=&#34;table table-striped table-hover table-condensed table-responsive&#34; style=&#34;margin-left: auto; margin-right: auto;&#34;&gt;
+ &lt;thead&gt;
+  &lt;tr&gt;
+   &lt;th style=&#34;text-align:left;&#34;&gt; geo &lt;/th&gt;
+   &lt;th style=&#34;text-align:left;&#34;&gt; time &lt;/th&gt;
+   &lt;th style=&#34;text-align:right;&#34;&gt; values &lt;/th&gt;
+   &lt;th style=&#34;text-align:right;&#34;&gt; year &lt;/th&gt;
+   &lt;th style=&#34;text-align:left;&#34;&gt; indicator &lt;/th&gt;
+  &lt;/tr&gt;
+ &lt;/thead&gt;
+&lt;tbody&gt;
+  &lt;tr&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; HU222 &lt;/td&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; 2015-01-01 &lt;/td&gt;
+   &lt;td style=&#34;text-align:right;&#34;&gt; 253997 &lt;/td&gt;
+   &lt;td style=&#34;text-align:right;&#34;&gt; 2015 &lt;/td&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; population_sex-T_unit-NR_age-TOTAL &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; NO &lt;/td&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; 2014-01-01 &lt;/td&gt;
+   &lt;td style=&#34;text-align:right;&#34;&gt; 5107970 &lt;/td&gt;
+   &lt;td style=&#34;text-align:right;&#34;&gt; 2014 &lt;/td&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; population_sex-T_unit-NR_age-TOTAL &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; ES704 &lt;/td&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; 2016-01-01 &lt;/td&gt;
+   &lt;td style=&#34;text-align:right;&#34;&gt; 112087 &lt;/td&gt;
+   &lt;td style=&#34;text-align:right;&#34;&gt; 2016 &lt;/td&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; population_sex-T_unit-NR_age-TOTAL &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; FRK12 &lt;/td&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; 2015-01-01 &lt;/td&gt;
+   &lt;td style=&#34;text-align:right;&#34;&gt; 146219 &lt;/td&gt;
+   &lt;td style=&#34;text-align:right;&#34;&gt; 2015 &lt;/td&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; population_sex-T_unit-NR_age-TOTAL &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; DE3 &lt;/td&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; 2018-01-01 &lt;/td&gt;
+   &lt;td style=&#34;text-align:right;&#34;&gt; 3613495 &lt;/td&gt;
+   &lt;td style=&#34;text-align:right;&#34;&gt; 2018 &lt;/td&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; population_sex-T_unit-NR_age-TOTAL &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; NL225 &lt;/td&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; 2019-01-01 &lt;/td&gt;
+   &lt;td style=&#34;text-align:right;&#34;&gt; 400685 &lt;/td&gt;
+   &lt;td style=&#34;text-align:right;&#34;&gt; 2019 &lt;/td&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; population_sex-T_unit-NR_age-TOTAL &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;img src=&#34;data_ingest_files/figure-html/choropleth-1.png&#34; alt=&#34;&#34;&gt;&lt;!-- --&gt;&lt;/p&gt;
+&lt;p&gt;The population size is rather homogeneous &amp;mdash; no wonder, the small regions of Europe are exactly defined to be roughly of equal size and easily comparable.&lt;/p&gt;
+&lt;p&gt;You are wondering how you could match this data with your own records, or data acquired from Google about number of restaurants or searchers for concerts?&lt;/p&gt;
+&lt;table class=&#34;table table-striped table-hover table-condensed table-responsive&#34; style=&#34;margin-left: auto; margin-right: auto;&#34;&gt;
+ &lt;thead&gt;
+  &lt;tr&gt;
+   &lt;th style=&#34;text-align:left;&#34;&gt; geo &lt;/th&gt;
+   &lt;th style=&#34;text-align:left;&#34;&gt; time &lt;/th&gt;
+   &lt;th style=&#34;text-align:right;&#34;&gt; values &lt;/th&gt;
+   &lt;th style=&#34;text-align:right;&#34;&gt; year &lt;/th&gt;
+   &lt;th style=&#34;text-align:left;&#34;&gt; indicator &lt;/th&gt;
+  &lt;/tr&gt;
+ &lt;/thead&gt;
+&lt;tbody&gt;
+  &lt;tr&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; IE042 &lt;/td&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; 2017-01-01 &lt;/td&gt;
+   &lt;td style=&#34;text-align:right;&#34;&gt; 451293 &lt;/td&gt;
+   &lt;td style=&#34;text-align:right;&#34;&gt; 2017 &lt;/td&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; population_sex-T_unit-NR_age-TOTAL &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; SI044 &lt;/td&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; 2014-01-01 &lt;/td&gt;
+   &lt;td style=&#34;text-align:right;&#34;&gt; 112848 &lt;/td&gt;
+   &lt;td style=&#34;text-align:right;&#34;&gt; 2014 &lt;/td&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; population_sex-T_unit-NR_age-TOTAL &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; DE225 &lt;/td&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; 2015-01-01 &lt;/td&gt;
+   &lt;td style=&#34;text-align:right;&#34;&gt; 77927 &lt;/td&gt;
+   &lt;td style=&#34;text-align:right;&#34;&gt; 2015 &lt;/td&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; population_sex-T_unit-NR_age-TOTAL &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; PL621 &lt;/td&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; 2016-01-01 &lt;/td&gt;
+   &lt;td style=&#34;text-align:right;&#34;&gt; 523096 &lt;/td&gt;
+   &lt;td style=&#34;text-align:right;&#34;&gt; 2016 &lt;/td&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; population_sex-T_unit-NR_age-TOTAL &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; TRB13 &lt;/td&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; 2018-01-01 &lt;/td&gt;
+   &lt;td style=&#34;text-align:right;&#34;&gt; 273354 &lt;/td&gt;
+   &lt;td style=&#34;text-align:right;&#34;&gt; 2018 &lt;/td&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; population_sex-T_unit-NR_age-TOTAL &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; FRK24 &lt;/td&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; 2018-01-01 &lt;/td&gt;
+   &lt;td style=&#34;text-align:right;&#34;&gt; 1261373 &lt;/td&gt;
+   &lt;td style=&#34;text-align:right;&#34;&gt; 2018 &lt;/td&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; population_sex-T_unit-NR_age-TOTAL &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;There is no easy solution for this problem.  Within the EU in the last 20 years there were several thousand internal boundary changes &amp;mdash; states, provinces, regions are rather free to change their internal administration boundaries. Regions are constantly changing their names or their spelling, too. Sometimes they use a standard English translation of their region, sometimes only the national language variants.  In Greece or Bulgaria they do not even use the Latin alphabet!&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://satellitereport.com/author/daniel/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel&lt;/a&gt; and 
+&lt;a href=&#34;https://satellitereport.com/author/istvan-zsoldos/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Istvan&lt;/a&gt; created and released an open-source code library, 
+&lt;a href=&#34;http://regions.danielantal.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;regions&lt;/a&gt; to deal with similar issues. It allows the changes between boundary definition between 1999-2021, or the connection of the globally used geographical typology adopted by Google with Eurostat&amp;rsquo;s EU-only definitions.&lt;/p&gt;
+&lt;p&gt;For example, you can already foresee that there are future changes (to be implemented from the year 2021) that will affect two of these regions.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;set.seed(21)
+validate_for_2021 &amp;lt;- nuts3_population  %&amp;gt;%
+  select ( -all_of(c(&amp;quot;time&amp;quot;, &amp;quot;indicator&amp;quot;)) ) %&amp;gt;%
+  sample_n(8) %&amp;gt;%
+  regions::validate_nuts_regions(., nuts_year = 2021 ) 
 &lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;img src=&#34;./index_1_0.png&#34; alt=&#34;png&#34; /&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;print(&amp;quot;Welcome to Academic!&amp;quot;)
+&lt;table class=&#34;table table-striped table-hover table-condensed table-responsive&#34; style=&#34;margin-left: auto; margin-right: auto;&#34;&gt;
+ &lt;thead&gt;
+  &lt;tr&gt;
+   &lt;th style=&#34;text-align:left;&#34;&gt; geo &lt;/th&gt;
+   &lt;th style=&#34;text-align:right;&#34;&gt; values &lt;/th&gt;
+   &lt;th style=&#34;text-align:right;&#34;&gt; year &lt;/th&gt;
+   &lt;th style=&#34;text-align:left;&#34;&gt; typology &lt;/th&gt;
+   &lt;th style=&#34;text-align:left;&#34;&gt; valid_2021 &lt;/th&gt;
+  &lt;/tr&gt;
+ &lt;/thead&gt;
+&lt;tbody&gt;
+  &lt;tr&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; DE248 &lt;/td&gt;
+   &lt;td style=&#34;text-align:right;&#34;&gt; 115681 &lt;/td&gt;
+   &lt;td style=&#34;text-align:right;&#34;&gt; 2018 &lt;/td&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; nuts_level_3 &lt;/td&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; TRUE &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; BG422 &lt;/td&gt;
+   &lt;td style=&#34;text-align:right;&#34;&gt; 228141 &lt;/td&gt;
+   &lt;td style=&#34;text-align:right;&#34;&gt; 2019 &lt;/td&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; nuts_level_3 &lt;/td&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; TRUE &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; UKN13 &lt;/td&gt;
+   &lt;td style=&#34;text-align:right;&#34;&gt; 139774 &lt;/td&gt;
+   &lt;td style=&#34;text-align:right;&#34;&gt; 2014 &lt;/td&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; NA &lt;/td&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; FALSE &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; FRH0 &lt;/td&gt;
+   &lt;td style=&#34;text-align:right;&#34;&gt; 3276543 &lt;/td&gt;
+   &lt;td style=&#34;text-align:right;&#34;&gt; 2014 &lt;/td&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; nuts_level_2 &lt;/td&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; TRUE &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; DEB3 &lt;/td&gt;
+   &lt;td style=&#34;text-align:right;&#34;&gt; 2031780 &lt;/td&gt;
+   &lt;td style=&#34;text-align:right;&#34;&gt; 2016 &lt;/td&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; nuts_level_2 &lt;/td&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; TRUE &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; ITG25 &lt;/td&gt;
+   &lt;td style=&#34;text-align:right;&#34;&gt; 335097 &lt;/td&gt;
+   &lt;td style=&#34;text-align:right;&#34;&gt; 2014 &lt;/td&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; NA &lt;/td&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; FALSE &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; DE71A &lt;/td&gt;
+   &lt;td style=&#34;text-align:right;&#34;&gt; 232848 &lt;/td&gt;
+   &lt;td style=&#34;text-align:right;&#34;&gt; 2016 &lt;/td&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; nuts_level_3 &lt;/td&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; TRUE &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; FI1D5 &lt;/td&gt;
+   &lt;td style=&#34;text-align:right;&#34;&gt; 68677 &lt;/td&gt;
+   &lt;td style=&#34;text-align:right;&#34;&gt; 2014 &lt;/td&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; nuts_level_3 &lt;/td&gt;
+   &lt;td style=&#34;text-align:left;&#34;&gt; TRUE &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;There is trouble ahead, but we have a table that is tidy and works for the time being.  Let&amp;rsquo;s save it and document it.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;eurostat::get_bibentry(&amp;quot;demo_r_pjangrp3&amp;quot;)
 &lt;/code&gt;&lt;/pre&gt;
-
-&lt;pre&gt;&lt;code&gt;Welcome to Academic!
+&lt;pre&gt;&lt;code&gt;## @Misc{demo_r_pjangrp3_14-05-2020,
+##   title = {Population on 1 January by age group, sex and NUTS 3 region [demo_r_pjangrp3]},
+##   url = {https://ec.europa.eu/eurostat/web/products-datasets/-/demo_r_pjangrp3},
+##   language = {en},
+##   year = {14.05.2020},
+##   publisher = {Eurostat},
+##   author = {{Eurostat}},
+##   urldate = {2020-07-25},
+## }
 &lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;install-python-and-jupyterlab&#34;&gt;Install Python and JupyterLab&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.anaconda.com/distribution/#download-section&#34; target=&#34;_blank&#34;&gt;Install Anaconda&lt;/a&gt; which includes Python 3 and JupyterLab.&lt;/p&gt;
-
-&lt;p&gt;Alternatively, install JupyterLab with &lt;code&gt;pip3 install jupyterlab&lt;/code&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;create-or-upload-a-jupyter-notebook&#34;&gt;Create or upload a Jupyter notebook&lt;/h2&gt;
-
-&lt;p&gt;Run the following commands in your Terminal, substituting &lt;code&gt;&amp;lt;MY-WEBSITE-FOLDER&amp;gt;&lt;/code&gt; and &lt;code&gt;&amp;lt;SHORT-POST-TITLE&amp;gt;&lt;/code&gt; with the file path to your Academic website folder and a short title for your blog post (use hyphens instead of spaces), respectively:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;mkdir -p &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
-cd &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
-jupyter lab index.ipynb
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;The &lt;code&gt;jupyter&lt;/code&gt; command above will launch the JupyterLab editor, allowing us to add Academic metadata and write the content.&lt;/p&gt;
-
-&lt;h2 id=&#34;edit-your-post-metadata&#34;&gt;Edit your post metadata&lt;/h2&gt;
-
-&lt;p&gt;The first cell of your Jupter notebook will contain your post metadata (&lt;a href=&#34;https://sourcethemes.com/academic/docs/front-matter/&#34; target=&#34;_blank&#34;&gt;front matter&lt;/a&gt;).&lt;/p&gt;
-
-&lt;p&gt;In Jupter, choose &lt;em&gt;Markdown&lt;/em&gt; as the type of the first cell and wrap your Academic metadata in three dashes, indicating that it is YAML front matter:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;---
-title: My post&#39;s title
-date: 2019-09-01
-
-# Put any other Academic metadata here...
----
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Edit the metadata of your post, using the &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content&#34; target=&#34;_blank&#34;&gt;documentation&lt;/a&gt; as a guide to the available options.&lt;/p&gt;
-
-&lt;p&gt;To set a &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#featured-image&#34; target=&#34;_blank&#34;&gt;featured image&lt;/a&gt;, place an image named &lt;code&gt;featured&lt;/code&gt; into your post&amp;rsquo;s folder.&lt;/p&gt;
-
-&lt;p&gt;For other tips, such as using math, see the guide on &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;writing content with Academic&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;convert-notebook-to-markdown&#34;&gt;Convert notebook to Markdown&lt;/h2&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir=.
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
-
-&lt;p&gt;This post was created with Jupyter. The orginal files can be found at &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34; target=&#34;_blank&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Academic: the website builder for Hugo</title>
-      <link>/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/post/getting-started/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://sourcethemes.com/academic/#expo&#34; target=&#34;_blank&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
-
+&lt;h2 id=&#34;what-is-reproducibility-in-this-case&#34;&gt;What is reproducibility in this case?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Replicability&lt;/strong&gt; means that somebody else in your team can get exactly the same data as in this post.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;👉 &lt;a href=&#34;#install&#34;&gt;&lt;strong&gt;Get Started&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;📚 &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;View the &lt;strong&gt;documentation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💬 &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Ask a question&lt;/strong&gt; on the forum&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;👥 &lt;a href=&#34;https://spectrum.chat/academic&#34; target=&#34;_blank&#34;&gt;Chat with the &lt;strong&gt;community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/source_themes&#34; target=&#34;_blank&#34;&gt;@source_themes&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%23MadeWithAcademic&amp;amp;src=typd&#34; target=&#34;_blank&#34;&gt;#MadeWithAcademic&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💡 &lt;a href=&#34;https://github.com/gcushen/hugo-academic/issues&#34; target=&#34;_blank&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;⬆️ &lt;strong&gt;Updating?&lt;/strong&gt; View the &lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34;&gt;Update Guide&lt;/a&gt; and &lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;❤ &lt;strong&gt;Support development&lt;/strong&gt; of Academic:
-
-&lt;ul&gt;
-&lt;li&gt;☕️ &lt;a href=&#34;https://paypal.me/cushen&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Donate a coffee&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💵 &lt;a href=&#34;https://www.patreon.com/cushen&#34; target=&#34;_blank&#34;&gt;Become a backer on &lt;strong&gt;Patreon&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;🖼️ &lt;a href=&#34;https://www.redbubble.com/people/neutreno/works/34387919-academic&#34; target=&#34;_blank&#34;&gt;Decorate your laptop or journal with an Academic &lt;strong&gt;sticker&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;👕 &lt;a href=&#34;https://academic.threadless.com/&#34; target=&#34;_blank&#34;&gt;Wear the &lt;strong&gt;T-shirt&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;👩‍💻 &lt;a href=&#34;https://sourcethemes.com/academic/docs/contribute/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Contribute&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Recording exactly what have your analysts downloaded, including source, date, filtering settings&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Reproducibility&lt;/strong&gt; means that not only your team, but an external auditor or a peer reviewer can easily validate that your data is sound. All our solutions are opens source, and use the most popular statistical programming language, R. Anybody with a basic knowledge of R, or probably even SQL (we use an extension of R that uses SQL-like syntax) can read if everything goes allright. Your team can even modify the code.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Creating a documentation that you updates your reports data citations&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Confirmability&lt;/strong&gt; means that somebody who is not using . All our solutions are opens source, and use the most popular statistical programming language, R.  R is supported by Microsofts BI products, SPSS and other statistical software, too. We are not a software company, there is no vendor lock-in, and our work can be confirmed with other statistical software.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Data acquired via our data gathering apps is automatically documented, follows tidy formats and valid abbreviations, and can be confirmed in a wide range of statistical and spreadsheet applications, including SPSS, Excel, OpenOffice, Google Spreadsheets.&lt;/li&gt;
+&lt;li&gt;Bringing the data to a tidy format which is easy to join with other data in a spreadsheet application, or stored in a relational database.&lt;/li&gt;
+&lt;li&gt;Validating the data structure, in this case, with special attention to regional boundaries and regional names.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Auditability&lt;/strong&gt; means that external auditors can validate that the data your team uses from our app is correct.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;We are following methodological guidelines and definitions set by international bodies such as Eurostat&amp;rsquo;s ESSNet statistical network or IFRS.&lt;/li&gt;
+&lt;li&gt;Our critical software code is not only open source, but goes through various levels of statistical peer-review. We are sending for scientific validation and peer-review our methodology, too.&lt;/li&gt;
+&lt;li&gt;Being open source allows us to make any corrections, updates, should any problem or standard change affect the data.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div id=&#34;references&#34; class=&#34;section level2 unnumbered&#34;&gt;
+&lt;h2&gt;References&lt;/h2&gt;
+&lt;div id=&#34;refs&#34; class=&#34;references&#34;&gt;
+&lt;div id=&#34;ref-R-regions&#34;&gt;
+&lt;p&gt;Antal, Daniel. 2020. &lt;em&gt;Regions: Processing Regional Statistics&lt;/em&gt;. &lt;a href=&#34;https://regions.danielantal.eu/&#34;&gt;https://regions.danielantal.eu/&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-demo_r_pjangrp3_14-05-2020&#34;&gt;
+&lt;p&gt;Eurostat. n.d. Eurostat. Accessed July 25, 2020. &lt;a href=&#34;https://ec.europa.eu/eurostat/web/products-datasets/-/demo_r_pjangrp3&#34;&gt;https://ec.europa.eu/eurostat/web/products-datasets/-/demo_r_pjangrp3&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-R-eurostat&#34;&gt;
+&lt;p&gt;Lahti, Leo, Janne Huovari, Markus Kainu, and Przemyslaw Biecek. 2020. &lt;em&gt;Eurostat: Tools for Eurostat Open Data&lt;/em&gt;. &lt;a href=&#34;https://CRAN.R-project.org/package=eurostat&#34;&gt;https://CRAN.R-project.org/package=eurostat&lt;/a&gt;.&lt;/p&gt;
+&lt;div id=&#34;ref-R-eurostat&#34;&gt;
+&lt;p&gt;Hadley Wickham. 2014. &lt;em&gt;Tidy Data&lt;/em&gt;.Journal of Statistical Software vol 59, no 10.&lt;a href=&#34;https://www.jstatsoft.org/v059/i10&#34;&gt;https://www.jstatsoft.org/v059/i10&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Increase The Value Of Market Research With Open Data And Survey Harmonization</title>
+      <link>/post/2020-07-10-retroharmonize/</link>
+      <pubDate>Thu, 09 Jul 2020 15:00:00 +0200</pubDate>
+      <guid>/post/2020-07-10-retroharmonize/</guid>
+      <description>&lt;p&gt;In the last weeks I have been releasing the early source code of two R packages, 
+&lt;a href=&#34;https://dataobservatory.eu/publication/retorharmonize_2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;retroharmonize&lt;/a&gt; for the &lt;em&gt;ex post&lt;/em&gt; harmonization infrastructure of surveys, and  
+&lt;a href=&#34;https://dataobservatory.eu/publication/eurobarometer_2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eurobarometer&lt;/a&gt; for Eurobarometer-specific work, complemented by my earlier release of 
+&lt;a href=&#34;https://dataobservatory.eu/publication/regions_2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;regions&lt;/a&gt;, which tracks about 20,000 regional boundary changes of French departments, Polish voivodeships and Hungarian counties, and other sub-national divisions of about 32 European countries.&lt;/p&gt;
+&lt;p&gt;The very technical terms of &lt;em&gt;ex ante&lt;/em&gt; , &lt;em&gt;ex post&lt;/em&gt; or retrospective harmonization hide opportunities that can significantly increase the value for money in empirical market research, potentially increasing the value of a high-cost, high-value survey to multiple times of its euro value.&lt;/p&gt;
+&lt;p&gt;In my work, I have used &lt;em&gt;ex ante&lt;/em&gt; harmonized questionnaires with EU survey programs, for example, the harmonized CAP surveys to determine the characteristics of concert audiences in a country, or people who download music to their computers.  The EU has been opening up its own survey programs in a piecemeal fashion, and surveys used by the European Commission, the Parliament, or even the national statistical offices are becoming more and more available.  After harmonizing the questions, I can apply &lt;em&gt;ex post&lt;/em&gt; harmonization of the results, too, resulting in a far more valuable research document:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;I can usually compare the basic values, such as concert visiting likelihood in the past – for example, I surveyed Hungary and Slovakia first in 2015, but immediately could compare with 2013 and 2007 data.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;/img/dataanimation/concert_hu_animation_smooth.gif&#34; alt=&#34;Harmonized concert visiting questions over time&#34;&gt;&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;I get international benchmarks for free, for example, German, Czech, French data.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;/img/music/cee_concert_demography_16x9.jpg&#34; alt=&#34;Harmonized concert visiting questions accross countries&#34;&gt;&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Using the hierarchical nature of CAP surveys, I can make reasonable estimates of details that I survey only in one or few countries, such as visiting jazz concerts, and not concert only; or copying non-licensed music to devices.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Of course, there is no free lunch here.  I can access millions of euros values of survey data, but nobody will make prepare it for my use. These surveys were processed for different users and different uses and joining them with my data is a very difficult task that I had been doing better and better in the past 5 years. To make this work as error-free as possible, I will publish the critical elements of the code as open source software on CRAN soon - the github release is an early version of this.&lt;/p&gt;
+&lt;p&gt;Much of the current momentum is due to a new contributor to these packages, 
+&lt;a href=&#34;https://martakolczynska.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Marta Kołczyńska&lt;/a&gt;, who is an excellent R programmer and a bright academic in international survey harmonization and reproducible research.&lt;/p&gt;
+&lt;h2 id=&#34;related&#34;&gt;Related&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The website of the  
+&lt;a href=&#34;https://retroharmonize.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;retroharmonize&lt;/a&gt; package&lt;/li&gt;
+&lt;li&gt;The website of the 
+&lt;a href=&#34;https://eurobarometer.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eurobarometer&lt;/a&gt; package&lt;/li&gt;
+&lt;li&gt;The website of the 
+&lt;a href=&#34;http://regions.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;regions&lt;/a&gt; package&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Regionalized Cultural Access and Participation (Books And Libraries) And Science Attitudes Variables</title>
+      <link>/post/2020-04-22-regional-eurobarometer/</link>
+      <pubDate>Wed, 22 Apr 2020 17:00:00 +0200</pubDate>
+      <guid>/post/2020-04-22-regional-eurobarometer/</guid>
+      <description>&lt;p&gt;My new R package, Eurobarometer, helps the creation of data panels and regionalized statistics from the Pan-European survey’s microdata. This allows the creation of many new statistical indicators for the CEEMID Music Observatory and for many market and policy research tasks.&lt;/p&gt;
+&lt;p&gt;This example dataset (Antal 2020) was created from the microdata of the
+Eurobarometer 79.2 survey using the development version of the
+
+&lt;a href=&#34;https://github.com/antaldaniel/eurobarometer&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eurobarometer R package&lt;/a&gt;.
+The dataset can be downloaded from
+
+&lt;a href=&#34;https://doi.org/10.5281/zenodo.3759811&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zenodo&lt;/a&gt;. It will be used in a forthcoming academic publication about book piracy.&lt;/p&gt;
+&lt;h2 id=&#34;cultural-access--participation-variables&#34;&gt;Cultural Access &amp;amp; Participation Variables&lt;/h2&gt;
+&lt;p&gt;The read a book variable is a weighted sum of the responses that chose
+from &lt;code&gt;QB1 How many times in the last twelve months have you read a book?&lt;/code&gt; any answer apart from “not in the last 12 months.”&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/Eurobarometer_79_2_files/book-1.png&#34; alt=&#34;Individuals Who Read A Book&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;library-access&#34;&gt;Library Access&lt;/h3&gt;
+&lt;p&gt;The library access variable is a weighted sum of the responses that
+chose from &lt;code&gt;QB1 How many times in the last twelve months have you visited a public library?&lt;/code&gt; any answer apart from “not in the last 12 months.”&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/Eurobarometer_79_2_files/library-1.png&#34; alt=&#34;Individuals Who Visited A Library&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;limited-library-access&#34;&gt;Limited Library Access&lt;/h3&gt;
+&lt;p&gt;The limited library access is a weighted sum of the responses that chose from the question block
+&lt;code&gt;QB2 And for each of the following activities, please tell me why you haven’t done it or haven’t done it more often in the last 12 months? ... Visited a public library&lt;/code&gt; the answer option &lt;code&gt;Limited or poor quality of this activity in the place where you live.&lt;/code&gt; In this case, the number of respondents is rather low and this is not a very reliable statistic on regional level.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/Eurobarometer_79_2_files/limitedlibrary-1.png&#34; alt=&#34;Individuals Who Have Poor Local  Library&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;science--technology-attitudes&#34;&gt;Science &amp;amp; Technology Attitudes&lt;/h2&gt;
+&lt;p&gt;The supports open access variable is a weighted sum of yes answer
+options to the &lt;code&gt;QD 17 Do you think that the results of publicly funded research should be made available online free of charge?&lt;/code&gt;
+question.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/Eurobarometer_79_2_files/openaccess-1.png&#34; alt=&#34;Individuals Who Have Poor Local  Library&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;demography&#34;&gt;Demography&lt;/h2&gt;
+&lt;p&gt;The internet access question is a weighted sum of responses to the
+answer option for &lt;code&gt;D46 Which of the following do you have? - An Internet connection at home&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/Eurobarometer_79_2_files/internetaccess-1.png&#34; alt=&#34;Individuals Who Have Internet Access At Home&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The internet access question is a weighted sum of responses to the
+answer option for &lt;code&gt;D15 What is your current occupation? - student&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/Eurobarometer_79_2_files/students-1.png&#34; alt=&#34;Regional Student Population&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data-source--data-processing&#34;&gt;Data Source &amp;amp; Data Processing&lt;/h2&gt;
+&lt;p&gt;The source of the data is the microdata file stored in GESIS for the
+
+&lt;a href=&#34;https://dbk.gesis.org/dbksearch/sdesc2.asp?db=e&amp;amp;no=5688&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eurobarometer 79.2
+survey&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This data file contains the microdata for the Eurobarometer 79.2 survey (TNS Opinion &amp;amp; Social 2013), which includes a Cultural Access and Participation Survey (see (Haan and Broek 2012; Bína, Vladimir et al.2012)) and a Science &amp;amp; Technology Attitude survey.&lt;/p&gt;
+&lt;p&gt;The survey samples are designed to represent the national population,
+with the exceptions of Northern Ireland, the former East- and
+West-Germany, and the Turkish community on Cyprus. These samples are
+designed to be representative for these populations, too.&lt;/p&gt;
+&lt;p&gt;For weighting we used the w1 weights, which allow for
+post-stratification based on gender, education level and community size.&lt;/p&gt;
+&lt;p&gt;In the case of the Republic of Cyprus, Estonia, Latvia, Luxembourg and
+Malta regionalization is not necessary because the entire countries are equivalent to a single NUTS2 region in terms of size and homogeneity. In these countries the weighting produces representative statistics.&lt;/p&gt;
+&lt;p&gt;Unfortunately, due to a problem with the original data file, no regional information is available for the Republic of Ireland.&lt;/p&gt;
+&lt;p&gt;In the case of Germany, Great Britain and Italy, data can be summarized on the level of NUTS1 territories, and we are imputing these values into the constituent (smaller sub-)regions on NUTS2 levels. In the case of the remaining countries it can be summarized on NUTS2 levels.&lt;/p&gt;
+&lt;p&gt;Because the survey samples are designed to be nationally representative, the regional sub-samples are not necessarily representative, and often they are very small. For post stratification purposes, we created a “dirty weighting”, Using the national w1 post-stratification weights, but centered to an average value of 1 for each region.&lt;/p&gt;
+&lt;p&gt;We believe that this causes problems on more detailed answer options (on the level levels of the questionnaire’s question hierarchy.) Except for the science attitudes and the library quality questions, we used relatively simple questions that are less affected by the small,
+potentially biased sample size&lt;/p&gt;
+&lt;p&gt;A better option would be the creation of new, regional
+post-stratification weights. We believe that this would be a very
+interesting, but very big research task that would potentially need the cooperation of the survey’s producer, Kantar.&lt;/p&gt;
+&lt;p&gt;Update: &lt;em&gt;This was originally posted on Daniel&amp;rsquo;s 
+&lt;a href=&#34;https://danielantal.eu/post/2020-04-22-regional-eurobarometer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blog&lt;/a&gt;. 
+&lt;a href=&#34;http://eurobarometer.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eurobarometer&lt;/a&gt; became a much more useful and ex post survey harmonization tool after Marta joined the development efforts&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;citation&#34;&gt;Citation&lt;/h2&gt;
+&lt;p&gt;Daniel, Antal. 2020. “Regionalized Cultural Access and Participation
+(Books And Libraries) And Science Attitudes Variables 2013.” Zenodo.
+&lt;a href=&#34;https://doi.org/10.5281/zenodo.3759811&#34;&gt;https://doi.org/10.5281/zenodo.3759811&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Bína, Vladimir, Chantepie, Philippe, Deboin, Valérie, Kommel, Kutt,
+Kotynek, Josef, and Robin, Philippe. 2012. “ESSnet-CULTURE, European
+Statistical System Network on Culture. Final Report.” Edited by Frank,
+Guy.
+&lt;a href=&#34;http://ec.europa.eu/culture/our-policy-development/documents/ess-net-report-oct2012.pdf&#34;&gt;http://ec.europa.eu/culture/our-policy-development/documents/ess-net-report-oct2012.pdf&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Haan, Jos de, and Andries van den Broek. 2012. “Nowadays Cultural
+Participation - an Update of What to Look for and Where to Look for It.”
+In &lt;em&gt;ESSnet-CULTURE, European Statistical System Network on Culture.
+Final Report.&lt;/em&gt;, 397–417. Luxembourg.
+&lt;a href=&#34;http://ec.europa.eu/culture/our-policy-development/documents/ess-net-report-oct2012.pdf&#34;&gt;http://ec.europa.eu/culture/our-policy-development/documents/ess-net-report-oct2012.pdf&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;TNS Opinion &amp;amp; Social. 2013. “Cultural Access and Participation. Special Eurobarometer 399 Report.” European Commission.
+&lt;a href=&#34;http://ec.europa.eu/public_opinion/archives/ebs/ebs_399_en.pdf&#34;&gt;http://ec.europa.eu/public_opinion/archives/ebs/ebs_399_en.pdf&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>First CEEMID Regional Open Data Release</title>
+      <link>/post/2020-04-16-regional-opendata-release/</link>
+      <pubDate>Thu, 16 Apr 2020 17:00:00 +0200</pubDate>
+      <guid>/post/2020-04-16-regional-opendata-release/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Internet use: participating in social networks (creating user profile, posting messages or other contributions to facebook, twitter, etc.) [percentage of individuals]&lt;/em&gt; shows the development of social media use in the past 10 years in very high detail.  Social media is one of the most important ways to communicate with fans and find audiences for gigs, performances and to share new releases.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/dataanimation/internet_use_social_networks.gif&#34; alt=&#34;Social media use 2011-2019&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The chosen dataset is highlighting several new priorities of CEEMID.  This indicator, which is based on a 
+&lt;a href=&#34;https://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=isoc_r_iuse_i&amp;amp;lang=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eurostat statistical product&lt;/a&gt;, has a much higher data quality than the Eurostat release, it is easier to use, and goes beyond the detail of national statistics.  It contains data on 411 territories in Europe, including countries, provinces and smaller regions, even some metropolitan areas.&lt;/p&gt;
+&lt;p&gt;The dataset is available on the European open research data repository, 
+&lt;a href=&#34;https://zenodo.org/record/3754574#.XpimX8gzbIU&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zenodo&lt;/a&gt;. It will be updated annually. 
+&lt;a href=&#34;https://doi.org/10.5281/zenodo.3754574&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://zenodo.org/badge/DOI/10.5281/zenodo.3754574.svg&#34; alt=&#34;DOI&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The processing information is available in the dataset.  First, we have used our open source software to correct the regional boundary changes during the decade (see 
+&lt;a href=&#34;/post/2020-02-13-regional_eurostat/&#34;&gt;Programatic Approach To Work With European Regional Data Panels&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;When data was missing in the end of the dataset, we used the last observation carry forward, when in the beginning, the next observation carry backwards data.  Gaps in the data were interpolated using linear interpolation. Whenever data was available on a larger (provincial level), we imputed it to the smaller regional units.&lt;/p&gt;
+&lt;p&gt;The data contains standard national / regional references according the European NUTS2013 standard for backwards compatibility. Further documentation will be available on our methodology on the 
+&lt;a href=&#34;https://documentation.ceemid.eu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;documentation.ceemid.eu&lt;/a&gt; wiki website.&lt;/p&gt;
+&lt;p&gt;At last, the data was put into a table that complies with the 
+&lt;a href=&#34;https://www.jstatsoft.org/article/view/v059i10&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tidy data&lt;/a&gt; principles for easier processing on computers and immediate use in spreadsheet applications.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Use this in your article? Further research? Collaboration? Let&amp;rsquo;s get in touch on 
+&lt;a href=&#34;https://www.linkedin.com/in/antaldaniel/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt;, 
+&lt;a href=&#34;https://twitter.com/antaldaniel&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Twitter&lt;/a&gt;, or via 
+&lt;a href=&#34;https://danielantal.eu/#contact&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;danielantal.eu&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; data-caption=&#34;Academic is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34;&gt;
-&lt;img src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
   
-  &lt;figcaption&gt;
-    Academic is mobile first with a responsive design to ensure that your site looks stunning on every device.
-  &lt;/figcaption&gt;
 
 
-&lt;/figure&gt;
+&lt;div class=&#34;gallery&#34;&gt;
 
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2020-04-16-regional-opendata-release/gallery/ceemid_regional_social_media_use_2011.jpg&#34; data-caption=&#34;Internet use: participating in social networks (2011)&#34;&gt;
+  &lt;img data-src=&#34;/post/2020-04-16-regional-opendata-release/gallery/ceemid_regional_social_media_use_2011_hua485aaf22d1f04af04808580e8565870_238711_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;263&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2020-04-16-regional-opendata-release/gallery/ceemid_regional_social_media_use_2015.jpg&#34; data-caption=&#34;Internet use: participating in social networks (2015)&#34;&gt;
+  &lt;img data-src=&#34;/post/2020-04-16-regional-opendata-release/gallery/ceemid_regional_social_media_use_2015_hua485aaf22d1f04af04808580e8565870_246037_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;263&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2020-04-16-regional-opendata-release/gallery/ceemid_regional_social_media_use_2019.jpg&#34; data-caption=&#34;Internet use: participating in social networks (2019)&#34;&gt;
+  &lt;img data-src=&#34;/post/2020-04-16-regional-opendata-release/gallery/ceemid_regional_social_media_use_2019_hua485aaf22d1f04af04808580e8565870_250355_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;263&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2020-04-16-regional-opendata-release/gallery/metadata_ceemid_regional_social_media_use_2011.jpg&#34; data-caption=&#34;CEEMID metadata summary (2011)&#34;&gt;
+  &lt;img data-src=&#34;/post/2020-04-16-regional-opendata-release/gallery/metadata_ceemid_regional_social_media_use_2011_hua485aaf22d1f04af04808580e8565870_247818_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;263&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2020-04-16-regional-opendata-release/gallery/metadata_ceemid_regional_social_media_use_2015.jpg&#34; data-caption=&#34;CEEMID metadata summary (2015)&#34;&gt;
+  &lt;img data-src=&#34;/post/2020-04-16-regional-opendata-release/gallery/metadata_ceemid_regional_social_media_use_2015_hua485aaf22d1f04af04808580e8565870_247520_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;263&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2020-04-16-regional-opendata-release/gallery/metadata_ceemid_regional_social_media_use_2019.jpg&#34; data-caption=&#34;CEEMID metadata summary (2019)&#34;&gt;
+  &lt;img data-src=&#34;/post/2020-04-16-regional-opendata-release/gallery/metadata_ceemid_regional_social_media_use_2019_hua485aaf22d1f04af04808580e8565870_243997_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;263&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
 
-&lt;p&gt;&lt;strong&gt;Key features:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://sourcethemes.com/academic/docs/page-builder/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://sourcethemes.com/academic/docs/jupyter/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://sourcethemes.com/academic/themes/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 15+ language packs including English, 中文, and Português&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
-
-&lt;p&gt;Academic comes with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can  choose their preferred mode - click the sun/moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/themes/&#34; target=&#34;_blank&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully &lt;a href=&#34;https://sourcethemes.com/academic/docs/customization/#custom-theme&#34; target=&#34;_blank&#34;&gt;customizable&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-admin&#34; target=&#34;_blank&#34;&gt;Academic Admin&lt;/a&gt;:&lt;/strong&gt; An admin tool to import publications from BibTeX or import assets for an offline site&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-scripts&#34; target=&#34;_blank&#34;&gt;Academic Scripts&lt;/a&gt;:&lt;/strong&gt; Scripts to help migrate content to new versions of Academic&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;install&#34;&gt;Install&lt;/h2&gt;
-
-&lt;p&gt;You can choose from one of the following four methods to install:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-web-browser&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;one-click install using your web browser (recommended)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-git&#34; target=&#34;_blank&#34;&gt;install on your computer using &lt;strong&gt;Git&lt;/strong&gt; with the Command Prompt/Terminal app&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-zip&#34; target=&#34;_blank&#34;&gt;install on your computer by downloading the &lt;strong&gt;ZIP files&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34; target=&#34;_blank&#34;&gt;install on your computer with &lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Then &lt;a href=&#34;https://sourcethemes.com/academic/docs/get-started/&#34; target=&#34;_blank&#34;&gt;personalize and deploy your new site&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;updating&#34;&gt;Updating&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34;&gt;View the Update Guide&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Feel free to &lt;em&gt;star&lt;/em&gt; the project on &lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34;&gt;Github&lt;/a&gt; to help keep track of &lt;a href=&#34;https://sourcethemes.com/academic/updates&#34; target=&#34;_blank&#34;&gt;updates&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
-
-&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+  
+&lt;/div&gt;
 </description>
     </item>
     
     <item>
-      <title>Hello R Markdown</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <title>Comparing Social Distancing in Europe</title>
+      <link>/post/2020-04-15-comparing-social-distancing/</link>
+      <pubDate>Wed, 15 Apr 2020 13:00:00 +0200</pubDate>
+      <guid>/post/2020-04-15-comparing-social-distancing/</guid>
+      <description>&lt;p&gt;People around the world are facing newer and newer exponential charts everyday. We’re all hoping for new information about the progress against the coronavirus. Unfortunately, the vast majority of these charts is meaningless. In fact, 
+&lt;a href=&#34;https://fivethirtyeight.com/features/coronavirus-case-counts-are-meaningless/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;coronavirus case counts are meaningless&lt;/a&gt;, unless they are done with very heavy statistical knowledge, and even then they are very messy. Countries have different testing and hospitalization protocols, death certificating standards, and there are less and more trustworthy governments. We do not really know the severity of the local epidemics and the relative success of public health policies.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2020-04-15-comparing-social-distancing/gallery/countryclusters.jpg&#34; data-caption=&#34;Clustering countries on current lockdown strictness and change&#34;&gt;
+  &lt;img data-src=&#34;/post/2020-04-15-comparing-social-distancing/gallery/countryclusters_huc63f6ee1cc1b69a8e28d2c9e7295fd18_347025_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2020-04-15-comparing-social-distancing/gallery/difference_summary_en.jpg&#34; data-caption=&#34;Changes in community space use, end of March and early April&#34;&gt;
+  &lt;img data-src=&#34;/post/2020-04-15-comparing-social-distancing/gallery/difference_summary_en_huc7370673eb468102ac3ad5af70997f54_262570_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;263&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2020-04-15-comparing-social-distancing/gallery/work_home_change_EN.jpg&#34; data-caption=&#34;Growth in time spend at home and in the workplace since January&#34;&gt;
+  &lt;img data-src=&#34;/post/2020-04-15-comparing-social-distancing/gallery/work_home_change_EN_huf1bc5f0534491039237e4dc526b79bf4_336010_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;263&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+&lt;p&gt;Nevertheless, we have some timely information on how people and the economy react to the epidemic, because there are ongoing, frequent, and comparable data sources on various consequences of the epidemic.  A particularly interesting big data source is 
+&lt;a href=&#34;https://www.blog.google/technology/health/covid-19-community-mobility-reports/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google’s geolocational reporting&lt;/a&gt; on how people’s time spent in homes, workplaces, parks, shopping areas and recreational areas change. Google gets plenty of realtime data from hundreds of millions of people and compares them by days in the week and local time with the ‘baseline’ scenario before the outbreak of the coronavirus.&lt;/p&gt;
+&lt;p&gt;Based on the locational data of various smartphones and application data, we know that people spend 10-15% more time at home since January, and 40-50% less in their workplaces.  Similar data is available for other locations.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/post/2020-04-15-covid/work_home_en_small.jpg&#34; alt=&#34;Stay at home or go to the workplace?&#34;&gt;&lt;/p&gt;
+&lt;p&gt;While people are spending less time in the workplace and more at home in every European country, there are significant differences.  Countries in the top left corner, most notable Sweden, switched less from workplaces to homes.  On the bottom right corner, Spain and Italy, which were most hit by the epidemic, are in the most severe form of lockdown.&lt;/p&gt;
+&lt;p&gt;There are some outliers, like Romania, where people stay a lot more at home, but not so much less in the workplaces – probably they cannot afford to stay clear of the job, but they are reducing other activities.  Or, in the case of Germany, people spend a lot more time in parks.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/post/2020-04-15-covid/difference_summary_en_small.jpg&#34; alt=&#34;Differences in space use in Europe&#34;&gt;&lt;/p&gt;
+&lt;p&gt;I grouped the countries according to their dynamics.  Looking at Belgium and Luxembourg, we see that they are more locked down than the typical European country, but they are moving up in the first week of April compared to the last week of March. This is very much in line with their improving strain on the health system.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/post/2020-04-15-covid/countryclusters_small.jpg&#34; alt=&#34;Clusters of countries&#34;&gt;&lt;/p&gt;
+&lt;p&gt;What is worrying is that there appears to be a significant asynchronicity in the Schengen zone, where people and goods should move around freely.  The peripheric countries, which are less densely populated, often less integrated into the global transport and travel routes, are getting into the local epidemics later, and are acting later.  This is logical from a national point of view, but given that the European economy is very much integrated, it will prolong the pain.  The Netherlands, France and Germany need plenty of seasonal agricultural workers from the Southeast, where the lockdown is just getting really strict.  While some of their regions see improving national epidemic situations, the easing will increase the intensity of the local epidemic if a large number of workers will arrive from countries that are just going into the epidemic.&lt;/p&gt;
+&lt;p&gt;The efficient solution, as many public health officials keep saying, would be a synchronized effort to contain the virus.  The different pace and strictness of social distancing measures will mean that the local epidemics will not be in synchronization, and the countries will re-infect each other, this way prolonging the economic and social cost of this devastating pandemic.  While health policy is a national competence in the European Union, in fact, the European economic and social life is so much integrated, not only within the Schengen Zone, but even with future, prospective and candidate members states in the Balkans, that a far more coordinated public health policy would be required.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Use this in your article? Further research? Collaboration? The data &amp;amp; code is available in a private github repo. Let&amp;rsquo;s get in touch on 
+&lt;a href=&#34;https://www.linkedin.com/in/antaldaniel/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt;, 
+&lt;a href=&#34;https://twitter.com/antaldaniel&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Twitter&lt;/a&gt;, or via 
+&lt;a href=&#34;https://danielantal.eu/#contact&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;danielantal.eu&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Please quote this:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Antal, Daniel (2020): Comparing Social Distancing in Europe (March, April 2020). figshare. Preprint. &lt;a href=&#34;https://doi.org/10.6084/m9.figshare.12124194.v1&#34;&gt;https://doi.org/10.6084/m9.figshare.12124194.v1&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Comparing Social Distancing in Europe</title>
+      <link>/post/yes-delft-co-lab/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/post/yes-delft-co-lab/</guid>
       <description>
 
 
-&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;R Markdown&lt;/h1&gt;
-&lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;summary(cars)
-##      speed           dist       
-##  Min.   : 4.0   Min.   :  2.00  
-##  1st Qu.:12.0   1st Qu.: 26.00  
-##  Median :15.0   Median : 36.00  
-##  Mean   :15.4   Mean   : 42.98  
-##  3rd Qu.:19.0   3rd Qu.: 56.00  
-##  Max.   :25.0   Max.   :120.00
-fit &amp;lt;- lm(dist ~ speed, data = cars)
-fit
-## 
-## Call:
-## lm(formula = dist ~ speed, data = cars)
-## 
-## Coefficients:
-## (Intercept)        speed  
-##     -17.579        3.932&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-&lt;div id=&#34;including-plots&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;Including Plots&lt;/h1&gt;
-&lt;p&gt;You can also embed plots. See Figure &lt;a href=&#34;#fig:pie&#34;&gt;1&lt;/a&gt; for example:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;par(mar = c(0, 1, 0, 1))
-pie(
-  c(280, 60, 20),
-  c(&amp;#39;Sky&amp;#39;, &amp;#39;Sunny side of pyramid&amp;#39;, &amp;#39;Shady side of pyramid&amp;#39;),
-  col = c(&amp;#39;#0292D8&amp;#39;, &amp;#39;#F7EA39&amp;#39;, &amp;#39;#C4B632&amp;#39;),
-  init.angle = -50, border = NA
-)&lt;/code&gt;&lt;/pre&gt;
-&lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
-&lt;p class=&#34;caption&#34;&gt;
-Figure 1: A fancy pie chart.
-&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
+&lt;p&gt;People around the world are facing newer and newer exponential charts everyday. We’re all hoping for new information about the progress against the coronavirus. Unfortunately, the vast majority of these charts is meaningless. In fact, &lt;a href=&#34;https://fivethirtyeight.com/features/coronavirus-case-counts-are-meaningless/&#34;&gt;coronavirus case counts are meaningless&lt;/a&gt;, unless they are done with very heavy statistical knowledge, and even then they are very messy. Countries have different testing and hospitalization protocols, death certificating standards, and there are less and more trustworthy governments. We do not really know the severity of the local epidemics and the relative success of public health policies.&lt;/p&gt;
+&lt;p&gt;Nevertheless, we have some timely information on how people and the economy react to the epidemic, because there are ongoing, frequent, and comparable data sources on various consequences of the epidemic. A particularly interesting big data source is &lt;a href=&#34;https://www.blog.google/technology/health/covid-19-community-mobility-reports/&#34;&gt;Google’s geolocational reporting&lt;/a&gt; on how people’s time spent in homes, workplaces, parks, shopping areas and recreational areas change. Google gets plenty of realtime data from hundreds of millions of people and compares them by days in the week and local time with the ‘baseline’ scenario before the outbreak of the coronavirus.&lt;/p&gt;
+&lt;p&gt;Based on the locational data of various smartphones and application data, we know that people spend 10-15% more time at home since January, and 40-50% less in their workplaces. Similar data is available for other locations.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2020-04-15-covid19-europe-geolocations_files/figure-html/workhome-1.png&#34; width=&#34;90%&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;While people are spending less time in the workplace and more at home in every European country, there are significant differences. Countries in the top left corner, most notable Sweden, switched less from workplaces to homes. On the bottom right corner, Spain and Italy, which were most hit by the epidemic, are in the most severe form of lockdown.&lt;/p&gt;
+&lt;p&gt;There are some outliers, like Romania, where people stay a lot more at home, but not so much less in the workplaces – probably they cannot afford to stay clear of the job, but they are reducing other activities. Or, in the case of Germany, people spend a lot more time in parks.&lt;/p&gt;
+&lt;div style=&#34;page-break-after: always;&#34;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;img src=&#34;C:/Users/Daniel%20Antal/OneDrive%20-%20Visegrad%20Investments/2020%20Projektek/covid19/plots/difference_summary_en.jpg&#34; width=&#34;90%&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;I grouped the countries according to their dynamics. Looking at Belgium and Luxembourg, we see that they are more locked down than the typical European country, but they are moving up in the first week of April compared to the last week of March. This is very much in line with their improving strain on the health system.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;C:/Users/Daniel%20Antal/OneDrive%20-%20Visegrad%20Investments/2020%20Projektek/covid19/plots/countryclusters.jpg&#34; width=&#34;90%&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;What is worrying is that there appears to be a significant asynchronicity in the Schengen zone, where people and goods should move around freely. The peripheric countries, which are less densely populated, often less integrated into the global transport and travel routes, are getting into the local epidemics later, and are acting later. This is logical from a national point of view, but given that the European economy is very much integrated, it will prolong the pain. The Netherlands, France and Germany need plenty of seasonal agricultural workers from the Southeast, where the lockdown is just getting really strict. While some of their regions see improving national epidemic situations, the easing will increase the intensity of the local epidemic if a large number of workers will arrive from countries that are just going into the epidemic.&lt;/p&gt;
+&lt;p&gt;The efficient solution, as many public health officials keep saying, would be a synchronized effort to contain the virus. The different pace and strictness of social distancing measures will mean that the local epidemics will not be in synchronization, and the countries will re-infect each other, this way prolonging the economic and social cost of this devastating pandemic. While health policy is a national competence in the European Union, in fact, the European economic and social life is so much integrated, not only within the Schengen Zone, but even with future, prospective and candidate members states in the Balkans, that a far more coordinated public health policy would be required.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Use this in your article? Further research? Collaboration? The data &amp;amp; code is available in a private github repo. Let’s get in touch on LinkedIn, Twitter, or via danielantal.eu&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Please quote this:
+&amp;gt; Antal, Daniel (2020): Comparing Social Distancing in Europe (March, April 2020). figshare. Preprint. &lt;a href=&#34;https://doi.org/10.6084/m9.figshare.12124194.v1&#34; class=&#34;uri&#34;&gt;https://doi.org/10.6084/m9.figshare.12124194.v1&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Documenting CEEMID For Open Data Use</title>
+      <link>/post/2020-03-24-documentation/</link>
+      <pubDate>Tue, 24 Mar 2020 13:30:00 +0100</pubDate>
+      <guid>/post/2020-03-24-documentation/</guid>
+      <description>&lt;p&gt;CEEMID is a data integration system that could provide to be a model and starting point of building a European Music Observatory based on open data, open-source software using best statistics, data science and AI practices. CEEMID has created thousands of high-value, hard music industry indicators using open data sources, industry data sources, surveys and various APIs to relevant other data sources.&lt;/p&gt;
+&lt;p&gt;CEEMID is aiming to transfer thousands of indicators and a verifiable, open-source software that creates them to the European Music Observatory to give Europe-wide access timely, reliable, actionable statistics and indicators for the music industry, policymakers and music professionals. (Read more about our 
+&lt;a href=&#34;https://documentation.ceemid.eu/index.php?title=Data_CoverageMain_Page#Data_Coverage&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data coverage&lt;/a&gt; and our pan-European 
+&lt;a href=&#34;https://documentation.ceemid.eu/index.php?title=Main_Page#Geographic_Coverage&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;geographical coverage&lt;/a&gt;.)&lt;/p&gt;
+&lt;p&gt;With the help of Consolidated Independent, CEEMID created the 
+&lt;a href=&#34;http://ceereport2020.ceemid.eu/appendix.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Central European Music Industry Report - online, pdf and epub versions 2020&lt;/a&gt;, which provides a rich illustration on European cross-country research to provide the music industry businesses and music policymakers with rich data and  high-quality indicators for analysis and AI for the 
+&lt;a href=&#34;https://documentation.ceemid.eu/index.php?title=Innovation_pillar&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;innovation pillar&lt;/a&gt; of the European Music Observatory by creating input data on the  
+&lt;a href=&#34;https://documentation.ceemid.eu/index.php?title=Music_Economy_of_Europe&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Music Economy of Europe&lt;/a&gt;, 
+&lt;a href=&#34;https://documentation.ceemid.eu/index.php?title=Music_Diversity_and_Circulation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Music Diversity and Circulation&lt;/a&gt; and on 
+&lt;a href=&#34;https://documentation.ceemid.eu/index.php?title=Music,_Society_and_Citizenship&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Music, Society &amp;amp; Citizenship&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;CEEMID is a private initiative. We developed data products for the needs of the industry: to calculate adequate royalty price (tariff) levels, to calculate adequate compensation for damages, to design 
+&lt;a href=&#34;https://danielantal.eu/project/grants/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;better grants&lt;/a&gt;, to advocate 
+&lt;a href=&#34;https://danielantal.eu/tags/cci/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;better CCI policies&lt;/a&gt;, to pinpoint discriminative taxation of the industry, to monitor public performance licenses, to calculate the size of the 
+&lt;a href=&#34;https://danielantal.eu/tags/value-gap/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;value gap&lt;/a&gt;,  to train algorithms that find new audience for small nation repertoires 
+&lt;a href=&#34;https://danielantal.eu/project/music-export/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;abroad&lt;/a&gt;, and so on. Because the industry is made of microenterprises all over Europe and the world, and even larger organizations, such as collective management societies are at most SMEs, the industry has very limited market research or research &amp;amp; development capacities. This puts the music industry in a particularly vulnerable position because the biggest distributors of music, such as Alphabet’s Google and YouTube, or Apple’s iTunes and streaming services, or Spotify are data-driven companies that apply AI in all their workflows.&lt;/p&gt;
+&lt;h2 id=&#34;why-open-data&#34;&gt;Why open data?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;The music industry cannot get more favourable position in disputes if it is not able to ramp up its data analytics capacities. This is only possible in a collaborative way, because the combined research capacity of the European industry is smaller than its main partner’s capacities individually.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We believe that CEEMID could fulfil the functions of the European Music Industry if it would find a sustainable financing that makes access to all our data open. We need to be able to avoid the 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Tragedy_of_the_commons&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tragedy of the commons&lt;/a&gt;, where only a few industry users contribute to the financing of thousands of indicators that could potentially benefits tens of thousands of stakeholders in the EU.&lt;/p&gt;
+&lt;p&gt;We believe that a very large segment of CEEMID&amp;rsquo;s and the European Music Observatory&amp;rsquo;s data coverage is based on public-interest data that is collected by public authorities.  We have also realized that the music industry stakeholders and policymakers, particularly in cultural ministries and similar functions in cities and regions underestimate the availability of open data.  The EU open data regime gives access to almost all information stored in government data systems. Because this is in fact re-use of the information, the data for this purpose is usually not documented. While the data is available for free or almost free, only high level of metadata and data processing know-how is required to access it. This know-how is usually missing from cultural policy institutions and music industry bodies.&lt;/p&gt;
+&lt;p&gt;Therefore, CEEMID was based on the regulatory framework provided by the Directive on open data and the re-use of public sector information provides a common legal framework for a European market for government-held data (public sector information). It a regulatory framework that is built around two key pillars of the internal market: transparency and fair competition.  In our view, &lt;em&gt;these principles should apply to European Music Observatory, too&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;In the EU, open data is governed by the 
+&lt;a href=&#34;https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1561563110433&amp;amp;uri=CELEX:32019L1024&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Directive on open data and the re-use of public sector information - in short: Open Data Directive (EU) 2019/1024&lt;/a&gt;. It entered into force on 16 July 2019. It replaces the 
+&lt;a href=&#34;https://eur-lex.europa.eu/legal-content/en/ALL/?uri=CELEX:32003L0098&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Public Sector Information Directive&lt;/a&gt;, also known as the ‘PSI Directive’ which dated from 2003 and was subsequently amended in 2013^[@eu_directive_2019_1024; @eu_directive_2013_37; @eu_directive_2003_98]. The founder of CEEMID, Daniel Antal has been involved in Open Data and PSI since 2008.&lt;/p&gt;
+&lt;h2 id=&#34;why-open-collaboration-in-data-integration&#34;&gt;Why open collaboration in data integration?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;We believe that the European Music Observatory must rely on 
+&lt;a href=&#34;https://documentation.ceemid.eu/index.php?title=Open-source_software&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;open-source statistical software&lt;/a&gt; written in the R statistical language like CEEMID, and it must be funded on the principle of 
+&lt;a href=&#34;https://documentation.ceemid.eu/index.php?title=Open_collaboration&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;open collaboration&lt;/a&gt; with the industry, public authorities and academia&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Open-source software (OSS) is a type of computer software in which source code is released under a license in which the copyright holder grants users the rights to study, change, and distribute the software to anyone and for any purpose. Open-source software is often developed in a collaborative public manner, and which is a prominent example of &lt;strong&gt;open collaboration&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Generally, the use of open source software, including the open source R language and its software packages or libraries in the national statistical offices are encouraged by four important considerations:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;lower cost, 2. security, 3. no vendor &amp;lsquo;lock in&amp;rsquo; and 4. &lt;strong&gt;better quality&lt;/strong&gt;.  We believe that the number of data scientists in the music domain is so few that only an open collaboration can guarantee adequate data quality. (In our CEEMID documentation you find more information about the [R language](&lt;a href=&#34;https://documentation.ceemid.eu/index.php?title=R_(programming_language)&#34;&gt;https://documentation.ceemid.eu/index.php?title=R_(programming_language)&lt;/a&gt; and the concept of 
+&lt;a href=&#34;https://documentation.ceemid.eu/index.php?title=Open-source_software&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;open-source software&lt;/a&gt;.)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;We believe that the European Music Observatory must rely on open-source statistical software written in the R statistical language like CEEMID, and it must be funded on the principle of open collaboration with the industry, public authorities and academia.&lt;/p&gt;
+&lt;p&gt;CEEMID uses the open source statistical programming language R, and various open source R programs.  CEEMID also releases some of its customary program code developed to create its indicators. This allows an open collaboration with statisticians working in national statistics authorities and in independent research institutions in the EU and globally.&lt;/p&gt;
+&lt;p&gt;The use of open source software and the open source R statistical language allows a continuous peer-review of data ingestion, processing, corrections and indicator creation by statisticians, data scientists and academics.  Statistical products of national statistical offices, sometimes Eurostat itself, not to mention data providers that are not part of the system of national statistical offices, such as the European Audiovisual Observatory, are plagued with data errors that are corrected and amended relatively slowly. We believe that unless the &lt;em&gt;European Music Observatory&lt;/em&gt; becomes part of Eurostat (a highly unlikely organizational scenario), it &lt;em&gt;should embrace the priniciples of open collaboration in creating its indicators&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;CEEMID has been releasing some of its data processing, integration and indicator creation code on an open-source license on the 
+&lt;a href=&#34;https://cran.r-project.org/doc/FAQ/R-FAQ.html#What-is-CRAN_003f&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Comprehensive R Archive Network&lt;/a&gt;, or CRAN, is a collection of sites which carry identical material, consisting of the R distribution(s), the contributed extensions, documentation for R, and binaries. (More information in 
+&lt;a href=&#34;https://documentation.ceemid.eu/index.php?title=Comprehensive_R_Archive_Network&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;our&lt;/a&gt; documentation.) &lt;em&gt;We would like to find funding to release thousands of reproducible data sets and the reproduction code from source to end result on an open data, open collaboration basis&lt;/em&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;our-economic-impact-assessment-code&#34;&gt;Our economic impact assessment code&lt;/h3&gt;
+&lt;p&gt;Our 
+&lt;a href=&#34;http://iotables.ceemid.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;iotables&lt;/a&gt; package programmatically creates gross-value added, employment, taxation effect and multiplier indicators from real national accounts data for all EU countries by providing a data processing and modelling software to implement the use cases of the 
+
+&lt;a href=&#34;http://ec.europa.eu/eurostat/documents/3859598/5902113/KS-RA-07-013-EN.PDF/b0b3d71e-3930-4442-94be-70b36cea9b39?version=1.0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eurostat Manual of Supply, Use and Input-Output Tables&lt;/a&gt;. It was released on 
+&lt;a href=&#34;http://ropengov.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rOpenGov&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The package was originally designed for the economic impact assessment of film production in Hungary and for the Slovak music industry. (See 
+&lt;a href=&#34;https://danielantal.eu/publication/slovak_music_industry_2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;related&lt;/a&gt; publication.) With the help of this package, we can, for example, calculate the effect of 1 million euro crisis relief package on the GDP, employment and future tax receipts between car manufacturing, banking, the music industry and book publishing in &lt;em&gt;all EU countries&lt;/em&gt;. By releasing our software code, we could compare test results on calculating economic impact indicators for the creative industries and other industries with the 
+&lt;a href=&#34;http://iotables.ceemid.eu/articles/united_kingdom_2010.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UK statistical office&lt;/a&gt;. We want to release more and more of CEEMID&amp;rsquo;s software code, so that professional statisticians can validate that they work perfectly or suggest improvements.&lt;/p&gt;
+&lt;h3 id=&#34;creating-regional-indicators&#34;&gt;Creating regional indicators&lt;/h3&gt;
+&lt;p&gt;Our second major open-source release makes it possible to create regional statistical time series and data panels from Eurostat&amp;rsquo;s regional data - not only for the creative industries, although our original aim was to support scientific research into book piracy in a project with IVIR at the University of Amsterdam.&lt;/p&gt;
+&lt;p&gt;While national borders do not change frequently, the borders of more than 1000 European NUTS1, NUTS2 and NUTS3 regions change on average every three years.  The change of regional boundaries makes time-wise comparison very difficult.  Because the current statistical regulations to do not make it compulsory that member states re-cast their historical data after a boundary change, Eurostat does not contain, for example, comparable data on French or Lithuanian or Hungarian regions in the previous decade.&lt;/p&gt;
+&lt;p&gt;CEEMID&amp;rsquo;s program code does exactly this, because it traces, and whenever possible, corrects boundary changes back till 2007.  We released this very complicated program code as part of the 
+&lt;a href=&#34;http://ropengov.github.io/eurostat/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eurostat&lt;/a&gt; R package within the 
+&lt;a href=&#34;http://ropengov.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rOpenGov&lt;/a&gt; initiative.  This program package has tens of thousands of users in research institutions, industry and in the national statistical offices themselves.&lt;/p&gt;
+&lt;p&gt;We released the program code, because it requires special geostatistical knowledge, and we believe it is such a critical application that only open peer-review can guarantee its flawless and error-free work.&lt;/p&gt;
+&lt;h2 id=&#34;from-the-centre-of-europe-to-the-european-music-observatory&#34;&gt;From the Centre of Europe to the European Music Observatory&lt;/h2&gt;
+&lt;p&gt;Historically CEEMID started out as the &lt;em&gt;Central and Eastern European Music Industry Databases&lt;/em&gt; out of necessity following a 
+&lt;a href=&#34;https://ceemid.eu/post/2013-11-18_cisac_goodgov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CISAC Good Governance Seminar for European Societies&lt;/a&gt; in 2013. The adoption of European single market and copyright rules, and the increased activity of competition authority and regulators required a more structured approach to set collective royalty and compensations tariffs in a region that was regarded traditionally as data-poor with lower quantity of industry and government data sources available.&lt;/p&gt;
+&lt;p&gt;In 2014 three societies, Artisjus, HDS and SOZA realized that need to make further efforts to modernize the way they measure their own economic impact, the economic value of their licenses to remain competitive in advocating the interests vis-?-vis domestic governments, international organizations like CISAC and GESAC and the European Union. They signed a Memorandum of Understanding with their consultant to set up the CEEMID databases and to harmonize their efforts. The decentralized, 
+&lt;a href=&#34;https://documentation.ceemid.eu/index.php?title=Main_Page#Data_integration&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data integration&lt;/a&gt; strategy chosen by CEEMID however allowed a quick expansion of CEEMID to be a Pan-European data resource.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Yes!Delft Co-Lab</title>
+      <link>/post/yes-delft-co-lab/</link>
+      <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/post/yes-delft-co-lab/</guid>
+      <description>
+
+
+&lt;p&gt;I have been searching around for a good incubation program for the transition of the data, software and of course people in the loose CEEMID network into a real company, and I was fascinated by the professionalism and unique viewpoint of Yes!Delft.&lt;/p&gt;
+&lt;p&gt;I view on CEEMID as a professional success that brought together dozens of small entities with the help of dozens of dedicated people from the content side. But CEEMID is financially hardly viable and needs a new business model and a new organizational approach to sustain itself and grow. CEEMID started as a cooperation project, not as an institution, but now, as the biggest music &amp;amp; creative sector data project in Europe, and most likely, in the world, it acquired enough know-how and data to institutionalize.&lt;/p&gt;
+&lt;p&gt;According to their &lt;a href=&#34;https://www.yesdelft.com/events/colab-nov15/&#34;&gt;intro&lt;/a&gt; &lt;em&gt;“Research over the past 4 decades has shown that startups that are co-founded by a team are more successful. In the Co-Lab workshop, as a single founder, founding team, or entrepreneurial minded person, you’ll get the tools and connections to find that new member of your dream team to help you reach the top!”&lt;/em&gt; (See the entire &lt;a href=&#34;https://www.yesdelft.com/wp-content/uploads/2019/09/CO-LAB-GUIDE.pdf&#34;&gt;Co-Lab Guide on their website&lt;/a&gt;.)&lt;/p&gt;
+&lt;p&gt;CEEMID made its biggest growth in 2019, it got in touch with dozens of new partners in a series of new countries from Austria to Armenia, but its reorganization into a startup was a debacle. Our research product was a &lt;a href=&#34;https://dataobservatory.eu/post/2020-01-30-ceereport/&#34;&gt;big international success&lt;/a&gt;, but the continuation is far from certain.&lt;/p&gt;
+&lt;p&gt;This Co-Lab gave me very important insight into why. For me, the most important lesson was that it is not the team member who has the most desired or important technical skills who may be the best co-founder to make a successful organization, but the one who will best complement myself and other co-founders. Skills can be bought on the job market once the business model is validated and the revenues are coming. To get there, you need co-founders with a strong dedication, diverse educational and cultural background, and complementing psychological traits to overcome the difficulties of the first period, where the business model is not yet validated and there is no money coming in.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CCS Ecosystems: Evidence-Driven CCI Policy &amp; The Central &amp; Eastern European Music Industry Report</title>
+      <link>/post/2020-01-30-ceereport/</link>
+      <pubDate>Wed, 29 Jan 2020 16:00:00 +0100</pubDate>
+      <guid>/post/2020-01-30-ceereport/</guid>
+      <description>&lt;p&gt;CEEMID &amp;amp; Consolidated Independent presented and discussed with stakeholders the  
+&lt;a href=&#34;https://danielantal.eu/publication/ceereport_2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Central &amp;amp; Eastern European Music Industry Report 2020&lt;/a&gt; as a case-study on national and comparative evidence-based policymaking in the cultural and creative sector on the 
+&lt;a href=&#34;http://creativeflip.creativehubs.net/2019/12/03/flipping-the-odds/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CCS Ecosystems: FLIPPING THE ODDS Conference&lt;/a&gt; – a two-day high-level stakeholder event jointly organized by Geothe-Institute and the DG Education and Culture of the European Commission with the Creative FLIP project.&lt;/p&gt;
+&lt;p&gt;Daniel&amp;rsquo;s presentation was focused around the question on invisibility of the CCI sector in the economic, education and labour policymaking, and the low level of data use in fact-based cultural policy design, and the following policy design problems. Our CEE Music Industry Report 2020 created with the help and support of Consolidated Independent was used as a use case for the problems.&lt;/p&gt;
+&lt;p&gt;This blog post is an edited version of Daniel&amp;rsquo;s presentation and the subsequent panel discussion with the stakeholders and organizers.&lt;/p&gt;
+&lt;p&gt;The CEE Report builds on the results of the first 
+&lt;a href=&#34;https://danielantal.eu/publication/hungary_music_industry_2014/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hungarian&lt;/a&gt;, 
+&lt;a href=&#34;https://danielantal.eu/publication/slovak_music_industry_2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slovak&lt;/a&gt;, 
+&lt;a href=&#34;https://danielantal.eu/publication/private_copying_croatia_2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Croatian&lt;/a&gt; and 
+&lt;a href=&#34;http://czdev.ceemid.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Czech&lt;/a&gt; music industry reports are compared with Armenian, Austrian, Bulgarian, Lithuanian, Serbian and Slovenian data and findings.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/publications/cee_report_2020_frontcover.jpg&#34; alt=&#34;Central &amp; Eastern European Music Industry Report 2020&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;invisibility&#34;&gt;Invisibility&lt;/h2&gt;
+&lt;p&gt;The measurement problems and the ‘invisibility’ of creative and cultural industries is a consequence of the fact that these industries are predominantly comprised of microenterprises and individual, freelancing entrepreneurs.  Even larger entities, such as collective management organizations can be classified as small enterprises.
+In the EU, small- and medium enterprises, and especially microenterprises usually have reduced reporting duties to the statistical authorities and tax authorities (which is the most important secondary source of government statistics in anonymized, aggregated form.)  This means that the supply side is not visible for policymakers. The recommendation is to conduct sample-based surveys among these microenterprises, but very few member states do that.&lt;/p&gt;
+&lt;p&gt;Another problem is that on the demand side, not all member states create statistics.  ESSNet-Culture created recommendations how to measure cultural access and participation, which is a broader term than cultural consumption, as it includes non-market forms, for example, liturgical music, amateur acting, and so on.  The European Commission sometimes makes excellent, but not detailed 
+&lt;a href=&#34;https://danielantal.eu/usecase/cap/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CAP surveys&lt;/a&gt;, which are the most important sources of Eurostat’s relevant pan-European statistics.&lt;/p&gt;
+&lt;p&gt;CEEMID has been making such surveys, both on the supply side (in music and film) and in the audience side (in music, film, theatre, opera, and artistic activities) in several member states, and has plenty of experience with using the EU-mandated CAP surveys of 2007 and 2013. The CEE report relies on the latter date set in first part of the 
+&lt;a href=&#34;http://ceereport2020.ceemid.eu/audience.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;audience analysis&lt;/a&gt;. Our work was already presented in 2015 as a best use case in 
+&lt;a href=&#34;https://danielantal.eu/publication/creating_better_2015/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Creating better national cultural statistics with Eurobarometer datasets and ESSNet-Culture technical recommendations&lt;/a&gt; at GESIS, which maintains the Eurobarometer archives, on the Eurobarometer Symposium 
+&lt;a href=&#34;https://www.gesis.org/fileadmin/upload/events/EB-Symposium/Announcement_EB_Symposium.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Four Decades of Surveying Europe –
+Perspectives on Academic Research with the European Commission’s Eurobarometer Surveys&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;For the EU the lowest hanging fruit would be to critically assess the past surveys, including the partial CAP survey made in 2017 for the cultural heritage part of culture, and the national surveys conducted by CEEMID and its partners, and to mandate an annual or biannual CAP survey within the Eurobarometer series, probably as a specially sampled “Special Eurobarometer”.  This would very significantly reduce the costs compared to a country-to-country basis, and probably could be shared by other institutions, for example, with the European Audiovisual Observatory.  This alone would greatly increase the demand / consumption side information on the services of creative and cultural enterprises.&lt;/p&gt;
+&lt;p&gt;In the panel discussion Consolidated Independent highlighted the problem of leaving sample-based statistics making to the industry itself, which leads to myopical incentives to create ‘policy-based evidence’ that is cherry picked by industry trade associations to fit their often not very well thought out policy agenda.  In our view, the most important role of a future European Music Observatory would be to set standards to data collection and integration.  The music industry is  one of the most data-rich industries globally, but the publicly available, verified, trustworthy information is scarce both for policy-making and for business planning among microenterprises who have know specialized research know-how. Our already existing, representative 
+&lt;a href=&#34;http://survey2019.ceemid.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;national surveys&lt;/a&gt; should and could be extended to the whole Europe with the quality control and visibility offered by such an Observatory.&lt;/p&gt;
+&lt;h2 id=&#34;industry-organization&#34;&gt;Industry organization&lt;/h2&gt;
+&lt;p&gt;A very significant challenge with evidence-based policymaking, or, in fact, with any policy making is that the extremely fragmented nature of the industry makes national and EU-level consultations very difficult.  Most of the workforce is neither a classical employer nor employee but works as a freelancer or a micro-entrepreneur. Their views are very rarely represented by trade unions or employee associations or chambers of commerce. Despite all efforts on EU level to make the social dialogue more representative for atypical and flexible work forms, the problems and the views of the creative and cultural sectors are largely unrepresented in policy debate.&lt;/p&gt;
+&lt;p&gt;A prime example of this problem is the very heavy over-taxation of the music industry that we have shown in the 
+&lt;a href=&#34;https://danielantal.eu/publication/hungary_music_industry_2014/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hungarian&lt;/a&gt; and 
+&lt;a href=&#34;https://danielantal.eu/publication/slovak_music_industry_2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slovak&lt;/a&gt; national music industry reports, and in other documents in Croatia.  The problem is not only characteristic for the music industry, but generally all CCIs because they share similar economic properties: no real chance to use tax breaks, high level of labour input and high level of value added.  While policy makers and granting authorities spend much time on trying to improve the financing of this sector, in fact, reducing over-taxation would make a much more imminent impact on the liquidity, profitability and growth opportunities of the sector.&lt;/p&gt;
+&lt;p&gt;However, in the making of economic and tax policies, the fragmented creative and cultural industries hardly can represent their special situation.&lt;/p&gt;
+&lt;h2 id=&#34;policy-issues&#34;&gt;Policy issues&lt;/h2&gt;
+&lt;p&gt;Apart from taxation issues, which significantly reduce the liquidity, profitability and growth opportunities of these sectors in many EU countries, particularly in the CEE, where corporate taxes are low but value-added taxes are high, there are other important policy problem that reduce the long-term growth capacity of the sector.&lt;/p&gt;
+&lt;p&gt;The very small enterprise size leads to missing strategic human resources (HR) and research and development (R&amp;amp;D) functions in almost all enterprises – including simple market research activities.  Companies with 1-2 employees do not have specialized management and support functions, and thus they have a very strong handicap in HR and R&amp;amp;D.&lt;/p&gt;
+&lt;p&gt;A good example of this problem is the motion picture and TV industry.  These industries were comprised of medium-sized enterprises in the 1980s with significant in-house education functions. The current structure of these industries, however, resembles music, with almost all enterprises staying below the 5-person threshold.  In our experience, based on development needs assessments in the Hungarian motion picture and the 
+&lt;a href=&#34;http://czdev.ceemid.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Czech music industry&lt;/a&gt;, this creates an acute skills and labor shortage.  Missing skills cannot be well replaced by recruitment, or with strategic HR development via life-long learning.&lt;/p&gt;
+&lt;p&gt;Similarly to very reduced opportunities to participate in, and create life-long learning schemes, there are very little chances to engage in market research and R&amp;amp;D.  While the music industry, for example, is one of the most data-driven industries in the world, the microenterprise size does not allow that these enterprises commission market research or hire data scientists. This leads to very asymmetrical relationships with the main distributors of music and media content on platforms that are owned by global data companies.&lt;/p&gt;
+&lt;h2 id=&#34;recommendations&#34;&gt;Recommendations&lt;/h2&gt;
+&lt;p&gt;Daniel made a few concrete recommendations in the panel.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Creating the European Music Observatory, and the creation of similar industry initiatives, and commissioning collaborative (multi-stakeholder) market research, as CEEMID works in many countries, can only replace the missing market research function in the extremely fragmented industries, such as motion picture production, the music industry, but to a certain degree architecture and design.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A low-hanging fruit would be a critical assessment of the previous Pan-European CAP surveys and the comparable national CAP surveys conducted by CEEMID and its partners following the ESSNet Culture recommendations and the inclusion of the CAP surveys in an annual or bi-annual form in the Eurobarometer (Special) series. A Special Eurobarometer may be more suitable because usually a non-proportional weighting of the sample gives the best value for money in these surveys.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Critically reviewing the participation of micro-enterprises in the current forms of social dialogue and looking for formal or informal ways to increase participation in policy making can gradually lead to more creative-friendly economic regulation and tax policies.  The Hungarian Music Industry Report 2015 and the Slovak Music Industry Report 2019 contains very interesting case studies for this problem that we briefly summarize in the 
+&lt;a href=&#34;https://danielantal.eu/publication/ceereport_2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CEE Music Industry Report 2020&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Critically reviewing the few examples from mainly Nordic member states where collective agreements and other collaborative institutions allow microenterprises and freelancers to participate in life-long learning problems can help designing policies that will gradually reduce the huge skill gap of the CCIs in management know-how, data know-how, or renew their technical skills necessary in the production of their services and content. Our work with the Hungarian National Film Fund and surveys among more than a thousand film makers can give much insight into this problem.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;further-links&#34;&gt;Further links&lt;/h2&gt;
+&lt;p&gt;Our research findings were earlier presented and discussed in 
+&lt;a href=&#34;https://danielantal.eu/post/2019-09-27_cee_report/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vienna&lt;/a&gt;, 
+&lt;a href=&#34;https://danielantal.eu/post/2019-11-09-nouvelle-prague/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prague&lt;/a&gt;, 
+&lt;a href=&#34;https://danielantal.eu/post/2019-11-18-bush/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Budapest&lt;/a&gt; and 
+&lt;a href=&#34;https://danielantal.eu/talk/slovak_report19/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bratislava&lt;/a&gt; with stakeholders.&lt;/p&gt;
+&lt;p&gt;You can follow Creative FLIP project on 
+&lt;a href=&#34;https://twitter.com/creativeflip_eu?lang=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

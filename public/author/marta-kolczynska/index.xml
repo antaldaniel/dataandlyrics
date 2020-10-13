@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marta Kolczynska | Creative Data Observatories</title>
+    <link>/author/marta-kolczynska/</link>
+      <atom:link href="/author/marta-kolczynska/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marta Kolczynska</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 25 Aug 2020 16:00:00 +0200</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Marta Kolczynska</title>
+      <link>/author/marta-kolczynska/</link>
+    </image>
+    
+    <item>
+      <title>retroharmonize R package for survey harmonization</title>
+      <link>/publication/retorharmonize_2020/</link>
+      <pubDate>Tue, 25 Aug 2020 16:00:00 +0200</pubDate>
+      <guid>/publication/retorharmonize_2020/</guid>
+      <description>&lt;p&gt;The aim of &lt;code&gt;retroharmonize&lt;/code&gt; is to provide tools for reproducible
+retrospective (ex-post) harmonization of datasets that contain variables
+measuring the same concepts but coded in different ways. Ex-post data
+harmonization enables better use of existing data and creates new
+research opportunities. For example, harmonizing data from different
+countries enables cross-national comparisons, while merging data from
+different time points makes it possible to track changes over time.&lt;/p&gt;
+&lt;p&gt;Retrospective data harmonization is associated with challenges including
+conceptual issues with establishing equivalence and comparability,
+practical complications of having to standardize the naming and coding
+of variables, technical difficulties with merging data stored in
+different formats, and the need to document a large number of data
+transformations. The &lt;code&gt;retroharmonize&lt;/code&gt; package assists with the latter
+three components, freeing up the capacity of researchers to focus on the
+first.&lt;/p&gt;
+&lt;p&gt;Specifically, the &lt;code&gt;retroharmonize&lt;/code&gt; package proposes a reproducible
+workflow, including a new class for storing data together with the
+harmonized and original metadata, as well as functions for importing
+data from different formats, harmonizing data and metadata, documenting
+the harmonization process, and converting between data types. See
+
+&lt;a href=&#34;https://retroharmonize.dataobservatory.eu/reference/retrohamonize.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
+for an overview of the functionalities.&lt;/p&gt;
+&lt;p&gt;The new &lt;code&gt;labelled_spss_survey()&lt;/code&gt; class is an extension of 
+&lt;a href=&#34;https://haven.tidyverse.org/reference/labelled_spss.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;haven’s
+labelled_spss
+class&lt;/a&gt;. It not
+only preserves variable and value labels and the user-defined missing
+range, but also gives an identifier, for example, the filename or the
+wave number, to the vector. Additionally, it enables the preservation –
+as metadata attributes – of the original variable names, labels, and
+value codes and labels, from the source data, in addition to the
+harmonized variable names, labels, and value codes and labels. This way,
+the harmonized data also contain the pre-harmonization record. The
+stored original metadata can be used for validation and documentation
+purposes.&lt;/p&gt;
+&lt;p&gt;The vignette 
+&lt;a href=&#34;https://retroharmonize.dataobservatory.eu/articles/labelled_spss_survey.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Working With The labelled_spss_survey
+Class&lt;/a&gt;
+provides more information about the &lt;code&gt;labelled_spss_survey()&lt;/code&gt; class.&lt;/p&gt;
+&lt;p&gt;In 
+&lt;a href=&#34;https://retroharmonize.dataobservatory.eu/articles/harmonize_labels.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Harmonize Value
+Labels&lt;/a&gt;
+we discuss the characteristics of the &lt;code&gt;labelled_spss_survey()&lt;/code&gt; class and
+demonstrates the problems that using this class solves.&lt;/p&gt;
+&lt;p&gt;We also provide two extensive case studies illustrating how the
+&lt;code&gt;retroharmonize&lt;/code&gt; package can be used for ex-post harmonization of data
+from cross-national surveys on the example of the
+
+&lt;a href=&#34;https://retroharmonize.dataobservatory.eu/articles/afrobarometer.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Afrobarometer&lt;/a&gt;
+and the
+
+&lt;a href=&#34;https://retroharmonize.dataobservatory.eu/articles/eurobarometer.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eurobarometer&lt;/a&gt;.
+The creators of &lt;code&gt;retroharmonize&lt;/code&gt; are not affiliated with either
+Afrobarometer, Eurobarometer, or the organizations that designs,
+produces or archives their surveys.&lt;/p&gt;
+&lt;h2 id=&#34;code-of-conduct&#34;&gt;Code of Conduct&lt;/h2&gt;
+&lt;p&gt;Please note that the &lt;code&gt;retroharmonize&lt;/code&gt; project is released with a
+
+&lt;a href=&#34;https://www.contributor-covenant.org/version/2/0/code_of_conduct/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Contributor Code of
+Conduct&lt;/a&gt;.
+By contributing to this project, you agree to abide by its terms.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

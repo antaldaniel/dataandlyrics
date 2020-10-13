@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eurobarometer | Creative Data Observatories</title>
+    <link>/tag/eurobarometer/</link>
+      <atom:link href="/tag/eurobarometer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Eurobarometer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 25 Aug 2020 16:00:00 +0200</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Eurobarometer</title>
+      <link>/tag/eurobarometer/</link>
+    </image>
+    
+    <item>
+      <title>retroharmonize R package for survey harmonization</title>
+      <link>/publication/retorharmonize_2020/</link>
+      <pubDate>Tue, 25 Aug 2020 16:00:00 +0200</pubDate>
+      <guid>/publication/retorharmonize_2020/</guid>
+      <description>&lt;p&gt;The aim of &lt;code&gt;retroharmonize&lt;/code&gt; is to provide tools for reproducible
+retrospective (ex-post) harmonization of datasets that contain variables
+measuring the same concepts but coded in different ways. Ex-post data
+harmonization enables better use of existing data and creates new
+research opportunities. For example, harmonizing data from different
+countries enables cross-national comparisons, while merging data from
+different time points makes it possible to track changes over time.&lt;/p&gt;
+&lt;p&gt;Retrospective data harmonization is associated with challenges including
+conceptual issues with establishing equivalence and comparability,
+practical complications of having to standardize the naming and coding
+of variables, technical difficulties with merging data stored in
+different formats, and the need to document a large number of data
+transformations. The &lt;code&gt;retroharmonize&lt;/code&gt; package assists with the latter
+three components, freeing up the capacity of researchers to focus on the
+first.&lt;/p&gt;
+&lt;p&gt;Specifically, the &lt;code&gt;retroharmonize&lt;/code&gt; package proposes a reproducible
+workflow, including a new class for storing data together with the
+harmonized and original metadata, as well as functions for importing
+data from different formats, harmonizing data and metadata, documenting
+the harmonization process, and converting between data types. See
+
+&lt;a href=&#34;https://retroharmonize.dataobservatory.eu/reference/retrohamonize.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
+for an overview of the functionalities.&lt;/p&gt;
+&lt;p&gt;The new &lt;code&gt;labelled_spss_survey()&lt;/code&gt; class is an extension of 
+&lt;a href=&#34;https://haven.tidyverse.org/reference/labelled_spss.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;haven’s
+labelled_spss
+class&lt;/a&gt;. It not
+only preserves variable and value labels and the user-defined missing
+range, but also gives an identifier, for example, the filename or the
+wave number, to the vector. Additionally, it enables the preservation –
+as metadata attributes – of the original variable names, labels, and
+value codes and labels, from the source data, in addition to the
+harmonized variable names, labels, and value codes and labels. This way,
+the harmonized data also contain the pre-harmonization record. The
+stored original metadata can be used for validation and documentation
+purposes.&lt;/p&gt;
+&lt;p&gt;The vignette 
+&lt;a href=&#34;https://retroharmonize.dataobservatory.eu/articles/labelled_spss_survey.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Working With The labelled_spss_survey
+Class&lt;/a&gt;
+provides more information about the &lt;code&gt;labelled_spss_survey()&lt;/code&gt; class.&lt;/p&gt;
+&lt;p&gt;In 
+&lt;a href=&#34;https://retroharmonize.dataobservatory.eu/articles/harmonize_labels.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Harmonize Value
+Labels&lt;/a&gt;
+we discuss the characteristics of the &lt;code&gt;labelled_spss_survey()&lt;/code&gt; class and
+demonstrates the problems that using this class solves.&lt;/p&gt;
+&lt;p&gt;We also provide two extensive case studies illustrating how the
+&lt;code&gt;retroharmonize&lt;/code&gt; package can be used for ex-post harmonization of data
+from cross-national surveys on the example of the
+
+&lt;a href=&#34;https://retroharmonize.dataobservatory.eu/articles/afrobarometer.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Afrobarometer&lt;/a&gt;
+and the
+
+&lt;a href=&#34;https://retroharmonize.dataobservatory.eu/articles/eurobarometer.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eurobarometer&lt;/a&gt;.
+The creators of &lt;code&gt;retroharmonize&lt;/code&gt; are not affiliated with either
+Afrobarometer, Eurobarometer, or the organizations that designs,
+produces or archives their surveys.&lt;/p&gt;
+&lt;h2 id=&#34;code-of-conduct&#34;&gt;Code of Conduct&lt;/h2&gt;
+&lt;p&gt;Please note that the &lt;code&gt;retroharmonize&lt;/code&gt; project is released with a
+
+&lt;a href=&#34;https://www.contributor-covenant.org/version/2/0/code_of_conduct/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Contributor Code of
+Conduct&lt;/a&gt;.
+By contributing to this project, you agree to abide by its terms.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>eurobarometer R package</title>
+      <link>/publication/eurobarometer_2020/</link>
+      <pubDate>Thu, 25 Jun 2020 16:00:00 +0200</pubDate>
+      <guid>/publication/eurobarometer_2020/</guid>
+      <description>&lt;p&gt;Please review the 
+&lt;a href=&#34;https://eurobarometer.dataobservatory.eu/articles/workflow.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;workflow&lt;/a&gt; here.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Regionalized Cultural Access and Participation (Books And Libraries) And Science Attitudes Variables</title>
+      <link>/post/2020-04-22-regional-eurobarometer/</link>
+      <pubDate>Wed, 22 Apr 2020 17:00:00 +0200</pubDate>
+      <guid>/post/2020-04-22-regional-eurobarometer/</guid>
+      <description>&lt;p&gt;My new R package, Eurobarometer, helps the creation of data panels and regionalized statistics from the Pan-European survey’s microdata. This allows the creation of many new statistical indicators for the CEEMID Music Observatory and for many market and policy research tasks.&lt;/p&gt;
+&lt;p&gt;This example dataset (Antal 2020) was created from the microdata of the
+Eurobarometer 79.2 survey using the development version of the
+
+&lt;a href=&#34;https://github.com/antaldaniel/eurobarometer&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eurobarometer R package&lt;/a&gt;.
+The dataset can be downloaded from
+
+&lt;a href=&#34;https://doi.org/10.5281/zenodo.3759811&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zenodo&lt;/a&gt;. It will be used in a forthcoming academic publication about book piracy.&lt;/p&gt;
+&lt;h2 id=&#34;cultural-access--participation-variables&#34;&gt;Cultural Access &amp;amp; Participation Variables&lt;/h2&gt;
+&lt;p&gt;The read a book variable is a weighted sum of the responses that chose
+from &lt;code&gt;QB1 How many times in the last twelve months have you read a book?&lt;/code&gt; any answer apart from “not in the last 12 months.”&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/Eurobarometer_79_2_files/book-1.png&#34; alt=&#34;Individuals Who Read A Book&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;library-access&#34;&gt;Library Access&lt;/h3&gt;
+&lt;p&gt;The library access variable is a weighted sum of the responses that
+chose from &lt;code&gt;QB1 How many times in the last twelve months have you visited a public library?&lt;/code&gt; any answer apart from “not in the last 12 months.”&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/Eurobarometer_79_2_files/library-1.png&#34; alt=&#34;Individuals Who Visited A Library&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;limited-library-access&#34;&gt;Limited Library Access&lt;/h3&gt;
+&lt;p&gt;The limited library access is a weighted sum of the responses that chose from the question block
+&lt;code&gt;QB2 And for each of the following activities, please tell me why you haven’t done it or haven’t done it more often in the last 12 months? ... Visited a public library&lt;/code&gt; the answer option &lt;code&gt;Limited or poor quality of this activity in the place where you live.&lt;/code&gt; In this case, the number of respondents is rather low and this is not a very reliable statistic on regional level.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/Eurobarometer_79_2_files/limitedlibrary-1.png&#34; alt=&#34;Individuals Who Have Poor Local  Library&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;science--technology-attitudes&#34;&gt;Science &amp;amp; Technology Attitudes&lt;/h2&gt;
+&lt;p&gt;The supports open access variable is a weighted sum of yes answer
+options to the &lt;code&gt;QD 17 Do you think that the results of publicly funded research should be made available online free of charge?&lt;/code&gt;
+question.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/Eurobarometer_79_2_files/openaccess-1.png&#34; alt=&#34;Individuals Who Have Poor Local  Library&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;demography&#34;&gt;Demography&lt;/h2&gt;
+&lt;p&gt;The internet access question is a weighted sum of responses to the
+answer option for &lt;code&gt;D46 Which of the following do you have? - An Internet connection at home&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/Eurobarometer_79_2_files/internetaccess-1.png&#34; alt=&#34;Individuals Who Have Internet Access At Home&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The internet access question is a weighted sum of responses to the
+answer option for &lt;code&gt;D15 What is your current occupation? - student&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/Eurobarometer_79_2_files/students-1.png&#34; alt=&#34;Regional Student Population&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;data-source--data-processing&#34;&gt;Data Source &amp;amp; Data Processing&lt;/h2&gt;
+&lt;p&gt;The source of the data is the microdata file stored in GESIS for the
+
+&lt;a href=&#34;https://dbk.gesis.org/dbksearch/sdesc2.asp?db=e&amp;amp;no=5688&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eurobarometer 79.2
+survey&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This data file contains the microdata for the Eurobarometer 79.2 survey (TNS Opinion &amp;amp; Social 2013), which includes a Cultural Access and Participation Survey (see (Haan and Broek 2012; Bína, Vladimir et al.2012)) and a Science &amp;amp; Technology Attitude survey.&lt;/p&gt;
+&lt;p&gt;The survey samples are designed to represent the national population,
+with the exceptions of Northern Ireland, the former East- and
+West-Germany, and the Turkish community on Cyprus. These samples are
+designed to be representative for these populations, too.&lt;/p&gt;
+&lt;p&gt;For weighting we used the w1 weights, which allow for
+post-stratification based on gender, education level and community size.&lt;/p&gt;
+&lt;p&gt;In the case of the Republic of Cyprus, Estonia, Latvia, Luxembourg and
+Malta regionalization is not necessary because the entire countries are equivalent to a single NUTS2 region in terms of size and homogeneity. In these countries the weighting produces representative statistics.&lt;/p&gt;
+&lt;p&gt;Unfortunately, due to a problem with the original data file, no regional information is available for the Republic of Ireland.&lt;/p&gt;
+&lt;p&gt;In the case of Germany, Great Britain and Italy, data can be summarized on the level of NUTS1 territories, and we are imputing these values into the constituent (smaller sub-)regions on NUTS2 levels. In the case of the remaining countries it can be summarized on NUTS2 levels.&lt;/p&gt;
+&lt;p&gt;Because the survey samples are designed to be nationally representative, the regional sub-samples are not necessarily representative, and often they are very small. For post stratification purposes, we created a “dirty weighting”, Using the national w1 post-stratification weights, but centered to an average value of 1 for each region.&lt;/p&gt;
+&lt;p&gt;We believe that this causes problems on more detailed answer options (on the level levels of the questionnaire’s question hierarchy.) Except for the science attitudes and the library quality questions, we used relatively simple questions that are less affected by the small,
+potentially biased sample size&lt;/p&gt;
+&lt;p&gt;A better option would be the creation of new, regional
+post-stratification weights. We believe that this would be a very
+interesting, but very big research task that would potentially need the cooperation of the survey’s producer, Kantar.&lt;/p&gt;
+&lt;p&gt;Update: &lt;em&gt;This was originally posted on Daniel&amp;rsquo;s 
+&lt;a href=&#34;https://danielantal.eu/post/2020-04-22-regional-eurobarometer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blog&lt;/a&gt;. 
+&lt;a href=&#34;http://eurobarometer.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eurobarometer&lt;/a&gt; became a much more useful and ex post survey harmonization tool after Marta joined the development efforts&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;citation&#34;&gt;Citation&lt;/h2&gt;
+&lt;p&gt;Daniel, Antal. 2020. “Regionalized Cultural Access and Participation
+(Books And Libraries) And Science Attitudes Variables 2013.” Zenodo.
+&lt;a href=&#34;https://doi.org/10.5281/zenodo.3759811&#34;&gt;https://doi.org/10.5281/zenodo.3759811&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Bína, Vladimir, Chantepie, Philippe, Deboin, Valérie, Kommel, Kutt,
+Kotynek, Josef, and Robin, Philippe. 2012. “ESSnet-CULTURE, European
+Statistical System Network on Culture. Final Report.” Edited by Frank,
+Guy.
+&lt;a href=&#34;http://ec.europa.eu/culture/our-policy-development/documents/ess-net-report-oct2012.pdf&#34;&gt;http://ec.europa.eu/culture/our-policy-development/documents/ess-net-report-oct2012.pdf&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Haan, Jos de, and Andries van den Broek. 2012. “Nowadays Cultural
+Participation - an Update of What to Look for and Where to Look for It.”
+In &lt;em&gt;ESSnet-CULTURE, European Statistical System Network on Culture.
+Final Report.&lt;/em&gt;, 397–417. Luxembourg.
+&lt;a href=&#34;http://ec.europa.eu/culture/our-policy-development/documents/ess-net-report-oct2012.pdf&#34;&gt;http://ec.europa.eu/culture/our-policy-development/documents/ess-net-report-oct2012.pdf&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;TNS Opinion &amp;amp; Social. 2013. “Cultural Access and Participation. Special Eurobarometer 399 Report.” European Commission.
+&lt;a href=&#34;http://ec.europa.eu/public_opinion/archives/ebs/ebs_399_en.pdf&#34;&gt;http://ec.europa.eu/public_opinion/archives/ebs/ebs_399_en.pdf&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

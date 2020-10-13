@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Réka Szentirmay | Creative Data Observatories</title>
+    <link>/author/reka-szentirmay/</link>
+      <atom:link href="/author/reka-szentirmay/index.xml" rel="self" type="application/rss+xml" />
+    <description>Réka Szentirmay</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Réka Szentirmay</title>
+      <link>/author/reka-szentirmay/</link>
+    </image>
+    
+  </channel>
+</rss>
