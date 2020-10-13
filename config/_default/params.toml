@@ -105,7 +105,7 @@ email = "mail@dataobservatory.eu"
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/antaldaniel"},
+  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/@dataandlyrics"},
   {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:antaldaniel.hu"},
   {icon = "keybase", icon_pack = "fab", name = "Get in touch on Keybase", link = "https://keybase.io/team/reprexcommunity"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
