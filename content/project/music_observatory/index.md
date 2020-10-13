@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Surveys"
+title = "Music Observatory"
 
 # Date this page was created.
 date = 2019-08-26T08:00:00
