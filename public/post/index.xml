@@ -5,12 +5,40 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 25 Sep 2020 15:31:39 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 14 Oct 2020 10:00:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>Making Websites Is Not Easy</title>
+      <link>/post/2020-10-14-making_websites/</link>
+      <pubDate>Wed, 14 Oct 2020 10:00:00 +0200</pubDate>
+      <guid>/post/2020-10-14-making_websites/</guid>
+      <description>&lt;p&gt;I often find myself in a crossfire between artists and managers who want more transparency and innovation and collective management societies that see themselves as the last stable pillar for music composers, producers and performers to collect their royalties. I was in Bratislava preparing a project with the Slovak societies when a Belgian music professional, Suzanne Verschueren working in the Slovak music industry showed my Moon Moon Moon’s Journal Entry 10. A letter of complaint to the Dutch collective management societies, Buma and Stemra. In a song.  With video animation.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=UtaEKUy6KGE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;post/2020-10-14-making_websites/featured_hu9500920b8875310975e618e41fb52406_504232_720x0_resize_q90_lanczos.jpg&#34; alt=&#34;see video&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I immediately contacted Moon Moon Moon, because I had a better laugh at a music industry insider joke, and because I realized that this is one of the many bridges that we need to close if we want to build the European Music Observatory. (See our Demo Music Observatory here.)&lt;/p&gt;
+&lt;p&gt;Of course, Buma/Stemra reached out to 
+&lt;a href=&#34;https://www.facebook.com/moonmoonmoontheband&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Moon Moon Moon&lt;/a&gt; within a day of the release, and within a week they figured out where did the 1500 euro go, apologized for the mistake. The band and the collective management organization have been working together ever since as best friends forever.&lt;/p&gt;
+&lt;p&gt;For me, this story is not over.  A year later, the video had less than 1000 views on YouTube.  How is it possible, when the Moon Moon Moon Journal Entries are so good?  My startup team decided to team up with the MMM collective to figure out how it is possible that with all the might of the artificial intelligence of YouTube’s and Spotify’s algorithms this gem is not world famous yet.  And yes, we are working with a sister society of Buma/Stemra in Slovakia to make this happen, who, in spite of their bad rep among artists, have been fighting with me side by side since 2016 to make this happen.&lt;/p&gt;
+&lt;p&gt;We decided to design an app that connects artists and their fans in a better way, using the same might of the algorithms, but working for the small band.  We will re-release the Journal Entries as an album, and we will create algorithms that will find audiences for MMM all over in the Netherlands and Belgium, and in Japan, and probably in many other countries on the way from Utrecht to 
+&lt;a href=&#34;https://www.youtube.com/watch?v=Tw0zYd0eIlk&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kyoto&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;further-links&#34;&gt;Further links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.bumastemra.nl/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Buma/Stemra&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.youtube.com/moonmoonmoon&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Moon Moon Moon on YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://discord.com/invite/v3upRs7?fbclid=IwAR04uKn_1TurL6cZArdwMigw9BDXpVqp9AXL3W12U94a69SeobDBT6jCbSo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Moon Moon Moon on Discord&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=UtaEKUy6KGE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal Entry 10: Growing a Beard While Using The New Buma/Stemra Website&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Product/Market Fit Validation in Yes!Delft</title>
@@ -508,48 +536,6 @@ Final Report.&lt;/em&gt;, 397–417. Luxembourg.
 &lt;blockquote&gt;
 &lt;p&gt;Antal, Daniel (2020): Comparing Social Distancing in Europe (March, April 2020). figshare. Preprint. &lt;a href=&#34;https://doi.org/10.6084/m9.figshare.12124194.v1&#34;&gt;https://doi.org/10.6084/m9.figshare.12124194.v1&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Comparing Social Distancing in Europe</title>
-      <link>/post/yes-delft-co-lab/</link>
-      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/post/yes-delft-co-lab/</guid>
-      <description>
-
-
-&lt;p&gt;People around the world are facing newer and newer exponential charts everyday. We’re all hoping for new information about the progress against the coronavirus. Unfortunately, the vast majority of these charts is meaningless. In fact, &lt;a href=&#34;https://fivethirtyeight.com/features/coronavirus-case-counts-are-meaningless/&#34;&gt;coronavirus case counts are meaningless&lt;/a&gt;, unless they are done with very heavy statistical knowledge, and even then they are very messy. Countries have different testing and hospitalization protocols, death certificating standards, and there are less and more trustworthy governments. We do not really know the severity of the local epidemics and the relative success of public health policies.&lt;/p&gt;
-&lt;p&gt;Nevertheless, we have some timely information on how people and the economy react to the epidemic, because there are ongoing, frequent, and comparable data sources on various consequences of the epidemic. A particularly interesting big data source is &lt;a href=&#34;https://www.blog.google/technology/health/covid-19-community-mobility-reports/&#34;&gt;Google’s geolocational reporting&lt;/a&gt; on how people’s time spent in homes, workplaces, parks, shopping areas and recreational areas change. Google gets plenty of realtime data from hundreds of millions of people and compares them by days in the week and local time with the ‘baseline’ scenario before the outbreak of the coronavirus.&lt;/p&gt;
-&lt;p&gt;Based on the locational data of various smartphones and application data, we know that people spend 10-15% more time at home since January, and 40-50% less in their workplaces. Similar data is available for other locations.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2020-04-15-covid19-europe-geolocations_files/figure-html/workhome-1.png&#34; width=&#34;90%&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;While people are spending less time in the workplace and more at home in every European country, there are significant differences. Countries in the top left corner, most notable Sweden, switched less from workplaces to homes. On the bottom right corner, Spain and Italy, which were most hit by the epidemic, are in the most severe form of lockdown.&lt;/p&gt;
-&lt;p&gt;There are some outliers, like Romania, where people stay a lot more at home, but not so much less in the workplaces – probably they cannot afford to stay clear of the job, but they are reducing other activities. Or, in the case of Germany, people spend a lot more time in parks.&lt;/p&gt;
-&lt;div style=&#34;page-break-after: always;&#34;&gt;&lt;/div&gt;
-&lt;p&gt;&lt;img src=&#34;C:/Users/Daniel%20Antal/OneDrive%20-%20Visegrad%20Investments/2020%20Projektek/covid19/plots/difference_summary_en.jpg&#34; width=&#34;90%&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;I grouped the countries according to their dynamics. Looking at Belgium and Luxembourg, we see that they are more locked down than the typical European country, but they are moving up in the first week of April compared to the last week of March. This is very much in line with their improving strain on the health system.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;C:/Users/Daniel%20Antal/OneDrive%20-%20Visegrad%20Investments/2020%20Projektek/covid19/plots/countryclusters.jpg&#34; width=&#34;90%&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;What is worrying is that there appears to be a significant asynchronicity in the Schengen zone, where people and goods should move around freely. The peripheric countries, which are less densely populated, often less integrated into the global transport and travel routes, are getting into the local epidemics later, and are acting later. This is logical from a national point of view, but given that the European economy is very much integrated, it will prolong the pain. The Netherlands, France and Germany need plenty of seasonal agricultural workers from the Southeast, where the lockdown is just getting really strict. While some of their regions see improving national epidemic situations, the easing will increase the intensity of the local epidemic if a large number of workers will arrive from countries that are just going into the epidemic.&lt;/p&gt;
-&lt;p&gt;The efficient solution, as many public health officials keep saying, would be a synchronized effort to contain the virus. The different pace and strictness of social distancing measures will mean that the local epidemics will not be in synchronization, and the countries will re-infect each other, this way prolonging the economic and social cost of this devastating pandemic. While health policy is a national competence in the European Union, in fact, the European economic and social life is so much integrated, not only within the Schengen Zone, but even with future, prospective and candidate members states in the Balkans, that a far more coordinated public health policy would be required.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Use this in your article? Further research? Collaboration? The data &amp;amp; code is available in a private github repo. Let’s get in touch on LinkedIn, Twitter, or via danielantal.eu&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Please quote this:
-&amp;gt; Antal, Daniel (2020): Comparing Social Distancing in Europe (March, April 2020). figshare. Preprint. &lt;a href=&#34;https://doi.org/10.6084/m9.figshare.12124194.v1&#34; class=&#34;uri&#34;&gt;https://doi.org/10.6084/m9.figshare.12124194.v1&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Yes!Delft Co-Lab</title>
-      <link>/post/yes-delft-co-lab/</link>
-      <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/post/yes-delft-co-lab/</guid>
-      <description>
-
-
-&lt;p&gt;I have been searching around for a good incubation program for the transition of the data, software and of course people in the loose CEEMID network into a real company, and I was fascinated by the professionalism and unique viewpoint of Yes!Delft.&lt;/p&gt;
-&lt;p&gt;I view on CEEMID as a professional success that brought together dozens of small entities with the help of dozens of dedicated people from the content side. But CEEMID is financially hardly viable and needs a new business model and a new organizational approach to sustain itself and grow. CEEMID started as a cooperation project, not as an institution, but now, as the biggest music &amp;amp; creative sector data project in Europe, and most likely, in the world, it acquired enough know-how and data to institutionalize.&lt;/p&gt;
-&lt;p&gt;According to their &lt;a href=&#34;https://www.yesdelft.com/events/colab-nov15/&#34;&gt;intro&lt;/a&gt; &lt;em&gt;“Research over the past 4 decades has shown that startups that are co-founded by a team are more successful. In the Co-Lab workshop, as a single founder, founding team, or entrepreneurial minded person, you’ll get the tools and connections to find that new member of your dream team to help you reach the top!”&lt;/em&gt; (See the entire &lt;a href=&#34;https://www.yesdelft.com/wp-content/uploads/2019/09/CO-LAB-GUIDE.pdf&#34;&gt;Co-Lab Guide on their website&lt;/a&gt;.)&lt;/p&gt;
-&lt;p&gt;CEEMID made its biggest growth in 2019, it got in touch with dozens of new partners in a series of new countries from Austria to Armenia, but its reorganization into a startup was a debacle. Our research product was a &lt;a href=&#34;https://dataobservatory.eu/post/2020-01-30-ceereport/&#34;&gt;big international success&lt;/a&gt;, but the continuation is far from certain.&lt;/p&gt;
-&lt;p&gt;This Co-Lab gave me very important insight into why. For me, the most important lesson was that it is not the team member who has the most desired or important technical skills who may be the best co-founder to make a successful organization, but the one who will best complement myself and other co-founders. Skills can be bought on the job market once the business model is validated and the revenues are coming. To get there, you need co-founders with a strong dedication, diverse educational and cultural background, and complementing psychological traits to overcome the difficulties of the first period, where the business model is not yet validated and there is no money coming in.&lt;/p&gt;
 </description>
     </item>
     

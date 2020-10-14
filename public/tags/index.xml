@@ -5,12 +5,44 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 25 Sep 2020 15:31:39 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 14 Oct 2020 10:00:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
+    
+    <item>
+      <title>collective-management</title>
+      <link>/tag/collective-management/</link>
+      <pubDate>Wed, 14 Oct 2020 10:00:00 +0200</pubDate>
+      <guid>/tag/collective-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Netherlands</title>
+      <link>/tag/netherlands/</link>
+      <pubDate>Wed, 14 Oct 2020 10:00:00 +0200</pubDate>
+      <guid>/tag/netherlands/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>royalties</title>
+      <link>/tag/royalties/</link>
+      <pubDate>Wed, 14 Oct 2020 10:00:00 +0200</pubDate>
+      <guid>/tag/royalties/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web-technology</title>
+      <link>/tag/web-technology/</link>
+      <pubDate>Wed, 14 Oct 2020 10:00:00 +0200</pubDate>
+      <guid>/tag/web-technology/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>open-data</title>
@@ -137,30 +169,6 @@
       <link>/tag/public-policy/</link>
       <pubDate>Wed, 15 Apr 2020 13:00:00 +0200</pubDate>
       <guid>/tag/public-policy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>covid19</title>
-      <link>/tag/covid19/</link>
-      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/tag/covid19/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>social-distancing</title>
-      <link>/tag/social-distancing/</link>
-      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/tag/social-distancing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>team-building</title>
-      <link>/tag/team-building/</link>
-      <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/tag/team-building/</guid>
       <description></description>
     </item>
     
@@ -433,14 +441,6 @@
       <link>/tag/grants/</link>
       <pubDate>Thu, 12 Nov 2015 19:00:00 +0100</pubDate>
       <guid>/tag/grants/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>royalties</title>
-      <link>/tag/royalties/</link>
-      <pubDate>Thu, 12 Nov 2015 19:00:00 +0100</pubDate>
-      <guid>/tag/royalties/</guid>
       <description></description>
     </item>
     
