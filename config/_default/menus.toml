@@ -19,7 +19,7 @@
   weight = 20
   
 [[main]]
-  name = "Longread"
+  name = "Longreads"
   url = "#featured"
   weight = 30
 
