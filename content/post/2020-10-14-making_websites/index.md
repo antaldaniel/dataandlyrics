@@ -30,7 +30,7 @@ projects = ["listen-local", "music-observatory"]
 
 I often find myself in a crossfire between artists and managers who want more transparency and innovation and collective management societies that see themselves as the last stable pillar for music composers, producers and performers to collect their royalties. I was in Bratislava preparing a project with the Slovak societies when a Belgian music professional, Suzanne Verschueren working in the Slovak music industry showed my Moon Moon Moon’s Journal Entry 10. A letter of complaint to the Dutch collective management societies, Buma and Stemra. In a song.  With video animation!
 
-[![see video](https://dataandlyrics.com/post/2020-10-14-making_websites/featured_hu9500920b8875310975e618e41fb52406_504232_720x0_resize_q90_lanczos.jpg)](https://www.youtube.com/watch?v=UtaEKUy6KGE)
+[![Click on image to play video](https://dataandlyrics.com/post/2020-10-14-making_websites/playjournal10.png)](https://www.youtube.com/watch?v=UtaEKUy6KGE)
 
 I immediately contacted Moon Moon Moon, because I had a better laugh at a music industry insider joke, and because I realized that this is one of the many bridges that we need to close if we want to build the European Music Observatory. (See our Demo Music Observatory here.)
 
@@ -47,3 +47,4 @@ We decided to design an app that connects artists and their fans in a better way
 * [Moon Moon Moon on YouTube](https://www.youtube.com/moonmoonmoon)
 * [Moon Moon Moon on Discord](https://discord.com/invite/v3upRs7?fbclid=IwAR04uKn_1TurL6cZArdwMigw9BDXpVqp9AXL3W12U94a69SeobDBT6jCbSo)
 * [Journal Entry 10: Growing a Beard While Using The New Buma/Stemra Website](https://www.youtube.com/watch?v=UtaEKUy6KGE)
+* [Play icon](https://icons8.com/icons/set/play)
