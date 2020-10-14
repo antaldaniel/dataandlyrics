@@ -9,10 +9,10 @@ date = 2020-09-29T10:00:00
 summary = "Connecting local bands with local fans, joining scenes across the globe."
 
 # Tags: can be used for filtering projects.
-tags = ["open-data"]
+tags = ["listen-local"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "https://listenlocal.community/index.html"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
