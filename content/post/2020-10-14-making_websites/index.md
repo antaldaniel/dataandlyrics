@@ -28,8 +28,7 @@ projects = ["listen-local", "music-observatory"]
 
 +++
 
-I often find myself in a crossfire between artists and managers who want more transparency and innovation and collective management societies that see themselves as the last stable pillar for music composers, producers and performers to collect their royalties. I was in Bratislava preparing a project with the Slovak societies when a Belgian music professional, Suzanne Verschueren working in the Slovak music industry showed my Moon Moon Moon’s Journal Entry 10. A letter of complaint to the Dutch collective management societies, Buma and Stemra. In a song.  With video animation.
-
+I often find myself in a crossfire between artists and managers who want more transparency and innovation and collective management societies that see themselves as the last stable pillar for music composers, producers and performers to collect their royalties. I was in Bratislava preparing a project with the Slovak societies when a Belgian music professional, Suzanne Verschueren working in the Slovak music industry showed my Moon Moon Moon’s Journal Entry 10. A letter of complaint to the Dutch collective management societies, Buma and Stemra. In a song.  With video animation!
 
 [![see video](https://dataandlyrics.com/post/2020-10-14-making_websites/featured_hu9500920b8875310975e618e41fb52406_504232_720x0_resize_q90_lanczos.jpg)](https://www.youtube.com/watch?v=UtaEKUy6KGE)
 
