@@ -1,8 +1,8 @@
 +++
 title = "Making Websites Is Not Easy"
 
-date = 2020-10-14T10:00:00
-lastmod = 2020-10-14T10:00:00
+date = 2020-10-14T10:00:00+02:00
+lastmod = 2020-10-14T10:00:00+02:00
 draft = false
 
 authors = ["Daniel Antal, CFA"]
