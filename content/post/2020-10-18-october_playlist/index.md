@@ -59,25 +59,18 @@ myself\!) These songs are very different from the songs that people are more lik
 <table>
 
 <thead>
-
 <tr>
 
 <th style="text-align:left;">
-
-Daniel’s OctoberPlaylist
-
+Daniel’s October Playlist
 </th>
 
 <th style="text-align:left;">
-
 Spotify NL Top 50
-
 </th>
 
 <th style="text-align:left;">
-
 Spotify Global Top 20
-
 </th>
 
 </tr>
@@ -89,23 +82,17 @@ Spotify Global Top 20
 <tr>
 
 <td style="text-align:left;">
-
 [Wounded Egos](https://api.spotify.com/v1/tracks/14LSfvkF3PS0k81FAe6PFk)
 
 </td>
 
 <td style="text-align:left;">
-
-[Mood (feat. iann
-dior)](https://api.spotify.com/v1/tracks/3tjFYV6RSFtuktYl3ZtYcq)
+[Mood (feat. iann dior)](https://api.spotify.com/v1/tracks/3tjFYV6RSFtuktYl3ZtYcq)
 
 </td>
 
 <td style="text-align:left;">
-
-[Mood (feat. iann
-dior)](https://api.spotify.com/v1/tracks/3tjFYV6RSFtuktYl3ZtYcq)
-
+[Mood (feat. iann dior)](https://api.spotify.com/v1/tracks/3tjFYV6RSFtuktYl3ZtYcq)
 </td>
 
 </tr>
@@ -113,47 +100,74 @@ dior)](https://api.spotify.com/v1/tracks/3tjFYV6RSFtuktYl3ZtYcq)
 <tr>
 
 <td style="text-align:left;">
-
 [Sirens](https://api.spotify.com/v1/tracks/3MKXdtTufdX4BwVbuJqFGW)
-
 </td>
 
 <td style="text-align:left;">
 
-[Lemonade (feat. Gunna, Don Toliver &
-NAV)](https://api.spotify.com/v1/tracks/7hxHWCCAIIxFLCzvDgnQHX)
+[Lemonade (feat. Gunna, Don Toliver & NAV)](https://api.spotify.com/v1/tracks/7hxHWCCAIIxFLCzvDgnQHX)
 
 </td>
 
-<td style="text-align:left;">
-
-[Lemonade (feat. Gunna, Don Toliver &
-NAV)](https://api.spotify.com/v1/tracks/7hxHWCCAIIxFLCzvDgnQHX)
-
+<td style="text-align:left;">[Lemonade (feat. Gunna, Don Toliver & NAV)](https://api.spotify.com/v1/tracks/7hxHWCCAIIxFLCzvDgnQHX)
 </td>
 
 </tr>
 
-<tr>
-
-<td style="text-align:left;">
-
+<tr><td style="text-align:left;">
 [Don’t Panic](https://api.spotify.com/v1/tracks/3A8ZDfxmb75kFl5Cqr2pIf)
 
 </td>
 
-<td style="text-align:left;">
-
-[Head & Heart (feat.
-MNEK)](https://api.spotify.com/v1/tracks/6cx06DFPPHchuUAcTxznu9)
+<td style="text-align:left;">[Head & Heart (feat. MNEK)](https://api.spotify.com/v1/tracks/6cx06DFPPHchuUAcTxznu9)
 
 </td>
 
 <td style="text-align:left;">
+[WAP (feat. Megan Thee Stallion)](https://api.spotify.com/v1/tracks/4Oun2ylbjFKMPTiaSbbCih)
+</td>
 
-[WAP (feat. Megan Thee
-Stallion)](https://api.spotify.com/v1/tracks/4Oun2ylbjFKMPTiaSbbCih)
+</tr>
 
+<tr>
+
+<td style="text-align:left;">[Can’t Stop](https://api.spotify.com/v1/tracks/3ezOmKfYasIe0QeWyWiucU)
+
+</td>
+
+<td style="text-align:left;">[In De Schuur](https://api.spotify.com/v1/tracks/0NuAnAqjZjuGtcWXJOxUyl)
+
+</td>
+
+<td style="text-align:left;">[Hawái](https://api.spotify.com/v1/tracks/1yoMvmasuxZfqHEipJhRbp)
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;">[Michael And Heather At The Baggage Claim](https://api.spotify.com/v1/tracks/2rvxQwn7rGR0ZmHvwP4AmG)
+
+</td>
+
+<td style="text-align:left;">[Jerusalema (feat. Nomcebo Zikode)](https://api.spotify.com/v1/tracks/2MlOUXmcofMackX3bxfSwi)
+
+</td>
+
+<td style="text-align:left;">[Dynamite](https://api.spotify.com/v1/tracks/0t1kP63rueHleOhQkYSXFY)</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;">[Machinist](https://api.spotify.com/v1/tracks/6Uhhwk8oJc8SLloZIAQksB)
+
+</td>
+<td style="text-align:left;">[Holy (feat. Chance The Rapper)](https://api.spotify.com/v1/tracks/5u1n1kITHCxxp8twBcZxWy)
+
+</td>
+
+<td style="text-align:left;">[What You Know BoutLove](https://api.spotify.com/v1/tracks/1tkg4EHVoqnhR6iFEXb60y)
 </td>
 
 </tr>
@@ -161,115 +175,31 @@ Stallion)](https://api.spotify.com/v1/tracks/4Oun2ylbjFKMPTiaSbbCih)
 <tr>
 
 <td style="text-align:left;">
+[Royal Screw Up](https://api.spotify.com/v1/tracks/7lBpCteEdS5WbOnzbVmWiR) </td>
 
-[Can’t Stop](https://api.spotify.com/v1/tracks/3ezOmKfYasIe0QeWyWiucU)
-
-</td>
-
-<td style="text-align:left;">
-
-[In De Schuur](https://api.spotify.com/v1/tracks/0NuAnAqjZjuGtcWXJOxUyl)
-
-</td>
-
-<td style="text-align:left;">
-
-[Hawái](https://api.spotify.com/v1/tracks/1yoMvmasuxZfqHEipJhRbp)
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;">
-
-[Michael And Heather At The Baggage
-Claim](https://api.spotify.com/v1/tracks/2rvxQwn7rGR0ZmHvwP4AmG)
-
-</td>
-
-<td style="text-align:left;">
-
-[Jerusalema (feat. Nomcebo
-Zikode)](https://api.spotify.com/v1/tracks/2MlOUXmcofMackX3bxfSwi)
-
-</td>
-
-<td style="text-align:left;">
-
-[Dynamite](https://api.spotify.com/v1/tracks/0t1kP63rueHleOhQkYSXFY)
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;">
-
-[Machinist](https://api.spotify.com/v1/tracks/6Uhhwk8oJc8SLloZIAQksB)
-
-</td>
-
-<td style="text-align:left;">
-
-[Holy (feat. Chance The
-Rapper)](https://api.spotify.com/v1/tracks/5u1n1kITHCxxp8twBcZxWy)
-
-</td>
-
-<td style="text-align:left;">
-
-[What You Know Bout
-Love](https://api.spotify.com/v1/tracks/1tkg4EHVoqnhR6iFEXb60y)
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;">
-
-[royal screw
-up](https://api.spotify.com/v1/tracks/7lBpCteEdS5WbOnzbVmWiR)
-
-</td>
-
-<td style="text-align:left;">
-
+<td style="text-align:left;"> 
 [Más Más Más](https://api.spotify.com/v1/tracks/32Q0JiYuVr2mcxfRIPyEBS)
 
 </td>
 
-<td style="text-align:left;">
-
-[For The Night (feat. Lil Baby &
-DaBaby)](https://api.spotify.com/v1/tracks/0PvFJmanyNQMseIFrU708S)
-
+<td style="text-align:left;">[For The Night (feat. Lil Baby & DaBaby)](https://api.spotify.com/v1/tracks/0PvFJmanyNQMseIFrU708S)
 </td>
 
 </tr>
 
 <tr>
 
-<td style="text-align:left;">
-
+<td style="text-align:left;"> 
 [Kyoto](https://api.spotify.com/v1/tracks/49UDOG8DoBajXTJSTqfRMg)
-
 </td>
 
 <td style="text-align:left;">
-
 [De Overkant](https://api.spotify.com/v1/tracks/4afGO0WTInDhK2C3dolz8z)
 
 </td>
 
 <td style="text-align:left;">
-
-[Blinding
-Lights](https://api.spotify.com/v1/tracks/0VjIjW4GlUZAMYd2vXMi3b)
+[Blinding Lights](https://api.spotify.com/v1/tracks/0VjIjW4GlUZAMYd2vXMi3b)
 
 </td>
 
@@ -278,21 +208,14 @@ Lights](https://api.spotify.com/v1/tracks/0VjIjW4GlUZAMYd2vXMi3b)
 <tr>
 
 <td style="text-align:left;">
-
 [It’s Yours](https://api.spotify.com/v1/tracks/0qZ9rwAonJvO91GK9nqqma)
+</td>
+
+<td style="text-align:left;">[Door De Wind](https://api.spotify.com/v1/tracks/58trym7xUwRuXnBY7hKqC9)
 
 </td>
 
-<td style="text-align:left;">
-
-[Door De Wind](https://api.spotify.com/v1/tracks/58trym7xUwRuXnBY7hKqC9)
-
-</td>
-
-<td style="text-align:left;">
-
-[Holy (feat. Chance The
-Rapper)](https://api.spotify.com/v1/tracks/5u1n1kITHCxxp8twBcZxWy)
+<td style="text-align:left;">[Holy (feat. Chance The Rapper)](https://api.spotify.com/v1/tracks/5u1n1kITHCxxp8twBcZxWy)
 
 </td>
 
