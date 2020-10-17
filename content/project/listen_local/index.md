@@ -56,6 +56,10 @@ If a music fan is interested what is going on in Utrecht, Rotterdam or Den Haag,
 
 Anybody can create playlists, but mainly Spotify, Apple, or YouTube create the playlists with their AI algorithms and their staff and their interests.  
 
+**Related posts**:
+
+- [October Playlist: Wounded Egos](https://dataandlyrics.com/post/2020-10-18-october_playlist/) - a short case study of a playlist analysis and comparison.
+
 ## Let's Do This Together!
 
 So let's **create new playlists!** Let's build up a weekly, relevant, non-exclusive playlist for music coming from Utrecht, Antwerpen, Rotterdam, Den Haag, Flanders or the Netherland that smoothly blend in local music with relevant, spiritually or musically matching songs that fans of the Utrecht, Antwerpen, Rotterdam, Den Haag bands like. 

@@ -41,7 +41,7 @@ insights from big data and machine learning in a very personal way to
 the music community: fans, artists, technicians, managers, labels,
 publisher and all the ecosystem. You can play my playlist in Spotify’s embedded player. 
 
-Below the music player you find a very short [comparison](#comparison) of the current global hits and the current hits in the Netherlands on Spotify. This time I only want to illustrate the difference of my listening habits from the global mainstream. These are the difference that we are trying to capture for local music scenes, cities, countries in our [Listen Local](https://dataandlyrics.com/project/listen_local/) initiative.
+Below the music player you find a very short [comparison](#comparison) of the current global hits and the current hits in the Netherlands on Spotify. This time I would like to illustrate the difference of my listening habits from the global mainstream, and I won't go in depth to how we want to make more relevant recommendations. These are the difference that we are trying to capture for local music scenes, cities, countries in our [Listen Local](https://dataandlyrics.com/project/listen_local/) initiative.
 
 *If you find it interesting why I chose these songs in October 2020, you read about [my choices](#october-playlist) as a personal recommendation at the end of the post*.
 
