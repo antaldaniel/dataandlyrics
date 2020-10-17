@@ -39,7 +39,7 @@ insights from big data and machine learning in a very personal way to
 the music community: fans, artists, technicians, managers, labels,
 publisher and all the ecosystem.
 
-You can play my playlist in Spotify’s embedded player. Below that you find a very short [comparison](#comparison) of the current global hits and the current hits in the Netherlands on Spotify.
+<img src="october_playlist_analysis.png" width="90%" />You can play my playlist in Spotify’s embedded player. Below that you find a very short [comparison](#comparison) of the current global hits and the current hits in the Netherlands on Spotify.
 
 If you are interested in why these songs are important for me in October 2020, you read about [my personal choices](#october-playlist) in the end of the post.
 
@@ -55,7 +55,7 @@ If you are interested in why these songs are important for me in October 2020, y
 
 My playlist is a very subjective and curated playlist... (*I curated it myself, after all\!*) These songs are very different from the songs that people are more likely listening to around me in the Netherlands, or all over the world. 
 
-- **My subjective list for October 2020:**: 1. [Wounded Egos](https://open.spotify.com/track/14LSfvkF3PS0k81FAe6PFk)  -  2. [Sirens](https://open.spotify.com/track/3MKXdtTufdX4BwVbuJqFGW)  -  3. [Don't Panic](https://open.spotify.com/track/3A8ZDfxmb75kFl5Cqr2pIf)  -  4. [Can't Stop](https://open.spotify.com/track/3ezOmKfYasIe0QeWyWiucU)  -  5. [Michael And Heather At The Baggage Claim](https://open.spotify.com/track/2rvxQwn7rGR0ZmHvwP4AmG)  -  6. [Machinist](https://open.spotify.com/track/6Uhhwk8oJc8SLloZIAQksB)  -  7. [Royal Screw Up](https://open.spotify.com/track/7lBpCteEdS5WbOnzbVmWiR)  -  8. [Kyoto](https://open.spotify.com/track/49UDOG8DoBajXTJSTqfRMg)  -  9. [It's Yours](https://open.spotify.com/track/0qZ9rwAonJvO91GK9nqqma)
+- **My subjective list for October 2020**: 1. [Wounded Egos](https://open.spotify.com/track/14LSfvkF3PS0k81FAe6PFk)  -  2. [Sirens](https://open.spotify.com/track/3MKXdtTufdX4BwVbuJqFGW)  -  3. [Don't Panic](https://open.spotify.com/track/3A8ZDfxmb75kFl5Cqr2pIf)  -  4. [Can't Stop](https://open.spotify.com/track/3ezOmKfYasIe0QeWyWiucU)  -  5. [Michael And Heather At The Baggage Claim](https://open.spotify.com/track/2rvxQwn7rGR0ZmHvwP4AmG)  -  6. [Machinist](https://open.spotify.com/track/6Uhhwk8oJc8SLloZIAQksB)  -  7. [Royal Screw Up](https://open.spotify.com/track/7lBpCteEdS5WbOnzbVmWiR)  -  8. [Kyoto](https://open.spotify.com/track/49UDOG8DoBajXTJSTqfRMg)  -  9. [It's Yours](https://open.spotify.com/track/0qZ9rwAonJvO91GK9nqqma)
 
 - **The Netherlands Top 50 on Spotify (3rd week of October 2020)**: 1. [Mood (feat. iann dior)](https://open.spotify.com/track/3tjFYV6RSFtuktYl3ZtYcq)  -  2. [Lemonade (feat. Gunna, Don Toliver & NAV)](https://open.spotify.com/track/7hxHWCCAIIxFLCzvDgnQHX)  -  3. [Head & Heart (feat.  MNEK)](https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9)  -  4. [In De Schuur](https://open.spotify.com/track/0NuAnAqjZjuGtcWXJOxUyl)  -  5. [Jerusalema (feat. Nomcebo Zikode)](https://open.spotify.com/track/2MlOUXmcofMackX3bxfSwi)  -  6. [Holy (feat. Chance The Rapper)](https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy)  -  7. [Más Más Más](https://open.spotify.com/track/32Q0JiYuVr2mcxfRIPyEBS)  -  8. [De Overkant](https://open.spotify.com/track/4afGO0WTInDhK2C3dolz8z)  -  9. [Door De Wind](https://open.spotify.com/track/58trym7xUwRuXnBY7hKqC9)
 
@@ -66,11 +66,7 @@ My playlist is a very subjective and curated playlist... (*I curated it myself, 
 Our aim is to create locally relevant recommendations. If you live in
 Antwerpen, and you are looking for bands that you can see on a small
 stage after the pandemic, we will recommend you great music from
-Northwestern Belgium and the South of Holland. If you want to visit San
-Diego after the pandemic, we’ll recommend you music from the San Diego
-scene. If you want to fill up with good music a local content quota,
-such as a national and city relevant quota in your radio, we will help
-you.
+Northwestern Belgium and the South of Holland. If you want to visit San Diego after the pandemic, we’ll recommend you music from the San Diego scene. If you want to fill up with good music a local content quota, such as a national and city relevant quota in your radio, we will help you.
 
 The next comparison uses some musicology and sound engineering
 “features” of the songs on the three lists. These characteristics
@@ -87,8 +83,6 @@ euphoric on the positive side, and sad, depressed, angry on the negative side). 
 In the next blogposts we will explain some details.
 
 ## Wounded Egos: Daniel’s October Playlist {#october-playlist}
-
-<img src="october_playlist_analysis.png" width="90%" />
 
 **1. Gaz Coombes - [Wounded Egos](https://open.spotify.com/track/14LSfvkF3PS0k81FAe6PFk)**
 
