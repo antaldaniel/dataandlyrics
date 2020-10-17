@@ -9,8 +9,7 @@ authors = ["Daniel Antal, CFA"]
 
 tags = ["musicology", "recommendations", "machine-learning", "playlist"]
 
-summary = "I would like to use this example as a start of series how we are thinking about connecting musicians and their fans in new ways with the help of AI and big data. How we are planning to bring back life to the small venues after the pandemic? How we try to keep the link between musicians and their audience alive in this very sad year?
-"
+summary = "I would like to use this example as a start of series how we are thinking about connecting musicians and their fans in new ways with the help of AI and big data. How we are planning to bring back life to the small venues after the pandemic? How we try to keep the link between musicians and their audience alive in this very sad year?"
 
 projects = ["listen-local", "music-observatory"]
 
