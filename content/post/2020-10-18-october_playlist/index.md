@@ -7,7 +7,7 @@ draft = false
 
 authors = ["Daniel Antal, CFA"]
 
-tags = ["musicology", "recommendations", "machine-learning", "playlist"]
+tags = ["musicology", "recommendations", "machine-learning", "playlist", "listen-local"]
 
 summary = "I would like to use this example as a start of series how we are thinking about connecting musicians and their fans in new ways with the help of AI and big data. How we are planning to bring back life to the small venues after the pandemic? How we try to keep the link between musicians and their audience alive in this very sad year?"
 
@@ -55,7 +55,7 @@ If you are interested in why these songs are important for me in October 2020, y
 
 My playlist is a very subjective and curated playlist... (*I curated it myself, after all\!*) These songs are very different from the songs that people are more likely listening to around me in the Netherlands, or all over the world. 
 
-- **Daniel's list**: 1. [Wounded Egos](https://open.spotify.com/track/14LSfvkF3PS0k81FAe6PFk)  -  2. [Sirens](https://open.spotify.com/track/3MKXdtTufdX4BwVbuJqFGW)  -  3. [Don't Panic](https://open.spotify.com/track/3A8ZDfxmb75kFl5Cqr2pIf)  -  4. [Can't Stop](https://open.spotify.com/track/3ezOmKfYasIe0QeWyWiucU)  -  5. [Michael And Heather At The Baggage Claim](https://open.spotify.com/track/2rvxQwn7rGR0ZmHvwP4AmG)  -  6. [Machinist](https://open.spotify.com/track/6Uhhwk8oJc8SLloZIAQksB)  -  7. [Royal Screw Up](https://open.spotify.com/track/7lBpCteEdS5WbOnzbVmWiR)  -  8. [Kyoto](https://open.spotify.com/track/49UDOG8DoBajXTJSTqfRMg)  -  9. [It's Yours](https://open.spotify.com/track/0qZ9rwAonJvO91GK9nqqma)
+- **My subjective list for October 2020:**: 1. [Wounded Egos](https://open.spotify.com/track/14LSfvkF3PS0k81FAe6PFk)  -  2. [Sirens](https://open.spotify.com/track/3MKXdtTufdX4BwVbuJqFGW)  -  3. [Don't Panic](https://open.spotify.com/track/3A8ZDfxmb75kFl5Cqr2pIf)  -  4. [Can't Stop](https://open.spotify.com/track/3ezOmKfYasIe0QeWyWiucU)  -  5. [Michael And Heather At The Baggage Claim](https://open.spotify.com/track/2rvxQwn7rGR0ZmHvwP4AmG)  -  6. [Machinist](https://open.spotify.com/track/6Uhhwk8oJc8SLloZIAQksB)  -  7. [Royal Screw Up](https://open.spotify.com/track/7lBpCteEdS5WbOnzbVmWiR)  -  8. [Kyoto](https://open.spotify.com/track/49UDOG8DoBajXTJSTqfRMg)  -  9. [It's Yours](https://open.spotify.com/track/0qZ9rwAonJvO91GK9nqqma)
 
 - **The Netherlands Top 50 on Spotify (3rd week of October 2020)**: 1. [Mood (feat. iann dior)](https://open.spotify.com/track/3tjFYV6RSFtuktYl3ZtYcq)  -  2. [Lemonade (feat. Gunna, Don Toliver & NAV)](https://open.spotify.com/track/7hxHWCCAIIxFLCzvDgnQHX)  -  3. [Head & Heart (feat.  MNEK)](https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9)  -  4. [In De Schuur](https://open.spotify.com/track/0NuAnAqjZjuGtcWXJOxUyl)  -  5. [Jerusalema (feat. Nomcebo Zikode)](https://open.spotify.com/track/2MlOUXmcofMackX3bxfSwi)  -  6. [Holy (feat. Chance The Rapper)](https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy)  -  7. [Más Más Más](https://open.spotify.com/track/32Q0JiYuVr2mcxfRIPyEBS)  -  8. [De Overkant](https://open.spotify.com/track/4afGO0WTInDhK2C3dolz8z)  -  9. [Door De Wind](https://open.spotify.com/track/58trym7xUwRuXnBY7hKqC9)
 
