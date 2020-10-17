@@ -39,7 +39,7 @@ insights from big data and machine learning in a very personal way to
 the music community: fans, artists, technicians, managers, labels,
 publisher and all the ecosystem.
 
-You can play my playlist in Spotify’s embedded player]. Below that you find a very short [comparison](#comparison) of the current global hits and the current hits in the Netherlands on Spotify.
+You can play my playlist in Spotify’s embedded player. Below that you find a very short [comparison](#comparison) of the current global hits and the current hits in the Netherlands on Spotify.
 
 If you are interested in why these songs are important for me in October 2020, you read about [my personal choices](#october-playlist) in the end of the post.
 
@@ -51,7 +51,7 @@ If you are interested in why these songs are important for me in October 2020, y
 
 </p>
 
-## A Quick Comparison
+## A Quick Comparison {#comparison}
 
 My playlist is a very subjective and curated playlist... (*I curated it myself, after all\!*) These songs are very different from the songs that people are more likely listening to around me in the Netherlands, or all over the world. 
 
