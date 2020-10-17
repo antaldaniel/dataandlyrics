@@ -55,9 +55,9 @@ If you are interested in why these songs are important for me in October 2020, y
 
 My playlist is a very subjective and curated playlist... (*I curated it myself, after all\!*) These songs are very different from the songs that people are more likely listening to around me in the Netherlands, or all over the world. 
 
-Daniel's list: 1. [Wounded Egos](https://open.spotify.com/track/14LSfvkF3PS0k81FAe6PFk)  -  2. [Sirens](https://open.spotify.com/track/3MKXdtTufdX4BwVbuJqFGW)  -  3. [Don't Panic](https://open.spotify.com/track/3A8ZDfxmb75kFl5Cqr2pIf)  -  4. [Can't Stop](https://open.spotify.com/track/3ezOmKfYasIe0QeWyWiucU)  -  5. [Michael And Heather At The Baggage Claim](https://open.spotify.com/track/2rvxQwn7rGR0ZmHvwP4AmG)  -  6. [Machinist](https://open.spotify.com/track/6Uhhwk8oJc8SLloZIAQksB)  -  7. [royal screw up](https://open.spotify.com/track/7lBpCteEdS5WbOnzbVmWiR)  -  8. [Kyoto](https://open.spotify.com/track/49UDOG8DoBajXTJSTqfRMg)  -  9. [It's Yours](https://open.spotify.com/track/0qZ9rwAonJvO91GK9nqqma)
+Daniel's list: 1. [Wounded Egos](https://open.spotify.com/track/14LSfvkF3PS0k81FAe6PFk)  -  2. [Sirens](https://open.spotify.com/track/3MKXdtTufdX4BwVbuJqFGW)  -  3. [Don't Panic](https://open.spotify.com/track/3A8ZDfxmb75kFl5Cqr2pIf)  -  4. [Can't Stop](https://open.spotify.com/track/3ezOmKfYasIe0QeWyWiucU)  -  5. [Michael And Heather At The Baggage Claim](https://open.spotify.com/track/2rvxQwn7rGR0ZmHvwP4AmG)  -  6. [Machinist](https://open.spotify.com/track/6Uhhwk8oJc8SLloZIAQksB)  -  7. [Royal Screw Up](https://open.spotify.com/track/7lBpCteEdS5WbOnzbVmWiR)  -  8. [Kyoto](https://open.spotify.com/track/49UDOG8DoBajXTJSTqfRMg)  -  9. [It's Yours](https://open.spotify.com/track/0qZ9rwAonJvO91GK9nqqma)
 
-The Netherlands Top 50 on Spotify (3rd week of October 2020): 1. [Mood (feat. iann dior)](https://open.spotify.com/track/3tjFYV6RSFtuktYl3ZtYcq)  -  2. [Lemonade (feat. Gunna, Don Toliver & NAV)](https://open.spotify.com/track/7hxHWCCAIIxFLCzvDgnQHX)  -  3. [Head & Heart (feat. MNEK)](https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9)  -  4. [In De Schuur](https://open.spotify.com/track/0NuAnAqjZjuGtcWXJOxUyl)  -  5. [Jerusalema (feat. Nomcebo Zikode)](https://open.spotify.com/track/2MlOUXmcofMackX3bxfSwi)  -  6. [Holy (feat. Chance The Rapper)](https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy)  -  7. [Más Más Más](https://open.spotify.com/track/32Q0JiYuVr2mcxfRIPyEBS)  -  8. [De Overkant](https://open.spotify.com/track/4afGO0WTInDhK2C3dolz8z)  -  9. [Door De Wind](https://open.spotify.com/track/58trym7xUwRuXnBY7hKqC9)
+The Netherlands Top 50 on Spotify (3rd week of October 2020): 1. [Mood (feat. iann dior)](https://open.spotify.com/track/3tjFYV6RSFtuktYl3ZtYcq)  -  2. [Lemonade (feat. Gunna, Don Toliver & NAV)](https://open.spotify.com/track/7hxHWCCAIIxFLCzvDgnQHX)  -  3. [Head & Heart (feat.  MNEK)](https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9)  -  4. [In De Schuur](https://open.spotify.com/track/0NuAnAqjZjuGtcWXJOxUyl)  -  5. [Jerusalema (feat. Nomcebo Zikode)](https://open.spotify.com/track/2MlOUXmcofMackX3bxfSwi)  -  6. [Holy (feat. Chance The Rapper)](https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy)  -  7. [Más Más Más](https://open.spotify.com/track/32Q0JiYuVr2mcxfRIPyEBS)  -  8. [De Overkant](https://open.spotify.com/track/4afGO0WTInDhK2C3dolz8z)  -  9. [Door De Wind](https://open.spotify.com/track/58trym7xUwRuXnBY7hKqC9)
 
 And the Global Top 50 on Spotify (3rd week of October 2020): 1. [Mood (feat. iann dior)](https://open.spotify.com/track/3tjFYV6RSFtuktYl3ZtYcq)  -  2. [Lemonade (feat. Gunna, Don Toliver & NAV)](https://open.spotify.com/track/7hxHWCCAIIxFLCzvDgnQHX)  -  3. [WAP (feat. Megan Thee Stallion)](https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih)  -  4. [Hawái](https://open.spotify.com/track/1yoMvmasuxZfqHEipJhRbp)  -  5. [Dynamite](https://open.spotify.com/track/0t1kP63rueHleOhQkYSXFY)  -  6. [What You Know Bout Love](https://open.spotify.com/track/1tkg4EHVoqnhR6iFEXb60y)  -  7. [For The Night (feat. Lil Baby & DaBaby)](https://open.spotify.com/track/0PvFJmanyNQMseIFrU708S)  -  8. [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b)  -  9. [Holy (feat. Chance The Rapper)](https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy)
 
@@ -78,9 +78,7 @@ are themselves recognized by algorithms, and they are used for Spotify’s own r
 
 <img src="october_playlist_comparison.png" width="90%" /> My songs
 are independent songs, far less popular than the global hits. My
-playlist is mainly indie rock, so far less danceable, less loud than the
-current hits, but it is more energetic\! The average tempo is similar to
-the hits, but I tend to chose slower songs, too.
+playlist is mainly indie rock, so far less danceable, less loud than the current hits, but it is more energetic\! The average tempo is similar to the hits, but I tend to chose slower songs, too.
 
 Spotify’s `valence` is a quantitative measure that aims to capture the
 positiveness conveyed by the a sound recording(e.g.happy, cheerful,
@@ -92,23 +90,18 @@ In the next blogposts we will explain some details.
 
 <img src="october_playlist_analysis.png" width="90%" />
 
-**1. Gaz Coombes - [Wounded
-Egos](https://open.spotify.com/track/14LSfvkF3PS0k81FAe6PFk)**
+**1. Gaz Coombes - [Wounded Egos](https://open.spotify.com/track/14LSfvkF3PS0k81FAe6PFk)**
 
 Starting up a company, building a team in the times of corona, social
 distancing, zoom calls and narcissistic world leaders is hard.
 
-**2. dEUS -
-[Sirens](https://open.spotify.com/track/3MKXdtTufdX4BwVbuJqFGW)**
+**2. dEUS - [Sirens](https://open.spotify.com/track/3MKXdtTufdX4BwVbuJqFGW)**
 *“You gotta pick your fights, you’ve got work to do”*
 
 Which makes you think that you have to resist the Sirens call. This
-record came out the day before I went to my CFA exam, which was the most
-gruelling test in my life. I just downloaded it, put it on the car hifi,
-pressed play and did the 8 hour test without error.
+record came out the day before I went to my CFA exam, which was the most gruelling test in my life. I just downloaded it, put it on the car hifi, pressed play and did the 8 hour test without error.
 
-**The Harmaleighs - [Don’t
-Panic](https://open.spotify.com/track/3A8ZDfxmb75kFl5Cqr2pIf)**
+**The Harmaleighs - [Don’t Panic](https://open.spotify.com/track/3A8ZDfxmb75kFl5Cqr2pIf)**
 
 *“But what if that’s all I’m good at?”*
 
@@ -125,8 +118,7 @@ Elvis must have been on stage. I never saw Elvis on stage, I am too
 young for that, but old enough to have seen Jon Spencer on a large and
 small stage.
 
-**Fountains of Wayne - [Michael And Heather At The Baggage
-Claim](https://open.spotify.com/track/2rvxQwn7rGR0ZmHvwP4AmG)**
+**Fountains of Wayne - [Michael And Heather At The Baggage Claim](https://open.spotify.com/track/2rvxQwn7rGR0ZmHvwP4AmG)**
 
 *“Michael & Heather at the baggage claim tired of playing the waiting
 game”*
@@ -140,8 +132,7 @@ positive and danceable category, at least, within my list, though I find it just
 Panic](https://open.spotify.com/track/3A8ZDfxmb75kFl5Cqr2pIf) and the [Royal Screw
 Up](https://open.spotify.com/track/7lBpCteEdS5WbOnzbVmWiR).
 
-**Japanese Breakfast -
-[Machinist](https://open.spotify.com/track/6Uhhwk8oJc8SLloZIAQksB)**
+**Japanese Breakfast - [Machinist](https://open.spotify.com/track/6Uhhwk8oJc8SLloZIAQksB)**
 
 *“How can I fight a kingdom of your demons?”*
 
@@ -149,16 +140,14 @@ I can’t complain about the big algorithms of the big company. Spotify’s algo
 
 Spotify’s analysis finds this song to be less danceable and dark, which is exactly why Japanese Breakfast is such a curious artist project. It is experimental pop music that twists well-known pop clichés into original new songs.
 
-**Soccer Mommy - [Royal Screw
-Up](https://open.spotify.com/track/7lBpCteEdS5WbOnzbVmWiR)**
+**Soccer Mommy - [Royal Screw Up](https://open.spotify.com/track/7lBpCteEdS5WbOnzbVmWiR)**
 
 *“And I want an answer to all my problems”*
 
 When Soccer Mommy’s new record came out in March, I could not resist
 reaching out to the sound engineering team to convey my congratulations. Soccer Mommy is the youngest artist on this list with a huge talent, and the team that she works with is just world class.
 
-**Phoebe Bridgers -
-[Kyoto](https://open.spotify.com/track/49UDOG8DoBajXTJSTqfRMg)**
+**Phoebe Bridgers - [Kyoto](https://open.spotify.com/track/49UDOG8DoBajXTJSTqfRMg)**
 
 *“You called me from a payphone / They still got pay phones”*
 
@@ -166,8 +155,6 @@ The most popular song on the playlist, a true global independent hit.
 Phoebe Bridgers is hot, and she [may be a
 killer](https://www.facebook.com/groups/155586901702555/), too.
 
-**David Kitt - [It’s
-Yours](https://open.spotify.com/track/0qZ9rwAonJvO91GK9nqqma)**
+**David Kitt - [It’s Yours](https://open.spotify.com/track/0qZ9rwAonJvO91GK9nqqma)**
 
 Spotify sees this song as the most danceable and most positive song. And it is so.
-
