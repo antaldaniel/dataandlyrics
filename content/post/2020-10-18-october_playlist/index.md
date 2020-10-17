@@ -34,14 +34,16 @@ lab](https://dataandlyrics.com/post/2020-09-25-yesdelft-validation/) in the AI f
 I would like to use this example as a start of series how we are
 thinking about connecting musicians and their fans in new ways with the help of AI and big data. How we are planning to bring back life to the small venues after the pandemic? How we try to keep the link between musicians and their audience alive in this very sad year?
 
-Subjectivity is very important to us, because we want to use the
+<img src="october_playlist_analysis.png" width="90%" />
+
+In this chart you can see a short analysis of my `Wounded Egos` playlist. It is a very personal, subjective playlist. Subjectivity is very important to us, because we want to use the
 insights from big data and machine learning in a very personal way to
 the music community: fans, artists, technicians, managers, labels,
-publisher and all the ecosystem.
+publisher and all the ecosystem. You can play my playlist in Spotify’s embedded player. 
 
-<img src="october_playlist_analysis.png" width="90%" />You can play my playlist in Spotify’s embedded player. Below that you find a very short [comparison](#comparison) of the current global hits and the current hits in the Netherlands on Spotify.
+Below the music player you find a very short [comparison](#comparison) of the current global hits and the current hits in the Netherlands on Spotify. This time I only want to illustrate the difference of my listening habits from the global mainstream. These are the difference that we are trying to capture for local music scenes, cities, countries in our [Listen Local](https://dataandlyrics.com/project/listen_local/) initiative.
 
-If you are interested in why these songs are important for me in October 2020, you read about [my personal choices](#october-playlist) in the end of the post.
+*If you find it interesting why I chose these songs in October 2020, you read about [my choices](#october-playlist) as a personal recommendation at the end of the post*.
 
 <p align="center">
 
