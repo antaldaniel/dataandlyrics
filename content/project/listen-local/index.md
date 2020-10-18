@@ -71,9 +71,17 @@ We are aiming to create an alterantive market measurement, marketing and recomme
 
 - **create an app**!  If [Forgetify](https://forgotify.com/) can pick out songs that nobody, ever, ever listened to on Spotify, not even the performer's mother, sister, friends, not even their enemies, than we can create an app that allows fans in Utrecht, visitors or Rotterdam and the virtual community of Den Haag to find relevant music, and to connect with music created in these communities.
 
-* [We are](https://dataandlyrics.com/#about) a bunch of musicians, musicologists, music analysts, music journalists, producers who want to make this happen. 
+* [We are](https://dataandlyrics.com/#about) a bunch of musicians, musicologists, music analysts, music journalists, producers who want to make this happen.
 
-## Transparency
+## Data Use {#data-use}
+
+* From participating artists we only ask questions that they usually post on their websites or tell to music journalist or bloggers. We will put all these information (with some clearly stated exceptions in the registration form) on the website of the experiment.
+
+* We will use similar data used to analyze [this playlist](https://dataandlyrics.com/post/2020-10-18-october_playlist/) about the participants' music. This data is an analysis of their released music, not about the persons who play the music, or their earnings. 
+
+* We do not ask any financial data, and we do not have accesss to any financial data of the participants.
+
+## Transparency {#transparency}
 
 * The entire budget of our project is 10,000 euros. We hope that this will be enough to create a demonstration and a detailed feasibility study that creates a roadmap for granting agencies, collective management organizations, labels, publishers, to continue this work.
 
