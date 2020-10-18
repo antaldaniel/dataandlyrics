@@ -49,9 +49,10 @@ Governments, the EU, international organizations, and private donors often suppo
 
 [Daniel](https://dataandlyrics.com/author/daniel/) had been involved in the professional assessment of granting schemes and grant applications since 2000. He has learned and taught various assessment methods to evaluated EU and national grants to support valuable public infrastructure, energy savings, health investments and other causes.
 
-Since 2013 in the CEEMID project he has transferred some of this methodology to supporting music and film creation. Grants are essential to maintain the diversity and artistic quality of European music and films, and they can be essential to jump start young industries like smartphone application development.
+Since 2013 in the CEEMID project he has transferred some of this methodology to supporting music and film creation. Grants are essential to maintain the diversity and artistic quality of European music.
 
-{{< figure library="true" src="music/isgrantplot-1.png" title="Experience with grant in select countries." >}}
+{{< figure library="true" src="music/isgrantplot-1.png" title="Experience with grant in select countries based on our music professionals survey in 2019." >}}
+*The chart is taken from the Conclusions of the  [Central European Music Industry Report 2020](https://ceereport2020.ceemid.eu/conclusions-policy-business-strategy-recommendations.html#support-schemes-for-developing-the-music-scene) based on our survey in 2019.*
 
 In my experience, many music grants schemes are inefficient, because they are not based on an objective assessment of musician’s needs and market conditions. In some cases, they are supporting politically interesting ‘pet projects’ that have little lasting effects. Occasionally they give too large or too many grants for certain activities that crowds out private investment of artists. 
 

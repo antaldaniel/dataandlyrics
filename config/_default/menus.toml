@@ -14,6 +14,11 @@
   weight = 10
   
 [[main]]
+  name = "Topics"
+  url = "#tags"
+  weight = 15
+  
+[[main]]
   name = "Initiatives"
   url = "#projects"
   weight = 20
