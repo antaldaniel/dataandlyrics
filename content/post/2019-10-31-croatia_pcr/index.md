@@ -13,7 +13,7 @@ summary = "My study, Private Copying in Croatia, argues for an overhaul of the C
 
 # Projects (optional).
 
-projects = ["market_report", "pricing"]
+projects = ["music-observatory"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

@@ -9,6 +9,8 @@ authors = ["Daniel Antal, CFA"]
 
 tags = ["music-industry", "CEEMID", "Czechia", "CEE", "value-gap", "market-report"]
 
+projects = ["grants", "music-observatory", "music-export"]
+
 summary = "A Progress Report on the Czech Music Development Program and problems in an international context. We would like to invite any Czech stakeholders, or even individuals to join our Research Consortium, because in the music sector, all organization are microenterprise or small enterprise sized, they usually have no significant market research, innovation and strategic HR management capacities. We hope to give them in each country useful tools."
 
 # Projects (optional).

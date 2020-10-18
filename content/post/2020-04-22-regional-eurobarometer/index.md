@@ -9,7 +9,7 @@ authors = ["Daniel Antal, CFA"]
 
 tags = ["CEEMID", "open-data", "regional", "Eurobarometer" ]
 
-projects = ["CEEMID", "opendata"]
+projects = ["music-observatory", "listen-local"]
 
 summary = "Our new R package, Eurobarometer, helps the creation of data panels and regionalized statistics from the Pan-European survey’s microdata. This allows the creation of many new statistical indicators for the CEEMID Music Observatory and for many market and policy research tasks."
 

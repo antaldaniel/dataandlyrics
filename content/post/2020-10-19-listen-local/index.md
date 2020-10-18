@@ -7,11 +7,11 @@ draft = false
 
 authors = ["Daniel Antal, CFA"]
 
-tags = ["musicology", "recommendations", "machine-learning", "playlist", "listen-local"]
+tags = ["musicology", "recommendations", "machine-learning", "playlists", "listen-local", "Slovakia", "Netherlands", "Belgium", "Hungary", "recommendations", "playlists", "big-data", "algorithms"]
 
 summary = "Big data creates injustice. We want to help small venues, independent small businesses, great artists and dedicated fans to make algorithms work for them. We create locally relevant recommendations and measure their effect."
 
-projects = ["listen-local", "Slovakia", "Netherlands", "Belgium", "Hungary", "recommendations", "playlists", "big-data", "algorithms"]
+projects = ["listen-local"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
