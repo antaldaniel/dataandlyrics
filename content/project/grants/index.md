@@ -56,7 +56,7 @@ Since 2013 in the CEEMID project he has transferred some of this methodology to 
 - [x] Anonymously surveying of musicians, their managers and music technicians about their granting experience in more than 10 countries.
 - [x] Help granting agencies with setting realistic grant targets and grating parameters with budgeting and marketing information. (See an example [here](https://dataandlyrics.com/post/2015-11-12-cstp/).)
 - [x] Grant design in a comprehensive, logical framework, supported by empirical evidence, artist and ecosystem data and needs, direct and indirect (effect) indicators for program controls.
-- [] We would like to persuade grant managers that _ex ante_ evaluation must be followed by _ex ptheost_ valuation. Original expectations must be contrasted with the effects of the grant and fed back to design better grants in the following year.
+- [ ] We would like to persuade grant managers that _ex ante_ evaluation must be followed by _ex post_ valuation. Original expectations must be contrasted with the effects of the grant and fed back to design better grants in the following year.
 
 *More on [grants](https://dataandlyrics.com/tag/grants/).*
 
