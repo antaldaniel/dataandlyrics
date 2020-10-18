@@ -38,7 +38,7 @@ With the support of the [Slovak Arts Council](http://sgda.sk/#about), [SOZA](htt
 
 <img src="listen_local_mindmap.png" width="90%" />
 
-In the first step, we are going to create a demo application and a feasibility study with quantitative musicologists and data scientists. The demo application will show how to use AI to place the music of the volunteering bands and labels’s repertoire on radio lists and personal playlists.  Our feasibility study will show how different local content guidelines (radio quotas, public broadcaster targets, and other tools) can affect the market share of small local and national repertoires, and will provide culture policymakers and competition authorities with insight how to make the algorithm-driven music streaming, broadcasting marketplace more even.
+In the first step, *until the end of 2020*, we are going to create a demo application and a feasibility study with quantitative musicologists and data scientists. The demo application will show how to use AI to place the music of the volunteering bands and labels’s repertoire on radio lists and personal playlists.  Our feasibility study will show how different local content guidelines (radio quotas, public broadcaster targets, and other tools) can affect the market share of small local and national repertoires, and will provide culture policymakers and competition authorities with insight how to make the algorithm-driven music streaming, broadcasting marketplace more even.
 
 ## How can you participate in the experiment?
 
@@ -46,19 +46,13 @@ In the first step, we are going to create a demo application and a feasibility s
 
 * Participation in the experiment is free.  The research findings, including potential targets for your music, will be fully open, transparent and free.
 
-* Our project originally started out of Slovakia, Hungary, Czechia and Poland, but we only found funding in Slovakia for a low-budget, open source, open data, open collaboration experiment. **Participation is open anywhere in the world**, but we are **focusing on a viable post-covid tour route** around Budapest – Bratislava – Vienna – Salzburg – Munich – Ruhr – the Netherlands – Belgium. We hope to give guidance on targeting both recorded and live music.
-
-* If you are an artist, you can simply fill in a form identifying your music on Spotify, filling in a few biographical data about yourself (or your band, ensemble, group). We only ask about city affiliations, targeted cities, age, experience level, and language of your lyrics, if you do not play instrumental music. In our experience, these factors are very important among musicology and sound engineering quality measures. (Read a bit more in the previous [post](https://dataandlyrics.com/post/2020-10-18-october_playlist/))
+* If you are an artist, you can [simply fill in a form](https://www.surveymonkey.com/r/ll_collector_2020) identifying your music on Spotify, filling in a few biographical data about yourself (or your band, ensemble, group). We only ask about city affiliations, targeted cities, age, experience level, and language of your lyrics, if you do not play instrumental music. In our experience, these factors are very important among musicology and sound engineering quality measures. (Read a bit more in the previous [post](https://dataandlyrics.com/post/2020-10-18-october_playlist/))
 
 <img src="october_playlist_analysis.png" width="90%" />
 
-* If you represent several artists as a talent manager, music publisher, record label, granting agency or music export office, please get in [touch with us](https://dataandlyrics.com/#about) for onboarding.
+* Our project originally started out of Slovakia, Hungary, Czechia and Poland, but we only found funding in Slovakia for a low-budget, open source, open data, open collaboration experiment. **Participation is open anywhere in the world**, but we are **focusing on a viable post-covid tour route** around Budapest – Bratislava – Vienna – Salzburg – Munich – Ruhr – the Netherlands – Belgium. We hope to give guidance on targeting both recorded and live music.
 
-## Transparency
+* If you represent several artists as a talent manager, music publisher, record label, granting agency or music export office, please get in [touch with us](https://dataandlyrics.com/#about) for onboarding. We will ask you to contribute a small sum on a crowdsourcing basis to expand our experimental project, but the small financial contribution is not a mandatory requirement.
 
-* The entire budget of our project is 10,000 euros. We hope that this will be enough to create a demonstration and a detailed feasibility study that creates a roadmap for granting agencies, collective management organizations, labels, publishers, to contintue this work.
-
-* Participation for artists and music venues is free in the experiment.
-
-* We are asking labels, publishers, talent managers to contribute to our experimental budget on a crowdsourcing basis.  We ask for a nominal contribution from as little as 10-1000 euros on a voluntary basis.  In return. We hope to develop a tool that can make the work of independent labels and publishers easier. Any extra funding will be spent on the project at cost.
+*You can read a bit more about our longer-term plans, our budget and transparency ideas [here](https://dataandlyrics.com/project/listen_local/).*
 

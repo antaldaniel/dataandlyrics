@@ -43,8 +43,9 @@ url_code = ""
   focal_point = "Center"
 +++
 
+*“Big data creates injustice.”* -- Cathy O'Neil, author of [Weapons of Math Destruction](https://blogs.scientificamerican.com/roots-of-unity/review-weapons-of-math-destruction/)
 
-Our Listen Local project is aiming to create better radio playlisting, personal playlisting and concert promotion in a local context: within Slovakia or at a more specific level, Flanders or even the city of Utrecht or Budapest. We aim to place our partner’s music in local radio lists, personal playlists, and grow their fan base during the COVID-19 pandemic so that in 2021 they can eventually meet in the venues agains, and carry out longer, more successful tours than ever. 
+Our Listen Local project is aiming to create better radio playlisting, personal playlisting and concert promotion in a local context: within Slovakia or at a more specific level, Flanders or even the city of Utrecht or Budapest. We aim to place our partner’s music in local radio lists, personal playlists, and grow their fan base during the COVID-19 pandemic so that in 2021 they can eventually meet in the venues again, and carry out longer, more successful tours than ever. 
 
 [Listen Local](https://listenlocal.community/index.html) and the [Demo Music Observatory](https://music.dataobservatory.eu/) grew out of a large, collaborative project of collective management societies, grant managers, music distributors, venues, and other music stakeholders who joined forces to collect more royalties from 2014 onwards starting with three, and eventually encompassing more than a dozen countries.
 
@@ -60,10 +61,22 @@ Anybody can create playlists, but mainly Spotify, Apple, or YouTube create the p
 
 - [October Playlist: Wounded Egos](https://dataandlyrics.com/post/2020-10-18-october_playlist/) - a short case study of a playlist analysis and comparison.
 
+- [Listen Local: Open Collaboration Experiment & Feasibility Study](https://dataandlyrics.com/post/2020-10-19-listen-local/) - how you can participate in the experiment.
+
 ## Let's Do This Together!
 
-So let's **create new playlists!** Let's build up a weekly, relevant, non-exclusive playlist for music coming from Utrecht, Antwerpen, Rotterdam, Den Haag, Flanders or the Netherland that smoothly blend in local music with relevant, spiritually or musically matching songs that fans of the Utrecht, Antwerpen, Rotterdam, Den Haag bands like. 
+We are aiming to create an alterantive market measurement, marketing and recommendation engine tool that is based on open source software, open collaboration, full scientific transparency in an open collaboration with artists, small businesses and the entire music ecosystem.
 
-Let's **create an app**!  If [Forgetify](https://forgotify.com/) can pick out songs that nobody, ever, ever listened to on Spotify, not even the performer's mother, sister, friends, not even their enemies, than we can create an app that allows fans in Utrecht, visitors or Rotterdam and the virtual community of Den Haag to find relevant music, and to connect with music created in these communities.
+- **create new playlists** Let's build up a weekly, relevant, non-exclusive playlist for music coming from Utrecht, Antwerpen, Rotterdam, Den Haag, Flanders or the Netherland that smoothly blend in local music with relevant, spiritually or musically matching songs that fans of the Utrecht, Antwerpen, Rotterdam, Den Haag bands like. 
 
-* We are a bunch of musicians, musicologists, music analysts, music journalists, producers who want to make this happen. Join our [community](https://music.dataobservatory.eu/partners.html)!
+- **create an app**!  If [Forgetify](https://forgotify.com/) can pick out songs that nobody, ever, ever listened to on Spotify, not even the performer's mother, sister, friends, not even their enemies, than we can create an app that allows fans in Utrecht, visitors or Rotterdam and the virtual community of Den Haag to find relevant music, and to connect with music created in these communities.
+
+* [We are](https://dataandlyrics.com/#about) a bunch of musicians, musicologists, music analysts, music journalists, producers who want to make this happen. 
+
+## Transparency
+
+* The entire budget of our project is 10,000 euros. We hope that this will be enough to create a demonstration and a detailed feasibility study that creates a roadmap for granting agencies, collective management organizations, labels, publishers, to continue this work.
+
+* Participation for artists and music venues is free in the experiment.
+
+* We are asking labels, publishers, talent managers to contribute to our experimental budget on a crowdsourcing basis.  We ask for a nominal contribution from as little as 10-1000 euros on a voluntary basis.  In return. We hope to develop a tool that can make the work of independent labels and publishers easier. Any extra funding will be spent on the project at cost.
