@@ -10,7 +10,7 @@ type = "docs"  # Do not modify.
 
 # Add menu entry to sidebar.
 [menu.reproducible]
-  name = "Reprex - Reproducible Research Examples"
+  name = "FAQ Data & Lyrics"
   weight = 1
 +++
 
