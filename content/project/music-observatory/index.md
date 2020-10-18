@@ -36,14 +36,14 @@ url_code = ""
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = ""
+  caption = "The royalty gap within Europe"
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
 
-We started the creation of a [Demo Music Observatory](https://music.dataobservatory.eu/) --- this is how we believe the European Data Observatory should be built. An observatory is a permanent observation point for social and economic data. We want to prove that this process can be made cost-effectively and efficiently, providing a high-quality, valuable and timely product by employing best practices in research automation and open source software, using open data in open collaboration with the music industry, artists, technicians and managers.
+We launched our [Demo Music Observatory](https://dataandlyrics.com/post/2020-09-15-music-observatory-launch/) in September 2020 and got into the presitgious [Yes!Delft AI Validation Lab](https://dataandlyrics.com/post/2020-09-25-yesdelft-validation/). Our demo observatory is an example how we believe the European Data Observatory should be built. An observatory is a permanent observation point for social and economic data. We want to prove that this process can be made cost-effectively and efficiently, providing a high-quality, valuable and timely product by employing best practices in research automation and open source software, using open data in open collaboration with the music industry, artists, technicians and managers.
 
 We want to support the European music industry and our friends in North America, Australia, and all over the world to turn the tables with \@ref(innovation) [innovation](#innovation) coming from the open source community.
 
