@@ -14,7 +14,7 @@ summary = "In our survey, we ask musicians about the most important milestones o
 # Projects (optional).
 #   Otherwise, set `projects = []`.
 
-projects = ["market-report", "ceemid"]
+projects = ["music-observatory", "grants"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

@@ -10,7 +10,7 @@ tags = ["music-industry", "Hungary", "CEEMID"]
 
 summary = "The report was compiled with joining data and knowledge from collective management agencies for composer, producer and performer royalties, and market leading companies Sziget (organizer of Sziget festival and many more festivals), WMMD music distribution company, market-leading Schubert Music Publishing and A38, Hungary’s leading music club, together with producer and audience survey data, tax authority data and other government sources."
 
-# projects = ["market-report", "ceemid"]
+projects = ["music-observatory", "grants"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "http://www.zeneipar.info/index-2015.html"
