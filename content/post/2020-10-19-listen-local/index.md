@@ -42,9 +42,9 @@ In the first step, *until the end of 2020*, we are going to create a demo applic
 
 ## How can you participate in the experiment?
 
-* In the first phase of the experiment, only artists released on Spotify can participate.
+* In the first phase of the experiment, **only artists released on Spotify** can participate.
 
-* Participation in the experiment is free.  The research findings, including potential targets for your music, will be fully open, transparent and free.
+* **Participation in the experiment is free**.  The research findings, including potential targets for your music, will be fully open, transparent and free.
 
 * If you are an artist, you can [simply fill in a form](https://www.surveymonkey.com/r/ll_collector_2020) identifying your music on Spotify, filling in a few biographical data about yourself (or your band, ensemble, group). We only ask about city affiliations, targeted cities, age, experience level, and language of your lyrics, if you do not play instrumental music. In our experience, these factors are very important among musicology and sound engineering quality measures. (Read a bit more in the previous [post](https://dataandlyrics.com/post/2020-10-18-october_playlist/))
 
@@ -52,7 +52,7 @@ In the first step, *until the end of 2020*, we are going to create a demo applic
 
 * Our project originally started out of Slovakia, Hungary, Czechia and Poland, but we only found funding in Slovakia for a low-budget, open source, open data, open collaboration experiment. **Participation is open anywhere in the world**, but we are **focusing on a viable post-covid tour route** around Budapest – Bratislava – Vienna – Salzburg – Munich – Ruhr – the Netherlands – Belgium. We hope to give guidance on targeting both recorded and live music.
 
-* If you represent several artists as a talent manager, music publisher, record label, granting agency or music export office, please get in [touch with us](https://dataandlyrics.com/#about) for onboarding. We will ask you to contribute a small sum on a crowdsourcing basis to expand our experimental project, but the small financial contribution is not a mandatory requirement.
+* **If you represent several artists** as a talent manager, music publisher, record label, granting agency or music export office, please get in [touch with us](https://dataandlyrics.com/#about) for onboarding. We will ask you to contribute a small sum on a crowdsourcing basis to expand our experimental project, but the small financial contribution is not a mandatory requirement.
 
 *You can read a bit more about our longer-term plans, our budget and transparency ideas [here](https://dataandlyrics.com/project/listen_local/).*
 

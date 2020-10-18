@@ -77,6 +77,6 @@ We are aiming to create an alterantive market measurement, marketing and recomme
 
 * The entire budget of our project is 10,000 euros. We hope that this will be enough to create a demonstration and a detailed feasibility study that creates a roadmap for granting agencies, collective management organizations, labels, publishers, to continue this work.
 
-* Participation for artists and music venues is free in the experiment.
+* Participation for artists and music venues is **free** in the experiment. In 2020, we would like to find a viable business model that keeps this tool a good value for money for anybody in the independent music scenes.
 
 * We are asking labels, publishers, talent managers to contribute to our experimental budget on a crowdsourcing basis.  We ask for a nominal contribution from as little as 10-1000 euros on a voluntary basis.  In return. We hope to develop a tool that can make the work of independent labels and publishers easier. Any extra funding will be spent on the project at cost.
