@@ -54,6 +54,9 @@ Since 2013 in the CEEMID project he has transferred some of this methodology to 
 {{< figure library="true" src="music/isgrantplot-1.png" title="Experience with grant in select countries based on our music professionals survey in 2019." >}}
 *The chart is taken from the Conclusions of the  [Central European Music Industry Report 2020](https://ceereport2020.ceemid.eu/conclusions-policy-business-strategy-recommendations.html#support-schemes-for-developing-the-music-scene) based on our survey in 2019.*
 
-In my experience, many music grants schemes are inefficient, because they are not based on an objective assessment of musician’s needs and market conditions. In some cases, they are supporting politically interesting ‘pet projects’ that have little lasting effects. Occasionally they give too large or too many grants for certain activities that crowds out private investment of artists. 
+- [x] Anonymously surveying of musicians, their managers and music technicians about their granting experience in more than 10 countries.
+- [x] Help granting agencies with setting realistic grant targets and grating parameters with budgeting and marketing information.
+- [x] Grant design in a comprehensive, logical framework, supported by empirical evidence, artist and ecosystem data and needs, direct and indirect (effect) indicators for program controls.
+- [] We would like to persuade grant managers that _ex ante_ evaluation must be followed by _ex ptheost_ valuation. Original expectations must be contrasted with the effects of the grant and fed back to design better grants in the following year.
 
 

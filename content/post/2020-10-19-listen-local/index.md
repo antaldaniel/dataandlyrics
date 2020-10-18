@@ -48,6 +48,8 @@ In the first step, *until the end of 2020*, we are going to create a demo applic
 
 * If you are an artist, you can [simply fill in a form](https://www.surveymonkey.com/r/ll_collector_2020) identifying your music on Spotify, filling in a few biographical data about yourself (or your band, ensemble, group). We only ask about city affiliations, targeted cities, age, experience level, and language of your lyrics, if you do not play instrumental music. In our experience, these factors are very important among musicology and sound engineering quality measures. (Read a bit more in the previous [post](https://dataandlyrics.com/post/2020-10-18-october_playlist/))
 
+* If you are a **fan of independent music**, please, **forward this post** to a band that you would love to see in our project, or a local music venue that you would like to visit again after the covid-19 pandemic.
+
 <img src="october_playlist_analysis.png" width="90%" />
 
 * Our project originally started out of Slovakia, Hungary, Czechia and Poland, but we only found funding in Slovakia for a low-budget, open source, open data, open collaboration experiment. **Participation is open anywhere in the world**, but we are **focusing on a viable post-covid tour route** around Budapest – Bratislava – Vienna – Salzburg – Munich – Ruhr – the Netherlands – Belgium. We hope to give guidance on targeting both recorded and live music.
