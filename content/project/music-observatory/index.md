@@ -9,7 +9,7 @@ date = 2019-08-26T08:00:00
 summary = "Collaborative reproducible research in the music industry"
 
 # Tags: can be used for filtering projects.
-tags = ["ceemid", "surveys", "music-industry", "observatory", "reprodubile-research"]
+tags = ["ceemid", "surveys", "music-industry", "observatory", "reproducible-research"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -43,70 +43,23 @@ url_code = ""
   focal_point = "Smart"
 +++
 
-The most important technical guideline on cultural statistics is the _Final Report of the Woking Group European Statistical System Network on Culture_ (in short: ESSnet-Culture) [@frank_guy_essnet-culture_2012].
+We started the creation of a [Demo Music Observatory](https://music.dataobservatory.eu/) --- this is how we believe the European Data Observatory should be built. An observatory is a permanent observation point for social and economic data. We want to prove that this process can be made cost-effectively and efficiently, providing a high-quality, valuable and timely product by employing best practices in research automation and open source software, using open data in open collaboration with the music industry, artists, technicians and managers.
 
-ESSnet-Culture gave a thorough overview of cultural data sources, guidelines on standardizing data, and a technical definition of the domain, including an exact mapping of cultural and creative activities and occupations to statistical nomenclatures.
+We want to support the European music industry and our friends in North America, Australia, and all over the world to turn the tables with \@ref(innovation) [innovation](#innovation) coming from the open source community.
 
-## ICET model {#icet}
+* We want to help you to create alternative recommendation engines that actually recommend songs from your country, and we want to give you very clear export market targets with the help of [AI](#ai).
 
-Cultural participation extends beyond the market-oriented forms of "cultural consumption" and include non-market forms, such as private copying or liturgical events.
+* We want your evidence to stand a fighting chance against large teams of professional legal and economics teams on the other side with [proper valuations and damage claims](#valuation).  And we want to present all those hundreds and thousands of pages automatically, going through dozens and dozens of automated "unit-tests" until nobody can find errors.
 
-The ESSnet-Culture working group endorsed the ICET model of quantifying cultural participation.   The aim of the ICET model is to create representative surveys, but it is a very good framework to join survey data with other data sources.  For example, the music industry and the audiovisual sector usually has extensive transaction data on most market-oriented activities.
+* We want you to be able to prove to your fans, the press, your economy minister that music in many countries has not been at the mercy of the taxpayer, but has been carrying far heavier tax burdens than manufacturers.  We want to make your case that the music industry plays a vital role in the European economic recovery and job creation, because we can create [economic impact assessments](#eia) on GDP, employment, tax, import and export effects automatically. 
 
-* _Information_: to seek, collect and spread information on culture;
+* Because music and culture are often managed at the level of cities, regions and communities, we want to give you all the data on sub-national levels, whether for regions, metropolitan areas or smaller divisions. 
 
-* _Communication and community_: to interact with others on cultural issues and to participate in cultural networks;
+This is why we are launching now or [Demo Music Observatory](https://music.dataobservatory.eu/) and soon its twin, the Creative and [Cultural Sectors Demo Observatory](https://ccs.dataobservatory.eu/). We believe that the tides are turning because both regulators and these industries have started to fight back, and there is an awful lot of value, money and creativity is at stake.
 
-* _Enjoyment and expression_: to enjoy exhibitions, art performances and other forms of cultural expression, to practice the arts for leisure, and to create online content;
-
-* _Transaction_: to buy art and to buy or reserve tickets for shows. 
-
-The generic questionnaire was developed by Jos de Haan and Andries van den Broek at the Netherlands Institute for Social Research, originally for extending cultural participation surveys to digital forms of culture [@de_haan_virtuele_2008; @de_haan_nowadays_2012]. This methodology was endorsed by ESSnet-Culture, and a rather detailed guideline can be found in the report of the _Task Force on Cultural Practices And Social Aspects Of Culture_, in the ESSNet-Culture technical report (in general: pp. 236-242, survey methodology and harmonization pp. 242-255, recommendations: pp. 273-274; with examples on how to use the question hierarchy on pp. 397-417.)
-
-## Target Population
-
-* When the target population is representative members of the general public, such as in the case of audience surveys, we use [CAP](#cap) surveys.
-* When the target population is a professional or microenterprise group, such as performing artists or record labels, we use our [Professional group surveys](#professional).
-
-## CAP surveys {#cap}
-
-ESSnet-Culture has reviewed several pan-European CAP manifestations, and based on the recommendations, further CAP surveys were carried out in the European Union.  
-
-* European CAP 2001: Europeans' Participation in Cultural Activities (2001)
-
-* CEE CAP 2003:  Candidate Countries Eurobarometer 2003.1 New Europeans and Culture, all later EU member states of the EU27, except for Croatia, but including Turkey.
-
-* European CAP 2006:  Within the EU-SILC Module 2006 On Social Participation.
-
-* European CAP 2007:  Includes the EU27 + United Kingdom but not Croatia, Romania and Bulgaria, conducted within Eurobarometer European Cultural Values (2007)
-
-* European CAP 2013: Includes the EU27 + Croatia (only few weeks before the country's accession.)
-
-* European CAP 2015: Within the EU-SILC Module 2015 On Social/Cultural Participation And Material Deprivation.
-
-Based on these guidelines and examples, we have carried out several in-depth music and audiovisual domain oriented CAP surveys:
-
-* Hungary CAP 2014: a large, but non-representative online sample to test the methodology
-
-* Hungary CAP 2015: 
-
-* Slovakia CAP 2015:
-
-* Croatia CAP 2017:
-
-* Hungary CAP 2017:
-
-* Hungary CAP 2018:
-
-* Hungary CAP 2019:
-
-* Slovakia CAP 2020:
-
-## Professional Group Surveys {#professional}
-
-
-
-
-
-
-
+- [x] The European Music Observatory should fully exploit the EU's **open data** regime. (See our examples: [our first open data release](https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/)))
+- [x] It should be transparent, the indicator design should be based on open-source statistical software.
+- [x] The European Music Observatory must embrace evidence-based [open Policy Analysis](https://music.dataobservatory.eu/approach.html#opa)
+- [x] The observatory must allow a seamless [data integration](https://music.dataobservatory.eu/approach.html#dataintegration) between open data, and highly confidential proprietary data.
+- [x] The open collaboration principle must allow an easy opt-in and opt-out for small and larger, public and private organizations, and offer for full transparency for all users.
+- [ ] It should not re-collect data that already exists.
