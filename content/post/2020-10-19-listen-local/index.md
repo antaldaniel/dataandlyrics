@@ -42,7 +42,7 @@ In the first step, *until the end of 2020*, we are going to create a demo applic
 
 ## How can you participate in the experiment?
 
-* In the first phase of the experiment, **only artists released on Spotify** can participate.
+* In the first phase of the experiment, **only artists and their groups released on Spotify** can participate.
 
 * **Participation in the experiment is free**.  The research findings, including potential targets for your music, will be fully open, transparent and free.
 
@@ -54,5 +54,5 @@ In the first step, *until the end of 2020*, we are going to create a demo applic
 
 * **If you represent several artists** as a talent manager, music publisher, record label, granting agency or music export office, please get in [touch with us](https://dataandlyrics.com/#about) for onboarding. We will ask you to contribute a small sum on a crowdsourcing basis to expand our experimental project, but the small financial contribution is not a mandatory requirement.
 
-*You can read a bit more about our longer-term plans, our budget and transparency ideas [here](https://dataandlyrics.com/project/listen_local/).*
+*You can read a bit more about our longer-term plans, our budget and transparency ideas [here](https://dataandlyrics.com/project/listen-local/).*
 

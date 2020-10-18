@@ -33,7 +33,7 @@ I often find myself in a crossfire between artists and managers who want more tr
 [![Click on image to play video](https://dataandlyrics.com/post/2020-10-14-making_websites/playjournal10.png)](https://www.youtube.com/watch?v=UtaEKUy6KGE)
 [Click on image to play video](https://www.youtube.com/watch?v=UtaEKUy6KGE)
 
-I immediately contacted Moon Moon Moon, because I had a better laugh at a music industry insider joke, and because I realized that this is one of the many bridges that we need to close if we want to build the European Music Observatory. (See our Demo Music Observatory here.)
+I immediately contacted Moon Moon Moon, because I had a better laugh at a music industry insider joke, and because I realized that this is one of the many bridges that we need to close if we want to build the European Music Observatory. (See our Demo Music Observatory [here](https://music.dataobservatory.eu/).)
 
 Of course, Buma/Stemra reached out to [Moon Moon Moon](https://www.facebook.com/moonmoonmoontheband) within a day of the release, and within a week they figured out where did the 1500 euro go, apologized for the mistake. The band and the collective management organization have been working together ever since as best friends forever.
 
