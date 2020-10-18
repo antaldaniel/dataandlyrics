@@ -59,3 +59,6 @@ A blog about music, data, lyrics and analytics.
 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Let&#39;s start talking about playlists. How we are planning to bring back life to the small venues after the pandemic? How we try to keep the link between musicians and their audience alive in this very sad year? <a href="https://twitter.com/hashtag/listenlocal?src=hash&amp;ref_src=twsrc%5Etfw">#listenlocal</a> <a href="https://twitter.com/hashtag/musicbusiness?src=hash&amp;ref_src=twsrc%5Etfw">#musicbusiness</a> <a href="https://twitter.com/hashtag/datalyrics?src=hash&amp;ref_src=twsrc%5Etfw">#datalyrics</a><a href="https://t.co/sL05IpC9wN">https://t.co/sL05IpC9wN</a> <a href="https://t.co/iz6IIPKHgF">pic.twitter.com/iz6IIPKHgF</a></p>&mdash; dataandlyrics (@dataandlyrics) <a href="https://twitter.com/dataandlyrics/status/1317825104521428996?ref_src=twsrc%5Etfw">October 18, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+Find us on [instagram](https://www.instagram.com/p/CGfNIn1Hy-v/?utm_source=ig_web_button_share_sheet)
