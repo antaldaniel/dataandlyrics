@@ -9,7 +9,7 @@ date = 2017-04-27T00:00:00
 summary = "Ex ante and ex post grant evaluation"
 
 # Tags: can be used for filtering projects.
-# Example: `tags = ["royalties", "pcr"]`
+# Example: `tags = ["grants", "evaluation"]`
 tags = ["grants", "ex ante", "ex post"]
 
 # Optional external URL for project (replaces project detail page).
@@ -45,11 +45,13 @@ url_code = ""
   focal_point = "Smart"
 +++
 
-Governments, the EU, international organizations and private donors often support causes of public interest with grants and donations. In some cases, these grants are aimed to help starting or sustaining economic activities. In other cases, they are supporting artistic activities or education.
+Governments, the EU, international organizations, and private donors often support causes of public interest with grants and donations. In some cases, these grants are aimed to help starting or sustaining economic activities. In other cases, they are supporting artistic activities or education.
 
-I had been involved in the professional assessment of granting schemes and grant applications since 2000. I have learned and taught various assessment methods to evaluated EU and national grants to support valuable public infrastructure, energy savings, health investments and other causes.  
+[Daniel](https://dataandlyrics.com/author/daniel/) had been involved in the professional assessment of granting schemes and grant applications since 2000. He has learned and taught various assessment methods to evaluated EU and national grants to support valuable public infrastructure, energy savings, health investments and other causes.
 
-Since I work with the creative industries, I had transferred some of this methodology to supporting music and film creation. Grants are essential to maintain the diversity and artistic quality of European music and films, and they can be essential to jump start young industries like smartphone application development. 
+Since 2013 in the CEEMID project he has transferred some of this methodology to supporting music and film creation. Grants are essential to maintain the diversity and artistic quality of European music and films, and they can be essential to jump start young industries like smartphone application development.
+
+{{< figure library="true" src="music/isgrantplot-1.png" title="Experience with grant in select countries." >}}
 
 In my experience, many music grants schemes are inefficient, because they are not based on an objective assessment of musician’s needs and market conditions. In some cases, they are supporting politically interesting ‘pet projects’ that have little lasting effects. Occasionally they give too large or too many grants for certain activities that crowds out private investment of artists. 
 
