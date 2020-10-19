@@ -44,7 +44,7 @@ local_business_type = ""
 org_name = "Data & Lyrics"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Blog about music, data and lyrics."
+description = "Blog about music, data and lyrics. Make big data work for small venues, independent music and great artists."
 
 ############################
 ## Site Features
