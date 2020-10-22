@@ -75,15 +75,15 @@ We are aiming to create an alterantive market measurement, marketing and recomme
 
 ## Data Use {#data-use}
 
-* From participating artists we only ask questions that they usually post on their websites or tell to music journalist or bloggers. We will put all these information (with some clearly stated exceptions in the registration form) on the website of the experiment.
+* From participating artists we only ask questions that they usually post on their websites or would tell to music journalists or bloggers. We will put all this information (with some clearly stated exceptions in the registration form) on the website of the experiment.
 
 * We will use similar data used to analyze [this playlist](https://dataandlyrics.com/post/2020-10-18-october_playlist/) about the participants' music. This data is an analysis of their released music, not about the persons who play the music, or their earnings. 
 
-* We do not ask any financial data, and we do not have accesss to any financial data of the participants.
+* We do not ask for any financial data, and we do not have access to any financial data of the participants.
 
 ## Transparency {#transparency}
 
-* The entire budget of our project is 10,000 euros. We hope that this will be enough to create a demonstration and a detailed feasibility study that creates a roadmap for granting agencies, collective management organizations, labels, publishers, to continue this work.
+* The entire budget of our project is 10,000 euros, co-funded by the [Slovak Arts Council](http://sgda.sk/about-us/), [SOZA](http://soza.sk/) and [Consolidated Independent](https://ci-info.com/), a distributor of independent music. We hope that this will be enough to create a demonstration and a detailed feasibility study that makes the user needs of Slovak managers, labels, publishers and artists themselves to continue this project in 2021. The project will be carried out by [Reprex](https://www.linkedin.com/company/reprexbv), a Dutch start-up co-founded by the author of the Slovak Music Industry Report, the first Hungarian Music Industry Report, Private Copying in Croatia, and the [Central European Music Industry Report 2020](https://ceereport2020.ceemid.eu/).
 
 * Participation for artists and music venues is **free** in the experiment. In 2020, we would like to find a viable business model that keeps this tool a good value for money for anybody in the independent music scenes.
 
