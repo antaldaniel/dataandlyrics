@@ -36,24 +36,26 @@ What connects me to Forgetify particularly is their motto: “We love music.”
 
 As you can learn from their website, there are millions of Spotify songs that have been played only partially or never at all. And that is exactly the opposite that our partners want to achieve when they work with us.
 
-I started to create several playlists with Forgetify.  All I did is that I took their “recommendation” and put it on a list, then hit next.  I skipped tracks that were not licensed to the Netherlands, or which were not music tracks but spoken words, like comedies. Then I put these tracks on three lists -- something that I felt was appropriate called “classical music“, another that is “popular music“, and another which is a mix of historical recordings, world music and other music which I think has such a special audience that it would not make a good mix with the other two. Just the labels `popular music` or `classical music` call for further explanation, but we'll get there another time.
+I started to create several playlists with Forgetify.  All I did is that I took their “recommendation” and put it on a list, then hit next.  I skipped tracks that were not licensed to the Netherlands, or which were not music tracks but spoken words, for example sound recordings of stand-up comedies. Then I put these tracks on three lists 
+
+* something that I felt was appropriate called `classical music`
+* another that is `popular music`
+* and another which is a mix of historical recordings, and other music which I think has such a special audience that it would not make a good mix with the other two. 
+
+For example, the [Eightsome Reel Pt 1](https://open.spotify.com/track/3Gs4kJzmFiMNMfPAuhmC6P) by the *Bob Smith's Ideal Band* is a digitalized re-release of the LP re-release of 78'' records from the 1930s, and it is obviosuly no competitor for a modern classical or pop music track. Even the labels `popular music` or `classical music` would call for further explanation, but we'll get there another time.
+
+So, let's see what we have after removing historical, traditional folk, spoken word and classical music tracks in the supposedly `popular music` "recommendations":
 
 <p align="center">
-
 <iframe src="https://open.spotify.com/embed/playlist/1kxZfYZBsDSdWhMVXQMCss" width="740" height="410" frameborder="0" allowtransparency="true" allow="encrypted-media">
-
 </iframe>
-
 </p>
 
-Of course, like using the word “recommendations”, the expression of “popular music” is a bit ironic here, because we are talking about music which is anything but popular, at least on Spotify.
+Similarly to the use of the the word “recommendations”, the expression of “popular music” is a bit ironic here, because we are talking about music that is anything but popular, at least not on Spotify.
 
-
-Below the music player you find a very short [comparison](#comparison) of the current global hits, [a subjective list](https://dataandlyrics.com/post/2020-10-18-october_playlist/) that I created for this month and started to use for explaining our recommendations, my *Forgetify Pop October 2020* list.  I will follow these songs in the coming years, and will keep adding new forgotten songs to my list.
-
+First let's make a very short [comparison](#comparison) of the current global hits, [a subjective list](https://dataandlyrics.com/post/2020-10-18-october_playlist/) that I created for this month and started to use for explaining our recommendations, my *Forgetify Pop October 2020* list.  I will follow these songs in the coming years, and will keep adding new forgotten songs to my list. Then I'll reflect on why these songs are [forgotten](#forgotten).
 
 ## A Quick Comparison {#comparison}
-
 
 The next comparison uses some musicology and sound engineering
 “features” of the songs on the three lists. These characteristics
@@ -70,7 +72,7 @@ Cándido Camero (6945 monthly listeners) is a cheerful jazz song. It is likely t
 
 My personal favorite from the Forgetify Pop list is [Groovy & Linda](https://open.spotify.com/track/21nQDfg5BMxp7vGARpOBmo) from the *Neon Princess* album released in 1968 by Tom Parrott (39 monthly listeners). It is a nice hippy song with the favorite effect of '68, the inclusion of a sitar.  The song is not very good, the sitar and the guitar make a rather chaotic mix, but Tom Parrott (born in 1944, Washington DC, United States) is not forgotten because he was bad. There are many songs on Forgetify that I would like to skip in seconds, but Parott's music can stay with me.
 
-## Why Are Songs Forgotten?
+## Why Are Songs Forgotten? {#forgotten}
 
 One seemingly trivial reason is the age of the music. The current global hits are very new releases. The songs I curated for this months were released 2-25 years ago, though some of them are featured with newer re-releases on Spotify. Many songs on Forgetify are much older.
 
