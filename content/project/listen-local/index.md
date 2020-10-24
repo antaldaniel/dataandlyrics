@@ -67,7 +67,7 @@ Anybody can create playlists, but mainly Spotify, Apple, or YouTube create the p
 
 We are aiming to create an alterantive market measurement, marketing and recommendation engine tool that is based on open source software, open collaboration, full scientific transparency in an open collaboration with artists, small businesses and the entire music ecosystem.
 
-- **create new playlists** Let's build up a weekly, relevant, non-exclusive playlist for music coming from Utrecht, Antwerpen, Rotterdam, Den Haag, Flanders or the Netherland that smoothly blend in local music with relevant, spiritually or musically matching songs that fans of the Utrecht, Antwerpen, Rotterdam, Den Haag bands like. 
+- **create new playlists** Let's build up a weekly, relevant, non-exclusive playlists for music coming from Utrecht, Antwerpen, Rotterdam, Den Haag, Flanders or the Netherlands that smoothly blend in local music with relevant, spiritually or musically matching songs that fans of the Utrecht, Antwerpen, Rotterdam, Den Haag bands like. 
 
 - **create an app**!  If [Forgetify](https://forgotify.com/) can pick out songs that nobody, ever, ever listened to on Spotify, not even the performer's mother, sister, friends, not even their enemies, than we can create an app that allows fans in Utrecht, visitors or Rotterdam and the virtual community of Den Haag to find relevant music, and to connect with music created in these communities.
 
