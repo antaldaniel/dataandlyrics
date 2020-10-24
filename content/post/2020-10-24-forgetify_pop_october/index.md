@@ -40,7 +40,7 @@ I started to create several playlists with Forgetify.  All I did is that I took 
 
 <p align="center">
 
-<iframe src="https://open.spotify.com/embed/playlist/1kxZfYZBsDSdWhMVXQMCss" width="800" height="450" frameborder="0" allowtransparency="true" allow="encrypted-media">
+<iframe src="https://open.spotify.com/embed/playlist/1kxZfYZBsDSdWhMVXQMCss" width="740" height="410" frameborder="0" allowtransparency="true" allow="encrypted-media">
 
 </iframe>
 
@@ -68,16 +68,18 @@ Candido Camero (6945 monthly listeners) is a cheerful jazz song. It is likely th
 
 <img src="forgetify_october_features.png" width="90%" />
 
-My personal favorite from the Forgetify Pop list is [Groovy & Linda](https://open.spotify.com/track/21nQDfg5BMxp7vGARpOBmo) frTomom the *Neon Princess* album released in 1968 by Tom Parrott (39 monthly listeners). It is a nice hippy song with the favorite effect of '68, the inclusion of a sitar.  The song is not very good, the sitar and the guitar make a rather chaotic mix, but Tom Parrott (born in 1944, Washington DC, United States) is not forgotten because he was bad.
+My personal favorite from the Forgetify Pop list is [Groovy & Linda](https://open.spotify.com/track/21nQDfg5BMxp7vGARpOBmo) from the *Neon Princess* album released in 1968 by Tom Parrott (39 monthly listeners). It is a nice hippy song with the favorite effect of '68, the inclusion of a sitar.  The song is not very good, the sitar and the guitar make a rather chaotic mix, but Tom Parrott (born in 1944, Washington DC, United States) is not forgotten because he was bad. There are many songs on Forgetify that I would like to skip in seconds, but Parott's music can stay with me.
 
-## So why are songs forgotten?
+## Why Are Songs Forgotten?
 
-
+One seemingly trivial reason is the age of the music. The current global hits are very new releases. The songs I curated for this months were released 2-25 years ago, though some of them are featured with newer re-releases on Spotify. Many songs on Forgetify are much older.
 
 <img src="october_popularity_age.png" width="90%" />
 
+Our research and other's research show that people *typically* listen less and less music as they age. There are many people who listen to music lifelong, but others do it less and less, or completely drop the habit. And a large majority of the people tend to listen to similar music that she liked in her teenage years. For most young women and men, the music discovery period ends with school,  *typically* in some post-secondary education institution. Later, they are no longer together with ther cohort peer-grew, but with people from all age and demographic groups when they work. Very few songs become perennial hits, and most of them lose their audience as the fans are getting older, and drop the habit of listening to music.
 
+How can you make sure that your music will have a healthy audience for many years to come? Make sure that teenagers in your country get access to local music, for example, via the school radios, and by bringing them to local shows. That people have a chance to discover it. Build a large enough audience while your band is active who will stay loyal to you. 
 
-
+Another important factor is the country where the music was released.
 <img src="country_of_origin_forgetify.png" width="90%" />
 
