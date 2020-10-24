@@ -80,6 +80,15 @@ Our research and other's research show that people *typically* listen less and l
 
 How can you make sure that your music will have a healthy audience for many years to come? Make sure that teenagers in your country get access to local music, for example, via the school radios, and by bringing them to local shows. That people have a chance to discover it. Build a large enough audience while your band is active who will stay loyal to you. 
 
-Another important factor is the country where the music was released.
+Another important factor is the country where the music was released. Most of the current global hits come from the United States, and some from the United Kingdom, South Korea, Germany and Russia. My personal selection included the [dEUS](http://www.deus.be/) from Antwerpen, Belgium, [David Kitt](http://www.davidkitt.com/) from Dublin, Ireland, and [The Harmaleighs](https://www.theharmaleighs.com/home) Nashville, TN, are Americans who were released by 
+Nettwerk Music Group in Vancouver, Canada.
+
 <img src="country_of_origin_forgetify.png" width="90%" />
 
+The forgotten tracks come from all over the world.  Many of them are Americans, because the US has the biggest recording industry and recorded far the most songs in the last 100-120 years. But on Forgetify my first 50 finds contained songs from Brazil, Finland, France, India, Palestine and Spain, not to mention plenty of classical recordings made all over the world.
+
+Spotify has a global audience, but it's main audiences are in the US, Japan, South Korea, Germany and the United Kingdom.  It's algorithms are trained to serve these audiences, and its new content is coming from these countries. And it recommends very goods songs from these places.
+
+Because concert and festival promoters, and even radio editors are often basing their decisions on YouTube, Spotify, Apple Music followers, streams and likes, the global platforms may make it extremely difficult for niche genres (for example, ancient or classical music), or small nation artists (such as Slovaks, Belgians) or older artists to get heard.
+
+I personally do not believe that it is entirely the platform's fault. Our [Listen Local initiative](https://dataandlyrics.com/project/listen-local/) is aiming to use these platforms better, and find global audiences for great music made in small nations and small towns, or niche genres.
