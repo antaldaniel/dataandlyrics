@@ -63,10 +63,10 @@ are themselves recognized by algorithms, and they are used for Spotify’s own r
 
 If anything is clear from these boxplots is that there is nothing clear about forgotten songs. The boxplot's box show the typical values of popularity or other features, and the line starting from the box still relatively frequent values.  The long boxes of the Forgetify Pop list show that there are all sorts of music on Forgetify: screechy and not, danceable and not, cheerful and sad. My subjective list is shorter and more pronounced: it contains songs that I found to be a good match to listen together.  The current global hits are less similar than my personal selection, but far more homogeneous than all those millions of songs that end up in the forgotten long tail of the catalogue.
 
+<img src="forgetify_october_features.png" width="90%" />
+
 Of course, the only thing that connects this playlist is that the songs are not classical or world/folk music, and that they are forgotten. The [This Time](https://open.spotify.com/track/62y0aOSPRK1rL7lo780cgH) single from 2009 by the Intonated (3 listeners this month, including myself) is heavy guitar music. It is dark. [Perdido](https://open.spotify.com/album/6cCHMZdMkfhpebJ0s6rRNR) from the *Candido Featuring Al Cohn* album released in 1956 by the 
 Cándido Camero (6945 monthly listeners) is a cheerful jazz song. It is likely that this song actually has an audience, but not on Spotify. [Cándido](https://en.wikipedia.org/wiki/C%C3%A1ndido_Camero) was born as Candido de Guerra Camero in 1921 in Havana, and with his 99 years he is one of the oldest living artists on Spotify. He recorded this album almost 40 years before the internet was opened for the public. For his life long achievement in Afro-Cuban jazz he received the National Endowment for the Arts Jazz Masters Award in 2008.
-
-<img src="forgetify_october_features.png" width="90%" />
 
 My personal favorite from the Forgetify Pop list is [Groovy & Linda](https://open.spotify.com/track/21nQDfg5BMxp7vGARpOBmo) from the *Neon Princess* album released in 1968 by Tom Parrott (39 monthly listeners). It is a nice hippy song with the favorite effect of '68, the inclusion of a sitar.  The song is not very good, the sitar and the guitar make a rather chaotic mix, but Tom Parrott (born in 1944, Washington DC, United States) is not forgotten because he was bad. There are many songs on Forgetify that I would like to skip in seconds, but Parott's music can stay with me.
 
