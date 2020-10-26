@@ -45,7 +45,7 @@ education:
 social:
 - icon: linkedin
   icon_pack: fab
-  link: www.linkedin.com/in/ajgmolina
+  link: https://www.linkedin.com/in/ajgmolina
 - icon: keybase
   icon_pack: fab
   link: https://keybase.io/ajgmolina
