@@ -26,7 +26,7 @@ abstract_short = "Az első átfogó magyar zeneipari jelentés.  A három jöved
 selected = true
 
 # Projects (optional).
-projects = ["market-report", "ceemid"]
+projects = ["demo-observatory"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

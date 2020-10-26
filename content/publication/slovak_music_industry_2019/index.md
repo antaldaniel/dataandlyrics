@@ -3,7 +3,7 @@ title = "Slovak Music Industry Report"
 date = 2019-03-26T00:00:00
 draft = false
 
-authors = ["Daniel Antal"]
+authors = ["Daniel Antal, CFA"]
 
 # Publication type.
 # Legend:
@@ -19,7 +19,7 @@ abstract_short = "Slovakia's first music industry report. Following the three in
 featured = true
 
 # Projects (optional).
-projects = ["market-report"]
+projects = ["music-observatory"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -74,6 +74,6 @@ Kreatívna Europa: [Historicky prvá Správa o slovenskom hudobnom priemysle pri
 In Hungarian:
 Új Szó: [Tudományosan a hazai zeneiparról](https://ujszo.com/kultura/tudomanyosan-a-hazai-zeneiparrol)
 
-Slides:
+## Slides
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/86x5wKAlsIetxA" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/antaldaniel/spva-o-hudobnom-priemysle-na-slovensku-sharpe-2018" title="Spáva o hudobnom priemysle na Slovensku" target="_blank">Spáva o hudobnom priemysle na Slovensku</a> </strong> from <strong><a href="//www.slideshare.net/antaldaniel" target="_blank">Dániel Antal</a></strong> </div>

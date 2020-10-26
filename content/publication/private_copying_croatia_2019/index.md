@@ -19,7 +19,7 @@ abstract_short = "The first measurement of licensed use of music, audiovisual co
 featured = true
 
 # Projects (optional).
-projects = ["market-report", "pricing", "CEEMID"]
+projects = ["music-observatory"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
