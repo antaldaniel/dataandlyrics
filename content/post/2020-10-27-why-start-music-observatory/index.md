@@ -52,11 +52,11 @@ From hierarchical planning to open collaboration
 
 Most music organization employ 1-5 people, and even the largest national organization, like collective management organizations, fall under the EU definition of *small- and medium sized enterprises*. They do not have data scientists, market researchers, forecasters.  They are small organizations with small research budgets and very little time for researching. 
 
-* [x] We automated most of the research tasks, to make it less costly, less error-prone, and require less labour input.  We can automate most of the data collection, data processing, imputation, validation, documentation, reporting, even some modelling.
+- [x] We automated most of the research tasks, to make it less costly, less error-prone, and require less labour input.  We can automate most of the data collection, data processing, imputation, validation, documentation, reporting, even some modelling.
 
-* [x] We invested into harvesting the vast open data of the European Union and its member states.  In the EU, most taxpayer funded research data is freely available, but at a cost of significant data reprocessing cost. If the data was originally collected to calculate to inflation or monitor tax revenues, it needs to be significantly altered for the music industry to be useful.
+- [x] We invested into harvesting the vast open data of the European Union and its member states.  In the EU, most taxpayer funded research data is freely available, but at a cost of significant data reprocessing cost. If the data was originally collected to calculate to inflation or monitor tax revenues, it needs to be significantly altered for the music industry to be useful.
 
-* [x] We automated the connection of many small data sources and open data. We can create big data from much small data, and deploy analytics, algorithms on collective datasets.
+- [x] We automated the connection of many small data sources and open data. We can create big data from much small data, and deploy analytics, algorithms on collective datasets.
 
 <img src="digital_gap_2018.jpg" width="90%" alt="Difference between potential market (household cultural spending) and actual digital music revenues" title="Closing the royalty gap in Europe" />
 
