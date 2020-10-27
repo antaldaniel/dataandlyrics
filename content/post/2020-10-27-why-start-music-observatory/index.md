@@ -44,9 +44,24 @@ The fragmentation of data makes these players easy prey in the era of big data. 
 
 Scattered industries tend to be riddled with conflicts of interests.  While working with royalty collection management societies in the last 7 years I often saw that songwriters, producers and performers are often fighting each other for slices of the pie that is just too small. That means that national members of CISAC (GESAC in Europe), IFPI, and AEPO-ARTIS often do not share data with each other, although their income is below any legally acceptable threshold. They have individually very rich datasets that in many jurisdictions just never meet. Labels, small publishers are so little organizations that they do not have a data scientist, let alone a dedicated IT person, or even an HR professional to hire the services of data scientists.
 
-We were able to collect at least 70% of the information content of the planned European Music Observatory, and far more, than most of the 50 data observatories we examined in Europe, because we took an approach inspired in open source software development: continuous opt-in, opt-out data integration, focusing on the synergies that partners can achieve, instead of aiming at endless discussions and compromises on sharing data. We never take away proprietary data from anybody, we just connect data among partners, and enrich it with open data.
+We were able to collect at least 70% of the information content of the planned European Music Observatory, and far more, than most of the 50 data observatories we examined in Europe, because we took an approach inspired in open source software development: continuous opt-in, opt-out data integration, focusing on the synergies that partners can achieve, instead of aiming at endless discussions and compromises on sharing data. We never take away proprietary data from anybody, we just connect data among partners, and enrich it with open data. We would like to guide the industry from hierarchical database planning to the philosophy of open collaboration.
 
-From hierarchical planning to open collaboration
+## Creating Value
+
+The problem of the music industry is not too little, but too much data. Music is drowning in numbers, and it has too little resources to turn much data into valuable information.
+
+Our concept of the European Music Observatory is to pool enough resources to create value for rightsholders, talent managers, venues, festivals and the entire music ecosystem.
+
+* turned 700 million royalty statements into meaningful indicators about [the price and volume growth]((https://ceereport2020.ceemid.eu/market.html#recmarket) in 20 European streaming markets;
+
+* calculated the value gap and the value of private copying in Hungary and [Croatia](https://dataandlyrics.com/publication/private_copying_croatia_2019/);
+
+* helped closing the royalty gap in Hungary and Slovakia by helping collective management to significantly increase their royalty collection;
+
+<img src="digital_gap_2018.jpg" width="90%" alt="Difference between potential market (household cultural spending) and actual digital music revenues" title="Closing the royalty gap in Europe" />
+
+* helped granting agencies to make more relevant [grant calls](https://dataandlyrics.com/project/grants/) and designed indicators to measure the impact of their grants.
+
 
 ## Big Data vs Small Datasets, Research Automation
 
@@ -58,5 +73,4 @@ Most music organization employ 1-5 people, and even the largest national organiz
 
 - [x] We automated the connection of many small data sources and open data. We can create big data from much small data, and deploy analytics, algorithms on collective datasets.
 
-<img src="digital_gap_2018.jpg" width="90%" alt="Difference between potential market (household cultural spending) and actual digital music revenues" title="Closing the royalty gap in Europe" />
 
