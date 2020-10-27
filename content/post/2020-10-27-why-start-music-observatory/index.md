@@ -52,7 +52,7 @@ The problem of the music industry is not too little, but too much data. Music is
 
 Our concept of the European Music Observatory is to pool enough resources to create value for rightsholders, talent managers, venues, festivals and the entire music ecosystem.
 
-* turned 700 million royalty statements into meaningful indicators about [the price and volume growth]((https://ceereport2020.ceemid.eu/market.html#recmarket) in 20 European streaming markets;
+* turned 700 million royalty statements into meaningful indicators about [the price and volume growth](https://ceereport2020.ceemid.eu/market.html#recmarket) in 20 European streaming markets;
 
 * calculated the value gap and the value of private copying in Hungary and [Croatia](https://dataandlyrics.com/publication/private_copying_croatia_2019/);
 
@@ -67,10 +67,10 @@ Our concept of the European Music Observatory is to pool enough resources to cre
 
 Most music organization employ 1-5 people, and even the largest national organization, like collective management organizations, fall under the EU definition of *small- and medium sized enterprises*. They do not have data scientists, market researchers, forecasters.  They are small organizations with small research budgets and very little time for researching. 
 
-- [x] We automated most of the research tasks, to make it less costly, less error-prone, and require less labour input.  We can automate most of the data collection, data processing, imputation, validation, documentation, reporting, even some modelling.
+- We [automated](https://dataandlyrics.com/post/2020-09-11-creating-automated-observatory/) most of the research tasks, to make it less costly, less error-prone, and require less labour input.  We can automate most of the data collection, data processing, imputation, validation, documentation, reporting, even some modelling.
 
-- [x] We invested into harvesting the vast open data of the European Union and its member states.  In the EU, most taxpayer funded research data is freely available, but at a cost of significant data reprocessing cost. If the data was originally collected to calculate to inflation or monitor tax revenues, it needs to be significantly altered for the music industry to be useful.
+- We invested into harvesting the vast [open data](https://dataobservatory.eu/project/open_data/) of the European Union and its member states.  In the EU, most taxpayer funded research data is freely available, but at a cost of significant data reprocessing cost. If the data was originally collected to calculate to inflation or monitor tax revenues, it needs to be significantly altered for the music industry to be useful.
 
-- [x] We automated the connection of many small data sources and open data. We can create big data from much small data, and deploy analytics, algorithms on collective datasets.
+- We have found a way to connect many small data sources and open data. We can create big data from much small data, and deploy analytics, algorithms on collective datasets.
 
 
