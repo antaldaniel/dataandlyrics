@@ -7,11 +7,11 @@ draft = false
 
 authors = ["Daniel Antal, CFA"]
 
-tags = ["musicology", "recommendations", "machine-learning", "playlist", "listen-local", "forgetify"]
+tags = ["music-economy", "royalties", "value-gap", "recommendations", "machine-learning"]
 
 summary = "Forgetify is an application that is “recommending” you songs that have never been played on Spotify - not even by their families, friends or foes. When you design a recommendation engine for an artist or a label, you want to avoid that their songs ever arrive to Forgetify."
 
-projects = ["listen-local", "music-observatory"]
+projects = ["music-observatory"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
@@ -36,7 +36,7 @@ They started from the assumption that there is hardly any data available on the 
 
 The music industry is scattered: it has the author’s or publishing side, the recording side, a large live music business and usually a very environment for classical (art) music. Within these segments there are hundreds of organizations in each EU country, and each have their own small or large datasets. The music industry has plenty of data, but it is not integrated, and it is often hidden from organizations that may have a conflicting agenda.  
 
-<img src="three_income_streams_croatia.png" width="90%" alt="Fragmentation: Three income streams in Croatia" title="Fragmentation: Three income streams in Croatia" />
+![](https://dataandlyrics.com/post/2020-10-27-why-start-music-observatory/three_income_streams_croatia.png alt="Fragmentation: Three income streams in Croatia" title="Fragmentation: Three income streams in Croatia" width="90%" )
 
 The fragmentation of data makes these players easy prey in the era of big data. Companies who monopolise big datasets first and create [weapons of math destruction](https://blogs.scientificamerican.com/roots-of-unity/review-weapons-of-math-destruction/) in the forms of algorithms that work for them, can take an unusually large share of the money created throughout the value chain. Proprietary, uncontrolled, big data trained algorithms reinforce inequality --- this makes Google’s YouTube, Spotify, but also Netflix in films or Amazon in books so powerful against its competitors, but also against competition regulators or suppliers --- in this case songwriters, video producers, filmmakers, book publishers and authors.  If their algorithm works against a creator, the creator is doomed, because half of the global sales are driven by secret algorithms.
 
