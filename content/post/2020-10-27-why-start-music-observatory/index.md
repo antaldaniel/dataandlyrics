@@ -64,7 +64,6 @@ Scattered industries tend to be riddled with conflicts of interests.  While work
 
 We were able to collect at least 70% of the information content of the planned European Music Observatory, and far more, than most of the 50 data observatories we examined in Europe, because we took an approach inspired in open source software development: continuous opt-in, opt-out data integration, focusing on the synergies that partners can achieve, instead of aiming at endless discussions and compromises on sharing data. We never take away proprietary data from anybody, we just connect data among partners, and enrich it with open data. We would like to guide the industry from hierarchical database planning to the philosophy of open collaboration.
 
-
 - We [automated](https://dataandlyrics.com/post/2020-09-11-creating-automated-observatory/) most of the research tasks, to make it less costly, less error-prone, and require less labour input.  We can automate most of the data collection, data processing, imputation, validation, documentation, reporting, even some modelling.
 
 - We invested into harvesting the vast [open data](https://dataobservatory.eu/project/open_data/) of the European Union and its member states.  In the EU, most taxpayer funded research data is freely available, but at a cost of significant data reprocessing cost. If the data was originally collected to calculate to inflation or monitor tax revenues, it needs to be significantly altered for the music industry to be useful.
