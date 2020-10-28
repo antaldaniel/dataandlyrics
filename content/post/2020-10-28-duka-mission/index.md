@@ -11,7 +11,7 @@ tags = ["music-production", "listen-local", "Germany", "Bosnia-Herzegovnia", "Pa
 
 summary = "It was hard at the beginning to convince artists to take a part in the show, because it was hard to describe the whole idea. After the first show, everything went better, because the artist could see exactly what I wanted from them. Now, the response is way better of course."
 
-projects = ["listen-local", "music-observatory"]
+projects = ["listen-local"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
@@ -44,3 +44,8 @@ And then it started to go smoothly. “All those artists have had their own home
 [#3 DMM Podcast Show / PAKISTAN / Amina Kamran / "Watch Me"](https://www.youtube.com/watch?v=FI2KoWkeR3M) 
 
 In spite of the global ambition, Duka does not make a living from creating music. He has a dayjob as a motion designer at [Denkwerk](https://www.denkwerk.com/en), which is not connected to his musician career. He just moved to Cologne in the beginning of the Covid-19 pandemic, so he is not yet integrated in the scene of the German town while he continues to follow the Sarajevo scene as much he can --- though, of course, his musician friends are as much stranded as anybody else in Europe in 2020. 
+
+<p align="center">
+<iframe src="https://open.spotify.com/embed/album/1YX2VxJe0ecWwVvvdY19Jg" width="740" height="410" frameborder="0" allowtransparency="true" allow="encrypted-media">
+</iframe>
+</p>
