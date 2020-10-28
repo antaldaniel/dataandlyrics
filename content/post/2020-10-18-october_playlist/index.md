@@ -47,7 +47,7 @@ Below the music player you find a very short [comparison](#comparison) of the cu
 
 <p align="center">
 
-<iframe src="https://open.spotify.com/embed/playlist/3WyQdQgSipGzQ9a7N5xC1s" width="800" height="450" frameborder="0" allowtransparency="true" allow="encrypted-media">
+<iframe src="https://open.spotify.com/embed/playlist/3WyQdQgSipGzQ9a7N5xC1s" width="740" height="410" frameborder="0" allowtransparency="true" allow="encrypted-media">
 
 </iframe>
 
