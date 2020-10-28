@@ -63,15 +63,19 @@ Anybody can create playlists, but mainly Spotify, Apple, or YouTube create the p
 
 - [Listen Local: Open Collaboration Experiment & Feasibility Study](https://dataandlyrics.com/post/2020-10-19-listen-local/) - how you can participate in the experiment.
 
+- [Forgetify: Popular Music That Nobody Listens To](https://dataandlyrics.com/post/2020-10-24-forgetify_pop_october/) - becasue you do not want to end up on the list of 0 streams.  
+
 ## Let's Do This Together!
 
-We are aiming to create an alterantive market measurement, marketing and recommendation engine tool that is based on open source software, open collaboration, full scientific transparency in an open collaboration with artists, small businesses and the entire music ecosystem.
+We are aiming to create an alternative market measurement, marketing and recommendation engine tool that is based on open source software, open collaboration, full scientific transparency in an open collaboration with artists, small businesses and the entire music ecosystem.
 
 - **create new playlists** Let's build up a weekly, relevant, non-exclusive playlists for music coming from Utrecht, Antwerpen, Rotterdam, Den Haag, Flanders or the Netherlands that smoothly blend in local music with relevant, spiritually or musically matching songs that fans of the Utrecht, Antwerpen, Rotterdam, Den Haag bands like. 
 
 - **create an app**!  If [Forgetify](https://forgotify.com/) can pick out songs that nobody, ever, ever listened to on Spotify, not even the performer's mother, sister, friends, not even their enemies, than we can create an app that allows fans in Utrecht, visitors or Rotterdam and the virtual community of Den Haag to find relevant music, and to connect with music created in these communities.
 
 * [We are](https://dataandlyrics.com/#about) a bunch of musicians, musicologists, music analysts, music journalists, producers who want to make this happen.
+
+If you are an artist, you can [simply fill in a form](https://www.surveymonkey.com/r/ll_collector_2020) identifying your music on Spotify, filling in a few biographical data about yourself (or your band, ensemble, group). If you represent several artists as a talent manager, music publisher, record label, granting agency or music export office, please get in [touch with us](https://dataandlyrics.com/#about) for onboarding.
 
 ## Data Use {#data-use}
 
