@@ -43,7 +43,7 @@ On Spotify, public playlists and "suggested artists" did make it easier to find 
 
 - If the algorithm learns that taste of racists people, it will provide them with more racist material.
 
-Of course, you can replace “black” and “white” with any “minority” and “majority” group.  European independent music makers may feel a minority compared to international majors.  The problem with algorithms is that they can ruthlessly reinforce injustice, because they just learn how to do something better, faster, and more than before.
+Of course, you can replace `black` and `white` with any `minority` and `majority` group.  Take `Slovak` and `American`; `major release` and `independent release`. European independent music makers may feel a minority compared to international majors.  The problem with algorithms is that they can ruthlessly reinforce injustice, because they just learn how to do something better, faster, and more than before.
 
 **What can we do?**
 
