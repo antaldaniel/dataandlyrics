@@ -3,13 +3,13 @@
 title = "Music Observatory"
 
 # Date this page was created.
-date = 2019-08-26T08:00:00
+date = 2020-08-26T08:00:00
 
 # Project summary to display on homepage.
 summary = "Collaborative reproducible research in the music industry"
 
 # Tags: can be used for filtering projects.
-tags = ["ceemid", "surveys", "music-industry", "observatory", "reproducible-research"]
+tags = ["ceemid", "surveys", "music-industry", "music-observatory", "reproducible-research"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
