@@ -63,9 +63,9 @@ We want to support the European music industry and our friends in North America,
 
 This is why we are launching now or [Demo Music Observatory](https://music.dataobservatory.eu/) and soon its twin, the Creative and [Cultural Sectors Demo Observatory](https://ccs.dataobservatory.eu/), because video producers, book authors, magazine publishers, film distributors and public broadcasters are sharing the pains of the music industry. We believe that the tides are turning because both regulators and these industries have started to fight back, and there is an awful lot of value, money and creativity is at stake.
 
-- [x] The European Music Observatory should fully exploit the EU's **open data** regime. (See our examples: [our first open data release](https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/))
+- [x] The `European Music Observatory` should fully exploit the EU's **open data** regime. (See our examples: [our first open data release](https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/))
 - [x] It should be transparent, the indicator design should be based on open-source statistical software.
 - [x] The European Music Observatory must embrace evidence-based [open Policy Analysis](https://music.dataobservatory.eu/approach.html#opa)
 - [x] The observatory must allow a seamless [data integration](https://music.dataobservatory.eu/approach.html#dataintegration) between open data, and highly confidential proprietary data.
 - [x] The open collaboration principle must allow an easy opt-in and opt-out for small and larger, public and private organizations, and offer for full transparency for all users.
-- [ ] It should not re-collect data that already exists.
+- [ ] It should not re-collect data that already exists. Instead it should create policies, synergies and incentives that bring that data to light.
