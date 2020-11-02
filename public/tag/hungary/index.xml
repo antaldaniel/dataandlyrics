@@ -2,21 +2,68 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hungary | Data &amp; Lyrics</title>
-    <link>/tag/hungary/</link>
-      <atom:link href="/tag/hungary/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dataandlyrics.com/tag/hungary/</link>
+      <atom:link href="https://dataandlyrics.com/tag/hungary/index.xml" rel="self" type="application/rss+xml" />
     <description>Hungary</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 29 Jan 2020 16:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 18 Oct 2020 18:00:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Hungary</title>
-      <link>/tag/hungary/</link>
+      <link>https://dataandlyrics.com/tag/hungary/</link>
     </image>
     
     <item>
+      <title>Listen Local: Open Collaboration Experiment &amp; Feasibility Study</title>
+      <link>https://dataandlyrics.com/post/2020-10-19-listen-local/</link>
+      <pubDate>Sun, 18 Oct 2020 18:00:00 +0200</pubDate>
+      <guid>https://dataandlyrics.com/post/2020-10-19-listen-local/</guid>
+      <description>&lt;p&gt;&lt;em&gt;“Big data creates injustice.”&lt;/em&gt; &amp;ndash; Cathy O&amp;rsquo;Neil, author of 
+&lt;a href=&#34;https://blogs.scientificamerican.com/roots-of-unity/review-weapons-of-math-destruction/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Weapons of Math Destruction&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If you can train machine learning algorithms on millions of music fans, then you can very precisely find listeners in Bratislava, entire Slovakia, in the Slovak diaspora in the United States.  In Utrecht, in Flanders, in Japan. If you cannot, then your sales will be driven by Spotify, Apple, Amazon or Google’s YouTube. And you fill compete with millions, tens of million of songs in your own city.&lt;/p&gt;
+&lt;p&gt;When you have access to the entire analytics toolkit to fine-tune your mastering, your instruments, your tempo, when you know how to plug into the radio editors pre-screening, then you have chance for airplay. If you are all small, even local content guidelines, such as national radio quotas or public radio targets will not help you, because you remain invisible.&lt;/p&gt;
+&lt;p&gt;With the support of the 
+&lt;a href=&#34;http://sgda.sk/#about&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slovak Arts Council&lt;/a&gt;, 
+&lt;a href=&#34;http://www.soza.sk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SOZA&lt;/a&gt;, non-profit civic association representing more than 2,600 rights holders in Slovakia and over 1 million abroad (musical works composers, lyrics and publishers), and 
+&lt;a href=&#34;https://ci-info.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Consolidated Independent&lt;/a&gt;, a music distributor platform 
+&lt;a href=&#34;https://www.linkedin.com/company/reprexbv/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reprex&lt;/a&gt; is preparing a feasibility study for the collaborative, transparent research tool and application that helps you to find your way to radio playlists, connect to fans in your own city, country, and in other towns along viable tour routes.  Make music export more of a science than a guessing game.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;listen_local_mindmap.png&#34; width=&#34;90%&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;In the first step, &lt;em&gt;until the end of 2020&lt;/em&gt;, we are going to create a demo application and a feasibility study with quantitative musicologists and data scientists. The demo application will show how to use AI to place the music of the volunteering bands and labels’s repertoire on radio lists and personal playlists.  Our feasibility study will show how different local content guidelines (radio quotas, public broadcaster targets, and other tools) can affect the market share of small local and national repertoires, and will provide culture policymakers and competition authorities with insight how to make the algorithm-driven music streaming, broadcasting marketplace more even.&lt;/p&gt;
+&lt;h2 id=&#34;how-can-you-participate-in-the-experiment&#34;&gt;How can you participate in the experiment?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;In the first phase of the experiment, &lt;strong&gt;only artists and their groups released on Spotify&lt;/strong&gt; can participate.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Participation in the experiment is free&lt;/strong&gt;.  The research findings, including potential targets for your music, will be fully open, transparent and free.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;If you are an artist, you can 
+&lt;a href=&#34;https://www.surveymonkey.com/r/ll_collector_2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;simply fill in a form&lt;/a&gt; identifying your music on Spotify, filling in a few biographical data about yourself (or your band, ensemble, group). We do not ask any financial data, and only very limited personal information. We only ask about city affiliations, targeted cities, age, experience level, and language of your lyrics, if you do not play instrumental music. In our experience, these factors are very important among musicology and sound engineering quality measures. (Read a bit more about our data 
+&lt;a href=&#34;https://dataandlyrics.com/project/listen-local/#data-use&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data use&lt;/a&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;If you are a &lt;strong&gt;fan of independent music&lt;/strong&gt;, please, &lt;strong&gt;forward this post&lt;/strong&gt; to a band that you would love to see in our project, or a local music venue that you would like to visit again after the covid-19 pandemic.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;october_playlist_analysis.png&#34; width=&#34;90%&#34; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Our project originally started out of Slovakia, Hungary, Czechia and Poland, but we only found funding in Slovakia for a low-budget, open source, open data, open collaboration experiment. &lt;strong&gt;Participation is open anywhere in the world&lt;/strong&gt;, but we are &lt;strong&gt;focusing on a viable post-covid tour route&lt;/strong&gt; around Budapest – Bratislava – Vienna – Salzburg – Munich – Ruhr – the Netherlands – Belgium. We hope to give guidance on targeting both recorded and live music.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;If you represent several artists&lt;/strong&gt; as a talent manager, music publisher, record label, granting agency or music export office, please get in 
+&lt;a href=&#34;https://dataandlyrics.com/#about&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;touch with us&lt;/a&gt; for onboarding. We will ask you to contribute a small sum on a crowdsourcing basis to expand our experimental project, but the small financial contribution is not a mandatory requirement. (See budget and 
+&lt;a href=&#34;https://dataandlyrics.com/project/listen-local/#transparency&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;transparency&lt;/a&gt;.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>CCS Ecosystems: Evidence-Driven CCI Policy &amp; The Central &amp; Eastern European Music Industry Report</title>
-      <link>/post/2020-01-30-ceereport/</link>
+      <link>https://dataandlyrics.com/post/2020-01-30-ceereport/</link>
       <pubDate>Wed, 29 Jan 2020 16:00:00 +0100</pubDate>
-      <guid>/post/2020-01-30-ceereport/</guid>
+      <guid>https://dataandlyrics.com/post/2020-01-30-ceereport/</guid>
       <description>&lt;p&gt;CEEMID &amp;amp; Consolidated Independent presented and discussed with stakeholders the  
 &lt;a href=&#34;https://danielantal.eu/publication/ceereport_2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Central &amp;amp; Eastern European Music Industry Report 2020&lt;/a&gt; as a case-study on national and comparative evidence-based policymaking in the cultural and creative sector on the 
 &lt;a href=&#34;http://creativeflip.creativehubs.net/2019/12/03/flipping-the-odds/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CCS Ecosystems: FLIPPING THE ODDS Conference&lt;/a&gt; – a two-day high-level stakeholder event jointly organized by Geothe-Institute and the DG Education and Culture of the European Commission with the Creative FLIP project.&lt;/p&gt;
@@ -27,7 +74,7 @@
 &lt;a href=&#34;https://danielantal.eu/publication/slovak_music_industry_2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slovak&lt;/a&gt;, 
 &lt;a href=&#34;https://danielantal.eu/publication/private_copying_croatia_2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Croatian&lt;/a&gt; and 
 &lt;a href=&#34;http://czdev.ceemid.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Czech&lt;/a&gt; music industry reports are compared with Armenian, Austrian, Bulgarian, Lithuanian, Serbian and Slovenian data and findings.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/img/publications/cee_report_2020_frontcover.jpg&#34; alt=&#34;Central &amp; Eastern European Music Industry Report 2020&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://dataandlyrics.com/img/publications/cee_report_2020_frontcover.jpg&#34; alt=&#34;Central &amp; Eastern European Music Industry Report 2020&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;invisibility&#34;&gt;Invisibility&lt;/h2&gt;
 &lt;p&gt;The measurement problems and the ‘invisibility’ of creative and cultural industries is a consequence of the fact that these industries are predominantly comprised of microenterprises and individual, freelancing entrepreneurs.  Even larger entities, such as collective management organizations can be classified as small enterprises.
 In the EU, small- and medium enterprises, and especially microenterprises usually have reduced reporting duties to the statistical authorities and tax authorities (which is the most important secondary source of government statistics in anonymized, aggregated form.)  This means that the supply side is not visible for policymakers. The recommendation is to conduct sample-based surveys among these microenterprises, but very few member states do that.&lt;/p&gt;
@@ -83,9 +130,9 @@ Perspectives on Academic Research with the European Commission’s Eurobarometer
     
     <item>
       <title>Central &amp; Eastern European Music Industry Report 2020</title>
-      <link>/publication/ceereport_2020/</link>
+      <link>https://dataandlyrics.com/publication/ceereport_2020/</link>
       <pubDate>Wed, 29 Jan 2020 16:00:00 +0100</pubDate>
-      <guid>/publication/ceereport_2020/</guid>
+      <guid>https://dataandlyrics.com/publication/ceereport_2020/</guid>
       <description>&lt;p&gt;CEEMID &amp;amp; Consolidated Independent presented and discussed with stakeholders the  
 &lt;a href=&#34;https://danielantal.eu/publication/ceereport_2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Central &amp;amp; Eastern European Music Industry Report 2020&lt;/a&gt; as a case-study on national and comparative evidence-based policymaking in the cultural and creative sector on the 
 &lt;a href=&#34;http://creativeflip.creativehubs.net/2019/12/03/flipping-the-odds/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CCS Ecosystems: FLIPPING THE ODDS Conference&lt;/a&gt; – a two-day high-level stakeholder event jointly organized by Geothe-Institute and the DG Education and Culture of the European Commission with the Creative FLIP project.&lt;/p&gt;
@@ -118,18 +165,18 @@ Perspectives on Academic Research with the European Commission’s Eurobarometer
     
     <item>
       <title>Hungarian Music Industry Report</title>
-      <link>/publication/hungary_music_industry_2014/</link>
+      <link>https://dataandlyrics.com/publication/hungary_music_industry_2014/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0200</pubDate>
-      <guid>/publication/hungary_music_industry_2014/</guid>
+      <guid>https://dataandlyrics.com/publication/hungary_music_industry_2014/</guid>
       <description>&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/fQuYJEbQXoPgP3&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/antaldaniel/a-proart-zeneipari-jelentse&#34; title=&#34;A ProArt zeneipari jelentése&#34; target=&#34;_blank&#34;&gt;A ProArt zeneipari jelentése&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;https://www.slideshare.net/antaldaniel&#34; target=&#34;_blank&#34;&gt;Dániel Antal&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
 </description>
     </item>
     
     <item>
       <title>First National Hungarian Music Industry Report</title>
-      <link>/post/2015-04-27_proart_report_15/</link>
+      <link>https://dataandlyrics.com/post/2015-04-27-proart_report_15/</link>
       <pubDate>Mon, 27 Apr 2015 00:00:00 +0200</pubDate>
-      <guid>/post/2015-04-27_proart_report_15/</guid>
+      <guid>https://dataandlyrics.com/post/2015-04-27-proart_report_15/</guid>
       <description>&lt;p&gt;The report was compiled with joining data and knowledge from collective management agencies for composer, producer and performer royalties, and market leading companies Sziget (organizer of Sziget festival and many more festivals), WMMD music distribution company, market-leading Schubert Music Publishing and A38, Hungary’s leading music club, together with producer and audience survey data, tax authority data and other government sources.&lt;/p&gt;
 &lt;p&gt;The report was presented in the Music Hungary Conference in 2015 and became the prototype of further Hungarian and regional reports.  It was commissioned by 
 &lt;a href=&#34;http://www.proart.hu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ProArt&lt;/a&gt;.&lt;/p&gt;

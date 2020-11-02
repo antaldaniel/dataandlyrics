@@ -21,17 +21,17 @@
   
   
 
-  <meta name="author" content="Satellite Report">
+  <meta name="author" content="Data &amp; Lyrics Blog">
 
   
   
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Blog about music, data and lyrics. Make big data work for small venues, independent music and great artists.">
 
   
-  <link rel="alternate" hreflang="en-us" href="/404.html">
+  <link rel="alternate" hreflang="en-us" href="https://dataandlyrics.com/404.html">
 
   
 
@@ -206,16 +206,54 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-180460335-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-180460335-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
+  <link rel="icon" type="image/png" href="/images/icon_hu5bfde8608118b47b475864b70fd224b4_21674_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu5bfde8608118b47b475864b70fd224b4_21674_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="/404.html">
+  <link rel="canonical" href="https://dataandlyrics.com/404.html">
 
   
   
@@ -228,10 +266,13 @@
   
   <meta property="twitter:card" content="summary">
   
-  <meta property="og:site_name" content="Satellite Report">
-  <meta property="og:url" content="/404.html">
-  <meta property="og:title" content="404 Page not found | Satellite Report">
-  <meta property="og:description" content=""><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
+  <meta property="twitter:site" content="@dataandlyrics">
+  <meta property="twitter:creator" content="@dataandlyrics">
+  
+  <meta property="og:site_name" content="Data &amp; Lyrics">
+  <meta property="og:url" content="https://dataandlyrics.com/404.html">
+  <meta property="og:title" content="404 Page not found | Data &amp; Lyrics">
+  <meta property="og:description" content="Blog about music, data and lyrics. Make big data work for small venues, independent music and great artists."><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
   <meta property="twitter:image" content="img/map[gravatar:%!s(bool=false) shape:circle]"><meta property="og:locale" content="en-us">
   
     
@@ -251,7 +292,7 @@
 
 
 
-  <title>404 Page not found | Satellite Report</title>
+  <title>404 Page not found | Data &amp; Lyrics</title>
 
 </head>
 
@@ -263,7 +304,7 @@
 
       <div class="row no-gutters justify-content-between mb-3">
         <div class="col-6">
-          <h1></h1>
+          <h1>Search</h1>
         </div>
         <div class="col-6 col-search-close">
           <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
@@ -272,7 +313,7 @@
 
       <div id="search-box">
         
-        <input name="q" id="search-query" placeholder="" autocapitalize="off"
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
         autocomplete="off" autocorrect="off" spellcheck="false" type="search">
         
       </div>
@@ -302,20 +343,20 @@
 
     
     <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="/">Satellite Report</a>
+      <a class="navbar-brand" href="/">Data &amp; Lyrics</a>
     </div>
     
 
     
     <button type="button" class="navbar-toggler" data-toggle="collapse"
-            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="">
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
     <span><i class="fas fa-bars"></i></span>
     </button>
     
 
     
     <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-      <a class="navbar-brand" href="/">Satellite Report</a>
+      <a class="navbar-brand" href="/">Data &amp; Lyrics</a>
     </div>
     
 
@@ -341,16 +382,9 @@
         
         
         
-          
-          
-          
-            
-          
-          
-        
 
         <li class="nav-item">
-          <a class="nav-link " href="/#about"><span>Home</span></a>
+          <a class="nav-link " href="/post/"><span>Blog</span></a>
         </li>
 
         
@@ -379,7 +413,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#posts"><span>Posts</span></a>
+          <a class="nav-link " href="/#tags"><span>Topics</span></a>
         </li>
 
         
@@ -408,7 +442,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#projects"><span>Projects</span></a>
+          <a class="nav-link " href="/#projects"><span>Initiatives</span></a>
         </li>
 
         
@@ -437,7 +471,49 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#featured"><span>Publications</span></a>
+          <a class="nav-link " href="/#featured"><span>Longreads</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/team/"><span>Authors</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/faq/"><span>FAQ</span></a>
         </li>
 
         
@@ -466,7 +542,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#people"><span>Team</span></a>
+          <a class="nav-link " href="/#about"><span>About</span></a>
         </li>
 
         
@@ -530,34 +606,44 @@
 
   <div class="universal-wrapper pt-3">
 
-  <h1></h1>
+  <h1>Page not found</h1>
 
   
   
   <form class="d-flex align-items-center mb-3">
-    <input name="q" type="search" class="form-control" placeholder="" autocomplete="off">
+    <input name="q" type="search" class="form-control" placeholder="Search..." autocomplete="off">
   </form>
   
 
   
 
-  <p></p>
+  <p>Perhaps you were looking for one of these?</p>
 
   
   
   
-  <h2></h2>
+  <h2>Latest</h2>
   <ul>
     
-      <li><a href="/post/yes-delft-co-lab/">Yes!Delft Co-Lab</a></li>
+      <li><a href="/post/2020-10-30-racist-algorithm/">The Racist Music Algorithm</a></li>
     
-      <li><a href="/project/opendata/">OpenData</a></li>
+      <li><a href="/post/2020-10-28-duka-mission/">Duka’s Mission: Collaborate With Musicians From Every Country On Earth</a></li>
     
-      <li><a href="/project/musicobservatory/">Music Observatory</a></li>
+      <li><a href="/post/2020-10-27-why-start-music-observatory/">Why Did We Start The Demo Music Observatory?</a></li>
     
-      <li><a href="/privacy/">Privacy Policy</a></li>
+      <li><a href="/post/2020-10-24-forgetify_pop_october/">Forgetify: Popular Music That Nobody Listens To</a></li>
     
-      <li><a href="/terms/">Terms</a></li>
+      <li><a href="/post/2020-10-19-listen-local/">Listen Local: Open Collaboration Experiment &amp; Feasibility Study</a></li>
+    
+      <li><a href="/post/2020-10-18-october_playlist/">October Playlist: Wounded Egos</a></li>
+    
+      <li><a href="/project/grants/">Grants</a></li>
+    
+      <li><a href="/post/2020-10-14-making_websites/">Making Websites Is Not Easy</a></li>
+    
+      <li><a href="/project/listen-local/">Listen Local</a></li>
+    
+      <li><a href="/post/2020-09-25-yesdelft-validation/">Product/Market Fit Validation in Yes!Delft</a></li>
     
   </ul>
   
@@ -609,12 +695,12 @@
     
     <script>
       const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
-      const i18n = {"no_results":"","placeholder":"","results":""};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
       const content_type = {
-        'post': "",
-        'project': "",
-        'publication' : "",
-        'talk' : ""
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
         };
     </script>
     
@@ -677,19 +763,9 @@
   <div class="container">
     <footer class="site-footer">
   
-  <p class="powered-by">
-    
-      <a href="/privacy/">Privacy Policy</a>
-    
-    
-       &middot; 
-      <a href="/terms/">Terms</a>
-    
-  </p>
-  
 
   <p class="powered-by">
-    
+    © 2020 &middot; 
 
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
@@ -715,7 +791,7 @@
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title"></h5>
+        <h5 class="modal-title">Cite</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
@@ -725,10 +801,10 @@
       </div>
       <div class="modal-footer">
         <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
-          <i class="fas fa-copy"></i> 
+          <i class="fas fa-copy"></i> Copy
         </a>
         <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
-          <i class="fas fa-download"></i> 
+          <i class="fas fa-download"></i> Download
         </a>
         <div id="modal-error"></div>
       </div>

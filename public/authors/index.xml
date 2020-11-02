@@ -2,109 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Data &amp; Lyrics</title>
-    <link>/authors/</link>
-      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dataandlyrics.com/authors/</link>
+      <atom:link href="https://dataandlyrics.com/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 14 Oct 2020 10:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 30 Oct 2020 08:10:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
-      <link>/authors/</link>
+      <link>https://dataandlyrics.com/authors/</link>
     </image>
-    
-    <item>
-      <title>Daniel Antal, CFA</title>
-      <link>/author/daniel-antal-cfa/</link>
-      <pubDate>Wed, 14 Oct 2020 10:00:00 +0200</pubDate>
-      <guid>/author/daniel-antal-cfa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Réka Szentirmay</title>
-      <link>/author/reka-szentirmay/</link>
-      <pubDate>Fri, 25 Sep 2020 15:31:39 +0200</pubDate>
-      <guid>/author/reka-szentirmay/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Daniel Antal</title>
-      <link>/author/daniel-antal/</link>
-      <pubDate>Tue, 15 Sep 2020 08:00:39 +0200</pubDate>
-      <guid>/author/daniel-antal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Line Matson</title>
-      <link>/author/line-matson/</link>
-      <pubDate>Fri, 11 Sep 2020 16:00:39 +0200</pubDate>
-      <guid>/author/line-matson/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Moon Moon Moon</title>
-      <link>/author/moon-moon-moon/</link>
-      <pubDate>Fri, 11 Sep 2020 16:00:39 +0200</pubDate>
-      <guid>/author/moon-moon-moon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sandor Budai</title>
-      <link>/author/sandor-budai/</link>
-      <pubDate>Fri, 11 Sep 2020 16:00:39 +0200</pubDate>
-      <guid>/author/sandor-budai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/author/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/author/</guid>
-      <description>&lt;p&gt;A blog about music, data, lyrics and analytics.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Andres</title>
-      <link>/author/andres/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/author/andres/</guid>
-      <description>&lt;p&gt;Andrés is a data scientist and an ethnomusicologist. He is an experienced international researcher with interests that lie at the intersection between data science and the humanities. He helps our team with quantifying (ethno-)musicological variables to train better AI models and to make our Demo Music Observatory more valuable for its users. He also helps us reach out to potential partners in North America.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Daniel</title>
-      <link>/author/daniel/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/author/daniel/</guid>
-      <description>&lt;p&gt;Daniel Antal is an experienced management consultant who applies a thoroughly professional approach based in economics, finance and data science in his practice. As a quantitatively trained financial economist, he uses a variety of sound valuation methods, corporate finance models, forecasting tools and economic impact analysis for his recommendations, and applies the 
-&lt;a href=&#34;https://www.cfainstitute.org/en/ethics-standards/ethics/code-of-ethics-standards-of-conduct-guidance&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;standards and ethical guidelines&lt;/a&gt; of the Chartered Financial Analyst Institute.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kátya Nagy</title>
-      <link>/author/katya-nagy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/author/katya-nagy/</guid>
-      <description>&lt;p&gt;Kátya is a freelance PR professional, journalist and has been working on the former CEEMID music professional surveys and other background research since 2015. Her role is to make sure that all large and small music organizations can participate in our research projects in the target countries, and receive the research output. Before we automate a process, she check the facts on the ground. She has been supporting our research in 12 countries in the past, and she is helping us reaching out to 12 new countries in our new team.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Réka Szentirmay</title>
-      <link>/author/reka-szentirmay/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/author/reka-szentirmay/</guid>
-      <description>&lt;p&gt;Réka Szentirmay is a seasoned localisation professional with more than a decade of experience in translations, technical documentation and project management. With a background in journalism, social sciences and the theory of photography and film, Szentirmay strengthens the team from the perspective of digital humanities.&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>

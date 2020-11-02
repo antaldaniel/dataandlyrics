@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Daniel Antal | Data &amp; Lyrics</title>
-    <link>/author/daniel-antal/</link>
-      <atom:link href="/author/daniel-antal/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dataandlyrics.com/author/daniel-antal/</link>
+      <atom:link href="https://dataandlyrics.com/author/daniel-antal/index.xml" rel="self" type="application/rss+xml" />
     <description>Daniel Antal</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 15 Sep 2020 08:00:39 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Daniel Antal</title>
-      <link>/author/daniel-antal/</link>
+      <link>https://dataandlyrics.com/author/daniel-antal/</link>
     </image>
     
     <item>
       <title>Launching Our Demo Music Observatory</title>
-      <link>/post/2020-09-15-music-observatory-launch/</link>
+      <link>https://dataandlyrics.com/post/2020-09-15-music-observatory-launch/</link>
       <pubDate>Tue, 15 Sep 2020 08:00:39 +0200</pubDate>
-      <guid>/post/2020-09-15-music-observatory-launch/</guid>
+      <guid>https://dataandlyrics.com/post/2020-09-15-music-observatory-launch/</guid>
       <description>&lt;p&gt;Today, on 15 September 2020, we officially launched our &lt;code&gt;minimal viable product&lt;/code&gt; as we promised to partners back in February. This was a particularly difficult period for everybody. We aspired to deliver by September in a very different environment, our hopes for commissioned work went up in flames with the pandemic, and our targeted users, musicians and music entrepreneurs, talent managers, music venues lost most of their income. The organizations helping them, granting authorities, export offices and collective management societies are overwhelmed with the problem. During these troublesome times, our team expanded, attracted great new talent, and kept working.&lt;/p&gt;
 &lt;p&gt;Our first product is the 
 &lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo Music Observatory&lt;/a&gt;, a collaborative, automated research-based 
@@ -61,9 +61,9 @@ See our
     
     <item>
       <title>Creating An Automated Data Observatory</title>
-      <link>/post/2020-09-11-creating-automated-observatory/</link>
+      <link>https://dataandlyrics.com/post/2020-09-11-creating-automated-observatory/</link>
       <pubDate>Fri, 11 Sep 2020 16:00:39 +0200</pubDate>
-      <guid>/post/2020-09-11-creating-automated-observatory/</guid>
+      <guid>https://dataandlyrics.com/post/2020-09-11-creating-automated-observatory/</guid>
       <description>&lt;p&gt;We are building data ecosystems, so called observatories, where scientific, business, policy and civic users can find factual information, data, evidence for their domain.  Our open source, open data, open collaboration approach allows to connect various open and proprietary data sources, and our reproducible research workflows allow us to automate data collection, processing, publication, documentation and presentation.&lt;/p&gt;
 &lt;p&gt;Our scripts are checking data sources, such as Eurostat&amp;rsquo;s Eurobase, Spotify&amp;rsquo;s API and other music industry sources every day for new information, and process any data corrections or new disclosure, interpolate, backcast or forecast missing values, make currency translations and unit conversions. This is shown illustrated with an 
 &lt;a href=&#34;https://dataobservatory.eu/post/2020-07-25-reproducible_ingestion/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;earlier post&lt;/a&gt;.&lt;/p&gt;
@@ -97,9 +97,9 @@ See our
     
     <item>
       <title>Central &amp; Eastern European Music Industry Report 2020</title>
-      <link>/publication/ceereport_2020/</link>
+      <link>https://dataandlyrics.com/publication/ceereport_2020/</link>
       <pubDate>Wed, 29 Jan 2020 16:00:00 +0100</pubDate>
-      <guid>/publication/ceereport_2020/</guid>
+      <guid>https://dataandlyrics.com/publication/ceereport_2020/</guid>
       <description>&lt;p&gt;CEEMID &amp;amp; Consolidated Independent presented and discussed with stakeholders the  
 &lt;a href=&#34;https://danielantal.eu/publication/ceereport_2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Central &amp;amp; Eastern European Music Industry Report 2020&lt;/a&gt; as a case-study on national and comparative evidence-based policymaking in the cultural and creative sector on the 
 &lt;a href=&#34;http://creativeflip.creativehubs.net/2019/12/03/flipping-the-odds/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CCS Ecosystems: FLIPPING THE ODDS Conference&lt;/a&gt; – a two-day high-level stakeholder event jointly organized by Geothe-Institute and the DG Education and Culture of the European Commission with the Creative FLIP project.&lt;/p&gt;
@@ -132,9 +132,9 @@ See our
     
     <item>
       <title>Private Copying in Croatia</title>
-      <link>/post/2019-10-31-croatia_pcr/</link>
+      <link>https://dataandlyrics.com/post/2019-10-31-croatia_pcr/</link>
       <pubDate>Thu, 31 Oct 2019 12:00:00 +0100</pubDate>
-      <guid>/post/2019-10-31-croatia_pcr/</guid>
+      <guid>https://dataandlyrics.com/post/2019-10-31-croatia_pcr/</guid>
       <description>&lt;p&gt;After much delay, the first measurement of licensed use of music, audiovisual content, home copying and value transfer to media platforms in Croatia for a practical update of the private copying remuneration in the country.&lt;/p&gt;
 &lt;p&gt;You can find the whole study in English, a Croatian language summary and a press release in the 
 &lt;a href=&#34;https://danielantal.eu/publication/private_copying_croatia_2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Publications&lt;/a&gt; section.&lt;/p&gt;
@@ -150,15 +150,15 @@ See our
     
     <item>
       <title>Streaming Market Growth on European Markets</title>
-      <link>/post/2019-09-24_streaming-market/</link>
+      <link>https://dataandlyrics.com/post/2019-09-24_streaming-market/</link>
       <pubDate>Mon, 23 Sep 2019 19:00:00 +0200</pubDate>
-      <guid>/post/2019-09-24_streaming-market/</guid>
+      <guid>https://dataandlyrics.com/post/2019-09-24_streaming-market/</guid>
       <description>&lt;p&gt;I have never been a great fan of the headline figures reported by the recording industry about streaming growth.  I always felt that however dynamic are those charts, artists keep complaining that they do not feel these developments.  So I started to decompose those growth figures.&lt;/p&gt;
 &lt;p&gt;The Global Music Report quotes national streaming revenues on a dollar basis, which contains a lot of currency exchange noise.  And behind the national total there are too many factors: subscriber base growth and repertoire growth and the subscription fee.  The interplay of these forces is unpredictable. Whenever a local artist or producers sees a 10% reported national growth, they can never be sure if this will likely cause their sale to grow or shrink.&lt;/p&gt;
 &lt;p&gt;Because of the changes in the subscriber base and the available competing repertoire, it is important to see if the artist’s segment is growing, and if the competition is growing. The sales platforms will never reveal such data, and anyway, there is a competition among many sales platforms.
 I was looking for an analogy for a similar problem. Securities are a bit similar to songs, they will produce later cash flows, and they are competing for an always changing number of investors and with a constantly changing competition in the investible universe.  Songs and their royalty flows exhibit similarities with both equity and bonds, and I believe that a good solution is the creation of song indexes, similarly to stock and bond indexes that represent the performance of various security classes.
 After many hours of work with the state51 data science team, and at least as much processing work for the servers, we came up with a dataset that contained data from about 700 million royalty statements. I designed a sampling method that is far from perfect, but I think it gives a first birds-eye view on the European markets.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/img/dataanimation/animated_median_quantity_plot.gif&#34; alt=&#34;Growth of the &amp;lsquo;typical&amp;rsquo; songs streams on various markets&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://dataandlyrics.com/img/dataanimation/animated_median_quantity_plot.gif&#34; alt=&#34;Growth of the &amp;lsquo;typical&amp;rsquo; songs streams on various markets&#34;&gt;&lt;/p&gt;
 &lt;p&gt;In every country and every month, we selected those exploited songs that were in the middle of the exploitation range: as many songs were less listened to as many were more listened too.  For simplicity, I call those selected songs the ‘typical songs’ for each streaming platform and royalty territory.  I added together the streaming quantities on the three major platforms. For every territory and month, this could have been the sales of a ‘typical’ song.&lt;/p&gt;
 &lt;p&gt;Like stock and bond indexes, we can create even more relevant indexes for certain rightsholders.  In the Central European Music Industry Report, we will present for each territory a ‘domestic’ and a ‘foreign’ index, because the sales potential of a Slovak song in Slovakia or in Austria is very different from a British song in Slovakia or Austria.  In Slovakia, a Slovak song is on a home territory and in Austria in a near territory, while the British song is on one of the almost 200 territories.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;These findings will be open to discussion on&lt;/em&gt; 
@@ -168,18 +168,18 @@ After many hours of work with the state51 data science team, and at least as muc
     
     <item>
       <title>National Market Shares on Spotify Hitlists</title>
-      <link>/post/2019-09-23_cross-border_europe/</link>
+      <link>https://dataandlyrics.com/post/2019-09-23_cross-border_europe/</link>
       <pubDate>Fri, 20 Sep 2019 10:30:00 +0200</pubDate>
-      <guid>/post/2019-09-23_cross-border_europe/</guid>
+      <guid>https://dataandlyrics.com/post/2019-09-23_cross-border_europe/</guid>
       <description>&lt;p&gt;If we take a look at the streaming charts of the region, we usually find that the vast majority of the streamed songs are foreign songs - except for Austria, U.S. songs.  For comparison, we added a similar, middle-income emerging market (Argentina) and a rich, small-population English-speaking country, Australia to the chart. These countries seem to be in a similar position to the CEE countries.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/img/dataanimation/domestic_market_share_animation.gif&#34; alt=&#34;Market shares August-September 2019&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://dataandlyrics.com/img/dataanimation/domestic_market_share_animation.gif&#34; alt=&#34;Market shares August-September 2019&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Arguably, the strongest countries of songwriting are the United States and Brazil - these are the countries that have ran out of the ISRC recording identifier range. Their charts are full with their domestic songs, but they are not alone.  Japan, France, and the bigger EU countries, France, Germany and Poland have very strong domestic performance, too.&lt;/p&gt;
 &lt;p&gt;Of course, there are many factor at play here. Large countries with large artist populations generate a lot more recordings, so they local fans always have thousands of new songs to select from.  In small countries, the total annual creations, from pop to jazz, from authentic folk to classical amounts to a few thousand tracks. But it is not only size that matters.  Sweden&amp;rsquo;s population is similar to that of Austria, Hungary and Czechia, yet the Swedish repertoire performs better in Sweden, and as we will see in the next chart, abroad, too.&lt;/p&gt;
 &lt;p&gt;We created a second data animation to visualize how hits were travelling across the borders in the summer of 2ö19. To make the chart easier to read, we omitted the United States, Brazil and Japan as countries of origin, and concentrated only on intra-European hit flows.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/img/dataanimation/cross_border_plot-animation.gif&#34; alt=&#34;Cross-border hits August-September 2019&#34;&gt;&lt;/p&gt;
-&lt;p&gt;The second week of September 2019 was not an exceptional week. Most EU countries&amp;rsquo; producers did not score any hits in any other EU countries&amp;rsquo; Spotify Top 50 hits.  The UK exported many great hits to all over Europe, as usual, but there were other important hit flows. These hits mainly follow cultural proximity.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://dataandlyrics.com/img/dataanimation/cross_border_plot-animation.gif&#34; alt=&#34;Cross-border hits August-September 2019&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The second week of September 2019 was not an exceptional week. Most EU countries&#39; producers did not score any hits in any other EU countries&#39; Spotify Top 50 hits.  The UK exported many great hits to all over Europe, as usual, but there were other important hit flows. These hits mainly follow cultural proximity.&lt;/p&gt;
 &lt;p&gt;France exported hits to the two Francophone countries of Europe, Belgium and Romania, and furthermore to Greece, a Southern country with particularly unique chart composition. Germany exported many hits to Austria, another German-speaking country, and some hits to other Germanic countries. Dutch producers placed a few hits in the Germanic countries and in Belgium, where the Dutch-speaking Flemish community has its own radios, TVs, press and hitlists. The Netherlands is a powerhouse of electronic popmusic that are not bound by language which finds audience in several countries.&lt;/p&gt;
-&lt;p&gt;The strength and competitive position of the national market where an artists is most known and has a fan base is usually a determining factor of track performance and revenue.  The overall revenue prospects and competition situation of a Hungarian or Croatian song is very different from a British or even a Polish song.  But overall, most European recordings are not bound to a domestic country. Because of cultural proximity, the presence of native minorities or new immigrant diasporas, even small-language songs are being listened to on a much wider territory than the artists&amp;rsquo; original country. Some relatively small EU countries, such as Sweden and the Netherlands successfully export their music on a regular basis.&lt;/p&gt;
+&lt;p&gt;The strength and competitive position of the national market where an artists is most known and has a fan base is usually a determining factor of track performance and revenue.  The overall revenue prospects and competition situation of a Hungarian or Croatian song is very different from a British or even a Polish song.  But overall, most European recordings are not bound to a domestic country. Because of cultural proximity, the presence of native minorities or new immigrant diasporas, even small-language songs are being listened to on a much wider territory than the artists&#39; original country. Some relatively small EU countries, such as Sweden and the Netherlands successfully export their music on a regular basis.&lt;/p&gt;
 &lt;p&gt;Nevertheless, as the streaming services slowly overtake all other forms of use, the charts above depict a very fundamental market change.  Whereas in the traditional channels of physical sales, digital downloads and broadcasting, the CEE countries, like other small- and medium-sized EU countries, enjoyed 30-50% market share, among the streaming hits their producer&amp;rsquo;s share is below 10%. It is not unusual to find only domestic recordings in physical sales hitlists, while domestic songs rarely enter the streaming charts in the region, with the exception of Poland.&lt;/p&gt;
 &lt;p&gt;The traditional sales channels protected CEE markets in several ways.  After EU accession most import duties are gone, but physical products have very significant logistics costs, which gives local producers a competitive edge.  Because physical products are increasingly sold on concerts and festivals, where the market share of domestic performers is usually very high, the traditional, mechanically licensed sales had a protected market.&lt;/p&gt;
 &lt;p&gt;The broadcasting channel, which used the be the most important promotion channel, too, was protected in many European countries by national content quotas, or supported with generously funded national, regional, local public broadcasters who gave a preference to national composers, producers and performers. These market barriers are not present in the streaming markets, which poses many questions. Our research is aiming to answer these questions, but it took several years to build a data infrastructure that can help producing an accurate market overview.&lt;/p&gt;
@@ -210,8 +210,8 @@ After many hours of work with the state51 data science team, and at least as muc
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2019-09-23_cross-border_europe/gallery/eu_cross_border_hits_20190915.png&#34; data-caption=&#34;European hits on an other European country&amp;amp;rsquo;s Spotify hitlist, 15 September 2019.&#34;&gt;
-  &lt;img data-src=&#34;/post/2019-09-23_cross-border_europe/gallery/eu_cross_border_hits_20190915_hu87f5dcff746518fbceefbd4abed84ec5_40449_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;266&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2019-09-23_cross-border_europe/gallery/eu_cross_border_hits_20190915.png&#34; data-caption=&#34;European hits on an other European country&amp;amp;rsquo;s Spotify hitlist, 15 September 2019.&#34;&gt;
+  &lt;img data-src=&#34;https://dataandlyrics.com/post/2019-09-23_cross-border_europe/gallery/eu_cross_border_hits_20190915_hu87f5dcff746518fbceefbd4abed84ec5_40449_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;266&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -223,8 +223,8 @@ After many hours of work with the state51 data science team, and at least as muc
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2019-09-23_cross-border_europe/gallery/spotify_chart_mkt_share_20190915.png&#34; data-caption=&#34;National repertoire market shares on national Spotify hitlists, 15 September 2019.&#34;&gt;
-  &lt;img data-src=&#34;/post/2019-09-23_cross-border_europe/gallery/spotify_chart_mkt_share_20190915_hu781d82e369311575b56de92db7530f5f_19890_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;266&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2019-09-23_cross-border_europe/gallery/spotify_chart_mkt_share_20190915.png&#34; data-caption=&#34;National repertoire market shares on national Spotify hitlists, 15 September 2019.&#34;&gt;
+  &lt;img data-src=&#34;https://dataandlyrics.com/post/2019-09-23_cross-border_europe/gallery/spotify_chart_mkt_share_20190915_hu781d82e369311575b56de92db7530f5f_19890_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;266&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
 
@@ -237,9 +237,9 @@ After many hours of work with the state51 data science team, and at least as muc
     
     <item>
       <title>Musicians’ Living Standards And Life Satisfaction In The CEE Region</title>
-      <link>/post/2019-07-21_life_sat_19/</link>
+      <link>https://dataandlyrics.com/post/2019-07-21_life_satisfaction/</link>
       <pubDate>Sun, 21 Jul 2019 18:00:00 +0200</pubDate>
-      <guid>/post/2019-07-21_life_sat_19/</guid>
+      <guid>https://dataandlyrics.com/post/2019-07-21_life_satisfaction/</guid>
       <description>&lt;p&gt;In order to get a high-level comparison among the living standards of musicians, we use the standard survey question used in Eurobarometer surveys for decades: how often have had the respondent difficulties with paying bills in the past year?   This is a very good starting point because it makes comparable the rough material standards of musicians and other professional groups in the EU, irrespective of local earnings and living costs.&lt;/p&gt;
 &lt;p&gt;Musicians everywhere, including rich countries like Germany, Austria and Slovenia have more problems with paying their bills than the general population in their countries.  The only seemingly different country is Bulgaria, but in this case, the self-reported difference is small, and generally Bulgarian musicians and other Bulgarian people have similarly frequent difficulties with paying their bills.&lt;/p&gt;
 &lt;p&gt;Working in an emerging economy is more stressful than in a mature economy – making ends is more difficult, risks are greater and usually rules change faster. No wonder that people generally report higher level of life satisfaction in countries where the living standards are also higher: average life satisfaction in a country is 
@@ -267,10 +267,10 @@ After many hours of work with the state51 data science team, and at least as muc
 &lt;figure id=&#34;figure-comparing-the-life-satisfaction-levels-of-musicians-with-the-general-public-2018-2019&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/musician_charts/life_satisfaction_levels.jpg&#34; data-caption=&#34;Comparing the life satisfaction levels of musicians with the general public, 2018-2019.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://dataandlyrics.com/img/musician_charts/life_satisfaction_levels.jpg&#34; data-caption=&#34;Comparing the life satisfaction levels of musicians with the general public, 2018-2019.&#34;&gt;
 
 
-  &lt;img src=&#34;/img/musician_charts/life_satisfaction_levels.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://dataandlyrics.com/img/musician_charts/life_satisfaction_levels.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -304,10 +304,10 @@ After many hours of work with the state51 data science team, and at least as muc
 &lt;figure id=&#34;figure-comparing-the-difficulties-of-paying-bills-among-musicians-and-the-general-public-2018-2019&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/musician_charts/difficulty_bills_levels.jpg&#34; data-caption=&#34;Comparing the difficulties of paying bills among musicians and the general public, 2018-2019.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://dataandlyrics.com/img/musician_charts/difficulty_bills_levels.jpg&#34; data-caption=&#34;Comparing the difficulties of paying bills among musicians and the general public, 2018-2019.&#34;&gt;
 
 
-  &lt;img src=&#34;/img/musician_charts/difficulty_bills_levels.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://dataandlyrics.com/img/musician_charts/difficulty_bills_levels.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -327,29 +327,10 @@ After many hours of work with the state51 data science team, and at least as muc
     </item>
     
     <item>
-      <title>Slovak Music Industry Report</title>
-      <link>/publication/slovak_music_industry_2019/</link>
-      <pubDate>Tue, 26 Mar 2019 00:00:00 +0100</pubDate>
-      <guid>/publication/slovak_music_industry_2019/</guid>
-      <description>&lt;p&gt;The whole report can be downloaded for free from the 
-&lt;a href=&#34;http://www.soza.sk/aktuality/235/soza-zverej%C5%88uje-historicky-prvu-spravu-o-slovenskom-hudobnom-priemysle&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;homepage of SOZA&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Press reports in Slovak:&lt;/p&gt;
-&lt;p&gt;SME: [SOZA predstavila prvú Správu o slovenskom hudobnom priemysle](Čítajte viac: &lt;a href=&#34;https://domov.sme.sk/c/22084685/soza-predstavila-historicky-prvu-spravu-o-slovenskom-hudobnom-priemysle.html&#34;&gt;https://domov.sme.sk/c/22084685/soza-predstavila-historicky-prvu-spravu-o-slovenskom-hudobnom-priemysle.html&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;Kreatívna Europa: 
-&lt;a href=&#34;http://www.cedslovakia.eu/clanky/sprava-o-slovenskom-hudobnom-priemysle&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Historicky prvá Správa o slovenskom hudobnom priemysle prináša okrem analýz aj odporúčania pre budúcnosť&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;In Hungarian:
-Új Szó: 
-&lt;a href=&#34;https://ujszo.com/kultura/tudomanyosan-a-hazai-zeneiparrol&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tudományosan a hazai zeneiparról&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Slides:&lt;/p&gt;
-&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/86x5wKAlsIetxA&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/antaldaniel/spva-o-hudobnom-priemysle-na-slovensku-sharpe-2018&#34; title=&#34;Spáva o hudobnom priemysle na Slovensku&#34; target=&#34;_blank&#34;&gt;Spáva o hudobnom priemysle na Slovensku&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;//www.slideshare.net/antaldaniel&#34; target=&#34;_blank&#34;&gt;Dániel Antal&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Eurpoean Comparison: How Many People Ever Pay For Music, Film or Software</title>
-      <link>/post/2018-06-08_how_many_ever_pay/</link>
+      <link>https://dataandlyrics.com/post/2018-06-08_how_many_ever_pay/</link>
       <pubDate>Fri, 08 Jun 2018 00:00:00 +0200</pubDate>
-      <guid>/post/2018-06-08_how_many_ever_pay/</guid>
+      <guid>https://dataandlyrics.com/post/2018-06-08_how_many_ever_pay/</guid>
       <description>&lt;p&gt;In our recent private copying reports we compiled European survey data relevant to analysis.  In Europe, there is a big difference between the use of electronic entertainment devices in richer and poorer countries. Nevertheless, the real difference is between the number of people who sometimes and who never pay for downloaded music, films and software.&lt;/p&gt;
 &lt;p&gt;In some countries of Europe, less then 10 percent of the population ever pays for the content that is loaded to their computers, smartphones and tablets.  These survey data, accompanied by other objective data, can help explaining 96% of the variance among digital music sales levels within the EU countries, and it is highly relevant in calculating the economic benefit of home copying for users, and the harm for rightsholders.&lt;/p&gt;
 </description>
@@ -357,9 +338,9 @@ After many hours of work with the state51 data science team, and at least as muc
     
     <item>
       <title>Slovak Music Industry Report</title>
-      <link>/post/2018-04-18_sharpe_18/</link>
+      <link>https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/</link>
       <pubDate>Wed, 18 Apr 2018 19:00:00 +0200</pubDate>
-      <guid>/post/2018-04-18_sharpe_18/</guid>
+      <guid>https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/</guid>
       <description>&lt;p&gt;You can review the slides here.&lt;/p&gt;
 
 
@@ -388,8 +369,8 @@ After many hours of work with the state51 data science team, and at least as muc
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018-04-18_sharpe_18/gallery/Slide1.JPG&#34; data-caption=&#34;Slovak Music Industry Report&#34;&gt;
-  &lt;img data-src=&#34;/post/2018-04-18_sharpe_18/gallery/Slide1_huaadc006dabad6f931881373b7458ff05_88558_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/gallery/Slide1.JPG&#34; data-caption=&#34;Slovak Music Industry Report&#34;&gt;
+  &lt;img data-src=&#34;https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/gallery/Slide1_huaadc006dabad6f931881373b7458ff05_88558_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -401,8 +382,8 @@ After many hours of work with the state51 data science team, and at least as muc
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018-04-18_sharpe_18/gallery/Slide2.JPG&#34; data-caption=&#34;Music industry has a great potential to create jobs…&#34;&gt;
-  &lt;img data-src=&#34;/post/2018-04-18_sharpe_18/gallery/Slide2_hu8fb30eb298294ef97d61dc144e7c2b4c_182313_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/gallery/Slide2.JPG&#34; data-caption=&#34;Music industry has a great potential to create jobs…&#34;&gt;
+  &lt;img data-src=&#34;https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/gallery/Slide2_hu8fb30eb298294ef97d61dc144e7c2b4c_182313_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -414,8 +395,8 @@ After many hours of work with the state51 data science team, and at least as muc
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018-04-18_sharpe_18/gallery/Slide3.JPG&#34; data-caption=&#34;Mapping the Slovak Music Industry&#34;&gt;
-  &lt;img data-src=&#34;/post/2018-04-18_sharpe_18/gallery/Slide3_hu5e60fd5e970b2c7bbcc362473ec09bc8_99011_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/gallery/Slide3.JPG&#34; data-caption=&#34;Mapping the Slovak Music Industry&#34;&gt;
+  &lt;img data-src=&#34;https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/gallery/Slide3_hu5e60fd5e970b2c7bbcc362473ec09bc8_99011_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -427,8 +408,8 @@ After many hours of work with the state51 data science team, and at least as muc
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018-04-18_sharpe_18/gallery/Slide4.JPG&#34; data-caption=&#34;Mapping the Slovak Music industry&#34;&gt;
-  &lt;img data-src=&#34;/post/2018-04-18_sharpe_18/gallery/Slide4_hu66be944f36e1d56a5b372a09ce09fd93_159996_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/gallery/Slide4.JPG&#34; data-caption=&#34;Mapping the Slovak Music industry&#34;&gt;
+  &lt;img data-src=&#34;https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/gallery/Slide4_hu66be944f36e1d56a5b372a09ce09fd93_159996_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -440,8 +421,8 @@ After many hours of work with the state51 data science team, and at least as muc
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018-04-18_sharpe_18/gallery/Slide5.JPG&#34; data-caption=&#34;The importance of the changing VAT regulation&#34;&gt;
-  &lt;img data-src=&#34;/post/2018-04-18_sharpe_18/gallery/Slide5_huf441aca3285f3f8d19a741ecc5d66464_97903_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/gallery/Slide5.JPG&#34; data-caption=&#34;The importance of the changing VAT regulation&#34;&gt;
+  &lt;img data-src=&#34;https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/gallery/Slide5_huf441aca3285f3f8d19a741ecc5d66464_97903_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -453,8 +434,8 @@ After many hours of work with the state51 data science team, and at least as muc
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018-04-18_sharpe_18/gallery/Slide6.JPG&#34; data-caption=&#34;The need of stronger copyright protection and higher royalty values&#34;&gt;
-  &lt;img data-src=&#34;/post/2018-04-18_sharpe_18/gallery/Slide6_hudb27c489db7df2ca4a2fd0d2d125d94e_117307_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/gallery/Slide6.JPG&#34; data-caption=&#34;The need of stronger copyright protection and higher royalty values&#34;&gt;
+  &lt;img data-src=&#34;https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/gallery/Slide6_hudb27c489db7df2ca4a2fd0d2d125d94e_117307_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -466,8 +447,8 @@ After many hours of work with the state51 data science team, and at least as muc
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018-04-18_sharpe_18/gallery/Slide7.JPG&#34; data-caption=&#34;Critical size in the global market requires strong national players&#34;&gt;
-  &lt;img data-src=&#34;/post/2018-04-18_sharpe_18/gallery/Slide7_hu8225d1627899f21a00b525433d99e2f9_78204_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/gallery/Slide7.JPG&#34; data-caption=&#34;Critical size in the global market requires strong national players&#34;&gt;
+  &lt;img data-src=&#34;https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/gallery/Slide7_hu8225d1627899f21a00b525433d99e2f9_78204_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -479,8 +460,8 @@ After many hours of work with the state51 data science team, and at least as muc
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018-04-18_sharpe_18/gallery/Slide8.JPG&#34; data-caption=&#34;Part of an animation, not animated here.&#34;&gt;
-  &lt;img data-src=&#34;/post/2018-04-18_sharpe_18/gallery/Slide8_hucff3831e7fc362d0de36638c3e4c5f36_89596_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/gallery/Slide8.JPG&#34; data-caption=&#34;Part of an animation, not animated here.&#34;&gt;
+  &lt;img data-src=&#34;https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/gallery/Slide8_hucff3831e7fc362d0de36638c3e4c5f36_89596_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -492,8 +473,8 @@ After many hours of work with the state51 data science team, and at least as muc
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018-04-18_sharpe_18/gallery/Slide9.JPG&#34; data-caption=&#34;Short-term growth with foreign revenues&#34;&gt;
-  &lt;img data-src=&#34;/post/2018-04-18_sharpe_18/gallery/Slide9_hu5c68701034a87e6f9ad825617271edc0_234931_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/gallery/Slide9.JPG&#34; data-caption=&#34;Short-term growth with foreign revenues&#34;&gt;
+  &lt;img data-src=&#34;https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/gallery/Slide9_hu5c68701034a87e6f9ad825617271edc0_234931_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -505,8 +486,8 @@ After many hours of work with the state51 data science team, and at least as muc
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018-04-18_sharpe_18/gallery/Slidez10.JPG&#34; data-caption=&#34;Get involved&#34;&gt;
-  &lt;img data-src=&#34;/post/2018-04-18_sharpe_18/gallery/Slidez10_hu32c80ac327c29a20d60060ed92a80c5b_49531_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/gallery/Slidez10.JPG&#34; data-caption=&#34;Get involved&#34;&gt;
+  &lt;img data-src=&#34;https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/gallery/Slidez10_hu32c80ac327c29a20d60060ed92a80c5b_49531_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
 
@@ -515,16 +496,16 @@ After many hours of work with the state51 data science team, and at least as muc
 &lt;p&gt;or on 
 &lt;a href=&#34;https://www.slideshare.net/antaldaniel/spva-o-hudobnom-priemysle-na-slovensku-sharpe-2018&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slideshare&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The 
-&lt;a href=&#34;/publication/slovak_music_industry_2019/&#34;&gt;Slovak Music Industy Report&lt;/a&gt; can be downloaded from 
+&lt;a href=&#34;https://dataandlyrics.com/publication/slovak_music_industry_2019/&#34;&gt;Slovak Music Industy Report&lt;/a&gt; can be downloaded from 
 &lt;a href=&#34;http://www.soza.sk/aktuality/235/soza-zverej%C5%88uje-historicky-prvu-spravu-o-slovenskom-hudobnom-priemysle&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>CEE Mini Recording Industry Workshop</title>
-      <link>/post/2017-11-01_cee_mini_17/</link>
+      <link>https://dataandlyrics.com/post/2017-11-01_cee_mini/</link>
       <pubDate>Wed, 01 Nov 2017 09:00:00 +0100</pubDate>
-      <guid>/post/2017-11-01_cee_mini_17/</guid>
+      <guid>https://dataandlyrics.com/post/2017-11-01_cee_mini/</guid>
       <description>&lt;p&gt;I presented my market view and experience with distinguished colleagues from the Baltic states, Central Europe and the Balkan, representatives of WIN and IFPI and the international indie distributor State 51. We had a lively discussion on why emerging markets are emerging so slowly in the new digital music business.&lt;/p&gt;
 &lt;p&gt;After a decade of decline due to piracy and change in business model, the global music business is steadily growing.  However, defying some economic expectation, to growth is stronger in mature markets than in most emerging markets, and most of the global growth came from the United States. The dollar-based IFPI Global Music Report hides the fact that mature and emerging Europe is truly lagging behind the United States.&lt;/p&gt;
 &lt;p&gt;The European music scene is very fragmented, has many languages and the lack of critical market size often leads to neglect by innovative global players. In a world where most music is soled by big data driven algorithms in subscription streams, the lack of large repertoires, data analytics capabilities and critical audience masses puts the smaller European repertoires into a competitive disadvantage.&lt;/p&gt;
@@ -555,8 +536,8 @@ After many hours of work with the state51 data science team, and at least as muc
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2017-11-01_cee_mini_17/gallery/digital_gap.jpg&#34; data-caption=&#34;Digital gap: share in household recreational spending and digital music revenues.&#34;&gt;
-  &lt;img data-src=&#34;/post/2017-11-01_cee_mini_17/gallery/digital_gap_hu791651d5ca2404d74016b85aa8de3dcd_59241_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;380&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2017-11-01_cee_mini/gallery/digital_gap.jpg&#34; data-caption=&#34;Digital gap: share in household recreational spending and digital music revenues.&#34;&gt;
+  &lt;img data-src=&#34;https://dataandlyrics.com/post/2017-11-01_cee_mini/gallery/digital_gap_hu791651d5ca2404d74016b85aa8de3dcd_59241_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;380&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -568,8 +549,8 @@ After many hours of work with the state51 data science team, and at least as muc
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2017-11-01_cee_mini_17/gallery/featured.png&#34; data-caption=&#34;The source of growth has been mainly the United States so far.&#34;&gt;
-  &lt;img data-src=&#34;/post/2017-11-01_cee_mini_17/gallery/featured_hu0603511b481da77ae47104f64292b1ac_44645_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2017-11-01_cee_mini/gallery/featured.png&#34; data-caption=&#34;The source of growth has been mainly the United States so far.&#34;&gt;
+  &lt;img data-src=&#34;https://dataandlyrics.com/post/2017-11-01_cee_mini/gallery/featured_hu0603511b481da77ae47104f64292b1ac_44645_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
 
@@ -582,9 +563,9 @@ The presentation and the working paper is not public, but the similar workshops 
     
     <item>
       <title>CEEMP Session: Licensing, How To Tackle The Value Gap And A Discussion on Licensing Initiatives</title>
-      <link>/post/2017-09-29_ceempc/</link>
+      <link>https://dataandlyrics.com/post/2017-09-29_ceempc/</link>
       <pubDate>Fri, 29 Sep 2017 00:00:00 +0200</pubDate>
-      <guid>/post/2017-09-29_ceempc/</guid>
+      <guid>https://dataandlyrics.com/post/2017-09-29_ceempc/</guid>
       <description>&lt;p&gt;CEEMID had the honor to participate in the third panel of CEEMP in Warsaw together with Ben McEwen from ICE; Jules Parker from Spotify and Dominic Houston from Netflix, and Chris Butler from Music Sales, who is also the chairperson of ICMP. Our panel was moderated by Nigel Elderton from peermusic, who is also the new chairperson of PRS in the UK.&lt;/p&gt;
 &lt;p&gt;Jules from Spotify spoke about their new initiative, Spotify for Publishers.  Spotify pays out about 20% of its royalties to publishers.  Because the labels are the bigger stakeholders, they often do not provide the necessary information for work identification in the case of publishers.&lt;/p&gt;
 &lt;p&gt;Dominic from Netflix is already one of the biggest buyers of music, and I believe that his company’s footprint will just continue growing.  His time buys licenses only 10% of their music from publishers. They mainly use original film music, and to a significant degree, catalogs.&lt;/p&gt;
@@ -597,9 +578,9 @@ Comparing household cultural spending with digital music revenues in Europe’s 
     
     <item>
       <title>Changing Musician Career Paths</title>
-      <link>/post/2017-02-03_career_path/</link>
+      <link>https://dataandlyrics.com/post/2017-02-03-music_career_path/</link>
       <pubDate>Fri, 03 Feb 2017 19:00:00 +0100</pubDate>
-      <guid>/post/2017-02-03_career_path/</guid>
+      <guid>https://dataandlyrics.com/post/2017-02-03-music_career_path/</guid>
       <description>&lt;p&gt;In the 20th century the first career step was to get on stage and create a credible live performance. After several years on the stage musician’s got a recording contract, and usually even later they registered their first composition. The recording stream was the most important revenue source. The making of a record was expensive and offered considerable royalties or advances.&lt;/p&gt;
 &lt;p&gt;In the 21st century the live music stream is far more important than the recordings. Creating recordings is much cheaper and stage performances are expensive. Musicians usually create their music, also register it as a music work and offer it to the public on an online portfolio of mp3 downloads, YouTube and music streams.  Often they are booked for their first live performance after publishing a recording.&lt;/p&gt;
 &lt;p&gt;What does it mean for the musician and the manager?  First and foremost that traditional career development strategies do not work anymore. A convincing stage performance is mandatory with a good touring strategy.  Recordings are often not profitable, but equally important in building the audience. Making the recording stream a revenue stream instead of the cost stream requires a very good understanding of the costs and benefits of the different digital channels. CEEMID also contains market information on these issues.&lt;/p&gt;
@@ -627,9 +608,9 @@ Comparing household cultural spending with digital music revenues in Europe’s 
     
     <item>
       <title>Mapping the Croatian Music Industry</title>
-      <link>/post/2016-04-20_makk15/</link>
+      <link>https://dataandlyrics.com/post/2016-04-20_makk15/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
-      <guid>/post/2016-04-20_makk15/</guid>
+      <guid>https://dataandlyrics.com/post/2016-04-20_makk15/</guid>
       <description>&lt;p&gt;Daniel Antal presented the preliminary findings of the Croatian music industry research in the 
 &lt;a href=&#34;http://www.makk.hr/web/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;International Authors’ and Creators’ Conference (Međunarodna autorska kreativna konferencija, #MAKK2015)&lt;/a&gt; in Zagreb on 24 November 2015. The presentation was largely based on analysis of various CEEMID databases.&lt;/p&gt;
 &lt;p&gt;The Central European music industry, as shown by processing the data of more than 2000 musicians in the region is even more reliant on live performances than the British music industry.  Even though Croatia appears to be more similar to the UK than the region, a deeper analysis of the data reveals that this is not the case. The most important difference between mature markets and emerging markets is the lack of good distribution and monetization strategy for recorded music.&lt;/p&gt;
@@ -641,9 +622,9 @@ Comparing household cultural spending with digital music revenues in Europe’s 
     
     <item>
       <title>Granting And Policy Evaluation For Musicians In Hungary</title>
-      <link>/post/2015-11-12_cstp/</link>
+      <link>https://dataandlyrics.com/post/2015-11-12-cstp/</link>
       <pubDate>Thu, 12 Nov 2015 19:00:00 +0100</pubDate>
-      <guid>/post/2015-11-12_cstp/</guid>
+      <guid>https://dataandlyrics.com/post/2015-11-12-cstp/</guid>
       <description>&lt;p&gt;The data and intelligence of CEEMID was used in Hungary to create an ex ante evaluation of the new Cseh Tamás Program to support popular music development in Hungary.  Our mandate was to create concrete granting proposals that have a high chance of making a change in terms of the later royalty earning capabilities of artists.&lt;/p&gt;
 &lt;p&gt;In the first phase of the project, we made two workshops with the eight fields development method to understand the challenges and existing working practices that result in a low level of royalties paid out in Hungary. This methodology requires a groupwork of all stakeholders and professionals of the industry. In this case, we worked in groups of 30-40, covering various artists, stage, light, sound technicians, producers, managers and even band transporters.  One group predominantly was Budapest-based and one in Eastern Hungary, to have a different view on working and market conditions in the metropolitan city and in the countryside. While royalties are not applicable for live music, it was well understood by the granting authority and the music industry that royalties cannot grow without a healthy live music sector in the country.&lt;/p&gt;
 &lt;p&gt;In the workshop, the consultant with several aides facilitates a very structured conversation that starts with a desired state of the industry which is not described by slogans but by actual characterizations of a desired working environment.   Instead of envisioning that “everybody gets a grant”, we describe the ideal project planning and management cycle of a new tour or record to see how a granting can fit into this workflow and what type of grants add effective assistance to realize goals.  For each goal and change we envision how that effects the work of the performing artists, her manager, the technician crew, even the schedule of the tour bus driver.  We discuss if the change makes any material change in the way we can prepare for a new album release.&lt;/p&gt;
@@ -676,8 +657,8 @@ Comparing household cultural spending with digital music revenues in Europe’s 
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2015-11-12_cstp/gallery/01-featured.JPG&#34; data-caption=&#34;Workshop in the Design Terminal, Budapest&#34;&gt;
-  &lt;img data-src=&#34;/post/2015-11-12_cstp/gallery/01-featured_hu48dff82355c51cb9da72e1905faaf94d_108737_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2015-11-12-cstp/gallery/01-featured.JPG&#34; data-caption=&#34;Workshop in the Design Terminal, Budapest&#34;&gt;
+  &lt;img data-src=&#34;https://dataandlyrics.com/post/2015-11-12-cstp/gallery/01-featured_hu48dff82355c51cb9da72e1905faaf94d_108737_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -689,8 +670,8 @@ Comparing household cultural spending with digital music revenues in Europe’s 
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2015-11-12_cstp/gallery/02-mindmap.jpg&#34; data-caption=&#34;Creating the mindmap&#34;&gt;
-  &lt;img data-src=&#34;/post/2015-11-12_cstp/gallery/02-mindmap_hu54f47b9031cb6332641cf1916acdc576_98341_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2015-11-12-cstp/gallery/02-mindmap.jpg&#34; data-caption=&#34;Creating the mindmap&#34;&gt;
+  &lt;img data-src=&#34;https://dataandlyrics.com/post/2015-11-12-cstp/gallery/02-mindmap_hu54f47b9031cb6332641cf1916acdc576_98341_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -702,8 +683,8 @@ Comparing household cultural spending with digital music revenues in Europe’s 
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2015-11-12_cstp/gallery/03-mindmap.jpg&#34; data-caption=&#34;Excerpt of mindmap&#34;&gt;
-  &lt;img data-src=&#34;/post/2015-11-12_cstp/gallery/03-mindmap_hu83e8e21014b7b14b6bb8e4256a9d2c34_145989_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2015-11-12-cstp/gallery/03-mindmap.jpg&#34; data-caption=&#34;Excerpt of mindmap&#34;&gt;
+  &lt;img data-src=&#34;https://dataandlyrics.com/post/2015-11-12-cstp/gallery/03-mindmap_hu83e8e21014b7b14b6bb8e4256a9d2c34_145989_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -715,8 +696,8 @@ Comparing household cultural spending with digital music revenues in Europe’s 
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2015-11-12_cstp/gallery/04-professions.png&#34; data-caption=&#34;Participating professions&#34;&gt;
-  &lt;img data-src=&#34;/post/2015-11-12_cstp/gallery/04-professions_hud961f54fec5297723fa4ca07fa483799_954022_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2015-11-12-cstp/gallery/04-professions.png&#34; data-caption=&#34;Participating professions&#34;&gt;
+  &lt;img data-src=&#34;https://dataandlyrics.com/post/2015-11-12-cstp/gallery/04-professions_hud961f54fec5297723fa4ca07fa483799_954022_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
 
@@ -731,18 +712,18 @@ Comparing household cultural spending with digital music revenues in Europe’s 
     
     <item>
       <title>Hungarian Music Industry Report</title>
-      <link>/publication/hungary_music_industry_2014/</link>
+      <link>https://dataandlyrics.com/publication/hungary_music_industry_2014/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0200</pubDate>
-      <guid>/publication/hungary_music_industry_2014/</guid>
+      <guid>https://dataandlyrics.com/publication/hungary_music_industry_2014/</guid>
       <description>&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/fQuYJEbQXoPgP3&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/antaldaniel/a-proart-zeneipari-jelentse&#34; title=&#34;A ProArt zeneipari jelentése&#34; target=&#34;_blank&#34;&gt;A ProArt zeneipari jelentése&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;https://www.slideshare.net/antaldaniel&#34; target=&#34;_blank&#34;&gt;Dániel Antal&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
 </description>
     </item>
     
     <item>
       <title>Value added by music in public performance and home copying: economic theory and empirical applications for tariff setting</title>
-      <link>/post/2013-11-18_cisac_goodg_13/</link>
+      <link>https://dataandlyrics.com/post/2013-11-18-cisac_good_governance/</link>
       <pubDate>Mon, 18 Nov 2013 00:00:00 +0100</pubDate>
-      <guid>/post/2013-11-18_cisac_goodg_13/</guid>
+      <guid>https://dataandlyrics.com/post/2013-11-18-cisac_good_governance/</guid>
       <description>&lt;p&gt;You can review the slides below.&lt;/p&gt;
 &lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/MPGDNcEefEU04I&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/antaldaniel/sgeur13-1037-dantal&#34; title=&#34;Value added by music in public performance and home copying: economic theory and empirical applications in tariff setting&#34; target=&#34;_blank&#34;&gt;Value added by music in public performance and home copying: economic theory and empirical applications in tariff setting&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;//www.slideshare.net/antaldaniel&#34; target=&#34;_blank&#34;&gt;Dániel Antal&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
 &lt;p&gt;&lt;strong&gt;Contents&lt;/strong&gt;:

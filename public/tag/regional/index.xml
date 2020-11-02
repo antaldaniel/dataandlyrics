@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>regional | Data &amp; Lyrics</title>
-    <link>/tag/regional/</link>
-      <atom:link href="/tag/regional/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dataandlyrics.com/tag/regional/</link>
+      <atom:link href="https://dataandlyrics.com/tag/regional/index.xml" rel="self" type="application/rss+xml" />
     <description>regional</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 22 Apr 2020 17:00:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>regional</title>
-      <link>/tag/regional/</link>
+      <link>https://dataandlyrics.com/tag/regional/</link>
     </image>
     
     <item>
       <title>Regionalized Cultural Access and Participation (Books And Libraries) And Science Attitudes Variables</title>
-      <link>/post/2020-04-22-regional-eurobarometer/</link>
+      <link>https://dataandlyrics.com/post/2020-04-22-regional-eurobarometer/</link>
       <pubDate>Wed, 22 Apr 2020 17:00:00 +0200</pubDate>
-      <guid>/post/2020-04-22-regional-eurobarometer/</guid>
+      <guid>https://dataandlyrics.com/post/2020-04-22-regional-eurobarometer/</guid>
       <description>&lt;p&gt;My new R package, Eurobarometer, helps the creation of data panels and regionalized statistics from the Pan-European survey’s microdata. This allows the creation of many new statistical indicators for the CEEMID Music Observatory and for many market and policy research tasks.&lt;/p&gt;
 &lt;p&gt;This example dataset (Antal 2020) was created from the microdata of the
 Eurobarometer 79.2 survey using the development version of the
@@ -28,27 +28,27 @@ The dataset can be downloaded from
 &lt;h2 id=&#34;cultural-access--participation-variables&#34;&gt;Cultural Access &amp;amp; Participation Variables&lt;/h2&gt;
 &lt;p&gt;The read a book variable is a weighted sum of the responses that chose
 from &lt;code&gt;QB1 How many times in the last twelve months have you read a book?&lt;/code&gt; any answer apart from “not in the last 12 months.”&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/img/Eurobarometer_79_2_files/book-1.png&#34; alt=&#34;Individuals Who Read A Book&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://dataandlyrics.com/img/Eurobarometer_79_2_files/book-1.png&#34; alt=&#34;Individuals Who Read A Book&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;library-access&#34;&gt;Library Access&lt;/h3&gt;
 &lt;p&gt;The library access variable is a weighted sum of the responses that
 chose from &lt;code&gt;QB1 How many times in the last twelve months have you visited a public library?&lt;/code&gt; any answer apart from “not in the last 12 months.”&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/img/Eurobarometer_79_2_files/library-1.png&#34; alt=&#34;Individuals Who Visited A Library&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://dataandlyrics.com/img/Eurobarometer_79_2_files/library-1.png&#34; alt=&#34;Individuals Who Visited A Library&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;limited-library-access&#34;&gt;Limited Library Access&lt;/h3&gt;
 &lt;p&gt;The limited library access is a weighted sum of the responses that chose from the question block
 &lt;code&gt;QB2 And for each of the following activities, please tell me why you haven’t done it or haven’t done it more often in the last 12 months? ... Visited a public library&lt;/code&gt; the answer option &lt;code&gt;Limited or poor quality of this activity in the place where you live.&lt;/code&gt; In this case, the number of respondents is rather low and this is not a very reliable statistic on regional level.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/img/Eurobarometer_79_2_files/limitedlibrary-1.png&#34; alt=&#34;Individuals Who Have Poor Local  Library&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://dataandlyrics.com/img/Eurobarometer_79_2_files/limitedlibrary-1.png&#34; alt=&#34;Individuals Who Have Poor Local  Library&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;science--technology-attitudes&#34;&gt;Science &amp;amp; Technology Attitudes&lt;/h2&gt;
 &lt;p&gt;The supports open access variable is a weighted sum of yes answer
 options to the &lt;code&gt;QD 17 Do you think that the results of publicly funded research should be made available online free of charge?&lt;/code&gt;
 question.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/img/Eurobarometer_79_2_files/openaccess-1.png&#34; alt=&#34;Individuals Who Have Poor Local  Library&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://dataandlyrics.com/img/Eurobarometer_79_2_files/openaccess-1.png&#34; alt=&#34;Individuals Who Have Poor Local  Library&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;demography&#34;&gt;Demography&lt;/h2&gt;
 &lt;p&gt;The internet access question is a weighted sum of responses to the
 answer option for &lt;code&gt;D46 Which of the following do you have? - An Internet connection at home&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/img/Eurobarometer_79_2_files/internetaccess-1.png&#34; alt=&#34;Individuals Who Have Internet Access At Home&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://dataandlyrics.com/img/Eurobarometer_79_2_files/internetaccess-1.png&#34; alt=&#34;Individuals Who Have Internet Access At Home&#34;&gt;&lt;/p&gt;
 &lt;p&gt;The internet access question is a weighted sum of responses to the
 answer option for &lt;code&gt;D15 What is your current occupation? - student&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/img/Eurobarometer_79_2_files/students-1.png&#34; alt=&#34;Regional Student Population&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://dataandlyrics.com/img/Eurobarometer_79_2_files/students-1.png&#34; alt=&#34;Regional Student Population&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;data-source--data-processing&#34;&gt;Data Source &amp;amp; Data Processing&lt;/h2&gt;
 &lt;p&gt;The source of the data is the microdata file stored in GESIS for the
 

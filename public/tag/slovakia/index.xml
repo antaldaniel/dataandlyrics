@@ -2,21 +2,68 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Slovakia | Data &amp; Lyrics</title>
-    <link>/tag/slovakia/</link>
-      <atom:link href="/tag/slovakia/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dataandlyrics.com/tag/slovakia/</link>
+      <atom:link href="https://dataandlyrics.com/tag/slovakia/index.xml" rel="self" type="application/rss+xml" />
     <description>Slovakia</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 29 Jan 2020 16:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 18 Oct 2020 18:00:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Slovakia</title>
-      <link>/tag/slovakia/</link>
+      <link>https://dataandlyrics.com/tag/slovakia/</link>
     </image>
     
     <item>
+      <title>Listen Local: Open Collaboration Experiment &amp; Feasibility Study</title>
+      <link>https://dataandlyrics.com/post/2020-10-19-listen-local/</link>
+      <pubDate>Sun, 18 Oct 2020 18:00:00 +0200</pubDate>
+      <guid>https://dataandlyrics.com/post/2020-10-19-listen-local/</guid>
+      <description>&lt;p&gt;&lt;em&gt;“Big data creates injustice.”&lt;/em&gt; &amp;ndash; Cathy O&amp;rsquo;Neil, author of 
+&lt;a href=&#34;https://blogs.scientificamerican.com/roots-of-unity/review-weapons-of-math-destruction/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Weapons of Math Destruction&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If you can train machine learning algorithms on millions of music fans, then you can very precisely find listeners in Bratislava, entire Slovakia, in the Slovak diaspora in the United States.  In Utrecht, in Flanders, in Japan. If you cannot, then your sales will be driven by Spotify, Apple, Amazon or Google’s YouTube. And you fill compete with millions, tens of million of songs in your own city.&lt;/p&gt;
+&lt;p&gt;When you have access to the entire analytics toolkit to fine-tune your mastering, your instruments, your tempo, when you know how to plug into the radio editors pre-screening, then you have chance for airplay. If you are all small, even local content guidelines, such as national radio quotas or public radio targets will not help you, because you remain invisible.&lt;/p&gt;
+&lt;p&gt;With the support of the 
+&lt;a href=&#34;http://sgda.sk/#about&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slovak Arts Council&lt;/a&gt;, 
+&lt;a href=&#34;http://www.soza.sk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SOZA&lt;/a&gt;, non-profit civic association representing more than 2,600 rights holders in Slovakia and over 1 million abroad (musical works composers, lyrics and publishers), and 
+&lt;a href=&#34;https://ci-info.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Consolidated Independent&lt;/a&gt;, a music distributor platform 
+&lt;a href=&#34;https://www.linkedin.com/company/reprexbv/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reprex&lt;/a&gt; is preparing a feasibility study for the collaborative, transparent research tool and application that helps you to find your way to radio playlists, connect to fans in your own city, country, and in other towns along viable tour routes.  Make music export more of a science than a guessing game.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;listen_local_mindmap.png&#34; width=&#34;90%&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;In the first step, &lt;em&gt;until the end of 2020&lt;/em&gt;, we are going to create a demo application and a feasibility study with quantitative musicologists and data scientists. The demo application will show how to use AI to place the music of the volunteering bands and labels’s repertoire on radio lists and personal playlists.  Our feasibility study will show how different local content guidelines (radio quotas, public broadcaster targets, and other tools) can affect the market share of small local and national repertoires, and will provide culture policymakers and competition authorities with insight how to make the algorithm-driven music streaming, broadcasting marketplace more even.&lt;/p&gt;
+&lt;h2 id=&#34;how-can-you-participate-in-the-experiment&#34;&gt;How can you participate in the experiment?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;In the first phase of the experiment, &lt;strong&gt;only artists and their groups released on Spotify&lt;/strong&gt; can participate.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Participation in the experiment is free&lt;/strong&gt;.  The research findings, including potential targets for your music, will be fully open, transparent and free.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;If you are an artist, you can 
+&lt;a href=&#34;https://www.surveymonkey.com/r/ll_collector_2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;simply fill in a form&lt;/a&gt; identifying your music on Spotify, filling in a few biographical data about yourself (or your band, ensemble, group). We do not ask any financial data, and only very limited personal information. We only ask about city affiliations, targeted cities, age, experience level, and language of your lyrics, if you do not play instrumental music. In our experience, these factors are very important among musicology and sound engineering quality measures. (Read a bit more about our data 
+&lt;a href=&#34;https://dataandlyrics.com/project/listen-local/#data-use&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data use&lt;/a&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;If you are a &lt;strong&gt;fan of independent music&lt;/strong&gt;, please, &lt;strong&gt;forward this post&lt;/strong&gt; to a band that you would love to see in our project, or a local music venue that you would like to visit again after the covid-19 pandemic.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;october_playlist_analysis.png&#34; width=&#34;90%&#34; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Our project originally started out of Slovakia, Hungary, Czechia and Poland, but we only found funding in Slovakia for a low-budget, open source, open data, open collaboration experiment. &lt;strong&gt;Participation is open anywhere in the world&lt;/strong&gt;, but we are &lt;strong&gt;focusing on a viable post-covid tour route&lt;/strong&gt; around Budapest – Bratislava – Vienna – Salzburg – Munich – Ruhr – the Netherlands – Belgium. We hope to give guidance on targeting both recorded and live music.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;If you represent several artists&lt;/strong&gt; as a talent manager, music publisher, record label, granting agency or music export office, please get in 
+&lt;a href=&#34;https://dataandlyrics.com/#about&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;touch with us&lt;/a&gt; for onboarding. We will ask you to contribute a small sum on a crowdsourcing basis to expand our experimental project, but the small financial contribution is not a mandatory requirement. (See budget and 
+&lt;a href=&#34;https://dataandlyrics.com/project/listen-local/#transparency&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;transparency&lt;/a&gt;.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>CCS Ecosystems: Evidence-Driven CCI Policy &amp; The Central &amp; Eastern European Music Industry Report</title>
-      <link>/post/2020-01-30-ceereport/</link>
+      <link>https://dataandlyrics.com/post/2020-01-30-ceereport/</link>
       <pubDate>Wed, 29 Jan 2020 16:00:00 +0100</pubDate>
-      <guid>/post/2020-01-30-ceereport/</guid>
+      <guid>https://dataandlyrics.com/post/2020-01-30-ceereport/</guid>
       <description>&lt;p&gt;CEEMID &amp;amp; Consolidated Independent presented and discussed with stakeholders the  
 &lt;a href=&#34;https://danielantal.eu/publication/ceereport_2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Central &amp;amp; Eastern European Music Industry Report 2020&lt;/a&gt; as a case-study on national and comparative evidence-based policymaking in the cultural and creative sector on the 
 &lt;a href=&#34;http://creativeflip.creativehubs.net/2019/12/03/flipping-the-odds/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CCS Ecosystems: FLIPPING THE ODDS Conference&lt;/a&gt; – a two-day high-level stakeholder event jointly organized by Geothe-Institute and the DG Education and Culture of the European Commission with the Creative FLIP project.&lt;/p&gt;
@@ -27,7 +74,7 @@
 &lt;a href=&#34;https://danielantal.eu/publication/slovak_music_industry_2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slovak&lt;/a&gt;, 
 &lt;a href=&#34;https://danielantal.eu/publication/private_copying_croatia_2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Croatian&lt;/a&gt; and 
 &lt;a href=&#34;http://czdev.ceemid.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Czech&lt;/a&gt; music industry reports are compared with Armenian, Austrian, Bulgarian, Lithuanian, Serbian and Slovenian data and findings.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/img/publications/cee_report_2020_frontcover.jpg&#34; alt=&#34;Central &amp; Eastern European Music Industry Report 2020&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://dataandlyrics.com/img/publications/cee_report_2020_frontcover.jpg&#34; alt=&#34;Central &amp; Eastern European Music Industry Report 2020&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;invisibility&#34;&gt;Invisibility&lt;/h2&gt;
 &lt;p&gt;The measurement problems and the ‘invisibility’ of creative and cultural industries is a consequence of the fact that these industries are predominantly comprised of microenterprises and individual, freelancing entrepreneurs.  Even larger entities, such as collective management organizations can be classified as small enterprises.
 In the EU, small- and medium enterprises, and especially microenterprises usually have reduced reporting duties to the statistical authorities and tax authorities (which is the most important secondary source of government statistics in anonymized, aggregated form.)  This means that the supply side is not visible for policymakers. The recommendation is to conduct sample-based surveys among these microenterprises, but very few member states do that.&lt;/p&gt;
@@ -83,9 +130,9 @@ Perspectives on Academic Research with the European Commission’s Eurobarometer
     
     <item>
       <title>Central &amp; Eastern European Music Industry Report 2020</title>
-      <link>/publication/ceereport_2020/</link>
+      <link>https://dataandlyrics.com/publication/ceereport_2020/</link>
       <pubDate>Wed, 29 Jan 2020 16:00:00 +0100</pubDate>
-      <guid>/publication/ceereport_2020/</guid>
+      <guid>https://dataandlyrics.com/publication/ceereport_2020/</guid>
       <description>&lt;p&gt;CEEMID &amp;amp; Consolidated Independent presented and discussed with stakeholders the  
 &lt;a href=&#34;https://danielantal.eu/publication/ceereport_2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Central &amp;amp; Eastern European Music Industry Report 2020&lt;/a&gt; as a case-study on national and comparative evidence-based policymaking in the cultural and creative sector on the 
 &lt;a href=&#34;http://creativeflip.creativehubs.net/2019/12/03/flipping-the-odds/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CCS Ecosystems: FLIPPING THE ODDS Conference&lt;/a&gt; – a two-day high-level stakeholder event jointly organized by Geothe-Institute and the DG Education and Culture of the European Commission with the Creative FLIP project.&lt;/p&gt;
@@ -118,9 +165,9 @@ Perspectives on Academic Research with the European Commission’s Eurobarometer
     
     <item>
       <title>Slovak Music Industry Report</title>
-      <link>/publication/slovak_music_industry_2019/</link>
+      <link>https://dataandlyrics.com/publication/slovak_music_industry_2019/</link>
       <pubDate>Tue, 26 Mar 2019 00:00:00 +0100</pubDate>
-      <guid>/publication/slovak_music_industry_2019/</guid>
+      <guid>https://dataandlyrics.com/publication/slovak_music_industry_2019/</guid>
       <description>&lt;p&gt;The whole report can be downloaded for free from the 
 &lt;a href=&#34;http://www.soza.sk/aktuality/235/soza-zverej%C5%88uje-historicky-prvu-spravu-o-slovenskom-hudobnom-priemysle&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;homepage of SOZA&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Press reports in Slovak:&lt;/p&gt;
@@ -130,16 +177,16 @@ Perspectives on Academic Research with the European Commission’s Eurobarometer
 &lt;p&gt;In Hungarian:
 Új Szó: 
 &lt;a href=&#34;https://ujszo.com/kultura/tudomanyosan-a-hazai-zeneiparrol&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tudományosan a hazai zeneiparról&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Slides:&lt;/p&gt;
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
 &lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/86x5wKAlsIetxA&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/antaldaniel/spva-o-hudobnom-priemysle-na-slovensku-sharpe-2018&#34; title=&#34;Spáva o hudobnom priemysle na Slovensku&#34; target=&#34;_blank&#34;&gt;Spáva o hudobnom priemysle na Slovensku&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;//www.slideshare.net/antaldaniel&#34; target=&#34;_blank&#34;&gt;Dániel Antal&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
 </description>
     </item>
     
     <item>
       <title>Slovak Music Industry Report</title>
-      <link>/post/2018-04-18_sharpe_18/</link>
+      <link>https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/</link>
       <pubDate>Wed, 18 Apr 2018 19:00:00 +0200</pubDate>
-      <guid>/post/2018-04-18_sharpe_18/</guid>
+      <guid>https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/</guid>
       <description>&lt;p&gt;You can review the slides here.&lt;/p&gt;
 
 
@@ -168,8 +215,8 @@ Perspectives on Academic Research with the European Commission’s Eurobarometer
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018-04-18_sharpe_18/gallery/Slide1.JPG&#34; data-caption=&#34;Slovak Music Industry Report&#34;&gt;
-  &lt;img data-src=&#34;/post/2018-04-18_sharpe_18/gallery/Slide1_huaadc006dabad6f931881373b7458ff05_88558_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/gallery/Slide1.JPG&#34; data-caption=&#34;Slovak Music Industry Report&#34;&gt;
+  &lt;img data-src=&#34;https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/gallery/Slide1_huaadc006dabad6f931881373b7458ff05_88558_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -181,8 +228,8 @@ Perspectives on Academic Research with the European Commission’s Eurobarometer
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018-04-18_sharpe_18/gallery/Slide2.JPG&#34; data-caption=&#34;Music industry has a great potential to create jobs…&#34;&gt;
-  &lt;img data-src=&#34;/post/2018-04-18_sharpe_18/gallery/Slide2_hu8fb30eb298294ef97d61dc144e7c2b4c_182313_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/gallery/Slide2.JPG&#34; data-caption=&#34;Music industry has a great potential to create jobs…&#34;&gt;
+  &lt;img data-src=&#34;https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/gallery/Slide2_hu8fb30eb298294ef97d61dc144e7c2b4c_182313_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -194,8 +241,8 @@ Perspectives on Academic Research with the European Commission’s Eurobarometer
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018-04-18_sharpe_18/gallery/Slide3.JPG&#34; data-caption=&#34;Mapping the Slovak Music Industry&#34;&gt;
-  &lt;img data-src=&#34;/post/2018-04-18_sharpe_18/gallery/Slide3_hu5e60fd5e970b2c7bbcc362473ec09bc8_99011_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/gallery/Slide3.JPG&#34; data-caption=&#34;Mapping the Slovak Music Industry&#34;&gt;
+  &lt;img data-src=&#34;https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/gallery/Slide3_hu5e60fd5e970b2c7bbcc362473ec09bc8_99011_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -207,8 +254,8 @@ Perspectives on Academic Research with the European Commission’s Eurobarometer
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018-04-18_sharpe_18/gallery/Slide4.JPG&#34; data-caption=&#34;Mapping the Slovak Music industry&#34;&gt;
-  &lt;img data-src=&#34;/post/2018-04-18_sharpe_18/gallery/Slide4_hu66be944f36e1d56a5b372a09ce09fd93_159996_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/gallery/Slide4.JPG&#34; data-caption=&#34;Mapping the Slovak Music industry&#34;&gt;
+  &lt;img data-src=&#34;https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/gallery/Slide4_hu66be944f36e1d56a5b372a09ce09fd93_159996_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -220,8 +267,8 @@ Perspectives on Academic Research with the European Commission’s Eurobarometer
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018-04-18_sharpe_18/gallery/Slide5.JPG&#34; data-caption=&#34;The importance of the changing VAT regulation&#34;&gt;
-  &lt;img data-src=&#34;/post/2018-04-18_sharpe_18/gallery/Slide5_huf441aca3285f3f8d19a741ecc5d66464_97903_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/gallery/Slide5.JPG&#34; data-caption=&#34;The importance of the changing VAT regulation&#34;&gt;
+  &lt;img data-src=&#34;https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/gallery/Slide5_huf441aca3285f3f8d19a741ecc5d66464_97903_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -233,8 +280,8 @@ Perspectives on Academic Research with the European Commission’s Eurobarometer
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018-04-18_sharpe_18/gallery/Slide6.JPG&#34; data-caption=&#34;The need of stronger copyright protection and higher royalty values&#34;&gt;
-  &lt;img data-src=&#34;/post/2018-04-18_sharpe_18/gallery/Slide6_hudb27c489db7df2ca4a2fd0d2d125d94e_117307_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/gallery/Slide6.JPG&#34; data-caption=&#34;The need of stronger copyright protection and higher royalty values&#34;&gt;
+  &lt;img data-src=&#34;https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/gallery/Slide6_hudb27c489db7df2ca4a2fd0d2d125d94e_117307_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -246,8 +293,8 @@ Perspectives on Academic Research with the European Commission’s Eurobarometer
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018-04-18_sharpe_18/gallery/Slide7.JPG&#34; data-caption=&#34;Critical size in the global market requires strong national players&#34;&gt;
-  &lt;img data-src=&#34;/post/2018-04-18_sharpe_18/gallery/Slide7_hu8225d1627899f21a00b525433d99e2f9_78204_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/gallery/Slide7.JPG&#34; data-caption=&#34;Critical size in the global market requires strong national players&#34;&gt;
+  &lt;img data-src=&#34;https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/gallery/Slide7_hu8225d1627899f21a00b525433d99e2f9_78204_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -259,8 +306,8 @@ Perspectives on Academic Research with the European Commission’s Eurobarometer
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018-04-18_sharpe_18/gallery/Slide8.JPG&#34; data-caption=&#34;Part of an animation, not animated here.&#34;&gt;
-  &lt;img data-src=&#34;/post/2018-04-18_sharpe_18/gallery/Slide8_hucff3831e7fc362d0de36638c3e4c5f36_89596_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/gallery/Slide8.JPG&#34; data-caption=&#34;Part of an animation, not animated here.&#34;&gt;
+  &lt;img data-src=&#34;https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/gallery/Slide8_hucff3831e7fc362d0de36638c3e4c5f36_89596_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -272,8 +319,8 @@ Perspectives on Academic Research with the European Commission’s Eurobarometer
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018-04-18_sharpe_18/gallery/Slide9.JPG&#34; data-caption=&#34;Short-term growth with foreign revenues&#34;&gt;
-  &lt;img data-src=&#34;/post/2018-04-18_sharpe_18/gallery/Slide9_hu5c68701034a87e6f9ad825617271edc0_234931_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/gallery/Slide9.JPG&#34; data-caption=&#34;Short-term growth with foreign revenues&#34;&gt;
+  &lt;img data-src=&#34;https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/gallery/Slide9_hu5c68701034a87e6f9ad825617271edc0_234931_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -285,8 +332,8 @@ Perspectives on Academic Research with the European Commission’s Eurobarometer
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018-04-18_sharpe_18/gallery/Slidez10.JPG&#34; data-caption=&#34;Get involved&#34;&gt;
-  &lt;img data-src=&#34;/post/2018-04-18_sharpe_18/gallery/Slidez10_hu32c80ac327c29a20d60060ed92a80c5b_49531_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/gallery/Slidez10.JPG&#34; data-caption=&#34;Get involved&#34;&gt;
+  &lt;img data-src=&#34;https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/gallery/Slidez10_hu32c80ac327c29a20d60060ed92a80c5b_49531_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
 
@@ -295,7 +342,7 @@ Perspectives on Academic Research with the European Commission’s Eurobarometer
 &lt;p&gt;or on 
 &lt;a href=&#34;https://www.slideshare.net/antaldaniel/spva-o-hudobnom-priemysle-na-slovensku-sharpe-2018&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slideshare&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The 
-&lt;a href=&#34;/publication/slovak_music_industry_2019/&#34;&gt;Slovak Music Industy Report&lt;/a&gt; can be downloaded from 
+&lt;a href=&#34;https://dataandlyrics.com/publication/slovak_music_industry_2019/&#34;&gt;Slovak Music Industy Report&lt;/a&gt; can be downloaded from 
 &lt;a href=&#34;http://www.soza.sk/aktuality/235/soza-zverej%C5%88uje-historicky-prvu-spravu-o-slovenskom-hudobnom-priemysle&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>

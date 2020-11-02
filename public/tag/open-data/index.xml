@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>open-data | Data &amp; Lyrics</title>
-    <link>/tag/open-data/</link>
-      <atom:link href="/tag/open-data/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dataandlyrics.com/tag/open-data/</link>
+      <atom:link href="https://dataandlyrics.com/tag/open-data/index.xml" rel="self" type="application/rss+xml" />
     <description>open-data</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 25 Sep 2020 15:31:39 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>open-data</title>
-      <link>/tag/open-data/</link>
+      <link>https://dataandlyrics.com/tag/open-data/</link>
     </image>
     
     <item>
       <title>Product/Market Fit Validation in Yes!Delft</title>
-      <link>/post/2020-09-25-yesdelft-validation/</link>
+      <link>https://dataandlyrics.com/post/2020-09-25-yesdelft-validation/</link>
       <pubDate>Fri, 25 Sep 2020 15:31:39 +0200</pubDate>
-      <guid>/post/2020-09-25-yesdelft-validation/</guid>
+      <guid>https://dataandlyrics.com/post/2020-09-25-yesdelft-validation/</guid>
       <description>&lt;p&gt;We would like to validate our product market/fit in two segments, business/policy research and scientific research, with a supporting role given to data journalism. Because we want to follow a bootstrapping strategy, we must focus on those clients where we find the highest value proposition, which is of course easier said than done.  We see much interest in our offering from other continents, therefore we truly welcome the opportunity that we can do this on a truly global business canvas in one of the worlds’ 
 &lt;a href=&#34;https://www.yesdelft.com/news/yesdelft-among-the-top-5-business-incubators-in-the-world/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;top five incubators&lt;/a&gt;, the number 2 university-backed incubator in the world, second to none in Europe, in the 
 &lt;a href=&#34;https://www.yesdelft.com/focus-areas/artificial-intelligence/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yes!Delft AI+Blockchain&lt;/a&gt; Validation Lab.&lt;/p&gt;
@@ -73,9 +73,9 @@
     
     <item>
       <title>Launching Our Demo Music Observatory</title>
-      <link>/post/2020-09-15-music-observatory-launch/</link>
+      <link>https://dataandlyrics.com/post/2020-09-15-music-observatory-launch/</link>
       <pubDate>Tue, 15 Sep 2020 08:00:39 +0200</pubDate>
-      <guid>/post/2020-09-15-music-observatory-launch/</guid>
+      <guid>https://dataandlyrics.com/post/2020-09-15-music-observatory-launch/</guid>
       <description>&lt;p&gt;Today, on 15 September 2020, we officially launched our &lt;code&gt;minimal viable product&lt;/code&gt; as we promised to partners back in February. This was a particularly difficult period for everybody. We aspired to deliver by September in a very different environment, our hopes for commissioned work went up in flames with the pandemic, and our targeted users, musicians and music entrepreneurs, talent managers, music venues lost most of their income. The organizations helping them, granting authorities, export offices and collective management societies are overwhelmed with the problem. During these troublesome times, our team expanded, attracted great new talent, and kept working.&lt;/p&gt;
 &lt;p&gt;Our first product is the 
 &lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo Music Observatory&lt;/a&gt;, a collaborative, automated research-based 
@@ -120,9 +120,9 @@ See our
     
     <item>
       <title>Creating An Automated Data Observatory</title>
-      <link>/post/2020-09-11-creating-automated-observatory/</link>
+      <link>https://dataandlyrics.com/post/2020-09-11-creating-automated-observatory/</link>
       <pubDate>Fri, 11 Sep 2020 16:00:39 +0200</pubDate>
-      <guid>/post/2020-09-11-creating-automated-observatory/</guid>
+      <guid>https://dataandlyrics.com/post/2020-09-11-creating-automated-observatory/</guid>
       <description>&lt;p&gt;We are building data ecosystems, so called observatories, where scientific, business, policy and civic users can find factual information, data, evidence for their domain.  Our open source, open data, open collaboration approach allows to connect various open and proprietary data sources, and our reproducible research workflows allow us to automate data collection, processing, publication, documentation and presentation.&lt;/p&gt;
 &lt;p&gt;Our scripts are checking data sources, such as Eurostat&amp;rsquo;s Eurobase, Spotify&amp;rsquo;s API and other music industry sources every day for new information, and process any data corrections or new disclosure, interpolate, backcast or forecast missing values, make currency translations and unit conversions. This is shown illustrated with an 
 &lt;a href=&#34;https://dataobservatory.eu/post/2020-07-25-reproducible_ingestion/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;earlier post&lt;/a&gt;.&lt;/p&gt;
@@ -156,9 +156,9 @@ See our
     
     <item>
       <title>Starting-up</title>
-      <link>/post/2020-08-24-start-up/</link>
+      <link>https://dataandlyrics.com/post/2020-08-24-start-up/</link>
       <pubDate>Mon, 24 Aug 2020 10:15:00 +0200</pubDate>
-      <guid>/post/2020-08-24-start-up/</guid>
+      <guid>https://dataandlyrics.com/post/2020-08-24-start-up/</guid>
       <description>&lt;p&gt;The big day has come: the co-founders singed off the documents at the public notary and started the registration of a reproducible research start-up in Leiden.  We got a lot of support from our friends! Your encouragement gives us a lot of energy to accomplish our first milestones, and to get Reprex B.V. going!&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Reprex means &amp;lsquo;reproducible example&amp;rsquo; in data science.  When you are stuck with a problem, creating a reproducible example allows other computer scientists, statisticians, programmers or data users to solve it. In 80% of the cases, you usually find the solution while creating a generalized example.  In the 20% other cases, you can reach out for help easily.&lt;/p&gt;
@@ -197,9 +197,9 @@ See our
     
     <item>
       <title>Regionalized Cultural Access and Participation (Books And Libraries) And Science Attitudes Variables</title>
-      <link>/post/2020-04-22-regional-eurobarometer/</link>
+      <link>https://dataandlyrics.com/post/2020-04-22-regional-eurobarometer/</link>
       <pubDate>Wed, 22 Apr 2020 17:00:00 +0200</pubDate>
-      <guid>/post/2020-04-22-regional-eurobarometer/</guid>
+      <guid>https://dataandlyrics.com/post/2020-04-22-regional-eurobarometer/</guid>
       <description>&lt;p&gt;My new R package, Eurobarometer, helps the creation of data panels and regionalized statistics from the Pan-European survey’s microdata. This allows the creation of many new statistical indicators for the CEEMID Music Observatory and for many market and policy research tasks.&lt;/p&gt;
 &lt;p&gt;This example dataset (Antal 2020) was created from the microdata of the
 Eurobarometer 79.2 survey using the development version of the
@@ -211,27 +211,27 @@ The dataset can be downloaded from
 &lt;h2 id=&#34;cultural-access--participation-variables&#34;&gt;Cultural Access &amp;amp; Participation Variables&lt;/h2&gt;
 &lt;p&gt;The read a book variable is a weighted sum of the responses that chose
 from &lt;code&gt;QB1 How many times in the last twelve months have you read a book?&lt;/code&gt; any answer apart from “not in the last 12 months.”&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/img/Eurobarometer_79_2_files/book-1.png&#34; alt=&#34;Individuals Who Read A Book&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://dataandlyrics.com/img/Eurobarometer_79_2_files/book-1.png&#34; alt=&#34;Individuals Who Read A Book&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;library-access&#34;&gt;Library Access&lt;/h3&gt;
 &lt;p&gt;The library access variable is a weighted sum of the responses that
 chose from &lt;code&gt;QB1 How many times in the last twelve months have you visited a public library?&lt;/code&gt; any answer apart from “not in the last 12 months.”&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/img/Eurobarometer_79_2_files/library-1.png&#34; alt=&#34;Individuals Who Visited A Library&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://dataandlyrics.com/img/Eurobarometer_79_2_files/library-1.png&#34; alt=&#34;Individuals Who Visited A Library&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;limited-library-access&#34;&gt;Limited Library Access&lt;/h3&gt;
 &lt;p&gt;The limited library access is a weighted sum of the responses that chose from the question block
 &lt;code&gt;QB2 And for each of the following activities, please tell me why you haven’t done it or haven’t done it more often in the last 12 months? ... Visited a public library&lt;/code&gt; the answer option &lt;code&gt;Limited or poor quality of this activity in the place where you live.&lt;/code&gt; In this case, the number of respondents is rather low and this is not a very reliable statistic on regional level.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/img/Eurobarometer_79_2_files/limitedlibrary-1.png&#34; alt=&#34;Individuals Who Have Poor Local  Library&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://dataandlyrics.com/img/Eurobarometer_79_2_files/limitedlibrary-1.png&#34; alt=&#34;Individuals Who Have Poor Local  Library&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;science--technology-attitudes&#34;&gt;Science &amp;amp; Technology Attitudes&lt;/h2&gt;
 &lt;p&gt;The supports open access variable is a weighted sum of yes answer
 options to the &lt;code&gt;QD 17 Do you think that the results of publicly funded research should be made available online free of charge?&lt;/code&gt;
 question.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/img/Eurobarometer_79_2_files/openaccess-1.png&#34; alt=&#34;Individuals Who Have Poor Local  Library&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://dataandlyrics.com/img/Eurobarometer_79_2_files/openaccess-1.png&#34; alt=&#34;Individuals Who Have Poor Local  Library&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;demography&#34;&gt;Demography&lt;/h2&gt;
 &lt;p&gt;The internet access question is a weighted sum of responses to the
 answer option for &lt;code&gt;D46 Which of the following do you have? - An Internet connection at home&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/img/Eurobarometer_79_2_files/internetaccess-1.png&#34; alt=&#34;Individuals Who Have Internet Access At Home&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://dataandlyrics.com/img/Eurobarometer_79_2_files/internetaccess-1.png&#34; alt=&#34;Individuals Who Have Internet Access At Home&#34;&gt;&lt;/p&gt;
 &lt;p&gt;The internet access question is a weighted sum of responses to the
 answer option for &lt;code&gt;D15 What is your current occupation? - student&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/img/Eurobarometer_79_2_files/students-1.png&#34; alt=&#34;Regional Student Population&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://dataandlyrics.com/img/Eurobarometer_79_2_files/students-1.png&#34; alt=&#34;Regional Student Population&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;data-source--data-processing&#34;&gt;Data Source &amp;amp; Data Processing&lt;/h2&gt;
 &lt;p&gt;The source of the data is the microdata file stored in GESIS for the
 
@@ -278,18 +278,18 @@ Final Report.&lt;/em&gt;, 397–417. Luxembourg.
     
     <item>
       <title>First CEEMID Regional Open Data Release</title>
-      <link>/post/2020-04-16-regional-opendata-release/</link>
+      <link>https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/</link>
       <pubDate>Thu, 16 Apr 2020 17:00:00 +0200</pubDate>
-      <guid>/post/2020-04-16-regional-opendata-release/</guid>
+      <guid>https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/</guid>
       <description>&lt;p&gt;&lt;em&gt;Internet use: participating in social networks (creating user profile, posting messages or other contributions to facebook, twitter, etc.) [percentage of individuals]&lt;/em&gt; shows the development of social media use in the past 10 years in very high detail.  Social media is one of the most important ways to communicate with fans and find audiences for gigs, performances and to share new releases.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/img/dataanimation/internet_use_social_networks.gif&#34; alt=&#34;Social media use 2011-2019&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://dataandlyrics.com/img/dataanimation/internet_use_social_networks.gif&#34; alt=&#34;Social media use 2011-2019&#34;&gt;&lt;/p&gt;
 &lt;p&gt;The chosen dataset is highlighting several new priorities of CEEMID.  This indicator, which is based on a 
 &lt;a href=&#34;https://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=isoc_r_iuse_i&amp;amp;lang=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eurostat statistical product&lt;/a&gt;, has a much higher data quality than the Eurostat release, it is easier to use, and goes beyond the detail of national statistics.  It contains data on 411 territories in Europe, including countries, provinces and smaller regions, even some metropolitan areas.&lt;/p&gt;
 &lt;p&gt;The dataset is available on the European open research data repository, 
 &lt;a href=&#34;https://zenodo.org/record/3754574#.XpimX8gzbIU&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zenodo&lt;/a&gt;. It will be updated annually. 
 &lt;a href=&#34;https://doi.org/10.5281/zenodo.3754574&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://zenodo.org/badge/DOI/10.5281/zenodo.3754574.svg&#34; alt=&#34;DOI&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The processing information is available in the dataset.  First, we have used our open source software to correct the regional boundary changes during the decade (see 
-&lt;a href=&#34;/post/2020-02-13-regional_eurostat/&#34;&gt;Programatic Approach To Work With European Regional Data Panels&lt;/a&gt;).&lt;/p&gt;
+&lt;a href=&#34;https://dataandlyrics.com/post/2020-02-13-regional_eurostat/&#34;&gt;Programatic Approach To Work With European Regional Data Panels&lt;/a&gt;).&lt;/p&gt;
 &lt;p&gt;When data was missing in the end of the dataset, we used the last observation carry forward, when in the beginning, the next observation carry backwards data.  Gaps in the data were interpolated using linear interpolation. Whenever data was available on a larger (provincial level), we imputed it to the smaller regional units.&lt;/p&gt;
 &lt;p&gt;The data contains standard national / regional references according the European NUTS2013 standard for backwards compatibility. Further documentation will be available on our methodology on the 
 &lt;a href=&#34;https://documentation.ceemid.eu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;documentation.ceemid.eu&lt;/a&gt; wiki website.&lt;/p&gt;
@@ -326,8 +326,8 @@ Final Report.&lt;/em&gt;, 397–417. Luxembourg.
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2020-04-16-regional-opendata-release/gallery/ceemid_regional_social_media_use_2011.jpg&#34; data-caption=&#34;Internet use: participating in social networks (2011)&#34;&gt;
-  &lt;img data-src=&#34;/post/2020-04-16-regional-opendata-release/gallery/ceemid_regional_social_media_use_2011_hua485aaf22d1f04af04808580e8565870_238711_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;263&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/gallery/ceemid_regional_social_media_use_2011.jpg&#34; data-caption=&#34;Internet use: participating in social networks (2011)&#34;&gt;
+  &lt;img data-src=&#34;https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/gallery/ceemid_regional_social_media_use_2011_hua485aaf22d1f04af04808580e8565870_238711_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;263&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -339,8 +339,8 @@ Final Report.&lt;/em&gt;, 397–417. Luxembourg.
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2020-04-16-regional-opendata-release/gallery/ceemid_regional_social_media_use_2015.jpg&#34; data-caption=&#34;Internet use: participating in social networks (2015)&#34;&gt;
-  &lt;img data-src=&#34;/post/2020-04-16-regional-opendata-release/gallery/ceemid_regional_social_media_use_2015_hua485aaf22d1f04af04808580e8565870_246037_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;263&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/gallery/ceemid_regional_social_media_use_2015.jpg&#34; data-caption=&#34;Internet use: participating in social networks (2015)&#34;&gt;
+  &lt;img data-src=&#34;https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/gallery/ceemid_regional_social_media_use_2015_hua485aaf22d1f04af04808580e8565870_246037_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;263&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -352,8 +352,8 @@ Final Report.&lt;/em&gt;, 397–417. Luxembourg.
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2020-04-16-regional-opendata-release/gallery/ceemid_regional_social_media_use_2019.jpg&#34; data-caption=&#34;Internet use: participating in social networks (2019)&#34;&gt;
-  &lt;img data-src=&#34;/post/2020-04-16-regional-opendata-release/gallery/ceemid_regional_social_media_use_2019_hua485aaf22d1f04af04808580e8565870_250355_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;263&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/gallery/ceemid_regional_social_media_use_2019.jpg&#34; data-caption=&#34;Internet use: participating in social networks (2019)&#34;&gt;
+  &lt;img data-src=&#34;https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/gallery/ceemid_regional_social_media_use_2019_hua485aaf22d1f04af04808580e8565870_250355_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;263&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -365,8 +365,8 @@ Final Report.&lt;/em&gt;, 397–417. Luxembourg.
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2020-04-16-regional-opendata-release/gallery/metadata_ceemid_regional_social_media_use_2011.jpg&#34; data-caption=&#34;CEEMID metadata summary (2011)&#34;&gt;
-  &lt;img data-src=&#34;/post/2020-04-16-regional-opendata-release/gallery/metadata_ceemid_regional_social_media_use_2011_hua485aaf22d1f04af04808580e8565870_247818_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;263&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/gallery/metadata_ceemid_regional_social_media_use_2011.jpg&#34; data-caption=&#34;CEEMID metadata summary (2011)&#34;&gt;
+  &lt;img data-src=&#34;https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/gallery/metadata_ceemid_regional_social_media_use_2011_hua485aaf22d1f04af04808580e8565870_247818_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;263&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -378,8 +378,8 @@ Final Report.&lt;/em&gt;, 397–417. Luxembourg.
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2020-04-16-regional-opendata-release/gallery/metadata_ceemid_regional_social_media_use_2015.jpg&#34; data-caption=&#34;CEEMID metadata summary (2015)&#34;&gt;
-  &lt;img data-src=&#34;/post/2020-04-16-regional-opendata-release/gallery/metadata_ceemid_regional_social_media_use_2015_hua485aaf22d1f04af04808580e8565870_247520_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;263&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/gallery/metadata_ceemid_regional_social_media_use_2015.jpg&#34; data-caption=&#34;CEEMID metadata summary (2015)&#34;&gt;
+  &lt;img data-src=&#34;https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/gallery/metadata_ceemid_regional_social_media_use_2015_hua485aaf22d1f04af04808580e8565870_247520_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;263&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -391,8 +391,8 @@ Final Report.&lt;/em&gt;, 397–417. Luxembourg.
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2020-04-16-regional-opendata-release/gallery/metadata_ceemid_regional_social_media_use_2019.jpg&#34; data-caption=&#34;CEEMID metadata summary (2019)&#34;&gt;
-  &lt;img data-src=&#34;/post/2020-04-16-regional-opendata-release/gallery/metadata_ceemid_regional_social_media_use_2019_hua485aaf22d1f04af04808580e8565870_243997_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;263&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/gallery/metadata_ceemid_regional_social_media_use_2019.jpg&#34; data-caption=&#34;CEEMID metadata summary (2019)&#34;&gt;
+  &lt;img data-src=&#34;https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/gallery/metadata_ceemid_regional_social_media_use_2019_hua485aaf22d1f04af04808580e8565870_243997_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;263&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
 

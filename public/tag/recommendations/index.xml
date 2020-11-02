@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>recommendations | Data &amp; Lyrics</title>
+    <link>https://dataandlyrics.com/tag/recommendations/</link>
+      <atom:link href="https://dataandlyrics.com/tag/recommendations/index.xml" rel="self" type="application/rss+xml" />
+    <description>recommendations</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 27 Oct 2020 10:00:00 +0200</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>recommendations</title>
+      <link>https://dataandlyrics.com/tag/recommendations/</link>
+    </image>
+    
+    <item>
+      <title>Why Did We Start The Demo Music Observatory?</title>
+      <link>https://dataandlyrics.com/post/2020-10-27-why-start-music-observatory/</link>
+      <pubDate>Tue, 27 Oct 2020 10:00:00 +0200</pubDate>
+      <guid>https://dataandlyrics.com/post/2020-10-27-why-start-music-observatory/</guid>
+      <description>&lt;p&gt;I was contacted during the consultation period of the Feasibility Study of the European Music Observatory. That led to an uneasy series of conversations with the consultants of this project, and a very enlightening series of conversations with European civil servants, music industry organizations, music managers and artists.  My main pitch was that every single assumption of this project is wrong.&lt;/p&gt;
+&lt;p&gt;They started from the assumption that there is hardly any data available on the European music scene &amp;ndash; whereas we found while building up CEEMID, errr, a pan-European music data observatory, is that music is one of the most data-driven industries in the world, it is choking in numbers, and the reason why this data is not visible is very different. They were talking about lack of data in fields where we already had about 2000 pan-European indicators ready. (See 
+&lt;a href=&#34;https://danielantal.eu/presentation/ceemid-observatory.html#/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introducing the CEEMID Observatory, 9/28/2019&lt;/a&gt; &lt;em&gt;large self-contained html file, takes time to load into browser&lt;/em&gt;)&lt;/p&gt;
+&lt;h2 id=&#34;big-data-creates-injustice&#34;&gt;Big data creates injustice&lt;/h2&gt;
+&lt;p&gt;The music industry is scattered: it has the author’s or publishing side, the recording side, a large live music business and usually a very environment for classical (art) music. Within these segments there are hundreds of organizations in each EU country, and each have their own small or large datasets. The music industry has plenty of data, but it is not integrated, and it is often hidden from organizations that may have a conflicting agenda.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://dataandlyrics.com/post/2020-10-27-why-start-music-observatory/three_income_streams_croatia.png&#34; alt=&#34;Fragmentation: Three income streams in Croatia&#34; title=&#34;Fragmentation: Three income streams in Croatia&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The fragmentation of data makes these players easy prey in the era of big data. Companies who monopolise big datasets first and create 
+&lt;a href=&#34;https://blogs.scientificamerican.com/roots-of-unity/review-weapons-of-math-destruction/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;weapons of math destruction&lt;/a&gt; in the forms of algorithms that work for them, can take an unusually large share of the money created throughout the value chain. Proprietary, uncontrolled, big data trained algorithms reinforce inequality &amp;mdash; this makes Google’s YouTube, Spotify, but also Netflix in films or Amazon in books so powerful against its competitors, but also against competition regulators or suppliers &amp;mdash; in this case songwriters, video producers, filmmakers, book publishers and authors.  If their algorithm works against a creator, the creator is doomed, because half of the global sales are driven by secret algorithms.&lt;/p&gt;
+&lt;h2 id=&#34;big-data-vs-small-datasets-research-automation&#34;&gt;Big Data vs Small Datasets, Research Automation&lt;/h2&gt;
+&lt;p&gt;The problem of the music industry is not too little, but too much data. Music is drowning in numbers, and it has too little resources to turn much data into valuable information.&lt;/p&gt;
+&lt;p&gt;Our concept of the European Music Observatory is to pool enough resources to create value for rightsholders, talent managers, venues, festivals and the entire music ecosystem. Most music organization employ 1-5 people, and even the largest national organization, like collective management organizations, fall under the EU definition of &lt;em&gt;small- and medium sized enterprises&lt;/em&gt;. They do not have data scientists, market researchers, forecasters.  They are small organizations with small research budgets and very little time for researching. Nevertheless, with more than 60 partners in 12 countries we have shown that this is possible:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;we turned 700 million royalty statements into meaningful indicators about 
+&lt;a href=&#34;https://ceereport2020.ceemid.eu/market.html#recmarket&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the price and volume growth&lt;/a&gt; in 20 European streaming markets;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;calculated the value gap and the value of private copying in Hungary and 
+&lt;a href=&#34;https://dataandlyrics.com/publication/private_copying_croatia_2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Croatia&lt;/a&gt;;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;helped closing the royalty gap in Hungary and Slovakia by helping collective management to significantly increase their royalty collection;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;digital_gap_2018.jpg&#34; width=&#34;90%&#34; alt=&#34;Difference between potential market (household cultural spending) and actual digital music revenues&#34; title=&#34;Closing the royalty gap in Europe&#34; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;helped granting agencies to make more relevant 
+&lt;a href=&#34;https://dataandlyrics.com/project/grants/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;grant calls&lt;/a&gt; and designed indicators to measure the impact of their grants;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;started the creation of 
+&lt;a href=&#34;https://dataandlyrics.com/project/listen-local/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;local recommendation engines&lt;/a&gt; that help the circulation of the small nation repertoires or city scenes in Europe or beyond.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;music-has-data-but-you-need-a-map&#34;&gt;Music Has Data, But You Need A Map&lt;/h2&gt;
+&lt;p&gt;Scattered industries tend to be riddled with conflicts of interests.  While working with royalty collection management societies in the last 7 years I often saw that songwriters, producers and performers are often fighting each other for slices of the pie that is just too small. That means that national members of CISAC (GESAC in Europe), IFPI, and AEPO-ARTIS often do not share data with each other, although their income is below any legally acceptable threshold. They have individually very rich datasets that in many jurisdictions just never meet. Labels, small publishers are so little organizations that they do not have a data scientist, let alone a dedicated IT person, or even an HR professional to hire the services of data scientists.&lt;/p&gt;
+&lt;p&gt;We were able to collect at least 70% of the information content of the planned European Music Observatory, and far more, than most of the 50 data observatories we examined in Europe, because we took an approach inspired in open source software development: continuous opt-in, opt-out data integration, focusing on the synergies that partners can achieve, instead of aiming at endless discussions and compromises on sharing data. We never take away proprietary data from anybody, we just connect data among partners, and enrich it with open data. We would like to guide the industry from hierarchical database planning to the philosophy of open collaboration.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;We 
+&lt;a href=&#34;https://dataandlyrics.com/post/2020-09-11-creating-automated-observatory/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;automated&lt;/a&gt; most of the research tasks, to make it less costly, less error-prone, and require less labour input.  We can automate most of the data collection, data processing, imputation, validation, documentation, reporting, even some modelling.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;We invested into harvesting the vast 
+&lt;a href=&#34;https://dataobservatory.eu/project/open_data/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;open data&lt;/a&gt; of the European Union and its member states.  In the EU, most taxpayer funded research data is freely available, but at a cost of significant data reprocessing cost. If the data was originally collected to calculate to inflation or monitor tax revenues, it needs to be significantly altered for the music industry to be useful.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;We have found a way to connect many small data sources and open data. We can create big data from much small data, and deploy analytics, algorithms on collective datasets.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Forgetify: Popular Music That Nobody Listens To</title>
+      <link>https://dataandlyrics.com/post/2020-10-24-forgetify_pop_october/</link>
+      <pubDate>Sat, 24 Oct 2020 18:00:00 +0200</pubDate>
+      <guid>https://dataandlyrics.com/post/2020-10-24-forgetify_pop_october/</guid>
+      <description>&lt;p&gt;When you work on recommendation engines, particularly recommendation engines that are different from the ones developed by large media or streaming platforms, you do not want to consider goals and directions that you follow, but also the road where you do not want to end up at all. For me, Forgetify has always been a puzzling and wonderful application, because it shows purely where your artists do not want to end up.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://forgotify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Forgetify&lt;/a&gt; is a wonderful application that is “recommending” you songs that have never been played on Spotify.  Music from artists that has not been played by their fans, their friends or foes, brothers and sisters, children and grandchildren! I use recommendations in quotation marks, because their recommendations are usually based on your taste. Forgetify just picks you a song that has not been played on Spotify ever. (Never been played means that somebody may have started it, but very soon stopped playing the song.)&lt;/p&gt;
+&lt;p&gt;What connects me to Forgetify particularly is their motto: “We love music.”&lt;/p&gt;
+&lt;p&gt;As you can learn from their website, there are millions of Spotify songs that have been played only partially or never at all. And that is exactly the opposite that our partners want to achieve when they work with us.&lt;/p&gt;
+&lt;p&gt;I started to create several playlists with Forgetify.  All I did is that I took their “recommendation” and put it on a list, then hit next.  I skipped tracks that were not licensed to the Netherlands, or which were not music tracks but spoken words, for example sound recordings of stand-up comedies. Then I put these tracks on three lists&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;something that I felt was appropriate called &lt;code&gt;classical music&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;another that is &lt;code&gt;popular music&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;and another which is a mix of historical recordings, and other music which I think has such a special audience that it would not make a good mix with the other two.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For example, the 
+&lt;a href=&#34;https://open.spotify.com/track/3Gs4kJzmFiMNMfPAuhmC6P&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eightsome Reel Pt 1&lt;/a&gt; by the &lt;em&gt;Bob Smith&amp;rsquo;s Ideal Band&lt;/em&gt; is a digitalized re-release of the LP re-release of 78&#39;&#39; records from the 1930s, and it is obviosuly no competitor for a modern classical or pop music track. Even the labels &lt;code&gt;popular music&lt;/code&gt; or &lt;code&gt;classical music&lt;/code&gt; would call for further explanation, but we&amp;rsquo;ll get there another time.&lt;/p&gt;
+&lt;p&gt;So, let&amp;rsquo;s see what we have after removing historical, traditional folk, spoken word and classical music tracks in the supposedly &lt;code&gt;popular music&lt;/code&gt; &amp;ldquo;recommendations&amp;rdquo;:&lt;/p&gt;
+&lt;p align=&#34;center&#34;&gt;
+&lt;iframe src=&#34;https://open.spotify.com/embed/playlist/1kxZfYZBsDSdWhMVXQMCss&#34; width=&#34;740&#34; height=&#34;410&#34; frameborder=&#34;0&#34; allowtransparency=&#34;true&#34; allow=&#34;encrypted-media&#34;&gt;
+&lt;/iframe&gt;
+&lt;/p&gt;
+&lt;p&gt;Similarly to the use of the the word “recommendations”, the expression of “popular music” is a bit ironic here, because we are talking about music that is anything but popular, at least not on Spotify.&lt;/p&gt;
+&lt;p&gt;First let&amp;rsquo;s make a very short 
+&lt;a href=&#34;#comparison&#34;&gt;comparison&lt;/a&gt; of the current global hits, 
+&lt;a href=&#34;https://dataandlyrics.com/post/2020-10-18-october_playlist/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a subjective list&lt;/a&gt; that I created for this month and started to use for explaining our recommendations, my &lt;em&gt;Forgetify Pop October 2020&lt;/em&gt; list.  I will follow these songs in the coming years, and will keep adding new forgotten songs to my list. Then I&amp;rsquo;ll reflect on why these songs are 
+&lt;a href=&#34;#forgotten&#34;&gt;forgotten&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;comparison&#34;&gt;A Quick Comparison&lt;/h2&gt;
+&lt;p&gt;The next comparison uses some musicology and sound engineering
+“features” of the songs on the three lists. These characteristics
+are themselves recognized by algorithms, and they are used for Spotify’s own recommendations.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;october_playlist_comparison_forgetify.png&#34; width=&#34;90%&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;If anything is clear from these boxplots is that there is nothing clear about forgotten songs. The boxplot&amp;rsquo;s box show the typical values of popularity or other features, and the line starting from the box still relatively frequent values.  The long boxes of the Forgetify Pop list show that there are all sorts of music on Forgetify: screechy and not, danceable and not, cheerful and sad. My subjective list is shorter and more pronounced: it contains songs that I found to be a good match to listen together.  The current global hits are less similar than my personal selection, but far more homogeneous than all those millions of songs that end up in the forgotten long tail of the catalogue.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;forgetify_october_features.png&#34; width=&#34;90%&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Of course, the only thing that connects this playlist is that the songs are not classical or world/folk music, and that they are forgotten. The 
+&lt;a href=&#34;https://open.spotify.com/track/62y0aOSPRK1rL7lo780cgH&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;This Time&lt;/a&gt; single from 2009 by the Intonated (3 listeners this month, including myself) is heavy guitar music. It is dark. 
+&lt;a href=&#34;https://open.spotify.com/album/6cCHMZdMkfhpebJ0s6rRNR&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Perdido&lt;/a&gt; from the &lt;em&gt;Candido Featuring Al Cohn&lt;/em&gt; album released in 1956 by the 
+Cándido Camero (6945 monthly listeners) is a cheerful jazz song. It is likely that this song actually has an audience, but not on Spotify. 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/C%C3%A1ndido_Camero&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cándido&lt;/a&gt; was born as Candido de Guerra Camero in 1921 in Havana, and with his 99 years he is one of the oldest living artists on Spotify. He recorded this album almost 40 years before the internet was opened for the public. For his life long achievement in Afro-Cuban jazz he received the National Endowment for the Arts Jazz Masters Award in 2008.&lt;/p&gt;
+&lt;p&gt;My personal favorite from the Forgetify Pop list is 
+&lt;a href=&#34;https://open.spotify.com/track/21nQDfg5BMxp7vGARpOBmo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Groovy &amp;amp; Linda&lt;/a&gt; from the &lt;em&gt;Neon Princess&lt;/em&gt; album released in 1968 by Tom Parrott (39 monthly listeners). It is a nice hippy song with the favorite effect of &amp;lsquo;68, the inclusion of a sitar.  The song is not very good, the sitar and the guitar make a rather chaotic mix, but Tom Parrott (born in 1944, Washington DC, United States) is not forgotten because he was bad. There are many songs on Forgetify that I would like to skip in seconds, but Parott&amp;rsquo;s music can stay with me.&lt;/p&gt;
+&lt;h2 id=&#34;forgotten&#34;&gt;Why Are Songs Forgotten?&lt;/h2&gt;
+&lt;p&gt;One seemingly trivial reason is the age of the music. The current global hits are very new releases. The songs I curated for this months were released 2-25 years ago, though some of them are featured with newer re-releases on Spotify. Many songs on Forgetify are much older.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;october_popularity_age.png&#34; width=&#34;90%&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Our research and other&amp;rsquo;s research show that people &lt;em&gt;typically&lt;/em&gt; listen less and less music as they age. There are many people who listen to music lifelong, but others do it less and less, or completely drop the habit. And a large majority of the people tend to listen to similar music that she liked in her teenage years. For most young women and men, the music discovery period ends with school,  &lt;em&gt;typically&lt;/em&gt; in some post-secondary education institution. Later, they are no longer together with ther cohort peer-grew, but with people from all age and demographic groups when they work. Very few songs become perennial hits, and most of them lose their audience as the fans are getting older, and drop the habit of listening to music.&lt;/p&gt;
+&lt;p&gt;How can you make sure that your music will have a healthy audience for many years to come? Make sure that teenagers in your country get access to local music, for example, via the school radios, and by bringing them to local shows. That people have a chance to discover it. Build a large enough audience while your band is active who will stay loyal to you.&lt;/p&gt;
+&lt;p&gt;Another important factor is the country where the music was released. Most of the current global hits come from the United States, and some from the United Kingdom, South Korea, Germany and Russia. My personal selection included the 
+&lt;a href=&#34;http://www.deus.be/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;dEUS&lt;/a&gt; from Antwerpen, Belgium, 
+&lt;a href=&#34;http://www.davidkitt.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;David Kitt&lt;/a&gt; from Dublin, Ireland, and 
+&lt;a href=&#34;https://www.theharmaleighs.com/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Harmaleighs&lt;/a&gt; Nashville, TN, are Americans who were released by 
+Nettwerk Music Group in Vancouver, Canada.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;country_of_origin_forgetify.png&#34; width=&#34;90%&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;The forgotten tracks come from all over the world.  Many of them are Americans, because the US has the biggest recording industry and recorded far the most songs in the last 100-120 years. But on Forgetify my first 50 finds contained songs from Brazil, Finland, France, India, Palestine and Spain, not to mention plenty of classical recordings made all over the world.&lt;/p&gt;
+&lt;p&gt;Spotify has a global audience, but it&amp;rsquo;s main audiences are in the US, Japan, South Korea, Germany and the United Kingdom.  It&amp;rsquo;s algorithms are trained to serve these audiences, and its new content is coming from these countries. And it recommends very goods songs from these places.&lt;/p&gt;
+&lt;p&gt;Because concert and festival promoters, and even radio editors are often basing their decisions on YouTube, Spotify, Apple Music followers, streams and likes, the global platforms may make it extremely difficult for niche genres (for example, ancient or classical music), or small nation artists (such as Slovaks, Belgians) or older artists to get heard.&lt;/p&gt;
+&lt;p&gt;I personally do not believe that it is entirely the platform&amp;rsquo;s fault. Our 
+&lt;a href=&#34;https://dataandlyrics.com/project/listen-local/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Listen Local initiative&lt;/a&gt; is aiming to use these platforms better, and find global audiences for great music made in small nations and small towns, or niche genres.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Listen Local: Open Collaboration Experiment &amp; Feasibility Study</title>
+      <link>https://dataandlyrics.com/post/2020-10-19-listen-local/</link>
+      <pubDate>Sun, 18 Oct 2020 18:00:00 +0200</pubDate>
+      <guid>https://dataandlyrics.com/post/2020-10-19-listen-local/</guid>
+      <description>&lt;p&gt;&lt;em&gt;“Big data creates injustice.”&lt;/em&gt; &amp;ndash; Cathy O&amp;rsquo;Neil, author of 
+&lt;a href=&#34;https://blogs.scientificamerican.com/roots-of-unity/review-weapons-of-math-destruction/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Weapons of Math Destruction&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If you can train machine learning algorithms on millions of music fans, then you can very precisely find listeners in Bratislava, entire Slovakia, in the Slovak diaspora in the United States.  In Utrecht, in Flanders, in Japan. If you cannot, then your sales will be driven by Spotify, Apple, Amazon or Google’s YouTube. And you fill compete with millions, tens of million of songs in your own city.&lt;/p&gt;
+&lt;p&gt;When you have access to the entire analytics toolkit to fine-tune your mastering, your instruments, your tempo, when you know how to plug into the radio editors pre-screening, then you have chance for airplay. If you are all small, even local content guidelines, such as national radio quotas or public radio targets will not help you, because you remain invisible.&lt;/p&gt;
+&lt;p&gt;With the support of the 
+&lt;a href=&#34;http://sgda.sk/#about&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slovak Arts Council&lt;/a&gt;, 
+&lt;a href=&#34;http://www.soza.sk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SOZA&lt;/a&gt;, non-profit civic association representing more than 2,600 rights holders in Slovakia and over 1 million abroad (musical works composers, lyrics and publishers), and 
+&lt;a href=&#34;https://ci-info.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Consolidated Independent&lt;/a&gt;, a music distributor platform 
+&lt;a href=&#34;https://www.linkedin.com/company/reprexbv/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reprex&lt;/a&gt; is preparing a feasibility study for the collaborative, transparent research tool and application that helps you to find your way to radio playlists, connect to fans in your own city, country, and in other towns along viable tour routes.  Make music export more of a science than a guessing game.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;listen_local_mindmap.png&#34; width=&#34;90%&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;In the first step, &lt;em&gt;until the end of 2020&lt;/em&gt;, we are going to create a demo application and a feasibility study with quantitative musicologists and data scientists. The demo application will show how to use AI to place the music of the volunteering bands and labels’s repertoire on radio lists and personal playlists.  Our feasibility study will show how different local content guidelines (radio quotas, public broadcaster targets, and other tools) can affect the market share of small local and national repertoires, and will provide culture policymakers and competition authorities with insight how to make the algorithm-driven music streaming, broadcasting marketplace more even.&lt;/p&gt;
+&lt;h2 id=&#34;how-can-you-participate-in-the-experiment&#34;&gt;How can you participate in the experiment?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;In the first phase of the experiment, &lt;strong&gt;only artists and their groups released on Spotify&lt;/strong&gt; can participate.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Participation in the experiment is free&lt;/strong&gt;.  The research findings, including potential targets for your music, will be fully open, transparent and free.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;If you are an artist, you can 
+&lt;a href=&#34;https://www.surveymonkey.com/r/ll_collector_2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;simply fill in a form&lt;/a&gt; identifying your music on Spotify, filling in a few biographical data about yourself (or your band, ensemble, group). We do not ask any financial data, and only very limited personal information. We only ask about city affiliations, targeted cities, age, experience level, and language of your lyrics, if you do not play instrumental music. In our experience, these factors are very important among musicology and sound engineering quality measures. (Read a bit more about our data 
+&lt;a href=&#34;https://dataandlyrics.com/project/listen-local/#data-use&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data use&lt;/a&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;If you are a &lt;strong&gt;fan of independent music&lt;/strong&gt;, please, &lt;strong&gt;forward this post&lt;/strong&gt; to a band that you would love to see in our project, or a local music venue that you would like to visit again after the covid-19 pandemic.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;october_playlist_analysis.png&#34; width=&#34;90%&#34; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Our project originally started out of Slovakia, Hungary, Czechia and Poland, but we only found funding in Slovakia for a low-budget, open source, open data, open collaboration experiment. &lt;strong&gt;Participation is open anywhere in the world&lt;/strong&gt;, but we are &lt;strong&gt;focusing on a viable post-covid tour route&lt;/strong&gt; around Budapest – Bratislava – Vienna – Salzburg – Munich – Ruhr – the Netherlands – Belgium. We hope to give guidance on targeting both recorded and live music.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;If you represent several artists&lt;/strong&gt; as a talent manager, music publisher, record label, granting agency or music export office, please get in 
+&lt;a href=&#34;https://dataandlyrics.com/#about&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;touch with us&lt;/a&gt; for onboarding. We will ask you to contribute a small sum on a crowdsourcing basis to expand our experimental project, but the small financial contribution is not a mandatory requirement. (See budget and 
+&lt;a href=&#34;https://dataandlyrics.com/project/listen-local/#transparency&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;transparency&lt;/a&gt;.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>October Playlist: Wounded Egos</title>
+      <link>https://dataandlyrics.com/post/2020-10-18-october_playlist/</link>
+      <pubDate>Sat, 17 Oct 2020 18:00:00 +0200</pubDate>
+      <guid>https://dataandlyrics.com/post/2020-10-18-october_playlist/</guid>
+      <description>&lt;p&gt;Every month I create a playlist for my friends and myself – a habit that I have started with mixtapes. This month reflects our team’s journey into one of the world’s most prestigious 
+&lt;a href=&#34;https://dataandlyrics.com/post/2020-09-25-yesdelft-validation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;startup validation
+lab&lt;/a&gt; in the AI field, in a year when the recession is deeper than ever since the World War 2, the music business is devastated by the pandemic, and our team is forced to lockdown, follow this excellent validation lab on Zoom screens, meet our first clients online, and learn to work together in a socially distanced way. The songs I chose are subjectively important to me, a bit maybe even controversial ones, and probably very different from the music that you are listening to.&lt;/p&gt;
+&lt;p&gt;I would like to use this example as a start of series how we are
+thinking about connecting musicians and their fans in new ways with the help of AI and big data. How we are planning to bring back life to the small venues after the pandemic? How we try to keep the link between musicians and their audience alive in this very sad year?&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;october_playlist_analysis.png&#34; width=&#34;90%&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;In this chart you can see a short analysis of my &lt;code&gt;Wounded Egos&lt;/code&gt; playlist. It is a very personal, subjective playlist. Subjectivity is very important to us, because we want to use the
+insights from big data and machine learning in a very personal way to
+the music community: fans, artists, technicians, managers, labels,
+publisher and all the ecosystem. You can play my playlist in Spotify’s embedded player.&lt;/p&gt;
+&lt;p&gt;Below the music player you find a very short 
+&lt;a href=&#34;#comparison&#34;&gt;comparison&lt;/a&gt; of the current global hits and the current hits in the Netherlands on Spotify. This time I would like to illustrate the difference of my listening habits from the global mainstream, and I won&amp;rsquo;t go in depth to how we want to make more relevant recommendations. These are the difference that we are trying to capture for local music scenes, cities, countries in our 
+&lt;a href=&#34;https://dataandlyrics.com/project/listen_local/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Listen Local&lt;/a&gt; initiative.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;If you find it interesting why I chose these songs in October 2020, you read about 
+&lt;a href=&#34;#october-playlist&#34;&gt;my choices&lt;/a&gt; as a personal recommendation at the end of the post&lt;/em&gt;.&lt;/p&gt;
+&lt;p align=&#34;center&#34;&gt;
+&lt;iframe src=&#34;https://open.spotify.com/embed/playlist/3WyQdQgSipGzQ9a7N5xC1s&#34; width=&#34;740&#34; height=&#34;410&#34; frameborder=&#34;0&#34; allowtransparency=&#34;true&#34; allow=&#34;encrypted-media&#34;&gt;
+&lt;/iframe&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;comparison&#34;&gt;A Quick Comparison&lt;/h2&gt;
+&lt;p&gt;My playlist is a very subjective and curated playlist&amp;hellip; (&lt;em&gt;I curated it myself, after all!&lt;/em&gt;) These songs are very different from the songs that people are more likely listening to around me in the Netherlands, or all over the world.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;My subjective list for October 2020&lt;/strong&gt;: 1. 
+&lt;a href=&#34;https://open.spotify.com/track/14LSfvkF3PS0k81FAe6PFk&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wounded Egos&lt;/a&gt;  -  2. 
+&lt;a href=&#34;https://open.spotify.com/track/3MKXdtTufdX4BwVbuJqFGW&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sirens&lt;/a&gt;  -  3. 
+&lt;a href=&#34;https://open.spotify.com/track/3A8ZDfxmb75kFl5Cqr2pIf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Don&amp;rsquo;t Panic&lt;/a&gt;  -  4. 
+&lt;a href=&#34;https://open.spotify.com/track/3ezOmKfYasIe0QeWyWiucU&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Can&amp;rsquo;t Stop&lt;/a&gt;  -  5. 
+&lt;a href=&#34;https://open.spotify.com/track/2rvxQwn7rGR0ZmHvwP4AmG&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Michael And Heather At The Baggage Claim&lt;/a&gt;  -  6. 
+&lt;a href=&#34;https://open.spotify.com/track/6Uhhwk8oJc8SLloZIAQksB&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Machinist&lt;/a&gt;  -  7. 
+&lt;a href=&#34;https://open.spotify.com/track/7lBpCteEdS5WbOnzbVmWiR&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Royal Screw Up&lt;/a&gt;  -  8. 
+&lt;a href=&#34;https://open.spotify.com/track/49UDOG8DoBajXTJSTqfRMg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kyoto&lt;/a&gt;  -  9. 
+&lt;a href=&#34;https://open.spotify.com/track/0qZ9rwAonJvO91GK9nqqma&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;It&amp;rsquo;s Yours&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;The Netherlands Top 50 on Spotify (3rd week of October 2020)&lt;/strong&gt;: 1. 
+&lt;a href=&#34;https://open.spotify.com/track/3tjFYV6RSFtuktYl3ZtYcq&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mood (feat. iann dior)&lt;/a&gt;  -  2. 
+&lt;a href=&#34;https://open.spotify.com/track/7hxHWCCAIIxFLCzvDgnQHX&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lemonade (feat. Gunna, Don Toliver &amp;amp; NAV)&lt;/a&gt;  -  3. 
+&lt;a href=&#34;https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Head &amp;amp; Heart (feat.  MNEK)&lt;/a&gt;  -  4. 
+&lt;a href=&#34;https://open.spotify.com/track/0NuAnAqjZjuGtcWXJOxUyl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;In De Schuur&lt;/a&gt;  -  5. 
+&lt;a href=&#34;https://open.spotify.com/track/2MlOUXmcofMackX3bxfSwi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jerusalema (feat. Nomcebo Zikode)&lt;/a&gt;  -  6. 
+&lt;a href=&#34;https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Holy (feat. Chance The Rapper)&lt;/a&gt;  -  7. 
+&lt;a href=&#34;https://open.spotify.com/track/32Q0JiYuVr2mcxfRIPyEBS&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Más Más Más&lt;/a&gt;  -  8. 
+&lt;a href=&#34;https://open.spotify.com/track/4afGO0WTInDhK2C3dolz8z&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;De Overkant&lt;/a&gt;  -  9. 
+&lt;a href=&#34;https://open.spotify.com/track/58trym7xUwRuXnBY7hKqC9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Door De Wind&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Global Top 50 on Spotify (3rd week of October 2020)&lt;/strong&gt;: 1. 
+&lt;a href=&#34;https://open.spotify.com/track/3tjFYV6RSFtuktYl3ZtYcq&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mood (feat. iann dior)&lt;/a&gt;  -  2. 
+&lt;a href=&#34;https://open.spotify.com/track/7hxHWCCAIIxFLCzvDgnQHX&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lemonade (feat. Gunna, Don Toliver &amp;amp; NAV)&lt;/a&gt;  -  3. 
+&lt;a href=&#34;https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WAP (feat. Megan Thee Stallion)&lt;/a&gt;  -  4. 
+&lt;a href=&#34;https://open.spotify.com/track/1yoMvmasuxZfqHEipJhRbp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hawái&lt;/a&gt;  -  5. 
+&lt;a href=&#34;https://open.spotify.com/track/0t1kP63rueHleOhQkYSXFY&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dynamite&lt;/a&gt;  -  6. 
+&lt;a href=&#34;https://open.spotify.com/track/1tkg4EHVoqnhR6iFEXb60y&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;What You Know Bout Love&lt;/a&gt;  -  7. 
+&lt;a href=&#34;https://open.spotify.com/track/0PvFJmanyNQMseIFrU708S&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;For The Night (feat. Lil Baby &amp;amp; DaBaby)&lt;/a&gt;  -  8. 
+&lt;a href=&#34;https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Blinding Lights&lt;/a&gt;  -  9. 
+&lt;a href=&#34;https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Holy (feat. Chance The Rapper)&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;The most streamed songs in the Netherlands overlap with the most streamed songs all over the world, but there is no overlap with my list.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Our aim is to create locally relevant recommendations. If you live in
+Antwerpen, and you are looking for bands that you can see on a small
+stage after the pandemic, we will recommend you great music from
+Northwestern Belgium and the South of Holland. If you want to visit San Diego after the pandemic, we’ll recommend you music from the San Diego scene. If you want to fill up with good music a local content quota, such as a national and city relevant quota in your radio, we will help you.&lt;/p&gt;
+&lt;p&gt;The next comparison uses some musicology and sound engineering
+“features” of the songs on the three lists. These characteristics
+are themselves recognized by algorithms, and they are used for Spotify’s own recommendations.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;october_playlist_comparison.png&#34; width=&#34;90%&#34; /&gt; My songs
+are independent songs, far less popular than the global hits. My
+playlist is mainly indie rock, so far less danceable, less loud than the current hits, but it is more energetic! The average tempo is similar to the hits, but I tend to chose slower songs, too.&lt;/p&gt;
+&lt;p&gt;Spotify’s &lt;code&gt;valence&lt;/code&gt; is a quantitative measure that aims to capture the
+positiveness conveyed by the a sound recording(e.g.happy, cheerful,
+euphoric on the positive side, and sad, depressed, angry on the negative side). Another striking difference among my list and the two hitlists is the far broader scale of emotions conveyed by the songs that I selected for October 2020.&lt;/p&gt;
+&lt;p&gt;In the next blogposts we will explain some details.&lt;/p&gt;
+&lt;h2 id=&#34;october-playlist&#34;&gt;Wounded Egos: Daniel’s October Playlist&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;1. Gaz Coombes - 
+&lt;a href=&#34;https://open.spotify.com/track/14LSfvkF3PS0k81FAe6PFk&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wounded Egos&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Starting up a company, building a team in the times of corona, social
+distancing, zoom calls and narcissistic world leaders is hard.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. dEUS - 
+&lt;a href=&#34;https://open.spotify.com/track/3MKXdtTufdX4BwVbuJqFGW&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sirens&lt;/a&gt;&lt;/strong&gt;
+&lt;em&gt;“You gotta pick your fights, you’ve got work to do”&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Which makes you think that you have to resist the Sirens call. This
+record came out the day before I went to my CFA exam, which was the most gruelling test in my life. I just downloaded it, put it on the car hifi, pressed play and did the 8 hour test without error.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Harmaleighs - 
+&lt;a href=&#34;https://open.spotify.com/track/3A8ZDfxmb75kFl5Cqr2pIf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Don’t Panic&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;“But what if that’s all I’m good at?”&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Don’t Panic surprised me so much that it found its way to my September
+and October playlist, too. If something is perfect, it is perfect.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Jon Spencer Blues Explosion - 
+&lt;a href=&#34;https://open.spotify.com/track/3ezOmKfYasIe0QeWyWiucU&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Can’t
+Stop&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;“I just can’t stop”&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Sometimes I need to go back to the basics. Jon Spencer is as good as
+Elvis must have been on stage. I never saw Elvis on stage, I am too
+young for that, but old enough to have seen Jon Spencer on a large and
+small stage.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fountains of Wayne - 
+&lt;a href=&#34;https://open.spotify.com/track/2rvxQwn7rGR0ZmHvwP4AmG&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Michael And Heather At The Baggage Claim&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;“Michael &amp;amp; Heather at the baggage claim tired of playing the waiting
+game”&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The covid pandemic not only froze the entire music industry, and put
+many artists, venues, managers, technicians on life support, but claimed many lives in the audience and in the music community. I still come to tears when I recall that early March day when I learned that Adam Schlesinger, my favourite lyricist and songwriter died. I was alwayshoping that I will show him what we were doing. We will certainly dedicate something to his memory along the way. For 15 years, when I was sad, I just picked one of the Fountains of Wayne records, and put it on. For this playlist, I chose a bittersweet song, which probably has the best poetry written in independent music ever.&lt;/p&gt;
+&lt;p&gt;Spotify falls for the typical Schlesinger trick: the melody is very
+upbeat, the lyrics is bittersweet. Spotify risks to put it into the
+positive and danceable category, at least, within my list, though I find it just a bit less gloomy than 
+&lt;a href=&#34;https://open.spotify.com/track/3A8ZDfxmb75kFl5Cqr2pIf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Don’t
+Panic&lt;/a&gt; and the 
+&lt;a href=&#34;https://open.spotify.com/track/7lBpCteEdS5WbOnzbVmWiR&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Royal Screw
+Up&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Japanese Breakfast - 
+&lt;a href=&#34;https://open.spotify.com/track/6Uhhwk8oJc8SLloZIAQksB&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Machinist&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;“How can I fight a kingdom of your demons?”&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;I can’t complain about the big algorithms of the big company. Spotify’s algorithm brought Japanese Breakfast to me. We just want to take a less individualist approach to making recommendations. Michelle Zauner is on the feminine side of this list, and I just can’t get enough of her music.&lt;/p&gt;
+&lt;p&gt;Spotify’s analysis finds this song to be less danceable and dark, which is exactly why Japanese Breakfast is such a curious artist project. It is experimental pop music that twists well-known pop clichés into original new songs.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Soccer Mommy - 
+&lt;a href=&#34;https://open.spotify.com/track/7lBpCteEdS5WbOnzbVmWiR&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Royal Screw Up&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;“And I want an answer to all my problems”&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;When Soccer Mommy’s new record came out in March, I could not resist
+reaching out to the sound engineering team to convey my congratulations. Soccer Mommy is the youngest artist on this list with a huge talent, and the team that she works with is just world class.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Phoebe Bridgers - 
+&lt;a href=&#34;https://open.spotify.com/track/49UDOG8DoBajXTJSTqfRMg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kyoto&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;“You called me from a payphone / They still got pay phones”&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The most popular song on the playlist, a true global independent hit.
+Phoebe Bridgers is hot, and she 
+&lt;a href=&#34;https://www.facebook.com/groups/155586901702555/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;may be a
+killer&lt;/a&gt;, too.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;David Kitt - 
+&lt;a href=&#34;https://open.spotify.com/track/0qZ9rwAonJvO91GK9nqqma&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;It’s Yours&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Spotify sees this song as the most danceable and most positive song. And it is so.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

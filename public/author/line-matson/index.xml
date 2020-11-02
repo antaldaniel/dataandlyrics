@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Line Matson | Data &amp; Lyrics</title>
-    <link>/author/line-matson/</link>
-      <atom:link href="/author/line-matson/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dataandlyrics.com/author/line-matson/</link>
+      <atom:link href="https://dataandlyrics.com/author/line-matson/index.xml" rel="self" type="application/rss+xml" />
     <description>Line Matson</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 11 Sep 2020 16:00:39 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Line Matson</title>
-      <link>/author/line-matson/</link>
+      <link>https://dataandlyrics.com/author/line-matson/</link>
     </image>
     
     <item>
       <title>Creating An Automated Data Observatory</title>
-      <link>/post/2020-09-11-creating-automated-observatory/</link>
+      <link>https://dataandlyrics.com/post/2020-09-11-creating-automated-observatory/</link>
       <pubDate>Fri, 11 Sep 2020 16:00:39 +0200</pubDate>
-      <guid>/post/2020-09-11-creating-automated-observatory/</guid>
+      <guid>https://dataandlyrics.com/post/2020-09-11-creating-automated-observatory/</guid>
       <description>&lt;p&gt;We are building data ecosystems, so called observatories, where scientific, business, policy and civic users can find factual information, data, evidence for their domain.  Our open source, open data, open collaboration approach allows to connect various open and proprietary data sources, and our reproducible research workflows allow us to automate data collection, processing, publication, documentation and presentation.&lt;/p&gt;
 &lt;p&gt;Our scripts are checking data sources, such as Eurostat&amp;rsquo;s Eurobase, Spotify&amp;rsquo;s API and other music industry sources every day for new information, and process any data corrections or new disclosure, interpolate, backcast or forecast missing values, make currency translations and unit conversions. This is shown illustrated with an 
 &lt;a href=&#34;https://dataobservatory.eu/post/2020-07-25-reproducible_ingestion/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;earlier post&lt;/a&gt;.&lt;/p&gt;

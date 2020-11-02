@@ -2,23 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types | Data &amp; Lyrics</title>
-    <link>/publication_types/</link>
-      <atom:link href="/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dataandlyrics.com/publication_types/</link>
+      <atom:link href="https://dataandlyrics.com/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 29 Jan 2020 16:00:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publication_types</title>
-      <link>/publication_types/</link>
+      <link>https://dataandlyrics.com/publication_types/</link>
     </image>
-    
-    <item>
-      <title>4</title>
-      <link>/publication-type/4/</link>
-      <pubDate>Wed, 29 Jan 2020 16:00:00 +0100</pubDate>
-      <guid>/publication-type/4/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

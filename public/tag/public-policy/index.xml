@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>public-policy | Data &amp; Lyrics</title>
-    <link>/tag/public-policy/</link>
-      <atom:link href="/tag/public-policy/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dataandlyrics.com/tag/public-policy/</link>
+      <atom:link href="https://dataandlyrics.com/tag/public-policy/index.xml" rel="self" type="application/rss+xml" />
     <description>public-policy</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 15 Apr 2020 13:00:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>public-policy</title>
-      <link>/tag/public-policy/</link>
+      <link>https://dataandlyrics.com/tag/public-policy/</link>
     </image>
     
     <item>
       <title>Comparing Social Distancing in Europe</title>
-      <link>/post/2020-04-15-comparing-social-distancing/</link>
+      <link>https://dataandlyrics.com/post/2020-04-15-comparing-social-distancing/</link>
       <pubDate>Wed, 15 Apr 2020 13:00:00 +0200</pubDate>
-      <guid>/post/2020-04-15-comparing-social-distancing/</guid>
+      <guid>https://dataandlyrics.com/post/2020-04-15-comparing-social-distancing/</guid>
       <description>&lt;p&gt;People around the world are facing newer and newer exponential charts everyday. We’re all hoping for new information about the progress against the coronavirus. Unfortunately, the vast majority of these charts is meaningless. In fact, 
 &lt;a href=&#34;https://fivethirtyeight.com/features/coronavirus-case-counts-are-meaningless/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;coronavirus case counts are meaningless&lt;/a&gt;, unless they are done with very heavy statistical knowledge, and even then they are very messy. Countries have different testing and hospitalization protocols, death certificating standards, and there are less and more trustworthy governments. We do not really know the severity of the local epidemics and the relative success of public health policies.&lt;/p&gt;
 
@@ -46,8 +46,8 @@
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2020-04-15-comparing-social-distancing/gallery/countryclusters.jpg&#34; data-caption=&#34;Clustering countries on current lockdown strictness and change&#34;&gt;
-  &lt;img data-src=&#34;/post/2020-04-15-comparing-social-distancing/gallery/countryclusters_huc63f6ee1cc1b69a8e28d2c9e7295fd18_347025_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2020-04-15-comparing-social-distancing/gallery/countryclusters.jpg&#34; data-caption=&#34;Clustering countries on current lockdown strictness and change&#34;&gt;
+  &lt;img data-src=&#34;https://dataandlyrics.com/post/2020-04-15-comparing-social-distancing/gallery/countryclusters_huc63f6ee1cc1b69a8e28d2c9e7295fd18_347025_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -59,8 +59,8 @@
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2020-04-15-comparing-social-distancing/gallery/difference_summary_en.jpg&#34; data-caption=&#34;Changes in community space use, end of March and early April&#34;&gt;
-  &lt;img data-src=&#34;/post/2020-04-15-comparing-social-distancing/gallery/difference_summary_en_huc7370673eb468102ac3ad5af70997f54_262570_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;263&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2020-04-15-comparing-social-distancing/gallery/difference_summary_en.jpg&#34; data-caption=&#34;Changes in community space use, end of March and early April&#34;&gt;
+  &lt;img data-src=&#34;https://dataandlyrics.com/post/2020-04-15-comparing-social-distancing/gallery/difference_summary_en_huc7370673eb468102ac3ad5af70997f54_262570_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;263&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -72,8 +72,8 @@
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2020-04-15-comparing-social-distancing/gallery/work_home_change_EN.jpg&#34; data-caption=&#34;Growth in time spend at home and in the workplace since January&#34;&gt;
-  &lt;img data-src=&#34;/post/2020-04-15-comparing-social-distancing/gallery/work_home_change_EN_huf1bc5f0534491039237e4dc526b79bf4_336010_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;263&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2020-04-15-comparing-social-distancing/gallery/work_home_change_EN.jpg&#34; data-caption=&#34;Growth in time spend at home and in the workplace since January&#34;&gt;
+  &lt;img data-src=&#34;https://dataandlyrics.com/post/2020-04-15-comparing-social-distancing/gallery/work_home_change_EN_huf1bc5f0534491039237e4dc526b79bf4_336010_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;263&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
 
@@ -82,12 +82,12 @@
 &lt;p&gt;Nevertheless, we have some timely information on how people and the economy react to the epidemic, because there are ongoing, frequent, and comparable data sources on various consequences of the epidemic.  A particularly interesting big data source is 
 &lt;a href=&#34;https://www.blog.google/technology/health/covid-19-community-mobility-reports/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google’s geolocational reporting&lt;/a&gt; on how people’s time spent in homes, workplaces, parks, shopping areas and recreational areas change. Google gets plenty of realtime data from hundreds of millions of people and compares them by days in the week and local time with the ‘baseline’ scenario before the outbreak of the coronavirus.&lt;/p&gt;
 &lt;p&gt;Based on the locational data of various smartphones and application data, we know that people spend 10-15% more time at home since January, and 40-50% less in their workplaces.  Similar data is available for other locations.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/img/post/2020-04-15-covid/work_home_en_small.jpg&#34; alt=&#34;Stay at home or go to the workplace?&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://dataandlyrics.com/img/post/2020-04-15-covid/work_home_en_small.jpg&#34; alt=&#34;Stay at home or go to the workplace?&#34;&gt;&lt;/p&gt;
 &lt;p&gt;While people are spending less time in the workplace and more at home in every European country, there are significant differences.  Countries in the top left corner, most notable Sweden, switched less from workplaces to homes.  On the bottom right corner, Spain and Italy, which were most hit by the epidemic, are in the most severe form of lockdown.&lt;/p&gt;
 &lt;p&gt;There are some outliers, like Romania, where people stay a lot more at home, but not so much less in the workplaces – probably they cannot afford to stay clear of the job, but they are reducing other activities.  Or, in the case of Germany, people spend a lot more time in parks.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/img/post/2020-04-15-covid/difference_summary_en_small.jpg&#34; alt=&#34;Differences in space use in Europe&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://dataandlyrics.com/img/post/2020-04-15-covid/difference_summary_en_small.jpg&#34; alt=&#34;Differences in space use in Europe&#34;&gt;&lt;/p&gt;
 &lt;p&gt;I grouped the countries according to their dynamics.  Looking at Belgium and Luxembourg, we see that they are more locked down than the typical European country, but they are moving up in the first week of April compared to the last week of March. This is very much in line with their improving strain on the health system.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/img/post/2020-04-15-covid/countryclusters_small.jpg&#34; alt=&#34;Clusters of countries&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://dataandlyrics.com/img/post/2020-04-15-covid/countryclusters_small.jpg&#34; alt=&#34;Clusters of countries&#34;&gt;&lt;/p&gt;
 &lt;p&gt;What is worrying is that there appears to be a significant asynchronicity in the Schengen zone, where people and goods should move around freely.  The peripheric countries, which are less densely populated, often less integrated into the global transport and travel routes, are getting into the local epidemics later, and are acting later.  This is logical from a national point of view, but given that the European economy is very much integrated, it will prolong the pain.  The Netherlands, France and Germany need plenty of seasonal agricultural workers from the Southeast, where the lockdown is just getting really strict.  While some of their regions see improving national epidemic situations, the easing will increase the intensity of the local epidemic if a large number of workers will arrive from countries that are just going into the epidemic.&lt;/p&gt;
 &lt;p&gt;The efficient solution, as many public health officials keep saying, would be a synchronized effort to contain the virus.  The different pace and strictness of social distancing measures will mean that the local epidemics will not be in synchronization, and the countries will re-infect each other, this way prolonging the economic and social cost of this devastating pandemic.  While health policy is a national competence in the European Union, in fact, the European economic and social life is so much integrated, not only within the Schengen Zone, but even with future, prospective and candidate members states in the Balkans, that a far more coordinated public health policy would be required.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Use this in your article? Further research? Collaboration? The data &amp;amp; code is available in a private github repo. Let&amp;rsquo;s get in touch on 

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>observatory | Data &amp; Lyrics</title>
-    <link>/tag/observatory/</link>
-      <atom:link href="/tag/observatory/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dataandlyrics.com/tag/observatory/</link>
+      <atom:link href="https://dataandlyrics.com/tag/observatory/index.xml" rel="self" type="application/rss+xml" />
     <description>observatory</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 15 Sep 2020 08:00:39 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>observatory</title>
-      <link>/tag/observatory/</link>
+      <link>https://dataandlyrics.com/tag/observatory/</link>
     </image>
     
     <item>
       <title>Launching Our Demo Music Observatory</title>
-      <link>/post/2020-09-15-music-observatory-launch/</link>
+      <link>https://dataandlyrics.com/post/2020-09-15-music-observatory-launch/</link>
       <pubDate>Tue, 15 Sep 2020 08:00:39 +0200</pubDate>
-      <guid>/post/2020-09-15-music-observatory-launch/</guid>
+      <guid>https://dataandlyrics.com/post/2020-09-15-music-observatory-launch/</guid>
       <description>&lt;p&gt;Today, on 15 September 2020, we officially launched our &lt;code&gt;minimal viable product&lt;/code&gt; as we promised to partners back in February. This was a particularly difficult period for everybody. We aspired to deliver by September in a very different environment, our hopes for commissioned work went up in flames with the pandemic, and our targeted users, musicians and music entrepreneurs, talent managers, music venues lost most of their income. The organizations helping them, granting authorities, export offices and collective management societies are overwhelmed with the problem. During these troublesome times, our team expanded, attracted great new talent, and kept working.&lt;/p&gt;
 &lt;p&gt;Our first product is the 
 &lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo Music Observatory&lt;/a&gt;, a collaborative, automated research-based 
@@ -56,91 +56,6 @@ See our
 &lt;li&gt;Music: 
 &lt;a href=&#34;https://www.youtube.com/moonmoonmoon&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Moon Moon Moon&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Music Observatory</title>
-      <link>/project/music_observatory/</link>
-      <pubDate>Mon, 26 Aug 2019 08:00:00 +0200</pubDate>
-      <guid>/project/music_observatory/</guid>
-      <description>&lt;p&gt;The most important technical guideline on cultural statistics is the &lt;em&gt;Final Report of the Woking Group European Statistical System Network on Culture&lt;/em&gt; (in short: ESSnet-Culture) [@frank_guy_essnet-culture_2012].&lt;/p&gt;
-&lt;p&gt;ESSnet-Culture gave a thorough overview of cultural data sources, guidelines on standardizing data, and a technical definition of the domain, including an exact mapping of cultural and creative activities and occupations to statistical nomenclatures.&lt;/p&gt;
-&lt;h2 id=&#34;icet&#34;&gt;ICET model&lt;/h2&gt;
-&lt;p&gt;Cultural participation extends beyond the market-oriented forms of &amp;ldquo;cultural consumption&amp;rdquo; and include non-market forms, such as private copying or liturgical events.&lt;/p&gt;
-&lt;p&gt;The ESSnet-Culture working group endorsed the ICET model of quantifying cultural participation.   The aim of the ICET model is to create representative surveys, but it is a very good framework to join survey data with other data sources.  For example, the music industry and the audiovisual sector usually has extensive transaction data on most market-oriented activities.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;em&gt;Information&lt;/em&gt;: to seek, collect and spread information on culture;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;em&gt;Communication and community&lt;/em&gt;: to interact with others on cultural issues and to participate in cultural networks;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;em&gt;Enjoyment and expression&lt;/em&gt;: to enjoy exhibitions, art performances and other forms of cultural expression, to practice the arts for leisure, and to create online content;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;em&gt;Transaction&lt;/em&gt;: to buy art and to buy or reserve tickets for shows.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;The generic questionnaire was developed by Jos de Haan and Andries van den Broek at the Netherlands Institute for Social Research, originally for extending cultural participation surveys to digital forms of culture [@de_haan_virtuele_2008; @de_haan_nowadays_2012]. This methodology was endorsed by ESSnet-Culture, and a rather detailed guideline can be found in the report of the &lt;em&gt;Task Force on Cultural Practices And Social Aspects Of Culture&lt;/em&gt;, in the ESSNet-Culture technical report (in general: pp. 236-242, survey methodology and harmonization pp. 242-255, recommendations: pp. 273-274; with examples on how to use the question hierarchy on pp. 397-417.)&lt;/p&gt;
-&lt;h2 id=&#34;target-population&#34;&gt;Target Population&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;When the target population is representative members of the general public, such as in the case of audience surveys, we use 
-&lt;a href=&#34;#cap&#34;&gt;CAP&lt;/a&gt; surveys.&lt;/li&gt;
-&lt;li&gt;When the target population is a professional or microenterprise group, such as performing artists or record labels, we use our 
-&lt;a href=&#34;#professional&#34;&gt;Professional group surveys&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;cap&#34;&gt;CAP surveys&lt;/h2&gt;
-&lt;p&gt;ESSnet-Culture has reviewed several pan-European CAP manifestations, and based on the recommendations, further CAP surveys were carried out in the European Union.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;European CAP 2001: Europeans&amp;rsquo; Participation in Cultural Activities (2001)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;CEE CAP 2003:  Candidate Countries Eurobarometer 2003.1 New Europeans and Culture, all later EU member states of the EU27, except for Croatia, but including Turkey.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;European CAP 2006:  Within the EU-SILC Module 2006 On Social Participation.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;European CAP 2007:  Includes the EU27 + United Kingdom but not Croatia, Romania and Bulgaria, conducted within Eurobarometer European Cultural Values (2007)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;European CAP 2013: Includes the EU27 + Croatia (only few weeks before the country&amp;rsquo;s accession.)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;European CAP 2015: Within the EU-SILC Module 2015 On Social/Cultural Participation And Material Deprivation.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Based on these guidelines and examples, we have carried out several in-depth music and audiovisual domain oriented CAP surveys:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Hungary CAP 2014: a large, but non-representative online sample to test the methodology&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Hungary CAP 2015:&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Slovakia CAP 2015:&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Croatia CAP 2017:&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Hungary CAP 2017:&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Hungary CAP 2018:&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Hungary CAP 2019:&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Slovakia CAP 2020:&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;professional&#34;&gt;Professional Group Surveys&lt;/h2&gt;
 </description>
     </item>
     

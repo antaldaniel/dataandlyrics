@@ -2,21 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ex ante | Data &amp; Lyrics</title>
-    <link>/tag/ex-ante/</link>
-      <atom:link href="/tag/ex-ante/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dataandlyrics.com/tag/ex-ante/</link>
+      <atom:link href="https://dataandlyrics.com/tag/ex-ante/index.xml" rel="self" type="application/rss+xml" />
     <description>ex ante</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 12 Nov 2015 19:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 16 Oct 2020 00:00:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>ex ante</title>
-      <link>/tag/ex-ante/</link>
+      <link>https://dataandlyrics.com/tag/ex-ante/</link>
     </image>
     
     <item>
+      <title>Grants</title>
+      <link>https://dataandlyrics.com/project/grants/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0200</pubDate>
+      <guid>https://dataandlyrics.com/project/grants/</guid>
+      <description>&lt;p&gt;Governments, the EU, international organizations, and private donors often support causes of public interest with grants and donations. In some cases, these grants are aimed to help starting or sustaining economic activities. In other cases, they are supporting artistic activities or education.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://dataandlyrics.com/author/daniel/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel&lt;/a&gt; had been involved in the professional assessment of granting schemes and grant applications since 2000. He has learned and taught various assessment methods to evaluated EU and national grants to support valuable public infrastructure, energy savings, health investments and other causes.&lt;/p&gt;
+&lt;p&gt;Since 2013 in the CEEMID project he has transferred some of this methodology to supporting music and film creation. Grants are essential to maintain the diversity and artistic quality of European music.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-experience-with-grant-in-select-countries-based-on-our-music-professionals-survey-in-2019&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://dataandlyrics.com/img/music/isgrantplot-1.png&#34; data-caption=&#34;Experience with grant in select countries based on our music professionals survey in 2019.&#34;&gt;
+
+
+  &lt;img src=&#34;https://dataandlyrics.com/img/music/isgrantplot-1.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Experience with grant in select countries based on our music professionals survey in 2019.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;em&gt;The chart is taken from the Conclusions of the  
+&lt;a href=&#34;https://ceereport2020.ceemid.eu/conclusions-policy-business-strategy-recommendations.html#support-schemes-for-developing-the-music-scene&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Central European Music Industry Report 2020&lt;/a&gt; based on our survey in 2019.&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Anonymously surveying of musicians, their managers and music technicians about their granting experience in more than 10 countries.&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Help granting agencies with setting realistic grant targets and grating parameters with budgeting and marketing information. (See an example 
+&lt;a href=&#34;https://dataandlyrics.com/post/2015-11-12-cstp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.)&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Grant design in a comprehensive, logical framework, supported by empirical evidence, artist and ecosystem data and needs, direct and indirect (effect) indicators for program controls.&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; We would like to persuade grant managers that &lt;em&gt;ex ante&lt;/em&gt; evaluation must be followed by &lt;em&gt;ex post&lt;/em&gt; valuation. Original expectations must be contrasted with the effects of the grant and fed back to design better grants in the following year.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;More on 
+&lt;a href=&#34;https://dataandlyrics.com/tag/grants/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;grants&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Granting And Policy Evaluation For Musicians In Hungary</title>
-      <link>/post/2015-11-12_cstp/</link>
+      <link>https://dataandlyrics.com/post/2015-11-12-cstp/</link>
       <pubDate>Thu, 12 Nov 2015 19:00:00 +0100</pubDate>
-      <guid>/post/2015-11-12_cstp/</guid>
+      <guid>https://dataandlyrics.com/post/2015-11-12-cstp/</guid>
       <description>&lt;p&gt;The data and intelligence of CEEMID was used in Hungary to create an ex ante evaluation of the new Cseh Tamás Program to support popular music development in Hungary.  Our mandate was to create concrete granting proposals that have a high chance of making a change in terms of the later royalty earning capabilities of artists.&lt;/p&gt;
 &lt;p&gt;In the first phase of the project, we made two workshops with the eight fields development method to understand the challenges and existing working practices that result in a low level of royalties paid out in Hungary. This methodology requires a groupwork of all stakeholders and professionals of the industry. In this case, we worked in groups of 30-40, covering various artists, stage, light, sound technicians, producers, managers and even band transporters.  One group predominantly was Budapest-based and one in Eastern Hungary, to have a different view on working and market conditions in the metropolitan city and in the countryside. While royalties are not applicable for live music, it was well understood by the granting authority and the music industry that royalties cannot grow without a healthy live music sector in the country.&lt;/p&gt;
 &lt;p&gt;In the workshop, the consultant with several aides facilitates a very structured conversation that starts with a desired state of the industry which is not described by slogans but by actual characterizations of a desired working environment.   Instead of envisioning that “everybody gets a grant”, we describe the ideal project planning and management cycle of a new tour or record to see how a granting can fit into this workflow and what type of grants add effective assistance to realize goals.  For each goal and change we envision how that effects the work of the performing artists, her manager, the technician crew, even the schedule of the tour bus driver.  We discuss if the change makes any material change in the way we can prepare for a new album release.&lt;/p&gt;
@@ -49,8 +108,8 @@
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2015-11-12_cstp/gallery/01-featured.JPG&#34; data-caption=&#34;Workshop in the Design Terminal, Budapest&#34;&gt;
-  &lt;img data-src=&#34;/post/2015-11-12_cstp/gallery/01-featured_hu48dff82355c51cb9da72e1905faaf94d_108737_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2015-11-12-cstp/gallery/01-featured.JPG&#34; data-caption=&#34;Workshop in the Design Terminal, Budapest&#34;&gt;
+  &lt;img data-src=&#34;https://dataandlyrics.com/post/2015-11-12-cstp/gallery/01-featured_hu48dff82355c51cb9da72e1905faaf94d_108737_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -62,8 +121,8 @@
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2015-11-12_cstp/gallery/02-mindmap.jpg&#34; data-caption=&#34;Creating the mindmap&#34;&gt;
-  &lt;img data-src=&#34;/post/2015-11-12_cstp/gallery/02-mindmap_hu54f47b9031cb6332641cf1916acdc576_98341_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2015-11-12-cstp/gallery/02-mindmap.jpg&#34; data-caption=&#34;Creating the mindmap&#34;&gt;
+  &lt;img data-src=&#34;https://dataandlyrics.com/post/2015-11-12-cstp/gallery/02-mindmap_hu54f47b9031cb6332641cf1916acdc576_98341_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -75,8 +134,8 @@
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2015-11-12_cstp/gallery/03-mindmap.jpg&#34; data-caption=&#34;Excerpt of mindmap&#34;&gt;
-  &lt;img data-src=&#34;/post/2015-11-12_cstp/gallery/03-mindmap_hu83e8e21014b7b14b6bb8e4256a9d2c34_145989_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2015-11-12-cstp/gallery/03-mindmap.jpg&#34; data-caption=&#34;Excerpt of mindmap&#34;&gt;
+  &lt;img data-src=&#34;https://dataandlyrics.com/post/2015-11-12-cstp/gallery/03-mindmap_hu83e8e21014b7b14b6bb8e4256a9d2c34_145989_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -88,8 +147,8 @@
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2015-11-12_cstp/gallery/04-professions.png&#34; data-caption=&#34;Participating professions&#34;&gt;
-  &lt;img data-src=&#34;/post/2015-11-12_cstp/gallery/04-professions_hud961f54fec5297723fa4ca07fa483799_954022_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2015-11-12-cstp/gallery/04-professions.png&#34; data-caption=&#34;Participating professions&#34;&gt;
+  &lt;img data-src=&#34;https://dataandlyrics.com/post/2015-11-12-cstp/gallery/04-professions_hud961f54fec5297723fa4ca07fa483799_954022_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
 
