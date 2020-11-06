@@ -5,7 +5,7 @@ name:  Stef Koenis
 
 # Username (this should match the folr name)
 authors:
-- line
+- stef
 
 # Is this the primary user of the site?
 superuser: false
