@@ -1,5 +1,5 @@
 +++
-title = "Listen Local: Robin Kester, Utrecht, the Netherlands"
+title = "Robin Kester: This Is Not Democracy"
 
 date = 2020-11-11T11:10:00+02:00
 lastmod = 2020-11-11T11:10:00+02:00
@@ -28,9 +28,9 @@ projects = ["listen-local"]
 
 +++
 
-Robin Kester is a rising star of the Dutch music scene. The musician, currently based in Utrecht, the Netherlands, released her mini-album [This is Not a Democracy](https://robinkester.bandcamp.com/album/this-is-not-a-democracy) in September this year and received many positive reviews from the press. Despite the pandemic she managed to play several concerts throughout the country, although concerts abroad were cancelled. 
+Robin Kester is a rising star of the Dutch music scene. She released her first mini-album [This is Not a Democracy](https://robinkester.bandcamp.com/album/this-is-not-a-democracy) on 11 September 2020 and received many positive reviews from the press. Despite the pandemic she managed to play several concerts throughout the country, although concerts abroad were cancelled. 
 
-How are artists currently handling the COVID crisis and how are they currently planning their careers? We sat down with Robin and asked her point of view.
+The Utrecht-based musician is planning her first full-length album to be released next year. How is a newly recorded artist handling the Covid-crisis? How is she palnning hear career? 
 
 *Where are you heading to?  What would be a city or city-based scene where you would like to play after COVID and start building your local fan base, e.g. Vienna, Antwerpen, Zürich, or other cities. Why? What attracts you there professionally or personally?*
 
@@ -47,6 +47,7 @@ Sure, I like this one:
 {{< youtube yF5qFuFsK0E>}}
 [Robin Kester - Live at 3voor12 Radio](https://www.youtube.com/watch?v=yF5qFuFsK0E) 
 
+A longer interview in Dutch: [Robin Kester: ‘Ik ben niet dat meisje met die gitaar’](https://www.parool.nl/kunst-media/robin-kester-ik-ben-niet-dat-meisje-met-die-gitaar~b278dd59/) *I am not that girl with that guitar*.
 
 *The idea of our [Listen Local Initiative](https://dataandlyrics.com/project/listen-local/) to create transparent, well-documented recommendations in various apps, music education games, and to make new personal and radio  that work differently from the current streaming algorithms. We do not try to find yet another similar song to user, but we would like to find audience to a song. We want to avoid that new artists are ending up on the [Forgetify](https://dataandlyrics.com/post/2020-10-24-forgetify_pop_october/) list, or among hundreds of thousands of artists that the streaming platform algorithms recommend to no-one.*
 
