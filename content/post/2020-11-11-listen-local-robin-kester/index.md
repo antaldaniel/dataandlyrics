@@ -50,7 +50,7 @@ Sure, I like this one:
 
 *The idea of our [Listen Local Initiative](https://dataandlyrics.com/project/listen-local/) to create transparent, well-documented recommendations in various apps, music education games, and to make new personal and radio  that work differently from the current streaming algorithms. We do not try to find yet another similar song to user, but we would like to find audience to a song. We want to avoid that new artists are ending up on the [Forgetify](https://dataandlyrics.com/post/2020-10-24-forgetify_pop_october/) list, or among hundreds of thousands of artists that the streaming platform algorithms recommend to no-one.*
 
-*If you are an independent artist, band, label, or publisher, we encourage you to add your very short bio into our database (form [here](https://www.surveymonkey.com/r/ll_collector_2020), if you want to add several bands/artists, get in touch with us and we'll provide you a spreadsheet), and try out our demo application. Our system will be transparent: we try to make big data algorithms work for you, not against you.*
+*If you are an independent artist, band, label, or publisher, we encourage you to add your very short bio into our database (form [here](https://www.surveymonkey.com/r/ll_collector_2020), if you want to add several bands/artists, get in touch with us and we'll provide you a spreadsheet), and try out our demo application. Our system will be transparent: we try to make big data algorithms work for you, not against you. We want to help you find your audience in the UK or Ireland, like for Robin, or anywhere you want to go after the pandemic.*
 
 <br/>
 
