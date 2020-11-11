@@ -59,7 +59,7 @@ math = true
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point = "Top"
 +++
 
 Press release: [Studija: Naknade za privatno kopiranje (BTL) u Hrvatskoj drastično ispod prosjeka EU](https://www.zamp.hr/clanak/pregled/2197/studija-naknade-za-privatno-kopiranje-btl-u-hrvatskoj-drasticno-ispod-prosjeka-eu)
