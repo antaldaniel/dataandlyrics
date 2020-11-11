@@ -5,7 +5,7 @@
     <link>https://dataandlyrics.com/</link>
       <atom:link href="https://dataandlyrics.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Data &amp; Lyrics</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 07 Nov 2020 08:10:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 11 Nov 2020 11:10:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Data &amp; Lyrics</title>
@@ -13,9 +13,43 @@
     </image>
     
     <item>
+      <title>Listen Local: Robin Kester, Utrecht, the Netherlands</title>
+      <link>https://dataandlyrics.com/post/2020-11-11-listen-local-robin-kester/</link>
+      <pubDate>Wed, 11 Nov 2020 11:10:00 +0200</pubDate>
+      <guid>https://dataandlyrics.com/post/2020-11-11-listen-local-robin-kester/</guid>
+      <description>&lt;p&gt;Robin Kester is a rising star of the the Dutch music scene. The musician, currently based in Utrecht, The Netherlands, released her mini-album 
+&lt;a href=&#34;https://robinkester.bandcamp.com/album/this-is-not-a-democracy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;This is Not a Democracy&lt;/a&gt; in September this year and received many positive reviews from the press. Despite the pandemic she managed to play several concerts throughout the country, although concerts abroad were cancelled.&lt;/p&gt;
+&lt;p&gt;How are artists currently handling the COVID crisis and how are they currently planning their careers? We sat down with Robin and asked her point of view.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Where are you heading to?  What would be a city or city-based scene where you would like to play after COVID and start building your local fan base, e.g. Vienna, Antwerpen, Zürich, or other cities. Why? What attracts you there professionally or personally?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Not sure where I’m heading. I’d like to tour internationally with my music. (But who doesn’t?) I find it very difficult to pinpoint one exact place to start building a fan base. I have always loved travelling in the UK and Ireland and I admire a lot of artists from those countries, but I can’t narrow it down to one specific location.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Where do you come from? What would you recommend to visit in your hometown for a fan who is coming to see your show? And are there other artists in your area/city that you would like to recommend?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;I’m from the Netherlands and I’m currently living in Utrecht. I’d advise you to go for a nice walk around the city centre, follow the Catharijnesingel and go to a movie during the day in Springhaver or Louis Hartlooper Complex. There are plenty of other artists I’d recommend. Moon Moon Moon for instance.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Could you recommend one of your videos from YouTube or Vimeo?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Sure, I like this one:&lt;/p&gt;
+&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/yF5qFuFsK0E&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;a href=&#34;https://www.youtube.com/watch?v=yF5qFuFsK0E&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Robin Kester - Live at 3voor12 Radio&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The idea of our 
+&lt;a href=&#34;https://dataandlyrics.com/project/listen-local/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Listen Local Initiative&lt;/a&gt; to create transparent, well-documented recommendations in various apps, music education games, and to make new personal and radio  that work differently from the current streaming algorithms. We do not try to find yet another similar song to user, but we would like to find audience to a song. We want to avoid that new artists are ending up on the 
+&lt;a href=&#34;https://dataandlyrics.com/post/2020-10-24-forgetify_pop_october/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Forgetify&lt;/a&gt; list, or among hundreds of thousands of artists that the streaming platform algorithms recommend to no-one.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;If you are an independent artist, band, label, or publisher, we encourage you to add your very short bio into our database (form 
+&lt;a href=&#34;https://www.surveymonkey.com/r/ll_collector_2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;, if you want to add several bands/artists, get in touch with us and we&amp;rsquo;ll provide you a spreadsheet), and try out our demo application. Our system will be transparent: we try to make big data algorithms work for you, not against you.&lt;/em&gt;&lt;/p&gt;
+&lt;br/&gt;
+&lt;p align=&#34;center&#34;&gt;
+&lt;iframe src=&#34;https://open.spotify.com/embed/album/4l5igewpicaDDBdcZlyV90&#34; width=&#34;740&#34; height=&#34;410&#34; frameborder=&#34;0&#34; allowtransparency=&#34;true&#34; allow=&#34;encrypted-media&#34;&gt;&lt;/iframe&gt;
+&lt;/iframe&gt;
+&lt;/p&gt;
+[Robin Kester official website](https://showcase.fm/robinkester)</description>
+    </item>
+    
+    <item>
       <title>New Demo Music Observatory Dataset: Domestic Market Share On Spotify National Charts</title>
       <link>https://dataandlyrics.com/post/2020-11-09-spotify-national-charts/</link>
-      <pubDate>Sat, 07 Nov 2020 08:10:00 +0200</pubDate>
+      <pubDate>Sun, 08 Nov 2020 18:10:00 +0200</pubDate>
       <guid>https://dataandlyrics.com/post/2020-11-09-spotify-national-charts/</guid>
       <description>&lt;p&gt;The conversion to a subscription-based sales model with Spotify, Apple Music, YouTube Music, Deezer, Pandora and similar services was hailed by some to beat piracy and bringing back growth to the recording industry.  However, there are very few labels and artists who actually feel that they are profiting from this conversion.&lt;/p&gt;
 &lt;p&gt;In our 
@@ -23,21 +57,21 @@
 &lt;p&gt;&lt;img src=&#34;https://ceereport2020.ceemid.eu/CEE_Report_files/figure-html/medianvalue-1.png&#34; alt=&#34;CEEMID-CI Revenue Index for Typical Recordings&#34;&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; For a long time, the user base of Spotify and similar services did not expand at the same rate as the available repertoire, so more and more songs were competing for not so many users, many of them ending up on the never played 
+&lt;p&gt;For a long time, the user base of Spotify and similar services did not expand at the same rate as the available repertoire, so more and more songs were competing for not so many users, many of them ending up on the never played 
 &lt;a href=&#34;https://dataandlyrics.com/post/2020-10-24-forgetify_pop_october/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Forgetify&lt;/a&gt; list. In other words, competition has been steadily growing.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; In Europe, almost everybody would like to get to the U.S. (getting harder and harder) or the UK (getting somewhat more accessible).  Some have a strong market background at home, others lost their home market without gaining foreign markets.&lt;/p&gt;
+&lt;p&gt;In Europe, almost everybody would like to get to the U.S. (getting harder and harder) or the UK (getting somewhat more accessible).  Some have a strong market background at home, others lost their home market without gaining foreign markets.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Some smaller markets are somewhat protected from the competition often have low revenues because of the lower subscription fee and slower roll-out of the services. In the first years of the introduction of these services, like in Croatia or Russia this year, it is critically important to use this period to gain experience with holding or increasing local market shares.&lt;/p&gt;
+&lt;p&gt;Some smaller markets are somewhat protected from the competition often have low revenues because of the lower subscription fee and slower roll-out of the services. In the first years of the introduction of these services, like in Croatia or Russia this year, it is critically important to use this period to gain experience with holding or increasing local market shares.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; The local music industry must find ways to train algorithms, promote local music contain that is relevant for the new audiences who use streaming platforms.  Our 
+&lt;p&gt;The local music industry must find ways to train algorithms, promote local music contain that is relevant for the new audiences who use streaming platforms.  Our 
 &lt;a href=&#34;https://dataandlyrics.com/project/listen-local/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Listen Local Initiative&lt;/a&gt; aims build new data integrations that can help training data that reverses this trend.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Our Music Observatory project is aiming to track all indicators that &lt;em&gt;jointly&lt;/em&gt; determine streaming success: subscription fees, exchange rates, subscription numbers, use hours, levels of competition, typical playing volumes, typical stream prices, and likelihood of crossing borders to export markets.&lt;/p&gt;
+&lt;p&gt;Our Music Observatory project is aiming to track all indicators that &lt;em&gt;jointly&lt;/em&gt; determine streaming success: subscription fees, exchange rates, subscription numbers, use hours, levels of competition, typical playing volumes, typical stream prices, and likelihood of crossing borders to export markets.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Our aim with the 
@@ -51,6 +85,7 @@
 &lt;a href=&#34;https://music.dataobservatory.eu/music-diversity.html#domestic-market-share---spotify&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; in the 
 &lt;a href=&#34;https://music.dataobservatory.eu/music-diversity.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Music Diversity &amp;amp; Circulation&lt;/a&gt; pillar (see 
 &lt;a href=&#34;https://music.dataobservatory.eu/index.html#pillars-of-the-demo-observatory&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;all pillars&lt;/a&gt;) of our Demo Music Observatory.&lt;/p&gt;
+&lt;p&gt;We share the view that &lt;code&gt;big data creates injustice&lt;/code&gt;. Organizations that control large amounts of data, for example, the entire listening history of hundreds of millions of people in all major countries of the world, can train algorithms and robots that drive most of the music sales in the world. They can make your investment into a sound recording successful or doomed. They can circumvent or help a local content regulation, reinforce, or disable a national cultural policy goal. We want &lt;code&gt;big data to work for small venues, independent labels, startups, great and undiscovered artists&lt;/code&gt;. We believe that you cannot make a successful album launch, a market entry or introduce a successful cultural policy without large amounts of well processed and correctly analysed data. We want to create a Music Observatory that integrates the small data of many small bands, small labels, small venues, small countries, and mount correct the injustice. Make algorithms transparent and the competition fair.&lt;/p&gt;
 </description>
     </item>
     
@@ -1676,7 +1711,7 @@ Perspectives on Academic Research with the European Commission’s Eurobarometer
       <link>https://dataandlyrics.com/publication/ceereport_2020/</link>
       <pubDate>Wed, 29 Jan 2020 16:00:00 +0100</pubDate>
       <guid>https://dataandlyrics.com/publication/ceereport_2020/</guid>
-      <description>&lt;p&gt;CEEMID &amp;amp; Consolidated Independent presented and discussed with stakeholders the  
+      <description>&lt;p&gt;The predecessor of Reprex&amp;rsquo;s Demo Music Observatory, CEEMID together with the independent music distributor Consolidated Independent presented and discussed with stakeholders the  
 &lt;a href=&#34;https://danielantal.eu/publication/ceereport_2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Central &amp;amp; Eastern European Music Industry Report 2020&lt;/a&gt; as a case-study on national and comparative evidence-based policymaking in the cultural and creative sector on the 
 &lt;a href=&#34;http://creativeflip.creativehubs.net/2019/12/03/flipping-the-odds/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CCS Ecosystems: FLIPPING THE ODDS Conference&lt;/a&gt; – a two-day high-level stakeholder event jointly organized by Geothe-Institute and the DG Education and Culture of the European Commission with the Creative FLIP project.&lt;/p&gt;
 &lt;p&gt;The CEE Report builds on the results of the first 
@@ -1686,7 +1721,7 @@ Perspectives on Academic Research with the European Commission’s Eurobarometer
 &lt;a href=&#34;http://czdev.ceemid.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Czech&lt;/a&gt; music industry reports are compared with Armenian, Austrian, Bulgarian, Lithuanian, Serbian and Slovenian data and findings.&lt;/p&gt;
 &lt;p&gt;Our research findings were earlier presented and discussed in Vienna, Prague, Budapest and Bratislava with stakeholders.&lt;/p&gt;
 &lt;p&gt;You can find the earlier presentations in the 
-&lt;a href=&#34;#posts&#34;&gt;blog&lt;/a&gt; section of the website.&lt;/p&gt;
+&lt;a href=&#34;https://dataandlyrics.com/post/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blog&lt;/a&gt; section of the website.&lt;/p&gt;
 &lt;h2 id=&#34;executive-summary&#34;&gt;Executive Summary&lt;/h2&gt;
 &lt;p&gt;The first Central European Music Industry Report is the result of a co-operation that started among stakeholders in three EU countries five years ago to measure the economic value added of music – the basis of a modern royalty pricing system. This gave birth to CEEMID, originally the Central &amp;amp; Eastern European Music Industry Databases, a data integration programme that now in 2020, covers all of Europe. CEEMID fulfils similar roles to the planned European Music Observatory and supports all pillars of the future pan-European system.&lt;/p&gt;
 &lt;p&gt;The comparison of Western and Eastern music audiences reveals key demographic differences that make the unchanged adoption of business practices from mature markets in the region questionable. 
