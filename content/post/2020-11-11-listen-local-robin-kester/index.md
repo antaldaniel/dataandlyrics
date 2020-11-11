@@ -28,7 +28,7 @@ projects = ["listen-local"]
 
 +++
 
-Robin Kester is a rising star of the the Dutch music scene. The musician, currently based in Utrecht, The Netherlands, released her mini-album [This is Not a Democracy](https://robinkester.bandcamp.com/album/this-is-not-a-democracy) in September this year and received many positive reviews from the press. Despite the pandemic she managed to play several concerts throughout the country, although concerts abroad were cancelled. 
+Robin Kester is a rising star of the the Dutch music scene. The musician, currently based in Utrecht, the Netherlands, released her mini-album [This is Not a Democracy](https://robinkester.bandcamp.com/album/this-is-not-a-democracy) in September this year and received many positive reviews from the press. Despite the pandemic she managed to play several concerts throughout the country, although concerts abroad were cancelled. 
 
 How are artists currently handling the COVID crisis and how are they currently planning their careers? We sat down with Robin and asked her point of view.
 
