@@ -5,7 +5,7 @@
     <link>https://dataandlyrics.com/</link>
       <atom:link href="https://dataandlyrics.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Data &amp; Lyrics</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 11 Nov 2020 11:10:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 13 Nov 2020 07:10:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Data &amp; Lyrics</title>
@@ -13,13 +13,146 @@
     </image>
     
     <item>
-      <title>Listen Local: Robin Kester, Utrecht, the Netherlands</title>
+      <title>The Welsh Music Industry In International Comparison</title>
+      <link>https://dataandlyrics.com/post/2020-11-13-wales-comparison/</link>
+      <pubDate>Fri, 13 Nov 2020 07:10:00 +0200</pubDate>
+      <guid>https://dataandlyrics.com/post/2020-11-13-wales-comparison/</guid>
+      <description>&lt;p&gt;Next week we will introduce a music industry report from Wales. The country is a sub-national part of the United Kingdom from a statistical point view. Making evidence-based policy or market analysis is as challenging as in emerging markets where government statistical services are weak. And the parallels do not stop here.&lt;/p&gt;
+&lt;p&gt;Earlier this year we introduced a comparison of music audiences in the 
+&lt;a href=&#34;https://ceereport2020.ceemid.eu/audience.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chapter 2&lt;/a&gt;. Central European Music Industry Report. Using our 
+&lt;a href=&#34;https://dataobservatory.eu/publication/regions_2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;regions&lt;/a&gt; and 
+&lt;a href=&#34;https://dataobservatory.eu/publication/retorharmonize_2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;retroharmonize&lt;/a&gt; software, we can re-run the code and compare part so the United Kingdom audience to various European audiences. Creating new, sub-national indicators allow a better market or policy analysis and comparison among small and larger countries. Going to sub-national levels is particularly important in live music, which is mainly a local business.&lt;/p&gt;
+&lt;p&gt;While participation in concerts is similar to Western European nations in England (red) and Northern Ireland (grey), and in Scotland, maybe even to Northern Europe, in Wales we see very different participation rates.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-participation-in-music-concerts&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://dataandlyrics.com/post/2020-11-13-wales-comparison/CAP_with_Wales_concerts_hu992e35f77e4832a96d2027b8b86ba362_286799_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Participation in music: concerts&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://dataandlyrics.com/post/2020-11-13-wales-comparison/CAP_with_Wales_concerts_hu992e35f77e4832a96d2027b8b86ba362_286799_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2204&#34; height=&#34;1240&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Participation in music: concerts
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;In Wales, concert attendance falls quickly from a promising start, which is similar to Central and Eastern Europe. While the granularity of our data is a bit too low for active participation like playing a music instrument or singing, we see striking differences for Wales, too.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-participation-in-music-playing-an-instrument&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://dataandlyrics.com/post/2020-11-13-wales-comparison/CAP_with_Wales_play_music_hu2e80ed59562796b9e4a189f8c557127d_286388_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Participation in music: playing an instrument&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://dataandlyrics.com/post/2020-11-13-wales-comparison/CAP_with_Wales_play_music_hu2e80ed59562796b9e4a189f8c557127d_286388_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2204&#34; height=&#34;1240&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Participation in music: playing an instrument
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;While Wales is part of the UK British Industry, its role is similar to Slovak or the Croatian music industry in many sense.  It is part of a larger entity (Slovakia was part of Czechoslovakia, Croatia part of Yugoslavia, and now they are part of the borderless EU) but in an economically peripheral way. Wales offers less career opportunities for artists and audience, so the most valuable, highly-educated, high-earning audience (which can keep buying more and more expensive tickets) is missing, any many art talents leave to England or beyond.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-participation-in-music-singing&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://dataandlyrics.com/post/2020-11-13-wales-comparison/CAP_with_Wales_sung_huc89aa99748f8439fc04b109d842c911d_246327_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Participation in music: singing&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://dataandlyrics.com/post/2020-11-13-wales-comparison/CAP_with_Wales_sung_huc89aa99748f8439fc04b109d842c911d_246327_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2204&#34; height=&#34;1240&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Participation in music: singing
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;This leaves the &amp;ldquo;supply&amp;rdquo; of music drying, and the sustainability of the live music audience at peril.&lt;/p&gt;
+&lt;p&gt;In July 2020, Professor Paul Carr of University of South Wales was commissioned by Senedd Cymru – the Welsh Parliament to 
+&lt;a href=&#34;https://dataandlyrics.com/post/2020-11-06-welsh-covid-response/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;create a report&lt;/a&gt; examining the &lt;em&gt;state of play&lt;/em&gt; in the post Covid-19 music industries in Wales. 
+&lt;a href=&#34;https://music.dataobservatory.eu/publication/welsh_muisc_industries_2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Welsh Music Industries in a Post-Covid World&lt;/a&gt;, featured on our 
+&lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo Music Observatory&lt;/a&gt; website, will be presented to the 
+&lt;a href=&#34;https://senedd.wales/en/bus-home/committees/Pages/Committee-Profile.aspx?cid=445&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Culture, Welsh Language and Communications Committee&lt;/a&gt;. We hope that this is the beginning of an exciting cooperation when we can share knowledge between Western and Eastern Europe, and support new, evidence-based policies on a devolved, sub-national level.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robin Kester: This Is Not Democracy</title>
       <link>https://dataandlyrics.com/post/2020-11-11-listen-local-robin-kester/</link>
       <pubDate>Wed, 11 Nov 2020 11:10:00 +0200</pubDate>
       <guid>https://dataandlyrics.com/post/2020-11-11-listen-local-robin-kester/</guid>
-      <description>&lt;p&gt;Robin Kester is a rising star of the the Dutch music scene. The musician, currently based in Utrecht, the Netherlands, released her mini-album 
-&lt;a href=&#34;https://robinkester.bandcamp.com/album/this-is-not-a-democracy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;This is Not a Democracy&lt;/a&gt; in September this year and received many positive reviews from the press. Despite the pandemic she managed to play several concerts throughout the country, although concerts abroad were cancelled.&lt;/p&gt;
-&lt;p&gt;How are artists currently handling the COVID crisis and how are they currently planning their careers? We sat down with Robin and asked her point of view.&lt;/p&gt;
+      <description>&lt;p&gt;Robin Kester is a rising star of the Dutch music scene. She released her first mini-album 
+&lt;a href=&#34;https://robinkester.bandcamp.com/album/this-is-not-a-democracy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;This is Not a Democracy&lt;/a&gt; on 11 September 2020 and received many positive reviews from the press. Despite the pandemic she managed to play several concerts throughout the country, although concerts abroad were cancelled.&lt;/p&gt;
+&lt;p&gt;The Utrecht-based musician is planning her first full-length album to be released next year. How is a newly recorded artist handling the Covid-crisis? How is she palnning hear career?&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Where are you heading to?  What would be a city or city-based scene where you would like to play after COVID and start building your local fan base, e.g. Vienna, Antwerpen, Zürich, or other cities. Why? What attracts you there professionally or personally?&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Not sure where I’m heading. I’d like to tour internationally with my music. (But who doesn’t?) I find it very difficult to pinpoint one exact place to start building a fan base. I have always loved travelling in the UK and Ireland and I admire a lot of artists from those countries, but I can’t narrow it down to one specific location.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Where do you come from? What would you recommend to visit in your hometown for a fan who is coming to see your show? And are there other artists in your area/city that you would like to recommend?&lt;/em&gt;&lt;/p&gt;
@@ -33,17 +166,21 @@
 
 
 &lt;a href=&#34;https://www.youtube.com/watch?v=yF5qFuFsK0E&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Robin Kester - Live at 3voor12 Radio&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A longer interview in Dutch: 
+&lt;a href=&#34;https://www.parool.nl/kunst-media/robin-kester-ik-ben-niet-dat-meisje-met-die-gitaar~b278dd59/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Robin Kester: ‘Ik ben niet dat meisje met die gitaar’&lt;/a&gt; &lt;em&gt;I am not that girl with that guitar&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;The idea of our 
 &lt;a href=&#34;https://dataandlyrics.com/project/listen-local/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Listen Local Initiative&lt;/a&gt; to create transparent, well-documented recommendations in various apps, music education games, and to make new personal and radio  that work differently from the current streaming algorithms. We do not try to find yet another similar song to user, but we would like to find audience to a song. We want to avoid that new artists are ending up on the 
 &lt;a href=&#34;https://dataandlyrics.com/post/2020-10-24-forgetify_pop_october/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Forgetify&lt;/a&gt; list, or among hundreds of thousands of artists that the streaming platform algorithms recommend to no-one.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;If you are an independent artist, band, label, or publisher, we encourage you to add your very short bio into our database (form 
-&lt;a href=&#34;https://www.surveymonkey.com/r/ll_collector_2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;, if you want to add several bands/artists, get in touch with us and we&amp;rsquo;ll provide you a spreadsheet), and try out our demo application. Our system will be transparent: we try to make big data algorithms work for you, not against you.&lt;/em&gt;&lt;/p&gt;
+&lt;a href=&#34;https://www.surveymonkey.com/r/ll_collector_2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;, if you want to add several bands/artists, get in touch with us and we&amp;rsquo;ll provide you a spreadsheet), and try out our demo application. Our system will be transparent: we try to make big data algorithms work for you, not against you. We want to help you find your audience in the UK or Ireland, like for Robin, or anywhere you want to go after the pandemic.&lt;/em&gt;&lt;/p&gt;
 &lt;br/&gt;
 &lt;p align=&#34;center&#34;&gt;
 &lt;iframe src=&#34;https://open.spotify.com/embed/album/4l5igewpicaDDBdcZlyV90&#34; width=&#34;740&#34; height=&#34;410&#34; frameborder=&#34;0&#34; allowtransparency=&#34;true&#34; allow=&#34;encrypted-media&#34;&gt;&lt;/iframe&gt;
 &lt;/iframe&gt;
 &lt;/p&gt;
-[Robin Kester official website](https://showcase.fm/robinkester)</description>
+[Robin Kester official website](https://showcase.fm/robinkester)
+&lt;p&gt;&lt;em&gt;This is not a democracy&lt;/em&gt; is a line from the closing song &lt;em&gt;Empty Head&lt;/em&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -96,7 +233,7 @@
       <guid>https://dataandlyrics.com/post/2020-11-06-welsh-covid-response/</guid>
       <description>&lt;p&gt;In July 2020, Professor Paul Carr of 
 &lt;a href=&#34;http://staff.southwales.ac.uk/users/381-pcarr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of South Wales&lt;/a&gt; was commissioned by 
-&lt;a href=&#34;&#34;&gt;Senedd Cymru – the Welsh Parliament&lt;/a&gt; to create a report examining the ‘&lt;em&gt;state of play&lt;/em&gt;’ in the post Covid-19 music industries in Wales.&lt;/p&gt;
+&lt;a href=&#34;https://senedd.wales/en/Pages/Home.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Senedd Cymru – the Welsh Parliament&lt;/a&gt; to create a report examining the ‘&lt;em&gt;state of play&lt;/em&gt;’ in the post Covid-19 music industries in Wales.&lt;/p&gt;
 &lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;WATCH: &lt;a href=&#34;https://twitter.com/pcarr?ref_src=twsrc%5Etfw&#34;&gt;@pcarr&lt;/a&gt; came to give evidence to &lt;a href=&#34;https://twitter.com/SeneddCWLC?ref_src=twsrc%5Etfw&#34;&gt;@SeneddCWLC&lt;/a&gt;&lt;br&gt; for our inquiry into Live Music Industry in Wales 🎵 &lt;a href=&#34;https://t.co/GtrYPOg8iW&#34;&gt;pic.twitter.com/GtrYPOg8iW&lt;/a&gt;&lt;/p&gt;&amp;mdash; Senedd CWLC (@SeneddCWLC) &lt;a href=&#34;https://twitter.com/SeneddCWLC/status/1185216516201111555?ref_src=twsrc%5Etfw&#34;&gt;October 18, 2019&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;
 &lt;a href=&#34;https://twitter.com/SeneddCWLC/status/1185216516201111555?ref_src=twsrc%5Etfw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Click through&lt;/a&gt; to see a short interview with Prof. Paul Carr&lt;/em&gt;&lt;/p&gt;

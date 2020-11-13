@@ -28,7 +28,7 @@ projects = ["music-observatory"]
 
 +++
 
-In July 2020, Professor Paul Carr of [University of South Wales](http://staff.southwales.ac.uk/users/381-pcarr) was commissioned by [Senedd Cymru – the Welsh Parliament]() to create a report examining the ‘*state of play*’ in the post Covid-19 music industries in Wales.
+In July 2020, Professor Paul Carr of [University of South Wales](http://staff.southwales.ac.uk/users/381-pcarr) was commissioned by [Senedd Cymru – the Welsh Parliament](https://senedd.wales/en/Pages/Home.aspx) to create a report examining the ‘*state of play*’ in the post Covid-19 music industries in Wales.
 
 <p><blockquote class="twitter-tweet"><p lang="en" dir="ltr">WATCH: <a href="https://twitter.com/pcarr?ref_src=twsrc%5Etfw">@pcarr</a> came to give evidence to <a href="https://twitter.com/SeneddCWLC?ref_src=twsrc%5Etfw">@SeneddCWLC</a><br> for our inquiry into Live Music Industry in Wales 🎵 <a href="https://t.co/GtrYPOg8iW">pic.twitter.com/GtrYPOg8iW</a></p>&mdash; Senedd CWLC (@SeneddCWLC) <a href="https://twitter.com/SeneddCWLC/status/1185216516201111555?ref_src=twsrc%5Etfw">October 18, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 
