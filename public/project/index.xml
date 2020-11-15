@@ -162,13 +162,214 @@
       <link>https://dataandlyrics.com/project/music-observatory/</link>
       <pubDate>Wed, 26 Aug 2020 08:00:00 +0200</pubDate>
       <guid>https://dataandlyrics.com/project/music-observatory/</guid>
-      <description>&lt;p&gt;Data is power, and &lt;code&gt;big data creates injustice&lt;/code&gt;.  Organizations that control large amounts of data, for example, the entire listening history of hundreds of millions of people in all major countries of the world, can train algorithms and robots that drive most of the music in the world.  They can make your investment into a sound recording successful or doomed. They can circumvent or help a local content regulation, reinforce, or disable a national cultural policy goal.  A country may introduce national artist quotas on radio, if all the youth will be personally recommended foreign songs in their music discovery age in the very same country.&lt;/p&gt;
+      <description>&lt;p&gt;We are developing our 
+&lt;a href=&#34;project/music-observatory/&#34;&gt;Demo Music Observatory&lt;/a&gt; in the world&amp;rsquo;s 2nd ranked university-backed incubator program, the 
+&lt;a href=&#34;post/2020-09-25-yesdelft-validation/&#34;&gt;Yes!Delft AI Validation Lab&lt;/a&gt;. Our aim is to show a better organizational model, examples of research automation and other data integration innovation that can reduce the budgetary needs of the European Music Observatory by 80-90% and provide far more timely, accurate, and relevant service than most data observatories in Europe.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;a href=&#34;#background&#34;&gt;Background&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;#data-gaps&#34;&gt;Data gaps&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;#organization&#34;&gt;Organization and institutional model&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;#quality&#34;&gt;Quality Control&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;#budget&#34;&gt;Value For Money, Budget&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;#use-cases&#34;&gt;Use Cases&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+&lt;p&gt;Data is power, and &lt;code&gt;big data creates injustice&lt;/code&gt;.  Organizations that control large amounts of data, for example, the entire listening history of hundreds of millions of people in all major countries of the world, can train algorithms and robots that drive most of the music in the world.  They can make your investment into a sound recording successful or doomed. They can circumvent or help a local content regulation, reinforce, or disable a national cultural policy goal.  A country may introduce national artist quotas on radio, if all the youth will be personally recommended foreign songs in their music discovery age in the very same country.&lt;/p&gt;
+&lt;p&gt;We believe that answer of the EU and UNESCO with the creation of permanent data collection points, so-called 
+&lt;a href=&#34;https://dataobservatory.eu/faq/observatories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data observatories&lt;/a&gt; is correct. However, after reviewing 62 data observatories, we are convinced that many data observatories are doomed to fail.&lt;/p&gt;
+&lt;p&gt;Our private observatory, CEEMID was consulted in the creation of the 
+&lt;a href=&#34;https://op.europa.eu/en/publication-detail/-/publication/a756542a-249d-11eb-9d7e-01aa75ed71a1/language-en/format-PDF/source-171307257&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Feasibility study for the establishment of a European Music Observatory&lt;/a&gt;, and some of our recommendations found way into the consultant’s document. We created a Demo Music Observatory to provide a practical guidance on the decisions facing the European stakeholders, and to answer the questions that were left open in the Feasibility Study &amp;mdash; particularly on  
+&lt;a href=&#34;#data-gaps&#34;&gt;data integration&lt;/a&gt; and the 
+&lt;a href=&#34;#organization&#34;&gt;institutional model&lt;/a&gt;, where a wrong choice can lead to very long delivery time, 
+&lt;a href=&#34;#quality&#34;&gt;quality control&lt;/a&gt; and 
+&lt;a href=&#34;#budget&#34;&gt;budgeting&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;data-gaps&#34;&gt;Data Gaps&lt;/h2&gt;
+&lt;p&gt;According to the feasibility study, 11% of the stakeholders consulted found that sufficient data was available for their work, 30% said that there could be more data but that does not affect their work, and 59% found that the lack of data affects their work.&lt;/p&gt;
+&lt;p&gt;We have shown in the 
+&lt;a href=&#34;publication/ceereport_2020/&#34;&gt;Central &amp;amp; Eastern European Music Industry Report 2020&lt;/a&gt;, featured in the 
+&lt;a href=&#34;post/2020-01-30-ceereport/&#34;&gt;CCS Ecosystems: FLIPPING THE ODDS Conference&lt;/a&gt; – a two-day high-level stakeholder event jointly organized by Geothe-Institute and the DG Education and Culture of the European Commission with the Creative FLIP project.that much of the data gap is 
+&lt;a href=&#34;post/2020-01-30-ceereport/#invisibility&#34;&gt;illusory&lt;/a&gt;: the fragmented nature of the music industry, the lack of in-house data expertise create bottlenecks in the use of the data. However, the data is present, and as it is stated in 148-149, we are willing to transfer thousands of indicators in all pillars to the future European Music Observatory.&lt;/p&gt;
+&lt;p&gt;Our Demo Music Observatory is based on the accepted music industry concept in the US and the EU (the three-income stream model) and its data maps that we could apply to emerging markets &amp;ndash; for example, in 
+&lt;a href=&#34;post/2016-04-20_makk15/&#34;&gt;the case of Croatia&lt;/a&gt;. A clear map of the industry and a clear map of the data reveals that much of the perceived gap is illusory.  We would like to challenge the European music stakeholders to test us, request seemingly missing data that we will try to publish.&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-illustration-our-map-to-find-to-locate-data-in-the-croatian-music-industry-our-demo-music-observatory-is-based-on-the-accepted-music-industry-concept-in-the-us-and-the-eu-the-three-income-stream-model-and-its-data-maps&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://dataandlyrics.com/img/methodology/three_income_streams_croatia.png&#34; data-caption=&#34;Illustration: our map to find to locate data in the Croatian music industry. Our Demo Music Observatory is based on the accepted music industry concept in the US and the EU (the three-income stream model) and its data maps.&#34;&gt;
+
+
+  &lt;img src=&#34;https://dataandlyrics.com/img/methodology/three_income_streams_croatia.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Illustration: our map to find to locate data in the Croatian music industry. Our Demo Music Observatory is based on the accepted music industry concept in the US and the EU (the three-income stream model) and its data maps.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;This remains a problem with the Summary of Data Gaps on pages 128-131 that enumerate the perceived lack of data for the three pillars.  We believe that these data gaps are in most cases illusory, and the remedies offered in the study are often misplaced.&lt;/p&gt;
+&lt;h2 id=&#34;circulation-of-repertoire--cultural-diversity&#34;&gt;Circulation of Repertoire &amp;amp; Cultural Diversity&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Streaming activity: the Feasibility Study offers Nielsen’s Global Charts as a potential solution, even though we have shown that this is not the right approach.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The problem with Nielsen’s charts, or any chart provider’s chart, is that it covers less than 0.01% of the European repertoire, and it depicts a completely irrelevant picture for the 99.99% of the European stakeholders.&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-illustration-our-map-to-find-to-locate-data-in-the-croatian-music-industry-our-demo-music-observatory-is-based-on-the-accepted-music-industry-concept-in-the-us-and-the-eu-the-three-income-stream-model-and-its-data-maps&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://dataandlyrics.com/img/reports/medianvalue-1.png&#34; data-caption=&#34;Illustration: our map to find to locate data in the Croatian music industry. Our Demo Music Observatory is based on the accepted music industry concept in the US and the EU (the three-income stream model) and its data maps.&#34;&gt;
+
+
+  &lt;img src=&#34;https://dataandlyrics.com/img/reports/medianvalue-1.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Illustration: our map to find to locate data in the Croatian music industry. Our Demo Music Observatory is based on the accepted music industry concept in the US and the EU (the three-income stream model) and its data maps.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;We believe that the right approach, followed by our Demo Music Observatory, is a reconciliation with the work on 
+&lt;a href=&#34;https://ec.europa.eu/eurostat/cros/content/big-data_en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Big Data&lt;/a&gt; the  European Statistical System (i.e. the partnership of Eurostat and the national statistical authorities.) (See 
+&lt;a href=&#34;https://ceereport2020.ceemid.eu/market.html#recmarket&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;our analysis&lt;/a&gt; of 20 advanced, emerging and future markets in Europe.)&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Challenge Our Demo Observatory&lt;/code&gt;: &lt;em&gt;Check out the&lt;/em&gt; 
+&lt;a href=&#34;https://demoobservatory.dataobservatory.eu/music-diversity-circulation.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Music Diversity &amp;amp; Circulation Pillar&lt;/a&gt; &lt;em&gt;of our Demo Music Observatory.  If you do not find what you are looking for,&lt;/em&gt; 
+&lt;a href=&#34;https://dataobservatory.eu/#contact&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;contact us&lt;/a&gt; &amp;mdash; &lt;em&gt;we will try to put the data there from our repositories.&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;people--diversity&#34;&gt;People &amp;amp; Diversity&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The &lt;em&gt;Feasibility Study&lt;/em&gt; claims that “there is no real EU wide data on diversity in the music sector.  Diversity should include the study of ethnic minorities, gender and vulnerable groups&amp;hellip;”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-illusory-data-gap-active-and-music-participation-is-available-on-eu-level-both-for-gender-groups-or-four-ethnic-minorities--this-is-regularly-featured-in-various-european-cap-surveys-and-in-our-national-cap-surveys-too&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://dataandlyrics.com/img/comparative/music_activity_playing_an_instrument_by_gender.png&#34; data-caption=&#34;Illusory data gap: active and music participation is available on EU level both for gender groups or four ethnic minorities – this is regularly featured in various European CAP surveys and in our national CAP surveys, too.&#34;&gt;
+
+
+  &lt;img src=&#34;https://dataandlyrics.com/img/comparative/music_activity_playing_an_instrument_by_gender.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Illusory data gap: active and music participation is available on EU level both for gender groups or four ethnic minorities – this is regularly featured in various European CAP surveys and in our national CAP surveys, too.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;However, active and music participation is available on EU level both for gender groups (see our chart) or four ethnic minorities – this is regularly featured in various European CAP surveys and in our national CAP surveys, too.  Our peer-reviewed, open-source 
+&lt;a href=&#34;https://retroharmonize.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;retroharmonize&lt;/a&gt; statistical software was developed exactly to create these data products.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Challenge Our Demo Observatory&lt;/code&gt;: &lt;em&gt;Check out the&lt;/em&gt; 
+&lt;a href=&#34;https://data.music.dataobservatory.eu/music-society.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Music, Society and Citizenship Pillar&lt;/a&gt; &lt;em&gt;of our Demo Music Observatory.  If you do not find what you are looking for,&lt;/em&gt; 
+&lt;a href=&#34;https://dataobservatory.eu/#contact&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;contact us&lt;/a&gt; &amp;mdash; &lt;em&gt;we will try to put the data there from our repositories.&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;music-economy&#34;&gt;Music Economy&lt;/h3&gt;
+&lt;p&gt;Because music is mainly a market activity, apart from the mainly publicly funded classical (arts) music sector, and a part of the music (stage) infrastructure, a wide variety of data is available on the music economy in a consistent manner.&lt;/p&gt;
+&lt;p&gt;We are calling on all partners to challenge us, either on Music Economy or the other pillars of the music observatory. We will try to provide the requested data on a weekly, monthly, quarterly or annually refreshing basis in the highest possible quality – for the first 50 request for free. We would like to demonstrate that most of the data gap is illusory, and a collaborative, bottom-up approach can deliver a European Music Observatory faster, cheaper in a much higher quality.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Challenge Our Demo Observatory&lt;/code&gt;: &lt;em&gt;Check out the&lt;/em&gt; 
+&lt;a href=&#34;https://data.music.dataobservatory.eu/music-economy.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Music Economy Pillar&lt;/a&gt; &lt;em&gt;of our Demo Music Observatory.  If you do not find what you are looking for,&lt;/em&gt; 
+&lt;a href=&#34;https://dataobservatory.eu/#contact&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;contact us&lt;/a&gt; &amp;mdash; &lt;em&gt;we will try to put the data there from our repositories.&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;organization&#34;&gt;Organization and institutional model&lt;/h2&gt;
+&lt;p&gt;We believe that the biggest shortcoming of the Feasibility Study is a systematic overview of a wide range of organizational possibilities.  The Feasibility Study is illustrated by examples from European Audiovisual Observatory as a good practice, investigates the possibility of integrating the music observatory into the EUIPO Observatory, and as an alternative, it considers the 
+&lt;a href=&#34;https://ec.europa.eu/info/food-farming-fisheries/farming/facts-and-figures/markets/overviews/market-observatories_en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;six product observatories&lt;/a&gt; of DG Agriculture &amp;amp; Rural Development.  This approach provides a too narrow range of potential organizational alternatives.&lt;/p&gt;
+&lt;p&gt;We have reviewed a further 59 observatories, including ones that were not successful and ceased to exist, to understand why some observatories can increase their service level and why others fail. It is unclear what criteria make the European Audiovisual Observatory a good example, so it is impossible to say from this Feasibility Study if there are better examples – and we believe that there are.  The EAO is one of the oldest, if not the oldest observatories. It was created before the EU was founded before the commercial internet launched, when far different legal, governance and data collection needs had to be addressed. We believe that this may be the costliest and most time-consuming model to replicate.&lt;/p&gt;
+&lt;h3 id=&#34;bottom-up-versus-top-down&#34;&gt;Bottom-up versus top-down&lt;/h3&gt;
+&lt;p&gt;The Feasibility Study only considers hierarchical and centralized observatories, that operate on a top-down data integration, or rather, simple data collection strategy.  We have created a large observatory  with a very limited budget (which has a public layer, the Demo Music Observatory, and privately funded, much larger version, CEEMID) when we realized that the centralized, hierarchical, top-down approach is not suitable for a fragmented industry like the music industry. The example of CEEMID shows that a bottom-up and collaborative approach requires far less time, budget than a hierarchical approach, and can yield superior data quality. It is not surprising that most of the 62 observatories that we have studied are not hierarchical, and not operated by a centralized body but by a Consortium of various scientific, policy and industry stakeholders.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; The &lt;code&gt;European Music Observatory&lt;/code&gt; should fully exploit the EU&amp;rsquo;s &lt;strong&gt;open data&lt;/strong&gt; regime. (See our examples: 
+&lt;a href=&#34;https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;our first open data release&lt;/a&gt;) Our proposal about this were quoted in the &lt;em&gt;Feasibility Study&lt;/em&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; It should not re-collect data that already exists. Instead it should create policies, synergies and incentives that bring that data to light. The &lt;em&gt;Feasibility Study&lt;/em&gt; partly embraces this idea.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;decentralization&#34;&gt;Hierarchical versus decentralized observatory&lt;/h3&gt;
 &lt;p&gt;&lt;code&gt;We want big data to work for small venues, independent labels, startups, great and undiscovered artists.&lt;/code&gt; We believe that you cannot make a successful album launch, a market entry or introduce a successful cultural policy without large amounts of well processed and correctly analysed data. We want to create a 
 &lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Music Observatory&lt;/a&gt; that integrates the small data of many small bands, small labels, small venues, small countries, and mount correct the injustice. Make algorithms transparent and the competition fair.&lt;/p&gt;
-&lt;p&gt;In 2020 most of the data is proprietary to a few, U.S.-based companies, while most of the paying audience is the European Union. This year, many European governments started to challenge the competition conditions. The tide is turning, and we do not see this as an EU-US rivalry, because many players of the American music industry share all the pains of the European music industry.&lt;/p&gt;
-&lt;p&gt;Our 
-&lt;a href=&#34;https://dataandlyrics.com/post/2020-09-15-music-observatory-launch/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo Music Observatory&lt;/a&gt; in September 2020 and got into the presitgious 
-&lt;a href=&#34;https://dataandlyrics.com/post/2020-09-25-yesdelft-validation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yes!Delft AI Validation Lab&lt;/a&gt;. Our demo observatory is an example how we believe the European Data Observatory should be built. An observatory is a permanent observation point for social and economic data. We want to prove that this process can be made cost-effectively and efficiently, providing a high-quality, valuable and timely product by employing best practices in research automation and open source software, using open data in open collaboration with the music industry, artists, technicians and managers.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; It should not re-collect data that already exists. Instead it should create policies, synergies and incentives that bring that data to light. The &lt;em&gt;Feasibility Study&lt;/em&gt; partly embraces this idea.&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; The observatory must allow a seamless 
+&lt;a href=&#34;https://music.dataobservatory.eu/approach.html#dataintegration&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data integration&lt;/a&gt; between open data, and highly confidential proprietary data. The &lt;em&gt;Feasiblity Study&lt;/em&gt; wants to own and buy data, instead getting access to industry data.&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; The open collaboration principle must allow an easy opt-in and opt-out for small and larger, public and private organizations, and offer for full transparency for all users. The &lt;em&gt;Feasibility Study&lt;/em&gt; offers a closed observatory without opt-in.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;budget&#34;&gt;Value For Money, Budget&lt;/h2&gt;
+&lt;p&gt;We believe that a bottom-up, collaborative approach of the industry stakeholders offers a much faster approach to growth, because it can mange conflicts of interests, build upon existing and trusted data assets.  The 
+&lt;a href=&#34;https://rm.coe.int/budget-19-information-income-and-expenses-of-the-european-audiovisual-/1680952994&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;annual budget&lt;/a&gt; of the European Audiovisual Observatory is about 3.7 million euros.  Most of the European data observatories that we surveyed have an annual budget of 20,000-200,000 euros. In our view, a very comprehensive data observatory can be built from 1-3 million euros and maintained with a collaborative use of existing data assets and a subsidy of up to 200,000 euros a year.&lt;/p&gt;
+&lt;h2 id=&#34;quality&#34;&gt;Quality Control&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; It should be transparent, the indicator design should be based on open-source statistical software. Our proposal about this were quoted in the &lt;em&gt;Feasibility Study&lt;/em&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; The European Music Observatory must embrace evidence-based 
+&lt;a href=&#34;https://music.dataobservatory.eu/approach.html#opa&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;open Policy Analysis&lt;/a&gt;. This topic is not considered in the &lt;em&gt;Feasibility Study&lt;/em&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;use-cases&#34;&gt;Use Cases&lt;/h2&gt;
 &lt;p&gt;We want to support the European music industry and our friends in North America, Australia, and all over the world to turn the tables with @ref(innovation) 
 &lt;a href=&#34;https://music.dataobservatory.eu/innovation.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;innovation&lt;/a&gt; coming from the open source community.&lt;/p&gt;
 &lt;ul&gt;
@@ -188,20 +389,6 @@
 &lt;li&gt;
 &lt;p&gt;Because music and culture are often managed at the level of cities, regions and communities, we want to give you all the data on sub-national levels, whether for regions, metropolitan areas or smaller divisions.&lt;/p&gt;
 &lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;This is why we are launching now or 
-&lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo Music Observatory&lt;/a&gt; and soon its twin, the Creative and 
-&lt;a href=&#34;https://ccs.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cultural Sectors Demo Observatory&lt;/a&gt;, because video producers, book authors, magazine publishers, film distributors and public broadcasters are sharing the pains of the music industry. We believe that the tides are turning because both regulators and these industries have started to fight back, and there is an awful lot of value, money and creativity is at stake.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; The &lt;code&gt;European Music Observatory&lt;/code&gt; should fully exploit the EU&amp;rsquo;s &lt;strong&gt;open data&lt;/strong&gt; regime. (See our examples: 
-&lt;a href=&#34;https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;our first open data release&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; It should be transparent, the indicator design should be based on open-source statistical software.&lt;/li&gt;
-&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; The European Music Observatory must embrace evidence-based 
-&lt;a href=&#34;https://music.dataobservatory.eu/approach.html#opa&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;open Policy Analysis&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; The observatory must allow a seamless 
-&lt;a href=&#34;https://music.dataobservatory.eu/approach.html#dataintegration&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data integration&lt;/a&gt; between open data, and highly confidential proprietary data.&lt;/li&gt;
-&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; The open collaboration principle must allow an easy opt-in and opt-out for small and larger, public and private organizations, and offer for full transparency for all users.&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; It should not re-collect data that already exists. Instead it should create policies, synergies and incentives that bring that data to light.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
