@@ -1,8 +1,8 @@
 +++
 title = "Feasibility Study For The Establishment Of A European Music Observatory & The Demo Observatory"
 
-date = 2020-11-16T08:03:00+02:00
-lastmod = 2020-11-16T08:03:00+02:00
+date = 2020-11-16T07:03:00+02:00
+lastmod = 2020-11-16T07:03:00+02:00
 draft = false
 
 authors = ["Daniel Antal"]
