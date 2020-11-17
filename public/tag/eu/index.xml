@@ -5,7 +5,7 @@
     <link>https://dataandlyrics.com/tag/eu/</link>
       <atom:link href="https://dataandlyrics.com/tag/eu/index.xml" rel="self" type="application/rss+xml" />
     <description>EU</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 13 Nov 2020 07:10:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 16 Nov 2020 07:03:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>EU</title>
@@ -15,19 +15,19 @@
     <item>
       <title>Feasibility Study For The Establishment Of A European Music Observatory &amp; The Demo Observatory</title>
       <link>https://dataandlyrics.com/post/2020-11-16-european-music-observatory-feasibility/</link>
-      <pubDate>Fri, 13 Nov 2020 07:10:00 +0200</pubDate>
+      <pubDate>Mon, 16 Nov 2020 07:03:00 +0200</pubDate>
       <guid>https://dataandlyrics.com/post/2020-11-16-european-music-observatory-feasibility/</guid>
       <description>&lt;p&gt;&lt;em&gt;The 
 &lt;a href=&#34;https://op.europa.eu/en/publication-detail/-/publication/a756542a-249d-11eb-9d7e-01aa75ed71a1/language-en/format-PDF/source-171307257&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Feasibility study for the establishment of a European Music Observatory&lt;/a&gt; was published on 13 November.  Our private observatory, CEEMID was consulted in the creation of the Feasibility Study, and some of our recommendations found way into the consultant’s document. We created a Demo Music Observatory to provide a practical guidance on the decisions facing the European stakeholders, and to answer the questions that were left open in the Feasibility Study &amp;mdash; particularly on  
-&lt;a href=&#34;#data-gaps&#34;&gt;data integration&lt;/a&gt; and the 
-&lt;a href=&#34;#organization&#34;&gt;institutional model&lt;/a&gt;, where a wrong choice can lead to very long delivery time, 
-&lt;a href=&#34;#quality&#34;&gt;quality control&lt;/a&gt; and 
+&lt;a href=&#34;https://dataandlyrics.com/project/music-observatory/#data-gaps&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data integration&lt;/a&gt; and the 
+&lt;a href=&#34;https://dataandlyrics.com/project/music-observatory/#organization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;institutional model&lt;/a&gt;, where a wrong choice can lead to very long delivery time, 
+&lt;a href=&#34;https://dataandlyrics.com/project/music-observatory/#quality&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;quality control&lt;/a&gt; and 
 &lt;a href=&#34;#budget&#34;&gt;budgeting&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;We have been developing our 
-&lt;a href=&#34;project/music-observatory/&#34;&gt;Demo Music Observatory&lt;/a&gt; in the world&amp;rsquo;s 2nd ranked university-backed incubator program, the 
-&lt;a href=&#34;post/2020-09-25-yesdelft-validation/&#34;&gt;Yes!Delft AI Validation Lab&lt;/a&gt; since 
-&lt;a href=&#34;post/2020-09-15-music-observatory-launch/&#34;&gt;15 September 2020&lt;/a&gt;. Our aim is to show a better organizational model, examples of 
-&lt;a href=&#34;post/2020-09-11-creating-automated-observatory/&#34;&gt;research automation&lt;/a&gt; and other data integration innovation that can reduce the budgetary needs of the European Music Observatory by 80-90% and provide far more timely, accurate, and relevant service than most data observatories in Europe.&lt;/p&gt;
+&lt;a href=&#34;https://dataandlyrics.com/project/music-observatory/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo Music Observatory&lt;/a&gt; in the world&amp;rsquo;s 2nd ranked university-backed incubator program, the 
+&lt;a href=&#34;https://dataandlyrics.com/post/2020-09-25-yesdelft-validation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yes!Delft AI Validation Lab&lt;/a&gt; since 
+&lt;a href=&#34;https://dataandlyrics.com/post/2020-09-15-music-observatory-launch/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;15 September 2020&lt;/a&gt;. Our aim is to show a better organizational model, examples of 
+&lt;a href=&#34;https://dataandlyrics.com/post/2020-09-11-creating-automated-observatory/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;research automation&lt;/a&gt; and other data integration innovation that can reduce the budgetary needs of the European Music Observatory by 80-90% and provide far more timely, accurate, and relevant service than most data observatories in Europe.&lt;/p&gt;
 &lt;p&gt;CEEMID has been creating a similar data observatory to the foreseen European Data Observatory, solely based on the contribution of about 60 European stakeholders.  As the &lt;em&gt;Feasibility Study&lt;/em&gt; suggests, we would be happy to transfer much of CEEMID’s content to the European Data Observatory, which could potentially fill up about 50-70% of the envisioned observatory.  We are building our Demo Music Observatory based on the 2000 pan-European indicators collected by CEEMID since 2014.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;code&gt;Challenge Our Demo Observatory&lt;/code&gt;: &lt;em&gt;Check out the&lt;/em&gt; 

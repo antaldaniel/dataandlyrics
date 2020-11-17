@@ -5,12 +5,149 @@
     <link>https://dataandlyrics.com/tag/big-data/</link>
       <atom:link href="https://dataandlyrics.com/tag/big-data/index.xml" rel="self" type="application/rss+xml" />
     <description>big-data</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 30 Oct 2020 08:10:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 17 Nov 2020 11:03:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>big-data</title>
       <link>https://dataandlyrics.com/tag/big-data/</link>
     </image>
+    
+    <item>
+      <title>Who Is Not Recommended On Spotify?</title>
+      <link>https://dataandlyrics.com/post/2020-11-17-recommendation-analysis/</link>
+      <pubDate>Tue, 17 Nov 2020 11:03:00 +0200</pubDate>
+      <guid>https://dataandlyrics.com/post/2020-11-17-recommendation-analysis/</guid>
+      <description>&lt;p&gt;&lt;em&gt;We are analysing how recommendations work for the artists involved in our 
+&lt;a href=&#34;https://dataandlyrics.com/project/listen-local/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Listen Local&lt;/a&gt; experiment. We created a testing database with their music and other artists from their cities, regions and countries. We need new recommendation engines to dig out from a pile of international hits the local artists.&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Avoid landing on 
+&lt;a href=&#34;https://dataandlyrics.com/post/2020-10-24-forgetify_pop_october/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Forgetify&lt;/a&gt;, in the universe of never listened-to-songs.&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Understand how artists and their songs can find audience in the region relevant to their career goals, tour destinations, export opportunities.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Our preliminary analysis is not representative for nationality, though we believe that we will find serious regional, linguistic and national patterns. We are using examples from Spotify. To be fair to Spotify, while their algorithm has many problems, their API is at least very open, as opposed to Apple Music where we do not really know what is going on.&lt;/p&gt;
+&lt;p&gt;Our main concern is that some artists and their songs seem to be never recommended. Moreover, if artists and songs from a city, region or country are rarely or never recommended, then they risk losing their home market: the local audience will be recommended music that is coming outside of the city, region or country.&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-artist-has-more-related-artists-as-number-popularity-and-number-of-followers-grows-nationality-may-affect-related-artists&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://dataandlyrics.com/img/streaming/spotify_related_artists_corrplot_no_title.png&#34; data-caption=&#34;Artist has more related artists as number popularity and number of followers grows. Nationality may affect related artists.&#34;&gt;
+
+
+  &lt;img src=&#34;https://dataandlyrics.com/img/streaming/spotify_related_artists_corrplot_no_title.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Artist has more related artists as number popularity and number of followers grows. Nationality may affect related artists.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;One of the most important way recommendations work is via &lt;code&gt;related artists&lt;/code&gt;. If an artist has &lt;em&gt;no related artists&lt;/em&gt;, it is very unlikely that either via user browsing interaction or via the algorithm that artists or her songs will be discovered by anybody.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;If you want &lt;em&gt;&lt;code&gt;your music and audience&lt;/code&gt;&lt;/em&gt; to be analysed in Listen Local, fill out&lt;/em&gt; 
+&lt;a href=&#34;https://www.surveymonkey.com/r/ll_collector_2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this form&lt;/a&gt;&lt;em&gt;. We will include you in our demo application and our analysis to be revealed in December.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Because big data algorithms learn from user behaviour, more popular, more often selected songs, and songs selected by more users are more likely to be recommended.&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-the-algorithm-can-learn-more-about-popular-music-because-the-song-is-more-often-selected-by-a-larger-number-of-people&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://dataandlyrics.com/img/streaming/spotify_related_artists_popularity.png&#34; data-caption=&#34;The algorithm can learn more about popular music, because the song is more often selected by a larger number of people&#34;&gt;
+
+
+  &lt;img src=&#34;https://dataandlyrics.com/img/streaming/spotify_related_artists_popularity.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    The algorithm can learn more about popular music, because the song is more often selected by a larger number of people
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;If the algorithm finds more related music, it means that it &amp;ldquo;learned&amp;rdquo; the repertoire of the artist. Artists with very little popularity tend to be related to 20-30 artists, but at a popularity level of 40-60 they are related to 30-40 artists. Seems simple, right?&lt;/p&gt;
+&lt;p&gt;Not that much. If you want the algorithm to learn your music well, you really have to go &amp;ldquo;viral&amp;rdquo;.&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-artist-with-less-than-1000-followers-risk-not-being-to-recommended-at-all-doubling-your-chances-to-be-discovered-requires-1000x-more-followers&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://dataandlyrics.com/img/streaming/spotify_related_artists_followers.png&#34; data-caption=&#34;Artist with less than 1000 followers risk not being to recommended at all. Doubling your chances to be discovered requires 1000x more followers.&#34;&gt;
+
+
+  &lt;img src=&#34;https://dataandlyrics.com/img/streaming/spotify_related_artists_followers.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Artist with less than 1000 followers risk not being to recommended at all. Doubling your chances to be discovered requires 1000x more followers.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Doubling your routes to being recommended via other artists&#39; music requires exponential growth.  You need to have &lt;code&gt;1000x&lt;/code&gt; more followers to double the routes leading to your artist profile and recordings.&lt;/p&gt;
+&lt;p&gt;As we have shown, the current recommendation engines are re-enforcing the existing status quo, and they can 
+&lt;a href=&#34;https://dataandlyrics.com/post/2020-10-30-racist-algorithm/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;re-enforce the marginal status&lt;/a&gt; of subcultures, artists from a nation, city or region. In other words, as we often say, &lt;code&gt;big data creates injustice&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;With our 
+&lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Music Observatory&lt;/a&gt; for larger organizations and with our 
+&lt;a href=&#34;https://dataandlyrics.com/project/listen-local/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Listen Local&lt;/a&gt; analytics and recommendations for artists, managers and labels, we want to fight exactly this injustice. We are creating &lt;code&gt;transparent&lt;/code&gt;, &lt;code&gt;open source&lt;/code&gt;, and &lt;code&gt;responsible&lt;/code&gt; tools and algorithms.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The Racist Music Algorithm</title>
