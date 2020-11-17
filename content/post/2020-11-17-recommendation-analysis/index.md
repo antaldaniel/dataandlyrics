@@ -9,7 +9,7 @@ authors = ["Daniel Antal"]
 
 tags = ["listen-local", "big-data", "recommendations", "streaming", "spotify"]
 
-summary = "You need to have 1000x more followers to double the routes leading to your artist profile and recordings with the current algorithms. We need new recommendation engines to dig out from a pile of international hits the local artists."
+summary = "You need to have 1000x more followers to double the routes leading to your artist profile and recordings with the current algorithms. We need new recommendation engines to dig out the local artists buried under a pile of international hits."
 
 projects = ["listen-local"]
 
