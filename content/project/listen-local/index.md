@@ -4,6 +4,7 @@ title = "Listen Local"
 
 # Date this page was created.
 date = 2020-09-29T10:00:00
+lastmod = 2020-11-18T08:15:00+02:00
 
 # Project summary to display on homepage.
 summary = "Connecting local bands with local fans, joining scenes across the globe."
@@ -47,23 +48,25 @@ url_code = ""
 
 Our Listen Local project is aiming to create better radio playlisting, personal playlisting and concert promotion in a local context: within Slovakia or at a more specific level, Flanders or even the city of Utrecht or Budapest. We aim to place our partner’s music in local radio lists, personal playlists, and grow their fan base during the COVID-19 pandemic so that in 2021 they can eventually meet in the venues again, and carry out longer, more successful tours than ever. 
 
-[Listen Local](https://listenlocal.community/index.html) and the [Demo Music Observatory](https://music.dataobservatory.eu/) grew out of a large, collaborative project of collective management societies, grant managers, music distributors, venues, and other music stakeholders who joined forces to collect more royalties from 2014 onwards starting with three, and eventually encompassing more than a dozen countries.
-
 ## What is the problem?
 
-Most people are listening to music on Spotify or Apple Music, and at home on YouTube.  They are following advice from algorithms tested on hundreds of millions of people.A band in Utrecht, a rapper in Rotterdam, a dance producer in the Hague is not aiming for hundreds of millions of people.  They want to be found by their fans and like-minded people, but their music is lost literally among 100,000,000 songs on these platforms. We want [artists](#artists) in the music scene to be found by their current and future [fans](#fans), by the [local media](https://listenlocal.community/localmedia.html), and as soon the pandemic is over, to meet in [local venues and festivals](https://listenlocal.community/venues.html).
-
-If a music fan is interested what is going on in Utrecht, Rotterdam or Den Haag, or on a roadtrip via Antwerpen and Gent via Lille, will never find those amazing [bands, performers, rappers, producers](https://listenlocal.community/artists.html) who create wonderful content along the way.  
-
-Anybody can create playlists, but mainly Spotify, Apple, or YouTube create the playlists with their AI algorithms and their staff and their interests.  
-
-**Related posts**:
-
-- [October Playlist: Wounded Egos](https://dataandlyrics.com/post/2020-10-18-october_playlist/) - a short case study of a playlist analysis and comparison.
+Most people are listening to music on Spotify or Apple Music, and at home on YouTube.  They are following advice from algorithms tested on hundreds of millions of people. Anybody can create playlists, but mainly Spotify, Apple, or YouTube create the playlists with their AI algorithms and their staff and their interests.  
 
 - [Listen Local: Open Collaboration Experiment & Feasibility Study](https://dataandlyrics.com/post/2020-10-19-listen-local/) - how you can participate in the experiment.
 
-- [Forgetify: Popular Music That Nobody Listens To](https://dataandlyrics.com/post/2020-10-24-forgetify_pop_october/) - becasue you do not want to end up on the list of 0 streams.  
+- [Forgetify: Popular Music That Nobody Listens To](https://dataandlyrics.com/post/2020-10-24-forgetify_pop_october/) - because you do not want to end up on the list of 0 streams.  
+
+- [Who Is Not Recommended On Spotify](https://dataandlyrics.com/post/2020-11-17-recommendation-analysis/) - you need to have 1000x more followers to double the routes leading to your artist profile and recordings with the current algorithms. We need new recommendation engines to dig out the local artists buried under a pile of international hits.
+
+- [The Racist Music Algorithm](https://dataandlyrics.com/post/2020-10-30-racist-algorithm/) --- big data algorithms will increase injustice and breach social norms if they are trained on improper data, or the algorithms are biased. This is why we are working on transparent, peer-reviewed, open source alternatives.
+
+- [This Is Not Democracy](https://dataandlyrics.com/post/2020-11-11-listen-local-robin-kester/) - Robin Kester is one of the first artists who is looking for alternative recommendation routes towards the UK and Ireland.
+
+- [The Mountains Are Higher Next Door And They Understand Our Lyrics](https://dataandlyrics.com/post/2020-11-18-where-they-understand-us/) - the Twentees are flying under the radar in Slovakia, Serbia, Romania, because they sing in a minority language.
+
+- [October Playlist: Wounded Egos](https://dataandlyrics.com/post/2020-10-18-october_playlist/) - a short case study of a playlist analysis and comparison.
+
+If you are an artist, you can [simply fill in a form](https://www.surveymonkey.com/r/ll_collector_2020) identifying your music on Spotify, filling in a few biographical data about yourself (or your band, ensemble, group). If you represent several artists as a talent manager, music publisher, record label, granting agency or music export office, please get in [touch with us](https://dataandlyrics.com/#about) for onboarding.
 
 ## Let's Do This Together!
 
@@ -71,11 +74,9 @@ We are aiming to create an alternative market measurement, marketing and recomme
 
 - **create new playlists** Let's build up a weekly, relevant, non-exclusive playlists for music coming from Utrecht, Antwerpen, Rotterdam, Den Haag, Flanders or the Netherlands that smoothly blend in local music with relevant, spiritually or musically matching songs that fans of the Utrecht, Antwerpen, Rotterdam, Den Haag bands like. 
 
-- **create an app**!  If [Forgetify](https://forgotify.com/) can pick out songs that nobody, ever, ever listened to on Spotify, not even the performer's mother, sister, friends, not even their enemies, than we can create an app that allows fans in Utrecht, visitors or Rotterdam and the virtual community of Den Haag to find relevant music, and to connect with music created in these communities.
+- **create apps**!  If [Forgetify](https://forgotify.com/) can pick out songs that nobody, ever, ever listened to on Spotify, not even the performer's mother, sister, friends, not even their enemies, than we can must create new apps that allows fans in Utrecht, visitors or Rotterdam and the virtual community of Den Haag to find relevant music, and to connect with music created in these communities.
 
 * [We are](https://dataandlyrics.com/#about) a bunch of musicians, musicologists, music analysts, music journalists, producers who want to make this happen.
-
-If you are an artist, you can [simply fill in a form](https://www.surveymonkey.com/r/ll_collector_2020) identifying your music on Spotify, filling in a few biographical data about yourself (or your band, ensemble, group). If you represent several artists as a talent manager, music publisher, record label, granting agency or music export office, please get in [touch with us](https://dataandlyrics.com/#about) for onboarding.
 
 ## Data Use {#data-use}
 
@@ -86,6 +87,8 @@ If you are an artist, you can [simply fill in a form](https://www.surveymonkey.c
 * We do not ask for any financial data, and we do not have access to any financial data of the participants.
 
 ## Transparency {#transparency}
+
+[Listen Local](https://listenlocal.community/index.html) and the [Demo Music Observatory](https://music.dataobservatory.eu/) grew out of a large, collaborative project of collective management societies, grant managers, music distributors, venues, and other music stakeholders who joined forces to collect more royalties from 2014 onwards starting with three, and eventually encompassing more than a dozen countries.
 
 * The entire budget of our project is 10,000 euros, co-funded by the [Slovak Arts Council](http://sgda.sk/about-us/), [SOZA](http://soza.sk/) and [Consolidated Independent](https://ci-info.com/), a distributor of independent music. We hope that this will be enough to create a demonstration and a detailed feasibility study that makes the user needs of Slovak managers, labels, publishers and artists themselves to continue this project in 2021. The project will be carried out by [Reprex](https://www.linkedin.com/company/reprexbv), a Dutch start-up co-founded by the author of the Slovak Music Industry Report, the first Hungarian Music Industry Report, Private Copying in Croatia, and the [Central European Music Industry Report 2020](https://ceereport2020.ceemid.eu/).
 
