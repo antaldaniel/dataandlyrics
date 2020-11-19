@@ -48,6 +48,8 @@ url_code = ""
 
 Our Listen Local project is aiming to create better radio playlisting, personal playlisting and concert promotion in a local context: within Slovakia or at a more specific level, Flanders or even the city of Utrecht or Budapest. We aim to place our partner’s music in local radio lists, personal playlists, and grow their fan base during the COVID-19 pandemic so that in 2021 they can eventually meet in the venues again, and carry out longer, more successful tours than ever. 
 
+*Signing up for artists, labels, talent managers* [below](#signup).
+
 ## What is the problem?
 
 Most people are listening to music on Spotify or Apple Music, and at home on YouTube.  They are following advice from algorithms tested on hundreds of millions of people. Anybody can create playlists, but mainly Spotify, Apple, or YouTube create the playlists with their AI algorithms and their staff and their interests.  
@@ -66,9 +68,9 @@ Most people are listening to music on Spotify or Apple Music, and at home on You
 
 - [October Playlist: Wounded Egos](https://dataandlyrics.com/post/2020-10-18-october_playlist/) - a short case study of a playlist analysis and comparison.
 
-If you are an artist, you can [simply fill in a form](https://www.surveymonkey.com/r/ll_collector_2020) identifying your music on Spotify, filling in a few biographical data about yourself (or your band, ensemble, group). If you represent several artists as a talent manager, music publisher, record label, granting agency or music export office, please get in [touch with us](https://dataandlyrics.com/#about) for onboarding.
+## Let's Do This Together! {#signup}
 
-## Let's Do This Together!
+*If you are an artist, you can* [simply fill in a form](https://www.surveymonkey.com/r/ll_collector_2020) *identifying your music on Spotify, filling in a few biographical data about yourself (or your band, ensemble, group). If you represent several artists as a talent manager, music publisher, record label, granting agency or music export office, please get in* [touch with us](https://dataandlyrics.com/#about) *for onboarding.*
 
 We are aiming to create an alternative market measurement, marketing and recommendation engine tool that is based on open source software, open collaboration, full scientific transparency in an open collaboration with artists, small businesses and the entire music ecosystem.
 
@@ -94,4 +96,4 @@ We are aiming to create an alternative market measurement, marketing and recomme
 
 * Participation for artists and music venues is **free** in the experiment. In 2020, we would like to find a viable business model that keeps this tool a good value for money for anybody in the independent music scenes.
 
-* We are asking labels, publishers, talent managers to contribute to our experimental budget on a crowdsourcing basis.  We ask for a nominal contribution from as little as 10-1000 euros on a voluntary basis.  In return. We hope to develop a tool that can make the work of independent labels and publishers easier. Any extra funding will be spent on the project at cost.
+* We are asking labels, publishers, talent managers to contribute to our experimental budget on a crowdsourcing basis at a later stage, if they will continue to use this service in 2021. Currently our experiment is free.  *Signing up for artists, labels, talent managers* [above](#signup).
