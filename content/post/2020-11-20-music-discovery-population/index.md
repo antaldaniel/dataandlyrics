@@ -2,7 +2,7 @@
 title = "Future Audience: Size Of Music Discovery Age Populations In Europe"
 
 date = 2020-11-20T15:10:00+02:00
-lastmod = 2020-11-20T15:10:00+02:00
+lastmod = 2020-11-23T07:55:00+02:00
 draft = false
 
 authors = ["Daniel Antal"]
