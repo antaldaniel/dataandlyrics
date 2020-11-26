@@ -1,5 +1,5 @@
 +++
-title = "Katarzia"
+title = "Listen Local: Katarzia"
 
 date = 2020-11-25T15:10:00+02:00
 lastmod = 2020-11-25T15:55:00+02:00
@@ -23,9 +23,11 @@ projects = ["listen-local"]
   focal_point = "TopLeft"
 
   # Show image only in page previews?
-  preview_only = false
+  preview_only = true
 
 +++
+
+{{< figure src="katarzia_avatar.jpg" title="Katarzia. Photography by Ladislav Kyllar" >}}
 
 Katarzia, or *Katarína Kubošiová*, is a Slovak singer, lyricist and producer. In 2020 she released her fourth album [Celibát](https://www.slnkorecords.sk/en/katarzia/celibat) with the main themes of loneliness and self-appreciation. Album was created in collaboration with the producer *Jonatán Pastirčák*. 
 
@@ -47,6 +49,8 @@ Previous albums:
 * Generácia Y (2013)
 * Agnostika (2016)
 * Antigona (2018). 
+
+<iframe src="https://open.spotify.com/embed/artist/5EssQRYnIgCOcvPauVySR1" width="740" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 
 *[Listen Local](https://dataandlyrics.com/tag/listen-local/) is developing transparent algorithms and open source solutions to find new audiences for independent music. We want to correct the injustice and inherent bias of market leading big data algorithms. If you want* `your music and audience` *to be analysed in Listen Local, fill* [this form](https://www.surveymonkey.com/r/ll_collector_2020) *in. We will include you in our demo application for local music recommendations and our analysis to be revealed in December.*
