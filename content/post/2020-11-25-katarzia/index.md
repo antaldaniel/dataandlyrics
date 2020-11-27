@@ -5,7 +5,7 @@ date = 2020-11-25T15:10:00+02:00
 lastmod = 2020-11-25T15:55:00+02:00
 draft = false
 
-authors = ["Daniel Antal"]
+authors = ["Jana Gombiková"]
 
 tags = ["listen-local", "Slovakia", "Prague", "Czechia", "Nitra", "recommendations"]
 
