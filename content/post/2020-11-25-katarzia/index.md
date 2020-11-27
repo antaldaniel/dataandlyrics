@@ -9,7 +9,7 @@ authors = ["Jana Gombiková"]
 
 tags = ["listen-local", "Slovakia", "Prague", "Czechia", "Nitra", "recommendations"]
 
-summary = "Katarzia's latest album tour was postponed indefinitely because of Covid-19. She is not working on new music projects now, but as soon as the pandemic is over, she would like to return to the clubs to play my concerts. As she sings in Slovak, she knows where her place is – unless she will transition to techno music."
+summary = "Katarzia's latest album tour was postponed indefinitely because of Covid-19. She signs in Slovak, and would like to stick around – as soon as the pandemic is over, she would like to return to the clubs and play for her fans."
 
 projects = ["listen-local"]
 
@@ -33,11 +33,11 @@ Katarzia, or *Katarína Kubošiová*, is a Slovak singer, lyricist and producer.
 
 Katarzia started her career as a folk singer. In the past years she moved on towards electronic music. She describes her current sound can as a mix of folk and electropop. The tour to promote her newest album *Celibát* had been planned for spring 2020, unfortunately due to the Covid-19 pandemic had to be postponed indefinitely. As many other artists, Katarzia thinks that the current situation is not easy.
 
-*At the moment, I am not working on any new porjects. I am looking for a new job. Once the pandemic is over, I would like to stay where I am now, and return to the clubs to play my concerts. As I sing in Slovak, I know where my place is – I don't want to perform abroad, of course, unless I turn to techno music. On a more personal level, I would like to live in New York –- not as a musician, tough.*
+*At the moment, I am not working on any new projects. I am looking for a new job. Once the pandemic is over, I would like to stay where I am now, and return to the clubs to play for my audience. As I sing in Slovak, I know where my place is – I don't want to perform abroad, of course, unless I turn to techno music. On a more personal level, I would like to live in New York – not as a musician, tough.*
 
 Katarzia is originally from Nitra, Slovakia and she has been living in Prague for a couple of years. 
 
-*I live in Dejvice – there is a  nice clubroom there, but I don't visit that much. I enjoy going to National Theatre, Dejvice Theatre, Meetfactory, Archa Theatre and Rudolfinum. All the old classics.*
+*I live in Dejvice – there is a nice clubroom there, but I don't visit that much. I enjoy going to National Theatre, Dejvice Theatre, Meetfactory, Archa Theatre and Rudolfinum. All the old classics.*
 
 Despite the restrictions during the pandemic, Katarzia managed to shoot a video for her song *Hoří i voda* from *Celibát*. 
 
