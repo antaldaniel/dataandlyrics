@@ -26,7 +26,7 @@ summary = "How can you compete with Big Tech and their monopolistic market power
 
 +++
 
-{{< figure src="image.jpg" title="hCaptcha" >}}
+{{< figure src="featured.png" title="hCaptcha" >}}
 
 If you tried to fill out forms, find product information, you are have filled out many riddles, captchas.  These captchas are there to prevent robots filling out the forms with funny data, steal your email address or to pretend to be human viewers for paid traffic, because who wants to pay for bots visiting the website?
 
@@ -34,7 +34,9 @@ The problem with the captcha business is that until now, Google was the main pro
 
 Robots learned to fill in captchas, but Google did not fundamentally change the way they work, instead it released its 3rd version, which collects plenty of personal data about the viewer -- an important input again for its advertisment personalization business. 
 
-And third, but not least, solving captchas became an industry itself.  Human understanding of pictures trains all sorts of AI applications from self-driving cars to medical diagnostics. People who solve billions and billions of captchas for Google actually carry out billions worth work for the advertising giant
+And third, but not least, solving captchas became an industry itself.  Human understanding of pictures trains all sorts of AI applications from self-driving cars to medical diagnostics. People who solve billions and billions of captchas for Google actually carry out billions worth work for the advertising giant.
+
+{{< figure src="hcaptcha_examples.png" title="hCaptcha's new types of riddles are more difficult to solve for robots." >}}
 
 >“Competing with Google and other Big Tech companies seems like a tall order: their monopolistic market power, platform effects and army of highly paid developers are generally considered too powerful to tackle for anyone but other tech giants such as Facebook or Amazon. Our story shows that it doesn't have to be that way - you can beat Big Tech by focussing on privacy.”
 
@@ -44,4 +46,4 @@ If you embed their hCaptcha to your website, you will be offered either a cash-o
 
 >... virtually every technology, from pencils to dynamite, is a dual use solution; it can be used for good or ill. Every company researching, building, or selling dual use solutions has an obligation to consider the consequences of their actions.
 
-Our [data observatories](https://dataobservatory.eu/) and our [Listen Local](https://dataandlyrics.com/tag/listen-local/) solutions have a similar aim: reduce inequality and unfair advantage from big data exploitation by joining many small data sources in our observatories, and creating recommendation systems and analytics solutions that empower local players to compete with Big Tech in their home markets. Challenge us with data request in [music](https://music.dataobservatory.eu/) or [ethical questions](https://music.dataobservatory.eu/#contact).  
+*Our [data observatories](https://dataobservatory.eu/) and our [Listen Local](https://dataandlyrics.com/tag/listen-local/) solutions have a similar aim: reduce inequality and unfair advantage from big data exploitation by joining many small data sources in our observatories, and creating recommendation systems and analytics solutions that empower local players to compete with Big Tech in their home markets. Challenge us with data request in [music](https://music.dataobservatory.eu/) or [ethical questions](https://music.dataobservatory.eu/#contact).*
