@@ -34,9 +34,6 @@ The Youniverse as a band and creator collective was formed in 2015 around guitar
 
 Tammy believes that The Youniverse it at a crossroads.  To be more successful at home, they would have to switch to their native Slovak language, and to be more successful in English they would have to connect better to foreign audiences.  She believes that the local audiences often seek a different quality whan what she offers – the purity of her voice instead of auto-tune, or the native language instead of the language of rock and roll. Therefore, their main targets are the Southwestern part of the United States, particularly Los Angeles in California and Austin in Texas, and they believe that their eccentric show would probably create interest in Japan, too.
 
-
-{{< figure src="hcaptcha_examples.png" title="hCaptcha's new types of riddles are more difficult to solve for robots." >}}
-
 What do they know or think of big data algorithms? The Youniverse hired a Google Analytics manager and they try to figure out how they could reach out to fans in far away places, or to understand how their songs occasionally find their ways to people in different countries.  Tammy knows that Spotify employs playlist curators who are helped with computer-based algorithms to find new music, but she is not familiar with the process – that is why she volunteered to participate in our Listen Local project and our Feasibility Study for the creation of a Slovakian music promotion service.
 
 <iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="410" style="width:100%;max-width:740px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/sk/artist/the-youniverse/1097209024"></iframe>
