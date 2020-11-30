@@ -36,10 +36,6 @@ Tammy believes that The Youniverse it at a crossroads.  To be more successful at
 
 What do they know or think of big data algorithms? The Youniverse hired a Google Analytics manager and they try to figure out how they could reach out to fans in far away places, or to understand how their songs occasionally find their ways to people in different countries.  Tammy knows that Spotify employs playlist curators who are helped with computer-based algorithms to find new music, but she is not familiar with the process – that is why she volunteered to participate in our Listen Local project and our Feasibility Study for the creation of a Slovakian music promotion service.
 
-
-<iframe src="https://open.spotify.com/embed/artist/1TIOHaY7eRJ6jZVA1NLYrk" width="7140" height="410" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/artist/1TIOHaY7eRJ6jZVA1NLYrk" width="740" height="410" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 *[Listen Local](https://dataandlyrics.com/tag/listen-local/) is developing transparent algorithms and open source solutions to find new audiences for independent music. We want to correct the injustice and inherent bias of market leading big data algorithms. If you want* `your music and audience` *to be analysed in Listen Local, fill* [this form](https://www.surveymonkey.com/r/ll_collector_2020) *in. We will include you in our demo application for local music recommendations and our analysis to be revealed in December.*
-
-
-<iframe src="https://embed.music.apple.com/sk/artist/the-youniverse/1097209024" width="7140" height="410" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
