@@ -56,7 +56,7 @@ They tend to reinforce trends similarly to music charts, but with far bigger eff
 
 <iframe width="710" height="410" src="https://www.youtube.com/embed/FLoR2Spftwg?cc_load_policy=1&origin=http://dataandlyrics.com&cc_lang_pref=en" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-*Zondag met Lubach on Dutch public broadcaster VPRO. Click settings sign to change language of the captions.*
+*Zondag met Lubach on Dutch public broadcaster VPRO. Click settings sign to change the language of the captions.*
 
 The problem with such hyper-personalized media is that they leave no room for public activities.  Public broadcasters, which had a monopoly to television broadcasting in most European countries until the early 1990s, for example, were aiming to air a diversity of news, knowledge and access to local culture. Many countries on all continents have maintained `local content guidelines` for broadcasting on public, commercial and community television and radio channels, for example, local music and films, and reliable news as a public service. Personalized media-, social media- and streaming platforms do not have such obligations.
 
@@ -73,7 +73,6 @@ Public new service requirements or local content requirements (*"national quotas
 Our Demo App creates recommendations on the basis of a pre-existing radio or personal streaming playlist that, by choice, contains a pre-defined ratio of music produced in Slovakia, or performed by Slovak artists. We will soon add Dutch and Hungarian choices to this demo, but naturally, we could add any city's, regions', province's our countries preferences into the app. 
 
 Our Demo App and accompanying Feasibility Study in Slovakia shows how can a regulator create better broadcasting regulations, learning from the experience with AI-driven streaming platforms, and how can it apply the goals of local content requirements (such as a certain visibility for Slovak or a city-based music) and public service requirements (for example, spreading reliable information or stopping [hateful music](https://dataandlyrics.com/post/2020-10-30-racist-algorithm/).)
-
 
 ## Access for all
 
