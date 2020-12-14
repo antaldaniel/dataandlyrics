@@ -55,7 +55,7 @@ What they also have in common is that they do not aim to give a fair chance to e
 They tend to reinforce trends similarly to music charts, but with far bigger efficiency. As the Dutch comedian, author and journalist Arjen Lubach explains the YouTube algorithm, to keep their personal recommendations engaging all the day and all of the night, they create a comfortable universe for the user allows little distraction in. If the user wants to listen to global hit music, or stoner rock, it will never be distracted with anything else.
 
 
-<iframe width="740" height="410" src="https://youtu.be/FLoR2Spftwg&cc_load_policy=1&cc_lang_pref=en" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="740" height="410" src="https://youtu.be/FLoR2Spftwg?cc_load_policy=1&origin=http://dataandlyrics.com" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The problem with such hyper-personalized media is that they leave no room for public activities.  Public broadcasters, which had a monopoly to television broadcasting in most European countries until the early 1990s, for example, were aiming to air a diversity of news, knowledge and access to local culture. Many countries on all continents have maintained `local content guidelines` for broadcasting on public, commercial and community television and radio channels, for example, local music and films, and reliable news as a public service. Personalized media-, social media- and streaming platforms do not have such obligations.
 
