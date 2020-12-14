@@ -7,9 +7,10 @@ draft = false
 
 authors = ["Daniel Antal"]
 
-tags = ["listen-local", "Slovakia", "justice", "algorithms", "big-data"]
+tags = ["listen-local", "Slovakia", "justice", "algorithms", "big-data", 
+"recommendations", "local-content-requirements"]
 
-summary = "Tammy is a bilingual Slovak, who is more at home singing and dreaming in the English language than in the country’s language, and she thinks this is not what the local audience expects from her. No wonder that she is looking for ways to expand their universe beyond the country borders."
+summary = "Regulating black box, private algorithms and data monopolies is only a first step to damage control. Deploying white, transparent algorithms and building collaborative or open data pools can only guarantee fairness in the digital platforms, in recommendations, and generally in the use of AI."
 
 projects = ["listen-local"]
 
@@ -54,7 +55,7 @@ What they also have in common is that they do not aim to give a fair chance to e
 They tend to reinforce trends similarly to music charts, but with far bigger efficiency. As the Dutch comedian, author and journalist Arjen Lubach explains the YouTube algorithm, to keep their personal recommendations engaging all the day and all of the night, they create a comfortable universe for the user allows little distraction in. If the user wants to listen to global hit music, or stoner rock, it will never be distracted with anything else.
 
 
-<iframe width="740" height="410" src="https://youtu.be/FLoR2Spftwg?cc_load_policy=1?cc_lang_pref=en" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="740" height="410" src="https://youtu.be/FLoR2Spftwg&cc_load_policy=1&cc_lang_pref=en" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The problem with such hyper-personalized media is that they leave no room for public activities.  Public broadcasters, which had a monopoly to television broadcasting in most European countries until the early 1990s, for example, were aiming to air a diversity of news, knowledge and access to local culture. Many countries on all continents have maintained `local content guidelines` for broadcasting on public, commercial and community television and radio channels, for example, local music and films, and reliable news as a public service. Personalized media-, social media- and streaming platforms do not have such obligations.
 

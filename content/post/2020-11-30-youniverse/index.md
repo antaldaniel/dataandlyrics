@@ -11,6 +11,7 @@ tags = ["listen-local", "Slovakia", "California", "Texas", "Japan", "music-expor
 
 summary = "Tammy is a bilingual Slovak, who is more at home singing and dreaming in the English language than in the country’s language, and she thinks this is not what the local audience expects from her. No wonder that she is looking for ways to expand their universe beyond the country borders."
 
+projects = ["listen-local"]
 
 # Featured image
 [image]
