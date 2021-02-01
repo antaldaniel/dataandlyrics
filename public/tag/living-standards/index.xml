@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>living standards | Data &amp; Lyrics</title>
-    <link>https://dataandlyrics.com/tag/living-standards/</link>
-      <atom:link href="https://dataandlyrics.com/tag/living-standards/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/living-standards/</link>
+      <atom:link href="/tag/living-standards/index.xml" rel="self" type="application/rss+xml" />
     <description>living standards</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 21 Jul 2019 18:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Sun, 21 Jul 2019 18:00:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>living standards</title>
-      <link>https://dataandlyrics.com/tag/living-standards/</link>
+      <link>/tag/living-standards/</link>
     </image>
     
     <item>
       <title>Musicians’ Living Standards And Life Satisfaction In The CEE Region</title>
-      <link>https://dataandlyrics.com/post/2019-07-21_life_satisfaction/</link>
+      <link>/post/2019-07-21_life_satisfaction/</link>
       <pubDate>Sun, 21 Jul 2019 18:00:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/post/2019-07-21_life_satisfaction/</guid>
+      <guid>/post/2019-07-21_life_satisfaction/</guid>
       <description>&lt;p&gt;In order to get a high-level comparison among the living standards of musicians, we use the standard survey question used in Eurobarometer surveys for decades: how often have had the respondent difficulties with paying bills in the past year?   This is a very good starting point because it makes comparable the rough material standards of musicians and other professional groups in the EU, irrespective of local earnings and living costs.&lt;/p&gt;
 &lt;p&gt;Musicians everywhere, including rich countries like Germany, Austria and Slovenia have more problems with paying their bills than the general population in their countries.  The only seemingly different country is Bulgaria, but in this case, the self-reported difference is small, and generally Bulgarian musicians and other Bulgarian people have similarly frequent difficulties with paying their bills.&lt;/p&gt;
 &lt;p&gt;Working in an emerging economy is more stressful than in a mature economy – making ends is more difficult, risks are greater and usually rules change faster. No wonder that people generally report higher level of life satisfaction in countries where the living standards are also higher: average life satisfaction in a country is 
@@ -44,10 +44,10 @@
 &lt;figure id=&#34;figure-comparing-the-life-satisfaction-levels-of-musicians-with-the-general-public-2018-2019&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://dataandlyrics.com/img/musician_charts/life_satisfaction_levels.jpg&#34; data-caption=&#34;Comparing the life satisfaction levels of musicians with the general public, 2018-2019.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/musician_charts/life_satisfaction_levels.jpg&#34; data-caption=&#34;Comparing the life satisfaction levels of musicians with the general public, 2018-2019.&#34;&gt;
 
 
-  &lt;img src=&#34;https://dataandlyrics.com/img/musician_charts/life_satisfaction_levels.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/musician_charts/life_satisfaction_levels.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -81,10 +81,10 @@
 &lt;figure id=&#34;figure-comparing-the-difficulties-of-paying-bills-among-musicians-and-the-general-public-2018-2019&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://dataandlyrics.com/img/musician_charts/difficulty_bills_levels.jpg&#34; data-caption=&#34;Comparing the difficulties of paying bills among musicians and the general public, 2018-2019.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/musician_charts/difficulty_bills_levels.jpg&#34; data-caption=&#34;Comparing the difficulties of paying bills among musicians and the general public, 2018-2019.&#34;&gt;
 
 
-  &lt;img src=&#34;https://dataandlyrics.com/img/musician_charts/difficulty_bills_levels.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/musician_charts/difficulty_bills_levels.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 

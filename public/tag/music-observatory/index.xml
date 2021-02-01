@@ -2,24 +2,79 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>music-observatory | Data &amp; Lyrics</title>
-    <link>https://dataandlyrics.com/tag/music-observatory/</link>
-      <atom:link href="https://dataandlyrics.com/tag/music-observatory/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/music-observatory/</link>
+      <atom:link href="/tag/music-observatory/index.xml" rel="self" type="application/rss+xml" />
     <description>music-observatory</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 20 Nov 2020 15:10:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Sat, 05 Dec 2020 08:10:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>music-observatory</title>
-      <link>https://dataandlyrics.com/tag/music-observatory/</link>
+      <link>/tag/music-observatory/</link>
     </image>
     
     <item>
+      <title>Reproducible research in practice: empirical study on the structural conditions of book piracy in global and European academia</title>
+      <link>/post/2020-12-04-pirate-libraries/</link>
+      <pubDate>Sat, 05 Dec 2020 08:10:00 +0200</pubDate>
+      <guid>/post/2020-12-04-pirate-libraries/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://journals.plos.org/plosone/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PLOS One&lt;/a&gt; is the fourth most influential multidisciplinary journal after Nature, and Science, and Proceedings of the National Academy of Sciences of the United States of America (based on 
+&lt;a href=&#34;https://www.scimagojr.com/journalrank.php?category=1000&amp;amp;area=1000&amp;amp;order=h&amp;amp;ord=desc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;H index&lt;/a&gt;.) On December 3, 2020 it published 
+&lt;a href=&#34;https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0242509&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a paper&lt;/a&gt; co-authored by Dr. Balazs Bodo, associate professor at the Institute for Information Law (IViR), Daniel Antal (Reprex, Demo Music Observatory), a data scientist interested in reproducible research, as an independent researcher, and Zoltan Puha, a Data Science PhD at Tilburg University, JADS. PLOS (Public Library of Science) is a nonprofit Open Access publisher, empowering researchers to accelerate progress in science and medicine by leading a transformation in research communication.&lt;/p&gt;
+&lt;p&gt;The article utilizes the our reproducible datasets created with our 
+&lt;a href=&#34;https://regions.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;regions&lt;/a&gt; package, and builds on many years of expertise in empirical research on the field of music and audiovisual piracy, home copying and private copying compensation (see for example 
+&lt;a href=&#34;https://dataandlyrics.com/publication/private_copying_croatia_2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Private Copying in Croatia&lt;/a&gt;.)  Our aim is to provide reliable, high quality indicators for the creative industries not only on national, but provincial, state, regional and metropolitan area level, too, because these levels are often more relevant for creators, performers and policy-makers.&lt;/p&gt;
+&lt;p&gt;The topic of the paper is Library Genesis (LG), the biggest piratical scholarly library on the internet, which provides copyright infringing access to more than 2.5 million scientific monographs, edited volumes, and textbooks. The paper uses advanced statistical methods to explain why researchers around the globe use copyright infringing knowledge resources. The analysis is based on a huge usage dataset from LG, as well as data from the World Bank, Eurostat, and Eurobarometer, to identify the role of macroeconomic factors, such as R&amp;amp;D and higher education spending, GDP, researcher density in scholarly copyright infringing activities.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-we-created-a-global-and-a-far-more-detailed-european-model-for-pirate-book-downloads&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/2020-12-04-pirate-libraries/journal.pone.0242509.g002_hubacdff3d701695d71db2909fe1238375_1083205_2000x2000_fit_lanczos_2.PNG&#34; data-caption=&#34;We created a global and a far more detailed European model for pirate book downloads.&#34;&gt;
+
+
+  &lt;img data-src=&#34;/post/2020-12-04-pirate-libraries/journal.pone.0242509.g002_hubacdff3d701695d71db2909fe1238375_1083205_2000x2000_fit_lanczos_2.PNG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2010&#34; height=&#34;1052&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    We created a global and a far more detailed European model for pirate book downloads.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;The main finding of the paper is that open access, even if it is radical, is not a panacea. The hypothesis of the research was that researchers in low-income regions use piratical open knowledge resources relatively more to compensate for the limitations of their legal access infrastructures. The authors found evidence to the contrary. Researchers in high income countries and European regions with access to high quality knowledge infrastructures, and high levels of funding use radical open access resources more intensively than researchers in lower income countries and regions, with less resourceful libraries. This means that while open knowledge is an important resource to close the knowledge gap between centrum and periphery, equality in access does not translate into equality in use. Structural knowledge inequalities are both present and are being reproduced in the context of open access resources.&lt;/p&gt;
+&lt;p&gt;The paper is unique not just because of the data it is based on. It also sets new standards in interdisciplinary legal research by publishing the paper, the data and the software code in the same time in open access repositories, following reproducible research best practices &amp;mdash; the practices that we want to promote in our 
+&lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo Music Observatory&lt;/a&gt; and further data observatories to serve business, evidence-based policy and scientific research.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Future Audience: Size Of Music Discovery Age Populations In Europe</title>
-      <link>https://dataandlyrics.com/post/2020-11-20-music-discovery-population/</link>
+      <link>/post/2020-11-20-music-discovery-population/</link>
       <pubDate>Fri, 20 Nov 2020 15:10:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/post/2020-11-20-music-discovery-population/</guid>
+      <guid>/post/2020-11-20-music-discovery-population/</guid>
       <description>&lt;p&gt;There is various global and national research available on the music discovery demography.  People usually discover new music in their young age as they are forming their own personal identity with their peer group.  This process mainly happens in the school, where similarly aged, educated young people spend much of their day together.&lt;/p&gt;
 &lt;p&gt;The music discovery phase is strongly related to the time when most people get their music education: their skills to listen to music, play music or sing, and to compose new music. Investment into music education pays of in later age: people with more diverse music education, for example, with the ability to play music, tend to visit concerts more or discover more music in later life stages.&lt;/p&gt;
-&lt;p&gt;For practical reasons and supported by academic research, we chose the age group 15-24 as the key age group for music discovery.  Our main indicator is the national population of the music discovery age group.&lt;/p&gt;
 
 
 
@@ -40,10 +95,10 @@
 &lt;figure id=&#34;figure-the-annual-growth-top-chart-and-total-growth-lower-chart-of-the-15-24-years-old-population-in-select-european-countries&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://dataandlyrics.com/img/comparative/music_discovery_population.png&#34; data-caption=&#34;The annual growth (top chart) and total growth (lower chart) of the 15-24 years-old population in select European countries.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/comparative/music_discovery_population.png&#34; data-caption=&#34;The annual growth (top chart) and total growth (lower chart) of the 15-24 years-old population in select European countries.&#34;&gt;
 
 
-  &lt;img src=&#34;https://dataandlyrics.com/img/comparative/music_discovery_population.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/comparative/music_discovery_population.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -56,16 +111,27 @@
 
 &lt;/figure&gt;
 
-&lt;p&gt;Earlier this year we introduced a comparison of music audiences in the 
-&lt;a href=&#34;https://ceereport2020.ceemid.eu/audience.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chapter 2&lt;/a&gt;. Central European Music Industry Report.&lt;/p&gt;
+&lt;p&gt;For practical reasons and supported by academic research, we chose the age group 15-24 as the key age group for music discovery.  We placed the national population of the music discovery age group in the 
+&lt;a href=&#34;https://data.music.dataobservatory.eu/music-society.html#audiences&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Music &amp;amp; Society&lt;/a&gt; pillar of the Demo Music Observatory.&lt;/p&gt;
+&lt;p&gt;The changes across Europe are dramatic: in Latvia and the Baltic states, the music discovery age population decreased by 60% since the countries (re-)gained independence in 1991. Musicians and their organizations must work hard in these countries on developing export strategies if they want to maintain the market and audience of their music.&lt;/p&gt;
+&lt;p&gt;Some European countries, for example, the Netherlands and Turkey have significantly increased their future audiences. In Turkey this is mainly related to population growth, in the Netherlands to immigration. Countries with a growing young population have a strong position for their music business.&lt;/p&gt;
+&lt;p&gt;Not all lost in the Baltics and other countries where the &lt;code&gt;music discovery age population &lt;/code&gt; is shrinking.  Much of the lost young population migrated to the United Kingdom and other parts of Europe. If artists and their association in these countries find a way to connect with these new diaspora, their market loss will be far less dramatic. Connecting to the diaspora is the most natural way to start exporting new music.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Get the data from the 
+&lt;a href=&#34;https://data.music.dataobservatory.eu/music-society.html#audiences&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo Music Observatory&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Earlier this year we introduced some in-depth comparison of music audiences in the 
+&lt;a href=&#34;https://ceereport2020.ceemid.eu/audience.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chapter 2&lt;/a&gt;. Central European Music Industry Report.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Photo credit 
+&lt;a href=&#34;https://commons.wikimedia.org/wiki/File:TeenStar_2013_Winner.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LauraMayM&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Feasibility Study For The Establishment Of A European Music Observatory &amp; The Demo Observatory</title>
-      <link>https://dataandlyrics.com/post/2020-11-16-european-music-observatory-feasibility/</link>
+      <link>/post/2020-11-16-european-music-observatory-feasibility/</link>
       <pubDate>Mon, 16 Nov 2020 07:03:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/post/2020-11-16-european-music-observatory-feasibility/</guid>
+      <guid>/post/2020-11-16-european-music-observatory-feasibility/</guid>
       <description>&lt;p&gt;&lt;em&gt;The 
 &lt;a href=&#34;https://op.europa.eu/en/publication-detail/-/publication/a756542a-249d-11eb-9d7e-01aa75ed71a1/language-en/format-PDF/source-171307257&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Feasibility study for the establishment of a European Music Observatory&lt;/a&gt; was published on 13 November.  Our private observatory, CEEMID was consulted in the creation of the Feasibility Study, and some of our recommendations found way into the consultant’s document. We created a Demo Music Observatory to provide a practical guidance on the decisions facing the European stakeholders, and to answer the questions that were left open in the Feasibility Study &amp;mdash; particularly on  
 &lt;a href=&#34;https://dataandlyrics.com/project/music-observatory/#data-gaps&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data integration&lt;/a&gt; and the 
@@ -103,10 +169,10 @@
 &lt;figure id=&#34;figure-illusory-data-gap-active-and-music-participation-is-available-on-eu-level-both-for-gender-groups-or-four-ethnic-minorities--this-is-regularly-featured-in-various-european-cap-surveys-and-in-our-national-cap-surveys-too&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://dataandlyrics.com/img/comparative/music_activity_playing_an_instrument_by_gender.png&#34; data-caption=&#34;Illusory data gap: active and music participation is available on EU level both for gender groups or four ethnic minorities – this is regularly featured in various European CAP surveys and in our national CAP surveys, too.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/comparative/music_activity_playing_an_instrument_by_gender.png&#34; data-caption=&#34;Illusory data gap: active and music participation is available on EU level both for gender groups or four ethnic minorities – this is regularly featured in various European CAP surveys and in our national CAP surveys, too.&#34;&gt;
 
 
-  &lt;img src=&#34;https://dataandlyrics.com/img/comparative/music_activity_playing_an_instrument_by_gender.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/comparative/music_activity_playing_an_instrument_by_gender.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -137,9 +203,9 @@
     
     <item>
       <title>New Demo Music Observatory Dataset: Domestic Market Share On Spotify National Charts</title>
-      <link>https://dataandlyrics.com/post/2020-11-09-spotify-national-charts/</link>
+      <link>/post/2020-11-09-spotify-national-charts/</link>
       <pubDate>Sun, 08 Nov 2020 18:10:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/post/2020-11-09-spotify-national-charts/</guid>
+      <guid>/post/2020-11-09-spotify-national-charts/</guid>
       <description>&lt;p&gt;The conversion to a subscription-based sales model with Spotify, Apple Music, YouTube Music, Deezer, Pandora and similar services was hailed by some to beat piracy and bringing back growth to the recording industry.  However, there are very few labels and artists who actually feel that they are profiting from this conversion.&lt;/p&gt;
 &lt;p&gt;In our 
 &lt;a href=&#34;https://ceereport2020.ceemid.eu/market.html#recmarket&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Central European Music Industry Report&lt;/a&gt; we have shown the paradox of streaming growth: while the streaming market appears to be growing, for the individual rightsholder, artists, or label, neither the volumes nor the revenues show much of a growth.  There are many factors contributing to the fact that for the ‘typical’ artist streaming does not bring revenue growth, and one of them is the increasing competition with the major label released music, particularly from the United States.&lt;/p&gt;
@@ -180,9 +246,9 @@
     
     <item>
       <title>Creating An Automated Data Observatory</title>
-      <link>https://dataandlyrics.com/post/2020-09-11-creating-automated-observatory/</link>
+      <link>/post/2020-09-11-creating-automated-observatory/</link>
       <pubDate>Fri, 11 Sep 2020 16:00:39 +0200</pubDate>
-      <guid>https://dataandlyrics.com/post/2020-09-11-creating-automated-observatory/</guid>
+      <guid>/post/2020-09-11-creating-automated-observatory/</guid>
       <description>&lt;p&gt;We are building data ecosystems, so called observatories, where scientific, business, policy and civic users can find factual information, data, evidence for their domain.  Our open source, open data, open collaboration approach allows to connect various open and proprietary data sources, and our reproducible research workflows allow us to automate data collection, processing, publication, documentation and presentation.&lt;/p&gt;
 &lt;p&gt;Our scripts are checking data sources, such as Eurostat&amp;rsquo;s Eurobase, Spotify&amp;rsquo;s API and other music industry sources every day for new information, and process any data corrections or new disclosure, interpolate, backcast or forecast missing values, make currency translations and unit conversions. This is shown illustrated with an 
 &lt;a href=&#34;https://dataobservatory.eu/post/2020-07-25-reproducible_ingestion/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;earlier post&lt;/a&gt;.&lt;/p&gt;
@@ -216,9 +282,9 @@
     
     <item>
       <title>Music Observatory</title>
-      <link>https://dataandlyrics.com/project/music-observatory/</link>
+      <link>/project/music-observatory/</link>
       <pubDate>Wed, 26 Aug 2020 08:00:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/project/music-observatory/</guid>
+      <guid>/project/music-observatory/</guid>
       <description>&lt;p&gt;We are developing our 
 &lt;a href=&#34;project/music-observatory/&#34;&gt;Demo Music Observatory&lt;/a&gt; in the world&amp;rsquo;s 2nd ranked university-backed incubator program, the 
 &lt;a href=&#34;post/2020-09-25-yesdelft-validation/&#34;&gt;Yes!Delft AI Validation Lab&lt;/a&gt;. Our aim is to show a better organizational model, examples of research automation and other data integration innovation that can reduce the budgetary needs of the European Music Observatory by 80-90% and provide far more timely, accurate, and relevant service than most data observatories in Europe.&lt;/p&gt;
@@ -274,10 +340,10 @@
 &lt;figure id=&#34;figure-illustration-our-map-to-find-to-locate-data-in-the-croatian-music-industry-our-demo-music-observatory-is-based-on-the-accepted-music-industry-concept-in-the-us-and-the-eu-the-three-income-stream-model-and-its-data-maps&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://dataandlyrics.com/img/methodology/three_income_streams_croatia.png&#34; data-caption=&#34;Illustration: our map to find to locate data in the Croatian music industry. Our Demo Music Observatory is based on the accepted music industry concept in the US and the EU (the three-income stream model) and its data maps.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/methodology/three_income_streams_croatia.png&#34; data-caption=&#34;Illustration: our map to find to locate data in the Croatian music industry. Our Demo Music Observatory is based on the accepted music industry concept in the US and the EU (the three-income stream model) and its data maps.&#34;&gt;
 
 
-  &lt;img src=&#34;https://dataandlyrics.com/img/methodology/three_income_streams_croatia.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/methodology/three_income_streams_croatia.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -316,10 +382,10 @@
 &lt;figure id=&#34;figure-illustration-our-map-to-find-to-locate-data-in-the-croatian-music-industry-our-demo-music-observatory-is-based-on-the-accepted-music-industry-concept-in-the-us-and-the-eu-the-three-income-stream-model-and-its-data-maps&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://dataandlyrics.com/img/reports/medianvalue-1.png&#34; data-caption=&#34;Illustration: our map to find to locate data in the Croatian music industry. Our Demo Music Observatory is based on the accepted music industry concept in the US and the EU (the three-income stream model) and its data maps.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/reports/medianvalue-1.png&#34; data-caption=&#34;Illustration: our map to find to locate data in the Croatian music industry. Our Demo Music Observatory is based on the accepted music industry concept in the US and the EU (the three-income stream model) and its data maps.&#34;&gt;
 
 
-  &lt;img src=&#34;https://dataandlyrics.com/img/reports/medianvalue-1.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/reports/medianvalue-1.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -362,10 +428,10 @@
 &lt;figure id=&#34;figure-illusory-data-gap-active-and-music-participation-is-available-on-eu-level-both-for-gender-groups-or-four-ethnic-minorities--this-is-regularly-featured-in-various-european-cap-surveys-and-in-our-national-cap-surveys-too&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://dataandlyrics.com/img/comparative/music_activity_playing_an_instrument_by_gender.png&#34; data-caption=&#34;Illusory data gap: active and music participation is available on EU level both for gender groups or four ethnic minorities – this is regularly featured in various European CAP surveys and in our national CAP surveys, too.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/comparative/music_activity_playing_an_instrument_by_gender.png&#34; data-caption=&#34;Illusory data gap: active and music participation is available on EU level both for gender groups or four ethnic minorities – this is regularly featured in various European CAP surveys and in our national CAP surveys, too.&#34;&gt;
 
 
-  &lt;img src=&#34;https://dataandlyrics.com/img/comparative/music_activity_playing_an_instrument_by_gender.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/comparative/music_activity_playing_an_instrument_by_gender.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -452,18 +518,18 @@
     
     <item>
       <title>First CEEMID Regional Open Data Release</title>
-      <link>https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/</link>
+      <link>/post/2020-04-16-regional-opendata-release/</link>
       <pubDate>Thu, 16 Apr 2020 17:00:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/</guid>
+      <guid>/post/2020-04-16-regional-opendata-release/</guid>
       <description>&lt;p&gt;&lt;em&gt;Internet use: participating in social networks (creating user profile, posting messages or other contributions to facebook, twitter, etc.) [percentage of individuals]&lt;/em&gt; shows the development of social media use in the past 10 years in very high detail.  Social media is one of the most important ways to communicate with fans and find audiences for gigs, performances and to share new releases.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dataandlyrics.com/img/dataanimation/internet_use_social_networks.gif&#34; alt=&#34;Social media use 2011-2019&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/dataanimation/internet_use_social_networks.gif&#34; alt=&#34;Social media use 2011-2019&#34;&gt;&lt;/p&gt;
 &lt;p&gt;The chosen dataset is highlighting several new priorities of CEEMID.  This indicator, which is based on a 
 &lt;a href=&#34;https://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=isoc_r_iuse_i&amp;amp;lang=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eurostat statistical product&lt;/a&gt;, has a much higher data quality than the Eurostat release, it is easier to use, and goes beyond the detail of national statistics.  It contains data on 411 territories in Europe, including countries, provinces and smaller regions, even some metropolitan areas.&lt;/p&gt;
 &lt;p&gt;The dataset is available on the European open research data repository, 
 &lt;a href=&#34;https://zenodo.org/record/3754574#.XpimX8gzbIU&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zenodo&lt;/a&gt;. It will be updated annually. 
 &lt;a href=&#34;https://doi.org/10.5281/zenodo.3754574&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://zenodo.org/badge/DOI/10.5281/zenodo.3754574.svg&#34; alt=&#34;DOI&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The processing information is available in the dataset.  First, we have used our open source software to correct the regional boundary changes during the decade (see 
-&lt;a href=&#34;https://dataandlyrics.com/post/2020-02-13-regional_eurostat/&#34;&gt;Programatic Approach To Work With European Regional Data Panels&lt;/a&gt;).&lt;/p&gt;
+&lt;a href=&#34;/post/2020-02-13-regional_eurostat/&#34;&gt;Programatic Approach To Work With European Regional Data Panels&lt;/a&gt;).&lt;/p&gt;
 &lt;p&gt;When data was missing in the end of the dataset, we used the last observation carry forward, when in the beginning, the next observation carry backwards data.  Gaps in the data were interpolated using linear interpolation. Whenever data was available on a larger (provincial level), we imputed it to the smaller regional units.&lt;/p&gt;
 &lt;p&gt;The data contains standard national / regional references according the European NUTS2013 standard for backwards compatibility. Further documentation will be available on our methodology on the 
 &lt;a href=&#34;https://documentation.ceemid.eu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;documentation.ceemid.eu&lt;/a&gt; wiki website.&lt;/p&gt;
@@ -500,8 +566,8 @@
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/gallery/ceemid_regional_social_media_use_2011.jpg&#34; data-caption=&#34;Internet use: participating in social networks (2011)&#34;&gt;
-  &lt;img data-src=&#34;https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/gallery/ceemid_regional_social_media_use_2011_hua485aaf22d1f04af04808580e8565870_238711_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;263&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2020-04-16-regional-opendata-release/gallery/ceemid_regional_social_media_use_2011.jpg&#34; data-caption=&#34;Internet use: participating in social networks (2011)&#34;&gt;
+  &lt;img data-src=&#34;/post/2020-04-16-regional-opendata-release/gallery/ceemid_regional_social_media_use_2011_hua485aaf22d1f04af04808580e8565870_238711_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;263&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -513,8 +579,8 @@
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/gallery/ceemid_regional_social_media_use_2015.jpg&#34; data-caption=&#34;Internet use: participating in social networks (2015)&#34;&gt;
-  &lt;img data-src=&#34;https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/gallery/ceemid_regional_social_media_use_2015_hua485aaf22d1f04af04808580e8565870_246037_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;263&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2020-04-16-regional-opendata-release/gallery/ceemid_regional_social_media_use_2015.jpg&#34; data-caption=&#34;Internet use: participating in social networks (2015)&#34;&gt;
+  &lt;img data-src=&#34;/post/2020-04-16-regional-opendata-release/gallery/ceemid_regional_social_media_use_2015_hua485aaf22d1f04af04808580e8565870_246037_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;263&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -526,8 +592,8 @@
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/gallery/ceemid_regional_social_media_use_2019.jpg&#34; data-caption=&#34;Internet use: participating in social networks (2019)&#34;&gt;
-  &lt;img data-src=&#34;https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/gallery/ceemid_regional_social_media_use_2019_hua485aaf22d1f04af04808580e8565870_250355_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;263&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2020-04-16-regional-opendata-release/gallery/ceemid_regional_social_media_use_2019.jpg&#34; data-caption=&#34;Internet use: participating in social networks (2019)&#34;&gt;
+  &lt;img data-src=&#34;/post/2020-04-16-regional-opendata-release/gallery/ceemid_regional_social_media_use_2019_hua485aaf22d1f04af04808580e8565870_250355_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;263&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -539,8 +605,8 @@
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/gallery/metadata_ceemid_regional_social_media_use_2011.jpg&#34; data-caption=&#34;CEEMID metadata summary (2011)&#34;&gt;
-  &lt;img data-src=&#34;https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/gallery/metadata_ceemid_regional_social_media_use_2011_hua485aaf22d1f04af04808580e8565870_247818_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;263&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2020-04-16-regional-opendata-release/gallery/metadata_ceemid_regional_social_media_use_2011.jpg&#34; data-caption=&#34;CEEMID metadata summary (2011)&#34;&gt;
+  &lt;img data-src=&#34;/post/2020-04-16-regional-opendata-release/gallery/metadata_ceemid_regional_social_media_use_2011_hua485aaf22d1f04af04808580e8565870_247818_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;263&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -552,8 +618,8 @@
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/gallery/metadata_ceemid_regional_social_media_use_2015.jpg&#34; data-caption=&#34;CEEMID metadata summary (2015)&#34;&gt;
-  &lt;img data-src=&#34;https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/gallery/metadata_ceemid_regional_social_media_use_2015_hua485aaf22d1f04af04808580e8565870_247520_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;263&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2020-04-16-regional-opendata-release/gallery/metadata_ceemid_regional_social_media_use_2015.jpg&#34; data-caption=&#34;CEEMID metadata summary (2015)&#34;&gt;
+  &lt;img data-src=&#34;/post/2020-04-16-regional-opendata-release/gallery/metadata_ceemid_regional_social_media_use_2015_hua485aaf22d1f04af04808580e8565870_247520_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;263&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -565,8 +631,8 @@
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/gallery/metadata_ceemid_regional_social_media_use_2019.jpg&#34; data-caption=&#34;CEEMID metadata summary (2019)&#34;&gt;
-  &lt;img data-src=&#34;https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/gallery/metadata_ceemid_regional_social_media_use_2019_hua485aaf22d1f04af04808580e8565870_243997_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;263&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2020-04-16-regional-opendata-release/gallery/metadata_ceemid_regional_social_media_use_2019.jpg&#34; data-caption=&#34;CEEMID metadata summary (2019)&#34;&gt;
+  &lt;img data-src=&#34;/post/2020-04-16-regional-opendata-release/gallery/metadata_ceemid_regional_social_media_use_2019_hua485aaf22d1f04af04808580e8565870_243997_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;263&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
 
@@ -577,9 +643,9 @@
     
     <item>
       <title>CCS Ecosystems: Evidence-Driven CCI Policy &amp; The Central &amp; Eastern European Music Industry Report</title>
-      <link>https://dataandlyrics.com/post/2020-01-30-ceereport/</link>
+      <link>/post/2020-01-30-ceereport/</link>
       <pubDate>Wed, 29 Jan 2020 16:00:00 +0100</pubDate>
-      <guid>https://dataandlyrics.com/post/2020-01-30-ceereport/</guid>
+      <guid>/post/2020-01-30-ceereport/</guid>
       <description>&lt;p&gt;CEEMID &amp;amp; Consolidated Independent presented and discussed with stakeholders the  
 &lt;a href=&#34;https://danielantal.eu/publication/ceereport_2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Central &amp;amp; Eastern European Music Industry Report 2020&lt;/a&gt; as a case-study on national and comparative evidence-based policymaking in the cultural and creative sector on the 
 &lt;a href=&#34;http://creativeflip.creativehubs.net/2019/12/03/flipping-the-odds/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CCS Ecosystems: FLIPPING THE ODDS Conference&lt;/a&gt; – a two-day high-level stakeholder event jointly organized by Geothe-Institute and the DG Education and Culture of the European Commission with the Creative FLIP project.&lt;/p&gt;
@@ -590,7 +656,7 @@
 &lt;a href=&#34;https://danielantal.eu/publication/slovak_music_industry_2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slovak&lt;/a&gt;, 
 &lt;a href=&#34;https://danielantal.eu/publication/private_copying_croatia_2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Croatian&lt;/a&gt; and 
 &lt;a href=&#34;http://czdev.ceemid.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Czech&lt;/a&gt; music industry reports are compared with Armenian, Austrian, Bulgarian, Lithuanian, Serbian and Slovenian data and findings.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dataandlyrics.com/img/publications/cee_report_2020_frontcover.jpg&#34; alt=&#34;Central &amp; Eastern European Music Industry Report 2020&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/publications/cee_report_2020_frontcover.jpg&#34; alt=&#34;Central &amp; Eastern European Music Industry Report 2020&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;invisibility&#34;&gt;Invisibility&lt;/h2&gt;
 &lt;p&gt;The measurement problems and the ‘invisibility’ of creative and cultural industries is a consequence of the fact that these industries are predominantly comprised of microenterprises and individual, freelancing entrepreneurs.  Even larger entities, such as collective management organizations can be classified as small enterprises.
 In the EU, small- and medium enterprises, and especially microenterprises usually have reduced reporting duties to the statistical authorities and tax authorities (which is the most important secondary source of government statistics in anonymized, aggregated form.)  This means that the supply side is not visible for policymakers. The recommendation is to conduct sample-based surveys among these microenterprises, but very few member states do that.&lt;/p&gt;
@@ -646,15 +712,15 @@ Perspectives on Academic Research with the European Commission’s Eurobarometer
     
     <item>
       <title>National Market Shares on Spotify Hitlists</title>
-      <link>https://dataandlyrics.com/post/2019-09-23_cross-border_europe/</link>
+      <link>/post/2019-09-23_cross-border_europe/</link>
       <pubDate>Fri, 20 Sep 2019 10:30:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/post/2019-09-23_cross-border_europe/</guid>
+      <guid>/post/2019-09-23_cross-border_europe/</guid>
       <description>&lt;p&gt;If we take a look at the streaming charts of the region, we usually find that the vast majority of the streamed songs are foreign songs - except for Austria, U.S. songs.  For comparison, we added a similar, middle-income emerging market (Argentina) and a rich, small-population English-speaking country, Australia to the chart. These countries seem to be in a similar position to the CEE countries.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dataandlyrics.com/img/dataanimation/domestic_market_share_animation.gif&#34; alt=&#34;Market shares August-September 2019&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/dataanimation/domestic_market_share_animation.gif&#34; alt=&#34;Market shares August-September 2019&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Arguably, the strongest countries of songwriting are the United States and Brazil - these are the countries that have ran out of the ISRC recording identifier range. Their charts are full with their domestic songs, but they are not alone.  Japan, France, and the bigger EU countries, France, Germany and Poland have very strong domestic performance, too.&lt;/p&gt;
 &lt;p&gt;Of course, there are many factor at play here. Large countries with large artist populations generate a lot more recordings, so they local fans always have thousands of new songs to select from.  In small countries, the total annual creations, from pop to jazz, from authentic folk to classical amounts to a few thousand tracks. But it is not only size that matters.  Sweden&amp;rsquo;s population is similar to that of Austria, Hungary and Czechia, yet the Swedish repertoire performs better in Sweden, and as we will see in the next chart, abroad, too.&lt;/p&gt;
 &lt;p&gt;We created a second data animation to visualize how hits were travelling across the borders in the summer of 2ö19. To make the chart easier to read, we omitted the United States, Brazil and Japan as countries of origin, and concentrated only on intra-European hit flows.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dataandlyrics.com/img/dataanimation/cross_border_plot-animation.gif&#34; alt=&#34;Cross-border hits August-September 2019&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/dataanimation/cross_border_plot-animation.gif&#34; alt=&#34;Cross-border hits August-September 2019&#34;&gt;&lt;/p&gt;
 &lt;p&gt;The second week of September 2019 was not an exceptional week. Most EU countries&#39; producers did not score any hits in any other EU countries&#39; Spotify Top 50 hits.  The UK exported many great hits to all over Europe, as usual, but there were other important hit flows. These hits mainly follow cultural proximity.&lt;/p&gt;
 &lt;p&gt;France exported hits to the two Francophone countries of Europe, Belgium and Romania, and furthermore to Greece, a Southern country with particularly unique chart composition. Germany exported many hits to Austria, another German-speaking country, and some hits to other Germanic countries. Dutch producers placed a few hits in the Germanic countries and in Belgium, where the Dutch-speaking Flemish community has its own radios, TVs, press and hitlists. The Netherlands is a powerhouse of electronic popmusic that are not bound by language which finds audience in several countries.&lt;/p&gt;
 &lt;p&gt;The strength and competitive position of the national market where an artists is most known and has a fan base is usually a determining factor of track performance and revenue.  The overall revenue prospects and competition situation of a Hungarian or Croatian song is very different from a British or even a Polish song.  But overall, most European recordings are not bound to a domestic country. Because of cultural proximity, the presence of native minorities or new immigrant diasporas, even small-language songs are being listened to on a much wider territory than the artists&#39; original country. Some relatively small EU countries, such as Sweden and the Netherlands successfully export their music on a regular basis.&lt;/p&gt;
@@ -688,8 +754,8 @@ Perspectives on Academic Research with the European Commission’s Eurobarometer
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2019-09-23_cross-border_europe/gallery/eu_cross_border_hits_20190915.png&#34; data-caption=&#34;European hits on an other European country&amp;amp;rsquo;s Spotify hitlist, 15 September 2019.&#34;&gt;
-  &lt;img data-src=&#34;https://dataandlyrics.com/post/2019-09-23_cross-border_europe/gallery/eu_cross_border_hits_20190915_hu87f5dcff746518fbceefbd4abed84ec5_40449_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;266&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2019-09-23_cross-border_europe/gallery/eu_cross_border_hits_20190915.png&#34; data-caption=&#34;European hits on an other European country&amp;amp;rsquo;s Spotify hitlist, 15 September 2019.&#34;&gt;
+  &lt;img data-src=&#34;/post/2019-09-23_cross-border_europe/gallery/eu_cross_border_hits_20190915_hu87f5dcff746518fbceefbd4abed84ec5_40449_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;266&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -701,8 +767,8 @@ Perspectives on Academic Research with the European Commission’s Eurobarometer
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2019-09-23_cross-border_europe/gallery/spotify_chart_mkt_share_20190915.png&#34; data-caption=&#34;National repertoire market shares on national Spotify hitlists, 15 September 2019.&#34;&gt;
-  &lt;img data-src=&#34;https://dataandlyrics.com/post/2019-09-23_cross-border_europe/gallery/spotify_chart_mkt_share_20190915_hu781d82e369311575b56de92db7530f5f_19890_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;266&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2019-09-23_cross-border_europe/gallery/spotify_chart_mkt_share_20190915.png&#34; data-caption=&#34;National repertoire market shares on national Spotify hitlists, 15 September 2019.&#34;&gt;
+  &lt;img data-src=&#34;/post/2019-09-23_cross-border_europe/gallery/spotify_chart_mkt_share_20190915_hu781d82e369311575b56de92db7530f5f_19890_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;266&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
 

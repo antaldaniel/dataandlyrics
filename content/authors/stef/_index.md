@@ -16,7 +16,7 @@ role: Data Scientist & Ethnomusicologist
 # Organizations/Affiliations
 organizations:
 - name: Reprex B.V.
-  url: "https://dataobservatory.eu/"
+  url: "https://reprex.nl/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Musicologist, music manager and musician. 

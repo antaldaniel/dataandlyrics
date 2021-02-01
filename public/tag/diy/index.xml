@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DIY | Data &amp; Lyrics</title>
-    <link>https://dataandlyrics.com/tag/diy/</link>
-      <atom:link href="https://dataandlyrics.com/tag/diy/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/diy/</link>
+      <atom:link href="/tag/diy/index.xml" rel="self" type="application/rss+xml" />
     <description>DIY</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 14 Dec 2020 08:10:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Mon, 14 Dec 2020 08:10:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>DIY</title>
-      <link>https://dataandlyrics.com/tag/diy/</link>
+      <link>/tag/diy/</link>
     </image>
     
     <item>
       <title>Tiny Rooms: A Label That Connects DIY Scenes</title>
-      <link>https://dataandlyrics.com/post/2020-12-14-tinyrooms/</link>
+      <link>/post/2020-12-14-tinyrooms/</link>
       <pubDate>Mon, 14 Dec 2020 08:10:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/post/2020-12-14-tinyrooms/</guid>
+      <guid>/post/2020-12-14-tinyrooms/</guid>
       <description>
 
 
@@ -38,10 +38,10 @@
 &lt;figure id=&#34;figure-wwwtinyroomnl&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://dataandlyrics.com/post/2020-12-14-tinyrooms/tiny_rooms_banner_hu2f442e66200c097184d338790d352dcf_2784064_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;www.tinyroom.nl&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/2020-12-14-tinyrooms/tiny_rooms_banner_hu0af4357b4903bf8e7dfce6d118dc51d7_803354_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;www.tinyroom.nl&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://dataandlyrics.com/post/2020-12-14-tinyrooms/tiny_rooms_banner_hu2f442e66200c097184d338790d352dcf_2784064_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1980&#34; height=&#34;807&#34;&gt;
+  &lt;img data-src=&#34;/post/2020-12-14-tinyrooms/tiny_rooms_banner_hu0af4357b4903bf8e7dfce6d118dc51d7_803354_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;800&#34; height=&#34;326&#34;&gt;
 &lt;/a&gt;
 
 
@@ -88,10 +88,10 @@
 &lt;figure id=&#34;figure-stefan-breuer--tiny-rooms&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://dataandlyrics.com/post/2020-12-14-tinyrooms/Stefan_Breuer_hud1f10558df68ad54f84cb64478a39875_1317232_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Stefan Breuer / Tiny Rooms.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/2020-12-14-tinyrooms/Stefan_Breuer_hud1f10558df68ad54f84cb64478a39875_1317232_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Stefan Breuer / Tiny Rooms.&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://dataandlyrics.com/post/2020-12-14-tinyrooms/Stefan_Breuer_hud1f10558df68ad54f84cb64478a39875_1317232_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1279&#34; height=&#34;853&#34;&gt;
+  &lt;img data-src=&#34;/post/2020-12-14-tinyrooms/Stefan_Breuer_hud1f10558df68ad54f84cb64478a39875_1317232_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1279&#34; height=&#34;853&#34;&gt;
 &lt;/a&gt;
 
 

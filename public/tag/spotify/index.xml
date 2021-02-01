@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Spotify | Data &amp; Lyrics</title>
-    <link>https://dataandlyrics.com/tag/spotify/</link>
-      <atom:link href="https://dataandlyrics.com/tag/spotify/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/spotify/</link>
+      <atom:link href="/tag/spotify/index.xml" rel="self" type="application/rss+xml" />
     <description>Spotify</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 17 Nov 2020 11:03:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Tue, 17 Nov 2020 11:03:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Spotify</title>
-      <link>https://dataandlyrics.com/tag/spotify/</link>
+      <link>/tag/spotify/</link>
     </image>
     
     <item>
       <title>Who Is Not Recommended On Spotify?</title>
-      <link>https://dataandlyrics.com/post/2020-11-17-recommendation-analysis/</link>
+      <link>/post/2020-11-17-recommendation-analysis/</link>
       <pubDate>Tue, 17 Nov 2020 11:03:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/post/2020-11-17-recommendation-analysis/</guid>
+      <guid>/post/2020-11-17-recommendation-analysis/</guid>
       <description>&lt;p&gt;&lt;em&gt;We are analysing how recommendations work for the artists involved in our 
 &lt;a href=&#34;https://dataandlyrics.com/project/listen-local/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Listen Local&lt;/a&gt; experiment. We created a testing database with their music and other artists from their cities, regions and countries. We need new recommendation engines to dig out from a pile of international hits the local artists.&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -46,10 +46,10 @@
 &lt;figure id=&#34;figure-artist-has-more-related-artists-as-number-popularity-and-number-of-followers-grows-nationality-may-affect-related-artists&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://dataandlyrics.com/img/streaming/spotify_related_artists_corrplot_no_title.png&#34; data-caption=&#34;Artist has more related artists as number popularity and number of followers grows. Nationality may affect related artists.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/streaming/spotify_related_artists_corrplot_no_title.png&#34; data-caption=&#34;Artist has more related artists as number popularity and number of followers grows. Nationality may affect related artists.&#34;&gt;
 
 
-  &lt;img src=&#34;https://dataandlyrics.com/img/streaming/spotify_related_artists_corrplot_no_title.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/streaming/spotify_related_artists_corrplot_no_title.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -86,10 +86,10 @@
 &lt;figure id=&#34;figure-the-algorithm-can-learn-more-about-popular-music-because-the-song-is-more-often-selected-by-a-larger-number-of-people&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://dataandlyrics.com/img/streaming/spotify_related_artists_popularity.png&#34; data-caption=&#34;The algorithm can learn more about popular music, because the song is more often selected by a larger number of people&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/streaming/spotify_related_artists_popularity.png&#34; data-caption=&#34;The algorithm can learn more about popular music, because the song is more often selected by a larger number of people&#34;&gt;
 
 
-  &lt;img src=&#34;https://dataandlyrics.com/img/streaming/spotify_related_artists_popularity.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/streaming/spotify_related_artists_popularity.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -124,10 +124,10 @@
 &lt;figure id=&#34;figure-artist-with-less-than-1000-followers-risk-not-being-to-recommended-at-all-doubling-your-chances-to-be-discovered-requires-1000x-more-followers&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://dataandlyrics.com/img/streaming/spotify_related_artists_followers.png&#34; data-caption=&#34;Artist with less than 1000 followers risk not being to recommended at all. Doubling your chances to be discovered requires 1000x more followers.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/streaming/spotify_related_artists_followers.png&#34; data-caption=&#34;Artist with less than 1000 followers risk not being to recommended at all. Doubling your chances to be discovered requires 1000x more followers.&#34;&gt;
 
 
-  &lt;img src=&#34;https://dataandlyrics.com/img/streaming/spotify_related_artists_followers.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/streaming/spotify_related_artists_followers.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -151,9 +151,9 @@
     
     <item>
       <title>New Demo Music Observatory Dataset: Domestic Market Share On Spotify National Charts</title>
-      <link>https://dataandlyrics.com/post/2020-11-09-spotify-national-charts/</link>
+      <link>/post/2020-11-09-spotify-national-charts/</link>
       <pubDate>Sun, 08 Nov 2020 18:10:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/post/2020-11-09-spotify-national-charts/</guid>
+      <guid>/post/2020-11-09-spotify-national-charts/</guid>
       <description>&lt;p&gt;The conversion to a subscription-based sales model with Spotify, Apple Music, YouTube Music, Deezer, Pandora and similar services was hailed by some to beat piracy and bringing back growth to the recording industry.  However, there are very few labels and artists who actually feel that they are profiting from this conversion.&lt;/p&gt;
 &lt;p&gt;In our 
 &lt;a href=&#34;https://ceereport2020.ceemid.eu/market.html#recmarket&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Central European Music Industry Report&lt;/a&gt; we have shown the paradox of streaming growth: while the streaming market appears to be growing, for the individual rightsholder, artists, or label, neither the volumes nor the revenues show much of a growth.  There are many factors contributing to the fact that for the ‘typical’ artist streaming does not bring revenue growth, and one of them is the increasing competition with the major label released music, particularly from the United States.&lt;/p&gt;
@@ -194,15 +194,15 @@
     
     <item>
       <title>Streaming Market Growth on European Markets</title>
-      <link>https://dataandlyrics.com/post/2019-09-24_streaming-market/</link>
+      <link>/post/2019-09-24_streaming-market/</link>
       <pubDate>Mon, 23 Sep 2019 19:00:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/post/2019-09-24_streaming-market/</guid>
+      <guid>/post/2019-09-24_streaming-market/</guid>
       <description>&lt;p&gt;I have never been a great fan of the headline figures reported by the recording industry about streaming growth.  I always felt that however dynamic are those charts, artists keep complaining that they do not feel these developments.  So I started to decompose those growth figures.&lt;/p&gt;
 &lt;p&gt;The Global Music Report quotes national streaming revenues on a dollar basis, which contains a lot of currency exchange noise.  And behind the national total there are too many factors: subscriber base growth and repertoire growth and the subscription fee.  The interplay of these forces is unpredictable. Whenever a local artist or producers sees a 10% reported national growth, they can never be sure if this will likely cause their sale to grow or shrink.&lt;/p&gt;
 &lt;p&gt;Because of the changes in the subscriber base and the available competing repertoire, it is important to see if the artist’s segment is growing, and if the competition is growing. The sales platforms will never reveal such data, and anyway, there is a competition among many sales platforms.
 I was looking for an analogy for a similar problem. Securities are a bit similar to songs, they will produce later cash flows, and they are competing for an always changing number of investors and with a constantly changing competition in the investible universe.  Songs and their royalty flows exhibit similarities with both equity and bonds, and I believe that a good solution is the creation of song indexes, similarly to stock and bond indexes that represent the performance of various security classes.
 After many hours of work with the state51 data science team, and at least as much processing work for the servers, we came up with a dataset that contained data from about 700 million royalty statements. I designed a sampling method that is far from perfect, but I think it gives a first birds-eye view on the European markets.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dataandlyrics.com/img/dataanimation/animated_median_quantity_plot.gif&#34; alt=&#34;Growth of the &amp;lsquo;typical&amp;rsquo; songs streams on various markets&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/dataanimation/animated_median_quantity_plot.gif&#34; alt=&#34;Growth of the &amp;lsquo;typical&amp;rsquo; songs streams on various markets&#34;&gt;&lt;/p&gt;
 &lt;p&gt;In every country and every month, we selected those exploited songs that were in the middle of the exploitation range: as many songs were less listened to as many were more listened too.  For simplicity, I call those selected songs the ‘typical songs’ for each streaming platform and royalty territory.  I added together the streaming quantities on the three major platforms. For every territory and month, this could have been the sales of a ‘typical’ song.&lt;/p&gt;
 &lt;p&gt;Like stock and bond indexes, we can create even more relevant indexes for certain rightsholders.  In the Central European Music Industry Report, we will present for each territory a ‘domestic’ and a ‘foreign’ index, because the sales potential of a Slovak song in Slovakia or in Austria is very different from a British song in Slovakia or Austria.  In Slovakia, a Slovak song is on a home territory and in Austria in a near territory, while the British song is on one of the almost 200 territories.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;These findings will be open to discussion on&lt;/em&gt; 
@@ -212,15 +212,15 @@ After many hours of work with the state51 data science team, and at least as muc
     
     <item>
       <title>National Market Shares on Spotify Hitlists</title>
-      <link>https://dataandlyrics.com/post/2019-09-23_cross-border_europe/</link>
+      <link>/post/2019-09-23_cross-border_europe/</link>
       <pubDate>Fri, 20 Sep 2019 10:30:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/post/2019-09-23_cross-border_europe/</guid>
+      <guid>/post/2019-09-23_cross-border_europe/</guid>
       <description>&lt;p&gt;If we take a look at the streaming charts of the region, we usually find that the vast majority of the streamed songs are foreign songs - except for Austria, U.S. songs.  For comparison, we added a similar, middle-income emerging market (Argentina) and a rich, small-population English-speaking country, Australia to the chart. These countries seem to be in a similar position to the CEE countries.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dataandlyrics.com/img/dataanimation/domestic_market_share_animation.gif&#34; alt=&#34;Market shares August-September 2019&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/dataanimation/domestic_market_share_animation.gif&#34; alt=&#34;Market shares August-September 2019&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Arguably, the strongest countries of songwriting are the United States and Brazil - these are the countries that have ran out of the ISRC recording identifier range. Their charts are full with their domestic songs, but they are not alone.  Japan, France, and the bigger EU countries, France, Germany and Poland have very strong domestic performance, too.&lt;/p&gt;
 &lt;p&gt;Of course, there are many factor at play here. Large countries with large artist populations generate a lot more recordings, so they local fans always have thousands of new songs to select from.  In small countries, the total annual creations, from pop to jazz, from authentic folk to classical amounts to a few thousand tracks. But it is not only size that matters.  Sweden&amp;rsquo;s population is similar to that of Austria, Hungary and Czechia, yet the Swedish repertoire performs better in Sweden, and as we will see in the next chart, abroad, too.&lt;/p&gt;
 &lt;p&gt;We created a second data animation to visualize how hits were travelling across the borders in the summer of 2ö19. To make the chart easier to read, we omitted the United States, Brazil and Japan as countries of origin, and concentrated only on intra-European hit flows.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dataandlyrics.com/img/dataanimation/cross_border_plot-animation.gif&#34; alt=&#34;Cross-border hits August-September 2019&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/dataanimation/cross_border_plot-animation.gif&#34; alt=&#34;Cross-border hits August-September 2019&#34;&gt;&lt;/p&gt;
 &lt;p&gt;The second week of September 2019 was not an exceptional week. Most EU countries&#39; producers did not score any hits in any other EU countries&#39; Spotify Top 50 hits.  The UK exported many great hits to all over Europe, as usual, but there were other important hit flows. These hits mainly follow cultural proximity.&lt;/p&gt;
 &lt;p&gt;France exported hits to the two Francophone countries of Europe, Belgium and Romania, and furthermore to Greece, a Southern country with particularly unique chart composition. Germany exported many hits to Austria, another German-speaking country, and some hits to other Germanic countries. Dutch producers placed a few hits in the Germanic countries and in Belgium, where the Dutch-speaking Flemish community has its own radios, TVs, press and hitlists. The Netherlands is a powerhouse of electronic popmusic that are not bound by language which finds audience in several countries.&lt;/p&gt;
 &lt;p&gt;The strength and competitive position of the national market where an artists is most known and has a fan base is usually a determining factor of track performance and revenue.  The overall revenue prospects and competition situation of a Hungarian or Croatian song is very different from a British or even a Polish song.  But overall, most European recordings are not bound to a domestic country. Because of cultural proximity, the presence of native minorities or new immigrant diasporas, even small-language songs are being listened to on a much wider territory than the artists&#39; original country. Some relatively small EU countries, such as Sweden and the Netherlands successfully export their music on a regular basis.&lt;/p&gt;
@@ -254,8 +254,8 @@ After many hours of work with the state51 data science team, and at least as muc
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2019-09-23_cross-border_europe/gallery/eu_cross_border_hits_20190915.png&#34; data-caption=&#34;European hits on an other European country&amp;amp;rsquo;s Spotify hitlist, 15 September 2019.&#34;&gt;
-  &lt;img data-src=&#34;https://dataandlyrics.com/post/2019-09-23_cross-border_europe/gallery/eu_cross_border_hits_20190915_hu87f5dcff746518fbceefbd4abed84ec5_40449_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;266&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2019-09-23_cross-border_europe/gallery/eu_cross_border_hits_20190915.png&#34; data-caption=&#34;European hits on an other European country&amp;amp;rsquo;s Spotify hitlist, 15 September 2019.&#34;&gt;
+  &lt;img data-src=&#34;/post/2019-09-23_cross-border_europe/gallery/eu_cross_border_hits_20190915_hu87f5dcff746518fbceefbd4abed84ec5_40449_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;266&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -267,8 +267,8 @@ After many hours of work with the state51 data science team, and at least as muc
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2019-09-23_cross-border_europe/gallery/spotify_chart_mkt_share_20190915.png&#34; data-caption=&#34;National repertoire market shares on national Spotify hitlists, 15 September 2019.&#34;&gt;
-  &lt;img data-src=&#34;https://dataandlyrics.com/post/2019-09-23_cross-border_europe/gallery/spotify_chart_mkt_share_20190915_hu781d82e369311575b56de92db7530f5f_19890_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;266&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2019-09-23_cross-border_europe/gallery/spotify_chart_mkt_share_20190915.png&#34; data-caption=&#34;National repertoire market shares on national Spotify hitlists, 15 September 2019.&#34;&gt;
+  &lt;img data-src=&#34;/post/2019-09-23_cross-border_europe/gallery/spotify_chart_mkt_share_20190915_hu781d82e369311575b56de92db7530f5f_19890_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;266&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
 

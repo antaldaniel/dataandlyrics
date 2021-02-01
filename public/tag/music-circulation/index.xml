@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>music-circulation | Data &amp; Lyrics</title>
-    <link>https://dataandlyrics.com/tag/music-circulation/</link>
-      <atom:link href="https://dataandlyrics.com/tag/music-circulation/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/music-circulation/</link>
+      <atom:link href="/tag/music-circulation/index.xml" rel="self" type="application/rss+xml" />
     <description>music-circulation</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 27 Oct 2020 10:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Tue, 27 Oct 2020 10:00:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>music-circulation</title>
-      <link>https://dataandlyrics.com/tag/music-circulation/</link>
+      <link>/tag/music-circulation/</link>
     </image>
     
     <item>
       <title>Why Did We Start The Demo Music Observatory?</title>
-      <link>https://dataandlyrics.com/post/2020-10-27-why-start-music-observatory/</link>
+      <link>/post/2020-10-27-why-start-music-observatory/</link>
       <pubDate>Tue, 27 Oct 2020 10:00:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/post/2020-10-27-why-start-music-observatory/</guid>
+      <guid>/post/2020-10-27-why-start-music-observatory/</guid>
       <description>&lt;p&gt;I was contacted during the consultation period of the Feasibility Study of the European Music Observatory. That led to an uneasy series of conversations with the consultants of this project, and a very enlightening series of conversations with European civil servants, music industry organizations, music managers and artists.  My main pitch was that every single assumption of this project is wrong.&lt;/p&gt;
 &lt;p&gt;They started from the assumption that there is hardly any data available on the European music scene &amp;ndash; whereas we found while building up CEEMID, errr, a pan-European music data observatory, is that music is one of the most data-driven industries in the world, it is choking in numbers, and the reason why this data is not visible is very different. They were talking about lack of data in fields where we already had about 2000 pan-European indicators ready. (See 
 &lt;a href=&#34;https://danielantal.eu/presentation/ceemid-observatory.html#/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introducing the CEEMID Observatory, 9/28/2019&lt;/a&gt; &lt;em&gt;large self-contained html file, takes time to load into browser&lt;/em&gt;)&lt;/p&gt;

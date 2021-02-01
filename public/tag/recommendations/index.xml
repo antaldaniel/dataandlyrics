@@ -2,21 +2,282 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>recommendations | Data &amp; Lyrics</title>
-    <link>https://dataandlyrics.com/tag/recommendations/</link>
-      <atom:link href="https://dataandlyrics.com/tag/recommendations/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/recommendations/</link>
+      <atom:link href="/tag/recommendations/index.xml" rel="self" type="application/rss+xml" />
     <description>recommendations</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 17 Nov 2020 11:03:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Thu, 17 Dec 2020 17:10:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>recommendations</title>
-      <link>https://dataandlyrics.com/tag/recommendations/</link>
+      <link>/tag/recommendations/</link>
     </image>
     
     <item>
+      <title>Demo Slovak Music Database</title>
+      <link>/post/2020-12-17-demo-slovak-music-database/</link>
+      <pubDate>Thu, 17 Dec 2020 17:10:00 +0200</pubDate>
+      <guid>/post/2020-12-17-demo-slovak-music-database/</guid>
+      <description>&lt;p&gt;We are finalizing our first local recommendation system, Listen Local Slovakia, and the accompanying Demo Slovak Music Database. Our aim is&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Show how the Slovak repertoire is seen by media and streaming platforms&lt;/li&gt;
+&lt;li&gt;What are the possibilities to give greater visibility to the Slovak repertoire in radio and streaming platforms&lt;/li&gt;
+&lt;li&gt;What are the specific problems why certain artists and music is almost invisible.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In the next year, we would like to create a modern, comprehensive national music database that serves music promotion in radio, streaming, live music within Slovakia and abroad.&lt;/p&gt;
+&lt;p&gt;To train our locally relevant, 
+&lt;a href=&#34;/post/2020-12-15-alternative-recommendations/&#34;&gt;alternative recommendation system&lt;/a&gt;, we filled the Demo Slovak Music Database from two sources. In the &lt;code&gt;opt-in&lt;/code&gt; process we asked artists to participate in Listen Local, and we selected those artists who opted in from Slovakia, or whose language is Slovak. In the &lt;code&gt;write-in&lt;/code&gt; process we collected publicly available data from other artists that our musicology team considered to be Slovak, mainly on the basis of their language use, residence, and other public biographical information. The following artists form the basis of our experiment. (&lt;em&gt;If you want to be excluded from the write-in list, 
+&lt;a href=&#34;https://dataandlyrics.com/#contact&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;write to us&lt;/a&gt;, or you want to be included, please, fill out 
+&lt;a href=&#34;https://www.surveymonkey.com/r/ll_collector_2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this form&lt;/a&gt;.&lt;/em&gt;)&lt;/p&gt;
+&lt;iframe seamless =&#34;&#34; name=&#34;iframe&#34; src=&#34;https://dataandlyrics.com/htmlwidgets/sk_artist_table.html&#34; width=&#34;1000&#34; height=&#34;1050&#34; &gt;&lt;/iframe&gt;
+&lt;p&gt;
+&lt;a href=&#34;/htmlwidgets/sk_artist_table.html&#34;&gt;Click here to view the table on a separate page&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Modern recommendation systems usually rely on data provided by artists or their representatives, data on who and how is listening to their music, and what music is listened to by the audience of the artists, and certain musicological features of the music.  Usually they collect data from various data sources, but these data sources are mainly English language sources.&lt;/p&gt;
+&lt;p&gt;The problem with these recommendation systems is that they do not help music discovery, and make starting new acts very difficult. Recommendation systems tend to help already established artists, and artists whose work is well described in the English language.&lt;/p&gt;
+&lt;p&gt;Our alternative recommendation system is a utility-based system that gives a user-defined priority to artists released in Slovakia, or artists identified as Slovak, or both. The system can be extended for lyrics language priorities, too.
+Currently, our app is demonstration to provide a more comprehensive database-driven tool that can support various music discovery, recommendation or music export tools. Our Feasibility Study to build such tools and our Demo App is currently under consultation with Slovak stakeholders.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;
+&lt;a href=&#34;https://dataandlyrics.com/tag/listen-local/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Listen Local&lt;/a&gt; is developing transparent algorithms and open source solutions to find new audiences for independent music. We want to correct the injustice and inherent bias of market leading big data algorithms. If you want&lt;/em&gt; &lt;code&gt;your music and audience&lt;/code&gt; &lt;em&gt;to be analysed in Listen Local, fill&lt;/em&gt; 
+&lt;a href=&#34;https://www.surveymonkey.com/r/ll_collector_2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this form&lt;/a&gt; &lt;em&gt;in. We will include you in our demo application for local music recommendations and our analysis to be revealed in December.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Listen Local: Why We Need Alternative Recommendation Systems</title>
+      <link>/post/2020-12-15-alternative-recommendations/</link>
+      <pubDate>Mon, 14 Dec 2020 17:10:00 +0200</pubDate>
+      <guid>/post/2020-12-15-alternative-recommendations/</guid>
+      <description>
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-the-first-version-of-our-demo-application&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/2020-12-15-alternative-recommendations/03_app_recommend_hue273d4dba573461e5c0230751d669551_145885_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;The first version of our demo application&#34;&gt;
+
+
+  &lt;img data-src=&#34;/post/2020-12-15-alternative-recommendations/03_app_recommend_hue273d4dba573461e5c0230751d669551_145885_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1366&#34; height=&#34;556&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    The first version of our demo application
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Recommendation systems utilize knowledge about music content and their audiences while also pursuing the objectives or needs of recommenders.&lt;/p&gt;
+&lt;p&gt;The simplest recommendation systems just follow the charts: for example, they select from well-known current or perennial greatest hits. Such a system may work well for an amateur DJ in a home party or a small local radio that just wants to make sure that the music in its programme will be liked by many people. They reinforce existing trends and make already popular songs and their creators even more popular.&lt;/p&gt;
+&lt;p&gt;If the recommendation engine is supported by big data and a machine learning system &amp;ndash; or increasingly, a combination of several machine learning algorithms &amp;ndash; the general &lt;em&gt;modus operandi&lt;/em&gt; is to exploit information about both content and users in order to achieve certain goals.&lt;/p&gt;
+&lt;h2 id=&#34;how-algorithmic-recommendation-systems-work&#34;&gt;How algorithmic recommendation systems work?&lt;/h2&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-how-recommendation-systems-work&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/2020-12-15-alternative-recommendations/mind_map_recommendations_hu598e31fbda7e27fa2531c6d1d2d7129e_95495_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;How recommendation systems work?&#34;&gt;
+
+
+  &lt;img data-src=&#34;/post/2020-12-15-alternative-recommendations/mind_map_recommendations_hu598e31fbda7e27fa2531c6d1d2d7129e_95495_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1335&#34; height=&#34;748&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    How recommendation systems work?
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Spotify’s recommendation system is a mix of content- and collaborative filtering that exploits information about users’ past behaviour (e.g. liked, skipped, and re-listened songs), the behaviour of similar users, as well as data collected from the users&#39; social media and other online activities, or from blogs. Deezer uses a similar system that is boosted by the acquisition of Last.fm &amp;ndash; big data created from user comments are used to understand the mood of the songs, for example.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-spotify-makes-16-billion-music-recommendations-each-month-in-2020&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/2020-12-15-alternative-recommendations/spotify_discover_weekly_hue95bf4b3b7257937912363dc6117ebbf_2116732_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Spotify makes 16 billion music recommendations each month in 2020.&#34;&gt;
+
+
+  &lt;img data-src=&#34;/post/2020-12-15-alternative-recommendations/spotify_discover_weekly_hue95bf4b3b7257937912363dc6117ebbf_2116732_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;966&#34; height=&#34;543&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Spotify makes 16 billion music recommendations each month in 2020.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;YouTube, which plays an even larger role in music discovery, uses a system comprised of two neural networks: one for candidate generation and one for ranking. The candidate generation deep neural network provides works on the basis of collaborative filtering, while the ranking system is based on content-based filtering and a form of utility ranking that takes into consideration the user&amp;rsquo;s languages, for example.&lt;/p&gt;
+&lt;p&gt;What makes these systems common is that they maximize the algorithm creators&#39; corporate key performance indicators. Spotify wants to be ‘your playlist to life’ and increase the amount of music played during work or sports in the background, during travelling, or active music listening –- i.e. maximizing the number of hours spent using it, and do not let empty timeslots for other music providers, such as radio stations. YouTube and Netflix have similar targets. They are in many ways like commercial radio targets, which want to maximize the time spent listening to the broadcast stream. Radios and YouTube, in particular, have similar goals because they are mainly financed through advertising. For Spotify or Netflix, their key financial motivation is to avoid users&#39; cancelling their subscriptions or changing it to different providers, such as Amzon, Apple or Deezer.&lt;/p&gt;
+&lt;h2 id=&#34;what-is-the-problem-with-black-box-recommendation-systems&#34;&gt;What is the problem with black box recommendation systems?&lt;/h2&gt;
+&lt;p&gt;What they also have in common is that they do not aim to give a fair chance to each uploaded song, serve equally every artist, or provide whatever equality of chances for English, Slovak or Farsi language content.&lt;/p&gt;
+&lt;p&gt;They tend to reinforce trends similarly to music charts, but with far bigger efficiency. As the Dutch comedian, author and journalist Arjen Lubach explains the YouTube algorithm, to keep their personal recommendations engaging all the day and all of the night, they create a comfortable universe for the user allows little distraction in. If the user wants to listen to global hit music, or stoner rock, it will never be distracted with anything else.&lt;/p&gt;
+&lt;iframe width=&#34;710&#34; height=&#34;410&#34; src=&#34;https://www.youtube.com/embed/FLoR2Spftwg?cc_load_policy=1&amp;origin=http://dataandlyrics.com&amp;cc_lang_pref=en&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;em&gt;Zondag met Lubach on Dutch public broadcaster VPRO. Click settings sign to change the language of the captions.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The problem with such hyper-personalized media is that they leave no room for public activities.  Public broadcasters, which had a monopoly to television broadcasting in most European countries until the early 1990s, for example, were aiming to air a diversity of news, knowledge and access to local culture. Many countries on all continents have maintained &lt;code&gt;local content guidelines&lt;/code&gt; for broadcasting on public, commercial and community television and radio channels, for example, local music and films, and reliable news as a public service. Personalized media-, social media- and streaming platforms do not have such obligations.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Black box recommendation systems usually maximize a corporate key performance indicator, and they are not subject to usual public new service or local content regulations that traditional broadcast media is.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The goal and the steps that the algorithm is pursuing is not know to content creators, and they do not know when will the algorithm work for their benefit or against them.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;transparent-and-regulated-ai&#34;&gt;Transparent and regulated AI&lt;/h2&gt;
+&lt;p&gt;In our view, utility-based recommendation system can provide a bridge between current, corporate-owned systems that maximize a media or streaming platforms&#39; business indicators.&lt;/p&gt;
+&lt;p&gt;Public new service requirements or local content requirements (&lt;em&gt;&amp;ldquo;national quotas&amp;rdquo;&lt;/em&gt;) set for commercial broadcasting are similar to utility or knowledge-based recommendation systems. A utility-based recommendation system, for example, would prefer from two candidates for a playlist the one that has a Slovak composer, or a performer from Wales, or which has Farsi lyrics.&lt;/p&gt;
+&lt;p&gt;Our Demo App creates recommendations on the basis of a pre-existing radio or personal streaming playlist that, by choice, contains a pre-defined ratio of music produced in Slovakia, or performed by Slovak artists. We will soon add Dutch and Hungarian choices to this demo, but naturally, we could add any city&amp;rsquo;s, regions&#39;, province&amp;rsquo;s our countries preferences into the app.&lt;/p&gt;
+&lt;p&gt;Our Demo App and accompanying Feasibility Study in Slovakia shows how can a regulator create better broadcasting regulations, learning from the experience with AI-driven streaming platforms, and how can it apply the goals of local content requirements (such as a certain visibility for Slovak or a city-based music) and public service requirements (for example, spreading reliable information or stopping 
+&lt;a href=&#34;https://dataandlyrics.com/post/2020-10-30-racist-algorithm/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hateful music&lt;/a&gt;.)&lt;/p&gt;
+&lt;h2 id=&#34;access-for-all&#34;&gt;Access for all&lt;/h2&gt;
+&lt;p&gt;We do not believe that the current heated discussion on the re-regulation of AI and music streaming will solve all the problems of independent artists, bands from ethnic or racial minorities, or otherwise vulnerable producers. New regulation can limit the unintended collateral damage of big data algorithms deployed by big corporations, but they will not bring down the benefits of AI to these creators.&lt;/p&gt;
+&lt;p&gt;Take the example of the 
+&lt;a href=&#34;https://www.theguardian.com/technology/2020/nov/03/spotify-artists-promote-music-exchange-cut-royalty-rates-payola-algorithm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;controversial&lt;/a&gt; new initiative that let&amp;rsquo;s artists, labels and publishers to promote their music in exchange for 
+&lt;a href=&#34;https://newsroom.spotify.com/2020-11-02/amplifying-artist-input-in-your-personalized-recommendations/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a cut in royalty rates&lt;/a&gt;. While felt by many artists injust and even corrupt, it is an answer to the growing need to influence how the recommendation algorithms are promoting certain music at the expense of tens of millions of sound recordings that are not recommended.&lt;/p&gt;
+&lt;p&gt;We believe that algorithms create value for the users, and if artists are not happy to pay for corporations to influence black box algoritms, thatn they must collaborate and share data, and build large enough data pools so that they can deploy white, transparent algorithms that work for them.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Our Feasibility Study shows why it is important that creators have a &lt;code&gt;control over what data describes their music&lt;/code&gt;, their biographies and other information online, because corporate streaming platforms use this information for their algorithms.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;We should that with relatively little effort creators can &lt;code&gt;pool enough information&lt;/code&gt; to create alternative recommendation systems that follow a more agreeable goal, that is sensitive to local content requirements and more access to new artists, women or black performers, or which suppress hateful lyrics.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The benefit of an &lt;code&gt;open algorithm&lt;/code&gt; and pooled data is that artists can actively look for audiences in various age groups or in cities that are accessible for them on a performing tour after the pandemic.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Overall, we want to show that regulating black box, private algorithms and data monopolies is only a first step to damage control. Deploying white, transparent algorithms and building collaborative or open data pools can only guarantee fairness in the digital platforms, in recommendations, and generally in the use of AI.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;
+&lt;a href=&#34;https://dataandlyrics.com/tag/listen-local/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Listen Local&lt;/a&gt; is developing transparent algorithms and open source solutions to find new audiences for independent music. We want to correct the injustice and inherent bias of market leading big data algorithms. If you want&lt;/em&gt; &lt;code&gt;your music and audience&lt;/code&gt; &lt;em&gt;to be analysed in Listen Local, fill&lt;/em&gt; 
+&lt;a href=&#34;https://www.surveymonkey.com/r/ll_collector_2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this form&lt;/a&gt; &lt;em&gt;in. We will include you in our demo application for local music recommendations and our analysis to be revealed in December.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Listen Local: Katarzia</title>
+      <link>/post/2020-11-25-katarzia/</link>
+      <pubDate>Wed, 25 Nov 2020 15:10:00 +0200</pubDate>
+      <guid>/post/2020-11-25-katarzia/</guid>
+      <description>
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-katarzia-photography-by-ladislav-kyllar&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/2020-11-25-katarzia/katarzia_avatar_hud68522c4bd457ff5afa5d5ebf9bd39ef_5502842_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Katarzia. Photography by Ladislav Kyllar&#34;&gt;
+
+
+  &lt;img data-src=&#34;/post/2020-11-25-katarzia/katarzia_avatar_hud68522c4bd457ff5afa5d5ebf9bd39ef_5502842_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;5320&#34; height=&#34;2280&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Katarzia. Photography by Ladislav Kyllar
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Katarzia, or &lt;em&gt;Katarína Kubošiová&lt;/em&gt;, is a Slovak singer, lyricist and producer. In 2020 she released her fourth album 
+&lt;a href=&#34;https://www.slnkorecords.sk/en/katarzia/celibat&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Celibát&lt;/a&gt; with the main themes of loneliness and self-appreciation. Album was created in collaboration with the producer &lt;em&gt;Jonatán Pastirčák&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Katarzia started her career as a folk singer. In the past years she moved on towards electronic music. She describes her current sound can as a mix of folk and electropop. The tour to promote her newest album &lt;em&gt;Celibát&lt;/em&gt; had been planned for spring 2020, unfortunately due to the Covid-19 pandemic had to be postponed indefinitely. As many other artists, Katarzia thinks that the current situation is not easy.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;At the moment, I am not working on any new projects. I am looking for a new job. Once the pandemic is over, I would like to stay where I am now, and return to the clubs to play for my audience. As I sing in Slovak, I know where my place is – I don&amp;rsquo;t want to perform abroad, of course, unless I turn to techno music. On a more personal level, I would like to live in New York – not as a musician, tough.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Katarzia is originally from Nitra, Slovakia and she has been living in Prague for a couple of years.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;I live in Dejvice – there is a nice clubroom there, but I don&amp;rsquo;t visit that much. I enjoy going to National Theatre, Dejvice Theatre, Meetfactory, Archa Theatre and Rudolfinum. All the old classics.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Despite the restrictions during the pandemic, Katarzia managed to shoot a video for her song &lt;em&gt;Hoří i voda&lt;/em&gt; from &lt;em&gt;Celibát&lt;/em&gt;.&lt;/p&gt;
+&lt;iframe width=&#34;740&#34; height=&#34;410&#34; src=&#34;https://www.youtube.com/embed/xVPDZEa0wjU&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;The music video is a short film, directed by Jay Walker, an American who lives and works in Prague. 
+&lt;a href=&#34;http://girlsinfilm.net/network&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Girls in film&lt;/a&gt; –- an organization that supports women in the film industry –- participated in the production of the video. The song is about women rights and equality.&lt;/p&gt;
+&lt;p&gt;Previous albums:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Generácia Y (2013)&lt;/li&gt;
+&lt;li&gt;Agnostika (2016)&lt;/li&gt;
+&lt;li&gt;Antigona (2018).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe src=&#34;https://open.spotify.com/embed/artist/5EssQRYnIgCOcvPauVySR1&#34; width=&#34;740&#34; height=&#34;380&#34; frameborder=&#34;0&#34; allowtransparency=&#34;true&#34; allow=&#34;encrypted-media&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;em&gt;
+&lt;a href=&#34;https://dataandlyrics.com/tag/listen-local/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Listen Local&lt;/a&gt; is developing transparent algorithms and open source solutions to find new audiences for independent music. We want to correct the injustice and inherent bias of market leading big data algorithms. If you want&lt;/em&gt; &lt;code&gt;your music and audience&lt;/code&gt; &lt;em&gt;to be analysed in Listen Local, fill&lt;/em&gt; 
+&lt;a href=&#34;https://www.surveymonkey.com/r/ll_collector_2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this form&lt;/a&gt; &lt;em&gt;in. We will include you in our demo application for local music recommendations and our analysis to be revealed in December.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Who Is Not Recommended On Spotify?</title>
-      <link>https://dataandlyrics.com/post/2020-11-17-recommendation-analysis/</link>
+      <link>/post/2020-11-17-recommendation-analysis/</link>
       <pubDate>Tue, 17 Nov 2020 11:03:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/post/2020-11-17-recommendation-analysis/</guid>
+      <guid>/post/2020-11-17-recommendation-analysis/</guid>
       <description>&lt;p&gt;&lt;em&gt;We are analysing how recommendations work for the artists involved in our 
 &lt;a href=&#34;https://dataandlyrics.com/project/listen-local/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Listen Local&lt;/a&gt; experiment. We created a testing database with their music and other artists from their cities, regions and countries. We need new recommendation engines to dig out from a pile of international hits the local artists.&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -46,10 +307,10 @@
 &lt;figure id=&#34;figure-artist-has-more-related-artists-as-number-popularity-and-number-of-followers-grows-nationality-may-affect-related-artists&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://dataandlyrics.com/img/streaming/spotify_related_artists_corrplot_no_title.png&#34; data-caption=&#34;Artist has more related artists as number popularity and number of followers grows. Nationality may affect related artists.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/streaming/spotify_related_artists_corrplot_no_title.png&#34; data-caption=&#34;Artist has more related artists as number popularity and number of followers grows. Nationality may affect related artists.&#34;&gt;
 
 
-  &lt;img src=&#34;https://dataandlyrics.com/img/streaming/spotify_related_artists_corrplot_no_title.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/streaming/spotify_related_artists_corrplot_no_title.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -86,10 +347,10 @@
 &lt;figure id=&#34;figure-the-algorithm-can-learn-more-about-popular-music-because-the-song-is-more-often-selected-by-a-larger-number-of-people&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://dataandlyrics.com/img/streaming/spotify_related_artists_popularity.png&#34; data-caption=&#34;The algorithm can learn more about popular music, because the song is more often selected by a larger number of people&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/streaming/spotify_related_artists_popularity.png&#34; data-caption=&#34;The algorithm can learn more about popular music, because the song is more often selected by a larger number of people&#34;&gt;
 
 
-  &lt;img src=&#34;https://dataandlyrics.com/img/streaming/spotify_related_artists_popularity.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/streaming/spotify_related_artists_popularity.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -124,10 +385,10 @@
 &lt;figure id=&#34;figure-artist-with-less-than-1000-followers-risk-not-being-to-recommended-at-all-doubling-your-chances-to-be-discovered-requires-1000x-more-followers&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://dataandlyrics.com/img/streaming/spotify_related_artists_followers.png&#34; data-caption=&#34;Artist with less than 1000 followers risk not being to recommended at all. Doubling your chances to be discovered requires 1000x more followers.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/streaming/spotify_related_artists_followers.png&#34; data-caption=&#34;Artist with less than 1000 followers risk not being to recommended at all. Doubling your chances to be discovered requires 1000x more followers.&#34;&gt;
 
 
-  &lt;img src=&#34;https://dataandlyrics.com/img/streaming/spotify_related_artists_followers.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/streaming/spotify_related_artists_followers.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -151,9 +412,9 @@
     
     <item>
       <title>New Demo Music Observatory Dataset: Domestic Market Share On Spotify National Charts</title>
-      <link>https://dataandlyrics.com/post/2020-11-09-spotify-national-charts/</link>
+      <link>/post/2020-11-09-spotify-national-charts/</link>
       <pubDate>Sun, 08 Nov 2020 18:10:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/post/2020-11-09-spotify-national-charts/</guid>
+      <guid>/post/2020-11-09-spotify-national-charts/</guid>
       <description>&lt;p&gt;The conversion to a subscription-based sales model with Spotify, Apple Music, YouTube Music, Deezer, Pandora and similar services was hailed by some to beat piracy and bringing back growth to the recording industry.  However, there are very few labels and artists who actually feel that they are profiting from this conversion.&lt;/p&gt;
 &lt;p&gt;In our 
 &lt;a href=&#34;https://ceereport2020.ceemid.eu/market.html#recmarket&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Central European Music Industry Report&lt;/a&gt; we have shown the paradox of streaming growth: while the streaming market appears to be growing, for the individual rightsholder, artists, or label, neither the volumes nor the revenues show much of a growth.  There are many factors contributing to the fact that for the ‘typical’ artist streaming does not bring revenue growth, and one of them is the increasing competition with the major label released music, particularly from the United States.&lt;/p&gt;
@@ -194,9 +455,9 @@
     
     <item>
       <title>Why Did We Start The Demo Music Observatory?</title>
-      <link>https://dataandlyrics.com/post/2020-10-27-why-start-music-observatory/</link>
+      <link>/post/2020-10-27-why-start-music-observatory/</link>
       <pubDate>Tue, 27 Oct 2020 10:00:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/post/2020-10-27-why-start-music-observatory/</guid>
+      <guid>/post/2020-10-27-why-start-music-observatory/</guid>
       <description>&lt;p&gt;I was contacted during the consultation period of the Feasibility Study of the European Music Observatory. That led to an uneasy series of conversations with the consultants of this project, and a very enlightening series of conversations with European civil servants, music industry organizations, music managers and artists.  My main pitch was that every single assumption of this project is wrong.&lt;/p&gt;
 &lt;p&gt;They started from the assumption that there is hardly any data available on the European music scene &amp;ndash; whereas we found while building up CEEMID, errr, a pan-European music data observatory, is that music is one of the most data-driven industries in the world, it is choking in numbers, and the reason why this data is not visible is very different. They were talking about lack of data in fields where we already had about 2000 pan-European indicators ready. (See 
 &lt;a href=&#34;https://danielantal.eu/presentation/ceemid-observatory.html#/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introducing the CEEMID Observatory, 9/28/2019&lt;/a&gt; &lt;em&gt;large self-contained html file, takes time to load into browser&lt;/em&gt;)&lt;/p&gt;
@@ -253,9 +514,9 @@
     
     <item>
       <title>Forgetify: Popular Music That Nobody Listens To</title>
-      <link>https://dataandlyrics.com/post/2020-10-24-forgetify_pop_october/</link>
+      <link>/post/2020-10-24-forgetify_pop_october/</link>
       <pubDate>Sat, 24 Oct 2020 18:00:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/post/2020-10-24-forgetify_pop_october/</guid>
+      <guid>/post/2020-10-24-forgetify_pop_october/</guid>
       <description>&lt;p&gt;When you work on recommendation engines, particularly recommendation engines that are different from the ones developed by large media or streaming platforms, you do not want to consider goals and directions that you follow, but also the road where you do not want to end up at all. For me, Forgetify has always been a puzzling and wonderful application, because it shows purely where your artists do not want to end up.&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://forgotify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Forgetify&lt;/a&gt; is a wonderful application that is “recommending” you songs that have never been played on Spotify.  Music from artists that has not been played by their fans, their friends or foes, brothers and sisters, children and grandchildren! I use recommendations in quotation marks, because their recommendations are usually based on your taste. Forgetify just picks you a song that has not been played on Spotify ever. (Never been played means that somebody may have started it, but very soon stopped playing the song.)&lt;/p&gt;
@@ -314,9 +575,9 @@ Nettwerk Music Group in Vancouver, Canada.&lt;/p&gt;
     
     <item>
       <title>Listen Local: Open Collaboration Experiment &amp; Feasibility Study</title>
-      <link>https://dataandlyrics.com/post/2020-10-19-listen-local/</link>
+      <link>/post/2020-10-19-listen-local/</link>
       <pubDate>Sun, 18 Oct 2020 18:00:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/post/2020-10-19-listen-local/</guid>
+      <guid>/post/2020-10-19-listen-local/</guid>
       <description>&lt;p&gt;&lt;em&gt;“Big data creates injustice.”&lt;/em&gt; &amp;ndash; Cathy O&amp;rsquo;Neil, author of 
 &lt;a href=&#34;https://blogs.scientificamerican.com/roots-of-unity/review-weapons-of-math-destruction/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Weapons of Math Destruction&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;If you can train machine learning algorithms on millions of music fans, then you can very precisely find listeners in Bratislava, entire Slovakia, in the Slovak diaspora in the United States.  In Utrecht, in Flanders, in Japan. If you cannot, then your sales will be driven by Spotify, Apple, Amazon or Google’s YouTube. And you fill compete with millions, tens of million of songs in your own city.&lt;/p&gt;
@@ -361,9 +622,9 @@ Nettwerk Music Group in Vancouver, Canada.&lt;/p&gt;
     
     <item>
       <title>October Playlist: Wounded Egos</title>
-      <link>https://dataandlyrics.com/post/2020-10-18-october_playlist/</link>
+      <link>/post/2020-10-18-october_playlist/</link>
       <pubDate>Sat, 17 Oct 2020 18:00:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/post/2020-10-18-october_playlist/</guid>
+      <guid>/post/2020-10-18-october_playlist/</guid>
       <description>&lt;p&gt;Every month I create a playlist for my friends and myself – a habit that I have started with mixtapes. This month reflects our team’s journey into one of the world’s most prestigious 
 &lt;a href=&#34;https://dataandlyrics.com/post/2020-09-25-yesdelft-validation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;startup validation
 lab&lt;/a&gt; in the AI field, in a year when the recession is deeper than ever since the World War 2, the music business is devastated by the pandemic, and our team is forced to lockdown, follow this excellent validation lab on Zoom screens, meet our first clients online, and learn to work together in a socially distanced way. The songs I chose are subjectively important to me, a bit maybe even controversial ones, and probably very different from the music that you are listening to.&lt;/p&gt;
@@ -494,6 +755,39 @@ killer&lt;/a&gt;, too.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;David Kitt - 
 &lt;a href=&#34;https://open.spotify.com/track/0qZ9rwAonJvO91GK9nqqma&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;It’s Yours&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Spotify sees this song as the most danceable and most positive song. And it is so.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reprex Website</title>
+      <link>/post/2021-02-01-reprex-website/</link>
+      <pubDate>Sat, 01 Feb 2020 09:10:00 +0200</pubDate>
+      <guid>/post/2021-02-01-reprex-website/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;We want to help small organizations with big data.&lt;/strong&gt; Big data creates inequalities. Only the largest corporations, government bureaucracies, and scientific organizations have the human financial resources to create large, consistent datasets. We help our clients to access datasets of sufficient size, and to build trustworthy scientific, policy, business, or AI applications with the data.&lt;/p&gt;
+&lt;p&gt;Our new website, 
+&lt;a href=&#34;https://reprex.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;reprex.nl&lt;/a&gt; leaves the two flagship project &amp;mdash; [Listen Local]https://listenlocal.community/index.html and 
+&lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo Music Observatory&lt;/a&gt; pages intact, and connects through our service offering. The Data&amp;amp;Lyrics blog will remain open for many interesting topics that we find interesting for our partners, friends, readers.&lt;/p&gt;
+&lt;h2 id=&#34;data-access&#34;&gt;Data Access&lt;/h2&gt;
+&lt;p&gt;Reprex grew out of CEEMID, a project that connected data and pooled surveys across twelve countries and over fifty music industry stakeholders to create thousands of relevant policy, statistical, and scientific indicators for the music and creative industries. (See the Central European Music Industry Report 2020 at 
+&lt;a href=&#34;https://ceereport2020.ceemid.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ceereport2020.ceemid.edu&lt;/a&gt;.) Reprex offers services to help small organizations access data and use data in a trustworthy way.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://reprex.nl/service/data-curation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Data Curation&lt;/a&gt;: Find the best value data solution for your research or evaluation project.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://reprex.nl/service/open-data/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Data&lt;/a&gt;: Access thousands of statistical, business, and policy indicators in the cultural and creative industries and sustainability.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://reprex.nl/software/retroharmonize/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Survey harmonization&lt;/a&gt;: Reuse already existing surveys and harmonized question banks; create longitudinal and cross-sectional datasets.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We encourage our clients to become partners in our permanent data collection and sharing platforms: the data observatories.&lt;/p&gt;
+&lt;h2 id=&#34;data-use-research-automation--trustworthy-ai&#34;&gt;Data Use: Research Automation &amp;amp; Trustworthy AI&lt;/h2&gt;
+&lt;p&gt;AI requires large datasets to be effective, small organizations face challenges in harnessing the benefits of algorithms &amp;mdash; or, worse, biased algorithms created for different purposes will work against their strategic goals. We want to help our clients with pooling, sharing data, and validating or creating trustworthy applications.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://reprex.nl/service/research/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reproducible Research&lt;/a&gt;: Automate data collection, processing, validation, correction, and documentation to support error-prone human work.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://reprex.nl/service/trustworthy-ai/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trustworthy AI&lt;/a&gt;: Use validated, trustworthy AI applications or identify the biases of algorithms working against your goals.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Our Listen Local project is our flagship trustworhty, transparent AI project.&lt;/p&gt;
 </description>
     </item>
     

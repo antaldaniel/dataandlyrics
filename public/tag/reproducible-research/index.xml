@@ -2,21 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>reproducible-research | Data &amp; Lyrics</title>
-    <link>https://dataandlyrics.com/tag/reproducible-research/</link>
-      <atom:link href="https://dataandlyrics.com/tag/reproducible-research/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/reproducible-research/</link>
+      <atom:link href="/tag/reproducible-research/index.xml" rel="self" type="application/rss+xml" />
     <description>reproducible-research</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 16 Nov 2020 07:03:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Sat, 05 Dec 2020 08:10:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>reproducible-research</title>
-      <link>https://dataandlyrics.com/tag/reproducible-research/</link>
+      <link>/tag/reproducible-research/</link>
     </image>
     
     <item>
+      <title>Reproducible research in practice: empirical study on the structural conditions of book piracy in global and European academia</title>
+      <link>/post/2020-12-04-pirate-libraries/</link>
+      <pubDate>Sat, 05 Dec 2020 08:10:00 +0200</pubDate>
+      <guid>/post/2020-12-04-pirate-libraries/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://journals.plos.org/plosone/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PLOS One&lt;/a&gt; is the fourth most influential multidisciplinary journal after Nature, and Science, and Proceedings of the National Academy of Sciences of the United States of America (based on 
+&lt;a href=&#34;https://www.scimagojr.com/journalrank.php?category=1000&amp;amp;area=1000&amp;amp;order=h&amp;amp;ord=desc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;H index&lt;/a&gt;.) On December 3, 2020 it published 
+&lt;a href=&#34;https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0242509&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a paper&lt;/a&gt; co-authored by Dr. Balazs Bodo, associate professor at the Institute for Information Law (IViR), Daniel Antal (Reprex, Demo Music Observatory), a data scientist interested in reproducible research, as an independent researcher, and Zoltan Puha, a Data Science PhD at Tilburg University, JADS. PLOS (Public Library of Science) is a nonprofit Open Access publisher, empowering researchers to accelerate progress in science and medicine by leading a transformation in research communication.&lt;/p&gt;
+&lt;p&gt;The article utilizes the our reproducible datasets created with our 
+&lt;a href=&#34;https://regions.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;regions&lt;/a&gt; package, and builds on many years of expertise in empirical research on the field of music and audiovisual piracy, home copying and private copying compensation (see for example 
+&lt;a href=&#34;https://dataandlyrics.com/publication/private_copying_croatia_2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Private Copying in Croatia&lt;/a&gt;.)  Our aim is to provide reliable, high quality indicators for the creative industries not only on national, but provincial, state, regional and metropolitan area level, too, because these levels are often more relevant for creators, performers and policy-makers.&lt;/p&gt;
+&lt;p&gt;The topic of the paper is Library Genesis (LG), the biggest piratical scholarly library on the internet, which provides copyright infringing access to more than 2.5 million scientific monographs, edited volumes, and textbooks. The paper uses advanced statistical methods to explain why researchers around the globe use copyright infringing knowledge resources. The analysis is based on a huge usage dataset from LG, as well as data from the World Bank, Eurostat, and Eurobarometer, to identify the role of macroeconomic factors, such as R&amp;amp;D and higher education spending, GDP, researcher density in scholarly copyright infringing activities.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-we-created-a-global-and-a-far-more-detailed-european-model-for-pirate-book-downloads&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/2020-12-04-pirate-libraries/journal.pone.0242509.g002_hubacdff3d701695d71db2909fe1238375_1083205_2000x2000_fit_lanczos_2.PNG&#34; data-caption=&#34;We created a global and a far more detailed European model for pirate book downloads.&#34;&gt;
+
+
+  &lt;img data-src=&#34;/post/2020-12-04-pirate-libraries/journal.pone.0242509.g002_hubacdff3d701695d71db2909fe1238375_1083205_2000x2000_fit_lanczos_2.PNG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2010&#34; height=&#34;1052&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    We created a global and a far more detailed European model for pirate book downloads.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;The main finding of the paper is that open access, even if it is radical, is not a panacea. The hypothesis of the research was that researchers in low-income regions use piratical open knowledge resources relatively more to compensate for the limitations of their legal access infrastructures. The authors found evidence to the contrary. Researchers in high income countries and European regions with access to high quality knowledge infrastructures, and high levels of funding use radical open access resources more intensively than researchers in lower income countries and regions, with less resourceful libraries. This means that while open knowledge is an important resource to close the knowledge gap between centrum and periphery, equality in access does not translate into equality in use. Structural knowledge inequalities are both present and are being reproduced in the context of open access resources.&lt;/p&gt;
+&lt;p&gt;The paper is unique not just because of the data it is based on. It also sets new standards in interdisciplinary legal research by publishing the paper, the data and the software code in the same time in open access repositories, following reproducible research best practices &amp;mdash; the practices that we want to promote in our 
+&lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo Music Observatory&lt;/a&gt; and further data observatories to serve business, evidence-based policy and scientific research.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Feasibility Study For The Establishment Of A European Music Observatory &amp; The Demo Observatory</title>
-      <link>https://dataandlyrics.com/post/2020-11-16-european-music-observatory-feasibility/</link>
+      <link>/post/2020-11-16-european-music-observatory-feasibility/</link>
       <pubDate>Mon, 16 Nov 2020 07:03:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/post/2020-11-16-european-music-observatory-feasibility/</guid>
+      <guid>/post/2020-11-16-european-music-observatory-feasibility/</guid>
       <description>&lt;p&gt;&lt;em&gt;The 
 &lt;a href=&#34;https://op.europa.eu/en/publication-detail/-/publication/a756542a-249d-11eb-9d7e-01aa75ed71a1/language-en/format-PDF/source-171307257&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Feasibility study for the establishment of a European Music Observatory&lt;/a&gt; was published on 13 November.  Our private observatory, CEEMID was consulted in the creation of the Feasibility Study, and some of our recommendations found way into the consultant’s document. We created a Demo Music Observatory to provide a practical guidance on the decisions facing the European stakeholders, and to answer the questions that were left open in the Feasibility Study &amp;mdash; particularly on  
 &lt;a href=&#34;https://dataandlyrics.com/project/music-observatory/#data-gaps&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data integration&lt;/a&gt; and the 
@@ -54,10 +110,10 @@
 &lt;figure id=&#34;figure-illusory-data-gap-active-and-music-participation-is-available-on-eu-level-both-for-gender-groups-or-four-ethnic-minorities--this-is-regularly-featured-in-various-european-cap-surveys-and-in-our-national-cap-surveys-too&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://dataandlyrics.com/img/comparative/music_activity_playing_an_instrument_by_gender.png&#34; data-caption=&#34;Illusory data gap: active and music participation is available on EU level both for gender groups or four ethnic minorities – this is regularly featured in various European CAP surveys and in our national CAP surveys, too.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/comparative/music_activity_playing_an_instrument_by_gender.png&#34; data-caption=&#34;Illusory data gap: active and music participation is available on EU level both for gender groups or four ethnic minorities – this is regularly featured in various European CAP surveys and in our national CAP surveys, too.&#34;&gt;
 
 
-  &lt;img src=&#34;https://dataandlyrics.com/img/comparative/music_activity_playing_an_instrument_by_gender.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/comparative/music_activity_playing_an_instrument_by_gender.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -88,9 +144,9 @@
     
     <item>
       <title>Music Observatory</title>
-      <link>https://dataandlyrics.com/project/music-observatory/</link>
+      <link>/project/music-observatory/</link>
       <pubDate>Wed, 26 Aug 2020 08:00:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/project/music-observatory/</guid>
+      <guid>/project/music-observatory/</guid>
       <description>&lt;p&gt;We are developing our 
 &lt;a href=&#34;project/music-observatory/&#34;&gt;Demo Music Observatory&lt;/a&gt; in the world&amp;rsquo;s 2nd ranked university-backed incubator program, the 
 &lt;a href=&#34;post/2020-09-25-yesdelft-validation/&#34;&gt;Yes!Delft AI Validation Lab&lt;/a&gt;. Our aim is to show a better organizational model, examples of research automation and other data integration innovation that can reduce the budgetary needs of the European Music Observatory by 80-90% and provide far more timely, accurate, and relevant service than most data observatories in Europe.&lt;/p&gt;
@@ -146,10 +202,10 @@
 &lt;figure id=&#34;figure-illustration-our-map-to-find-to-locate-data-in-the-croatian-music-industry-our-demo-music-observatory-is-based-on-the-accepted-music-industry-concept-in-the-us-and-the-eu-the-three-income-stream-model-and-its-data-maps&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://dataandlyrics.com/img/methodology/three_income_streams_croatia.png&#34; data-caption=&#34;Illustration: our map to find to locate data in the Croatian music industry. Our Demo Music Observatory is based on the accepted music industry concept in the US and the EU (the three-income stream model) and its data maps.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/methodology/three_income_streams_croatia.png&#34; data-caption=&#34;Illustration: our map to find to locate data in the Croatian music industry. Our Demo Music Observatory is based on the accepted music industry concept in the US and the EU (the three-income stream model) and its data maps.&#34;&gt;
 
 
-  &lt;img src=&#34;https://dataandlyrics.com/img/methodology/three_income_streams_croatia.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/methodology/three_income_streams_croatia.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -188,10 +244,10 @@
 &lt;figure id=&#34;figure-illustration-our-map-to-find-to-locate-data-in-the-croatian-music-industry-our-demo-music-observatory-is-based-on-the-accepted-music-industry-concept-in-the-us-and-the-eu-the-three-income-stream-model-and-its-data-maps&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://dataandlyrics.com/img/reports/medianvalue-1.png&#34; data-caption=&#34;Illustration: our map to find to locate data in the Croatian music industry. Our Demo Music Observatory is based on the accepted music industry concept in the US and the EU (the three-income stream model) and its data maps.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/reports/medianvalue-1.png&#34; data-caption=&#34;Illustration: our map to find to locate data in the Croatian music industry. Our Demo Music Observatory is based on the accepted music industry concept in the US and the EU (the three-income stream model) and its data maps.&#34;&gt;
 
 
-  &lt;img src=&#34;https://dataandlyrics.com/img/reports/medianvalue-1.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/reports/medianvalue-1.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -234,10 +290,10 @@
 &lt;figure id=&#34;figure-illusory-data-gap-active-and-music-participation-is-available-on-eu-level-both-for-gender-groups-or-four-ethnic-minorities--this-is-regularly-featured-in-various-european-cap-surveys-and-in-our-national-cap-surveys-too&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://dataandlyrics.com/img/comparative/music_activity_playing_an_instrument_by_gender.png&#34; data-caption=&#34;Illusory data gap: active and music participation is available on EU level both for gender groups or four ethnic minorities – this is regularly featured in various European CAP surveys and in our national CAP surveys, too.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/comparative/music_activity_playing_an_instrument_by_gender.png&#34; data-caption=&#34;Illusory data gap: active and music participation is available on EU level both for gender groups or four ethnic minorities – this is regularly featured in various European CAP surveys and in our national CAP surveys, too.&#34;&gt;
 
 
-  &lt;img src=&#34;https://dataandlyrics.com/img/comparative/music_activity_playing_an_instrument_by_gender.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/comparative/music_activity_playing_an_instrument_by_gender.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 

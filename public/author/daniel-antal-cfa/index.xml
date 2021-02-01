@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Daniel Antal, CFA | Data &amp; Lyrics</title>
-    <link>https://dataandlyrics.com/author/daniel-antal-cfa/</link>
-      <atom:link href="https://dataandlyrics.com/author/daniel-antal-cfa/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/daniel-antal-cfa/</link>
+      <atom:link href="/author/daniel-antal-cfa/index.xml" rel="self" type="application/rss+xml" />
     <description>Daniel Antal, CFA</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 08 Nov 2020 18:10:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Sun, 08 Nov 2020 18:10:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Daniel Antal, CFA</title>
-      <link>https://dataandlyrics.com/author/daniel-antal-cfa/</link>
+      <link>/author/daniel-antal-cfa/</link>
     </image>
     
     <item>
       <title>New Demo Music Observatory Dataset: Domestic Market Share On Spotify National Charts</title>
-      <link>https://dataandlyrics.com/post/2020-11-09-spotify-national-charts/</link>
+      <link>/post/2020-11-09-spotify-national-charts/</link>
       <pubDate>Sun, 08 Nov 2020 18:10:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/post/2020-11-09-spotify-national-charts/</guid>
+      <guid>/post/2020-11-09-spotify-national-charts/</guid>
       <description>&lt;p&gt;The conversion to a subscription-based sales model with Spotify, Apple Music, YouTube Music, Deezer, Pandora and similar services was hailed by some to beat piracy and bringing back growth to the recording industry.  However, there are very few labels and artists who actually feel that they are profiting from this conversion.&lt;/p&gt;
 &lt;p&gt;In our 
 &lt;a href=&#34;https://ceereport2020.ceemid.eu/market.html#recmarket&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Central European Music Industry Report&lt;/a&gt; we have shown the paradox of streaming growth: while the streaming market appears to be growing, for the individual rightsholder, artists, or label, neither the volumes nor the revenues show much of a growth.  There are many factors contributing to the fact that for the ‘typical’ artist streaming does not bring revenue growth, and one of them is the increasing competition with the major label released music, particularly from the United States.&lt;/p&gt;
@@ -57,9 +57,9 @@
     
     <item>
       <title>Inquiry Into The Live Music Industry In Wales</title>
-      <link>https://dataandlyrics.com/post/2020-11-06-welsh-covid-response/</link>
+      <link>/post/2020-11-06-welsh-covid-response/</link>
       <pubDate>Fri, 06 Nov 2020 08:10:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/post/2020-11-06-welsh-covid-response/</guid>
+      <guid>/post/2020-11-06-welsh-covid-response/</guid>
       <description>&lt;p&gt;In July 2020, Professor Paul Carr of 
 &lt;a href=&#34;http://staff.southwales.ac.uk/users/381-pcarr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of South Wales&lt;/a&gt; was commissioned by 
 &lt;a href=&#34;https://senedd.wales/en/Pages/Home.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Senedd Cymru – the Welsh Parliament&lt;/a&gt; to create a report examining the ‘&lt;em&gt;state of play&lt;/em&gt;’ in the post Covid-19 music industries in Wales.&lt;/p&gt;
@@ -79,9 +79,9 @@
     
     <item>
       <title>The Racist Music Algorithm</title>
-      <link>https://dataandlyrics.com/post/2020-10-30-racist-algorithm/</link>
+      <link>/post/2020-10-30-racist-algorithm/</link>
       <pubDate>Fri, 30 Oct 2020 08:10:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/post/2020-10-30-racist-algorithm/</guid>
+      <guid>/post/2020-10-30-racist-algorithm/</guid>
       <description>&lt;p&gt;We want big data algorithms to work for small venues, undiscovered bands, and all artists coming from diverse walks of life. We often find that big data works against them, and our Listen Local Initiative was designed to change this trend.&lt;/p&gt;
 &lt;p&gt;Big data algorithms will increase injustice and breach social norms if they are trained on improper data, or the algorithms are biased &amp;ndash; this is why we place so much emphasis on algorithm transparency and input data transparency. Facebook, Apple or Spotify are often criticized for helping the spread of hate, for example.  But how can an algorithm turn racist?&lt;/p&gt;
 &lt;p&gt;Daniel Kraemer &amp;amp; Steve Holden reported on BBC recently that 
@@ -119,9 +119,9 @@
     
     <item>
       <title>Duka’s Mission: Collaborate With Musicians From Every Country On Earth</title>
-      <link>https://dataandlyrics.com/post/2020-10-28-duka-mission/</link>
+      <link>/post/2020-10-28-duka-mission/</link>
       <pubDate>Wed, 28 Oct 2020 08:10:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/post/2020-10-28-duka-mission/</guid>
+      <guid>/post/2020-10-28-duka-mission/</guid>
       <description>&lt;p&gt;Cologne-based musician and film producer, 
 Damir Bašić aka Duka decided to try to collaborate with recording artists from all over the world in his new project.  Originally from Sarajevo, Bosnia-Herzegovina, he finished last year putting their former band’s songs into a 40-minute feature film 
 &lt;a href=&#34;https://www.youtube.com/watch?v=OvJ0NlAFjCQ&amp;amp;t=1715s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Delta wave (2019) with English subtitles&lt;/a&gt; and started to look for a new music film challenge.  
@@ -157,9 +157,9 @@ Damir Bašić aka Duka decided to try to collaborate with recording artists from
     
     <item>
       <title>Why Did We Start The Demo Music Observatory?</title>
-      <link>https://dataandlyrics.com/post/2020-10-27-why-start-music-observatory/</link>
+      <link>/post/2020-10-27-why-start-music-observatory/</link>
       <pubDate>Tue, 27 Oct 2020 10:00:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/post/2020-10-27-why-start-music-observatory/</guid>
+      <guid>/post/2020-10-27-why-start-music-observatory/</guid>
       <description>&lt;p&gt;I was contacted during the consultation period of the Feasibility Study of the European Music Observatory. That led to an uneasy series of conversations with the consultants of this project, and a very enlightening series of conversations with European civil servants, music industry organizations, music managers and artists.  My main pitch was that every single assumption of this project is wrong.&lt;/p&gt;
 &lt;p&gt;They started from the assumption that there is hardly any data available on the European music scene &amp;ndash; whereas we found while building up CEEMID, errr, a pan-European music data observatory, is that music is one of the most data-driven industries in the world, it is choking in numbers, and the reason why this data is not visible is very different. They were talking about lack of data in fields where we already had about 2000 pan-European indicators ready. (See 
 &lt;a href=&#34;https://danielantal.eu/presentation/ceemid-observatory.html#/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introducing the CEEMID Observatory, 9/28/2019&lt;/a&gt; &lt;em&gt;large self-contained html file, takes time to load into browser&lt;/em&gt;)&lt;/p&gt;
@@ -216,9 +216,9 @@ Damir Bašić aka Duka decided to try to collaborate with recording artists from
     
     <item>
       <title>Forgetify: Popular Music That Nobody Listens To</title>
-      <link>https://dataandlyrics.com/post/2020-10-24-forgetify_pop_october/</link>
+      <link>/post/2020-10-24-forgetify_pop_october/</link>
       <pubDate>Sat, 24 Oct 2020 18:00:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/post/2020-10-24-forgetify_pop_october/</guid>
+      <guid>/post/2020-10-24-forgetify_pop_october/</guid>
       <description>&lt;p&gt;When you work on recommendation engines, particularly recommendation engines that are different from the ones developed by large media or streaming platforms, you do not want to consider goals and directions that you follow, but also the road where you do not want to end up at all. For me, Forgetify has always been a puzzling and wonderful application, because it shows purely where your artists do not want to end up.&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://forgotify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Forgetify&lt;/a&gt; is a wonderful application that is “recommending” you songs that have never been played on Spotify.  Music from artists that has not been played by their fans, their friends or foes, brothers and sisters, children and grandchildren! I use recommendations in quotation marks, because their recommendations are usually based on your taste. Forgetify just picks you a song that has not been played on Spotify ever. (Never been played means that somebody may have started it, but very soon stopped playing the song.)&lt;/p&gt;
@@ -277,9 +277,9 @@ Nettwerk Music Group in Vancouver, Canada.&lt;/p&gt;
     
     <item>
       <title>Listen Local: Open Collaboration Experiment &amp; Feasibility Study</title>
-      <link>https://dataandlyrics.com/post/2020-10-19-listen-local/</link>
+      <link>/post/2020-10-19-listen-local/</link>
       <pubDate>Sun, 18 Oct 2020 18:00:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/post/2020-10-19-listen-local/</guid>
+      <guid>/post/2020-10-19-listen-local/</guid>
       <description>&lt;p&gt;&lt;em&gt;“Big data creates injustice.”&lt;/em&gt; &amp;ndash; Cathy O&amp;rsquo;Neil, author of 
 &lt;a href=&#34;https://blogs.scientificamerican.com/roots-of-unity/review-weapons-of-math-destruction/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Weapons of Math Destruction&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;If you can train machine learning algorithms on millions of music fans, then you can very precisely find listeners in Bratislava, entire Slovakia, in the Slovak diaspora in the United States.  In Utrecht, in Flanders, in Japan. If you cannot, then your sales will be driven by Spotify, Apple, Amazon or Google’s YouTube. And you fill compete with millions, tens of million of songs in your own city.&lt;/p&gt;
@@ -324,9 +324,9 @@ Nettwerk Music Group in Vancouver, Canada.&lt;/p&gt;
     
     <item>
       <title>October Playlist: Wounded Egos</title>
-      <link>https://dataandlyrics.com/post/2020-10-18-october_playlist/</link>
+      <link>/post/2020-10-18-october_playlist/</link>
       <pubDate>Sat, 17 Oct 2020 18:00:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/post/2020-10-18-october_playlist/</guid>
+      <guid>/post/2020-10-18-october_playlist/</guid>
       <description>&lt;p&gt;Every month I create a playlist for my friends and myself – a habit that I have started with mixtapes. This month reflects our team’s journey into one of the world’s most prestigious 
 &lt;a href=&#34;https://dataandlyrics.com/post/2020-09-25-yesdelft-validation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;startup validation
 lab&lt;/a&gt; in the AI field, in a year when the recession is deeper than ever since the World War 2, the music business is devastated by the pandemic, and our team is forced to lockdown, follow this excellent validation lab on Zoom screens, meet our first clients online, and learn to work together in a socially distanced way. The songs I chose are subjectively important to me, a bit maybe even controversial ones, and probably very different from the music that you are listening to.&lt;/p&gt;
@@ -462,9 +462,9 @@ killer&lt;/a&gt;, too.&lt;/p&gt;
     
     <item>
       <title>Making Websites Is Not Easy</title>
-      <link>https://dataandlyrics.com/post/2020-10-14-making_websites/</link>
+      <link>/post/2020-10-14-making_websites/</link>
       <pubDate>Wed, 14 Oct 2020 10:00:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/post/2020-10-14-making_websites/</guid>
+      <guid>/post/2020-10-14-making_websites/</guid>
       <description>&lt;p&gt;I often find myself in a crossfire between artists and managers who want more transparency and innovation and collective management societies that see themselves as the last stable pillar for music composers, producers and performers to collect their royalties. I was in Bratislava preparing a project with the Slovak societies when a Belgian music professional, Suzanne Verschueren working in the Slovak music industry showed my Moon Moon Moon’s Journal Entry 10. A letter of complaint to the Dutch collective management societies, Buma and Stemra. In a song.  With video animation!&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://www.youtube.com/watch?v=UtaEKUy6KGE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://dataandlyrics.com/post/2020-10-14-making_websites/playjournal10.png&#34; alt=&#34;Click on image to play video&#34;&gt;&lt;/a&gt;
@@ -497,9 +497,9 @@ killer&lt;/a&gt;, too.&lt;/p&gt;
     
     <item>
       <title>Product/Market Fit Validation in Yes!Delft</title>
-      <link>https://dataandlyrics.com/post/2020-09-25-yesdelft-validation/</link>
+      <link>/post/2020-09-25-yesdelft-validation/</link>
       <pubDate>Fri, 25 Sep 2020 15:31:39 +0200</pubDate>
-      <guid>https://dataandlyrics.com/post/2020-09-25-yesdelft-validation/</guid>
+      <guid>/post/2020-09-25-yesdelft-validation/</guid>
       <description>&lt;p&gt;We would like to validate our product market/fit in two segments, business/policy research and scientific research, with a supporting role given to data journalism. Because we want to follow a bootstrapping strategy, we must focus on those clients where we find the highest value proposition, which is of course easier said than done.  We see much interest in our offering from other continents, therefore we truly welcome the opportunity that we can do this on a truly global business canvas in one of the worlds’ 
 &lt;a href=&#34;https://www.yesdelft.com/news/yesdelft-among-the-top-5-business-incubators-in-the-world/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;top five incubators&lt;/a&gt;, the number 2 university-backed incubator in the world, second to none in Europe, in the 
 &lt;a href=&#34;https://www.yesdelft.com/focus-areas/artificial-intelligence/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yes!Delft AI+Blockchain&lt;/a&gt; Validation Lab.&lt;/p&gt;
@@ -556,9 +556,9 @@ killer&lt;/a&gt;, too.&lt;/p&gt;
     
     <item>
       <title>Starting-up</title>
-      <link>https://dataandlyrics.com/post/2020-08-24-start-up/</link>
+      <link>/post/2020-08-24-start-up/</link>
       <pubDate>Mon, 24 Aug 2020 10:15:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/post/2020-08-24-start-up/</guid>
+      <guid>/post/2020-08-24-start-up/</guid>
       <description>&lt;p&gt;The big day has come: the co-founders singed off the documents at the public notary and started the registration of a reproducible research start-up in Leiden.  We got a lot of support from our friends! Your encouragement gives us a lot of energy to accomplish our first milestones, and to get Reprex B.V. going!&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Reprex means &amp;lsquo;reproducible example&amp;rsquo; in data science.  When you are stuck with a problem, creating a reproducible example allows other computer scientists, statisticians, programmers or data users to solve it. In 80% of the cases, you usually find the solution while creating a generalized example.  In the 20% other cases, you can reach out for help easily.&lt;/p&gt;
@@ -597,9 +597,9 @@ killer&lt;/a&gt;, too.&lt;/p&gt;
     
     <item>
       <title>Regionalized Cultural Access and Participation (Books And Libraries) And Science Attitudes Variables</title>
-      <link>https://dataandlyrics.com/post/2020-04-22-regional-eurobarometer/</link>
+      <link>/post/2020-04-22-regional-eurobarometer/</link>
       <pubDate>Wed, 22 Apr 2020 17:00:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/post/2020-04-22-regional-eurobarometer/</guid>
+      <guid>/post/2020-04-22-regional-eurobarometer/</guid>
       <description>&lt;p&gt;My new R package, Eurobarometer, helps the creation of data panels and regionalized statistics from the Pan-European survey’s microdata. This allows the creation of many new statistical indicators for the CEEMID Music Observatory and for many market and policy research tasks.&lt;/p&gt;
 &lt;p&gt;This example dataset (Antal 2020) was created from the microdata of the
 Eurobarometer 79.2 survey using the development version of the
@@ -611,27 +611,27 @@ The dataset can be downloaded from
 &lt;h2 id=&#34;cultural-access--participation-variables&#34;&gt;Cultural Access &amp;amp; Participation Variables&lt;/h2&gt;
 &lt;p&gt;The read a book variable is a weighted sum of the responses that chose
 from &lt;code&gt;QB1 How many times in the last twelve months have you read a book?&lt;/code&gt; any answer apart from “not in the last 12 months.”&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dataandlyrics.com/img/Eurobarometer_79_2_files/book-1.png&#34; alt=&#34;Individuals Who Read A Book&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/Eurobarometer_79_2_files/book-1.png&#34; alt=&#34;Individuals Who Read A Book&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;library-access&#34;&gt;Library Access&lt;/h3&gt;
 &lt;p&gt;The library access variable is a weighted sum of the responses that
 chose from &lt;code&gt;QB1 How many times in the last twelve months have you visited a public library?&lt;/code&gt; any answer apart from “not in the last 12 months.”&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dataandlyrics.com/img/Eurobarometer_79_2_files/library-1.png&#34; alt=&#34;Individuals Who Visited A Library&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/Eurobarometer_79_2_files/library-1.png&#34; alt=&#34;Individuals Who Visited A Library&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;limited-library-access&#34;&gt;Limited Library Access&lt;/h3&gt;
 &lt;p&gt;The limited library access is a weighted sum of the responses that chose from the question block
 &lt;code&gt;QB2 And for each of the following activities, please tell me why you haven’t done it or haven’t done it more often in the last 12 months? ... Visited a public library&lt;/code&gt; the answer option &lt;code&gt;Limited or poor quality of this activity in the place where you live.&lt;/code&gt; In this case, the number of respondents is rather low and this is not a very reliable statistic on regional level.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dataandlyrics.com/img/Eurobarometer_79_2_files/limitedlibrary-1.png&#34; alt=&#34;Individuals Who Have Poor Local  Library&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/Eurobarometer_79_2_files/limitedlibrary-1.png&#34; alt=&#34;Individuals Who Have Poor Local  Library&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;science--technology-attitudes&#34;&gt;Science &amp;amp; Technology Attitudes&lt;/h2&gt;
 &lt;p&gt;The supports open access variable is a weighted sum of yes answer
 options to the &lt;code&gt;QD 17 Do you think that the results of publicly funded research should be made available online free of charge?&lt;/code&gt;
 question.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dataandlyrics.com/img/Eurobarometer_79_2_files/openaccess-1.png&#34; alt=&#34;Individuals Who Have Poor Local  Library&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/Eurobarometer_79_2_files/openaccess-1.png&#34; alt=&#34;Individuals Who Have Poor Local  Library&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;demography&#34;&gt;Demography&lt;/h2&gt;
 &lt;p&gt;The internet access question is a weighted sum of responses to the
 answer option for &lt;code&gt;D46 Which of the following do you have? - An Internet connection at home&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dataandlyrics.com/img/Eurobarometer_79_2_files/internetaccess-1.png&#34; alt=&#34;Individuals Who Have Internet Access At Home&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/Eurobarometer_79_2_files/internetaccess-1.png&#34; alt=&#34;Individuals Who Have Internet Access At Home&#34;&gt;&lt;/p&gt;
 &lt;p&gt;The internet access question is a weighted sum of responses to the
 answer option for &lt;code&gt;D15 What is your current occupation? - student&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dataandlyrics.com/img/Eurobarometer_79_2_files/students-1.png&#34; alt=&#34;Regional Student Population&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/Eurobarometer_79_2_files/students-1.png&#34; alt=&#34;Regional Student Population&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;data-source--data-processing&#34;&gt;Data Source &amp;amp; Data Processing&lt;/h2&gt;
 &lt;p&gt;The source of the data is the microdata file stored in GESIS for the
 
@@ -678,18 +678,18 @@ Final Report.&lt;/em&gt;, 397–417. Luxembourg.
     
     <item>
       <title>First CEEMID Regional Open Data Release</title>
-      <link>https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/</link>
+      <link>/post/2020-04-16-regional-opendata-release/</link>
       <pubDate>Thu, 16 Apr 2020 17:00:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/</guid>
+      <guid>/post/2020-04-16-regional-opendata-release/</guid>
       <description>&lt;p&gt;&lt;em&gt;Internet use: participating in social networks (creating user profile, posting messages or other contributions to facebook, twitter, etc.) [percentage of individuals]&lt;/em&gt; shows the development of social media use in the past 10 years in very high detail.  Social media is one of the most important ways to communicate with fans and find audiences for gigs, performances and to share new releases.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dataandlyrics.com/img/dataanimation/internet_use_social_networks.gif&#34; alt=&#34;Social media use 2011-2019&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/dataanimation/internet_use_social_networks.gif&#34; alt=&#34;Social media use 2011-2019&#34;&gt;&lt;/p&gt;
 &lt;p&gt;The chosen dataset is highlighting several new priorities of CEEMID.  This indicator, which is based on a 
 &lt;a href=&#34;https://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=isoc_r_iuse_i&amp;amp;lang=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eurostat statistical product&lt;/a&gt;, has a much higher data quality than the Eurostat release, it is easier to use, and goes beyond the detail of national statistics.  It contains data on 411 territories in Europe, including countries, provinces and smaller regions, even some metropolitan areas.&lt;/p&gt;
 &lt;p&gt;The dataset is available on the European open research data repository, 
 &lt;a href=&#34;https://zenodo.org/record/3754574#.XpimX8gzbIU&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zenodo&lt;/a&gt;. It will be updated annually. 
 &lt;a href=&#34;https://doi.org/10.5281/zenodo.3754574&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://zenodo.org/badge/DOI/10.5281/zenodo.3754574.svg&#34; alt=&#34;DOI&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The processing information is available in the dataset.  First, we have used our open source software to correct the regional boundary changes during the decade (see 
-&lt;a href=&#34;https://dataandlyrics.com/post/2020-02-13-regional_eurostat/&#34;&gt;Programatic Approach To Work With European Regional Data Panels&lt;/a&gt;).&lt;/p&gt;
+&lt;a href=&#34;/post/2020-02-13-regional_eurostat/&#34;&gt;Programatic Approach To Work With European Regional Data Panels&lt;/a&gt;).&lt;/p&gt;
 &lt;p&gt;When data was missing in the end of the dataset, we used the last observation carry forward, when in the beginning, the next observation carry backwards data.  Gaps in the data were interpolated using linear interpolation. Whenever data was available on a larger (provincial level), we imputed it to the smaller regional units.&lt;/p&gt;
 &lt;p&gt;The data contains standard national / regional references according the European NUTS2013 standard for backwards compatibility. Further documentation will be available on our methodology on the 
 &lt;a href=&#34;https://documentation.ceemid.eu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;documentation.ceemid.eu&lt;/a&gt; wiki website.&lt;/p&gt;
@@ -726,8 +726,8 @@ Final Report.&lt;/em&gt;, 397–417. Luxembourg.
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/gallery/ceemid_regional_social_media_use_2011.jpg&#34; data-caption=&#34;Internet use: participating in social networks (2011)&#34;&gt;
-  &lt;img data-src=&#34;https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/gallery/ceemid_regional_social_media_use_2011_hua485aaf22d1f04af04808580e8565870_238711_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;263&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2020-04-16-regional-opendata-release/gallery/ceemid_regional_social_media_use_2011.jpg&#34; data-caption=&#34;Internet use: participating in social networks (2011)&#34;&gt;
+  &lt;img data-src=&#34;/post/2020-04-16-regional-opendata-release/gallery/ceemid_regional_social_media_use_2011_hua485aaf22d1f04af04808580e8565870_238711_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;263&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -739,8 +739,8 @@ Final Report.&lt;/em&gt;, 397–417. Luxembourg.
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/gallery/ceemid_regional_social_media_use_2015.jpg&#34; data-caption=&#34;Internet use: participating in social networks (2015)&#34;&gt;
-  &lt;img data-src=&#34;https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/gallery/ceemid_regional_social_media_use_2015_hua485aaf22d1f04af04808580e8565870_246037_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;263&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2020-04-16-regional-opendata-release/gallery/ceemid_regional_social_media_use_2015.jpg&#34; data-caption=&#34;Internet use: participating in social networks (2015)&#34;&gt;
+  &lt;img data-src=&#34;/post/2020-04-16-regional-opendata-release/gallery/ceemid_regional_social_media_use_2015_hua485aaf22d1f04af04808580e8565870_246037_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;263&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -752,8 +752,8 @@ Final Report.&lt;/em&gt;, 397–417. Luxembourg.
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/gallery/ceemid_regional_social_media_use_2019.jpg&#34; data-caption=&#34;Internet use: participating in social networks (2019)&#34;&gt;
-  &lt;img data-src=&#34;https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/gallery/ceemid_regional_social_media_use_2019_hua485aaf22d1f04af04808580e8565870_250355_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;263&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2020-04-16-regional-opendata-release/gallery/ceemid_regional_social_media_use_2019.jpg&#34; data-caption=&#34;Internet use: participating in social networks (2019)&#34;&gt;
+  &lt;img data-src=&#34;/post/2020-04-16-regional-opendata-release/gallery/ceemid_regional_social_media_use_2019_hua485aaf22d1f04af04808580e8565870_250355_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;263&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -765,8 +765,8 @@ Final Report.&lt;/em&gt;, 397–417. Luxembourg.
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/gallery/metadata_ceemid_regional_social_media_use_2011.jpg&#34; data-caption=&#34;CEEMID metadata summary (2011)&#34;&gt;
-  &lt;img data-src=&#34;https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/gallery/metadata_ceemid_regional_social_media_use_2011_hua485aaf22d1f04af04808580e8565870_247818_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;263&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2020-04-16-regional-opendata-release/gallery/metadata_ceemid_regional_social_media_use_2011.jpg&#34; data-caption=&#34;CEEMID metadata summary (2011)&#34;&gt;
+  &lt;img data-src=&#34;/post/2020-04-16-regional-opendata-release/gallery/metadata_ceemid_regional_social_media_use_2011_hua485aaf22d1f04af04808580e8565870_247818_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;263&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -778,8 +778,8 @@ Final Report.&lt;/em&gt;, 397–417. Luxembourg.
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/gallery/metadata_ceemid_regional_social_media_use_2015.jpg&#34; data-caption=&#34;CEEMID metadata summary (2015)&#34;&gt;
-  &lt;img data-src=&#34;https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/gallery/metadata_ceemid_regional_social_media_use_2015_hua485aaf22d1f04af04808580e8565870_247520_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;263&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2020-04-16-regional-opendata-release/gallery/metadata_ceemid_regional_social_media_use_2015.jpg&#34; data-caption=&#34;CEEMID metadata summary (2015)&#34;&gt;
+  &lt;img data-src=&#34;/post/2020-04-16-regional-opendata-release/gallery/metadata_ceemid_regional_social_media_use_2015_hua485aaf22d1f04af04808580e8565870_247520_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;263&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -791,8 +791,8 @@ Final Report.&lt;/em&gt;, 397–417. Luxembourg.
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/gallery/metadata_ceemid_regional_social_media_use_2019.jpg&#34; data-caption=&#34;CEEMID metadata summary (2019)&#34;&gt;
-  &lt;img data-src=&#34;https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/gallery/metadata_ceemid_regional_social_media_use_2019_hua485aaf22d1f04af04808580e8565870_243997_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;263&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2020-04-16-regional-opendata-release/gallery/metadata_ceemid_regional_social_media_use_2019.jpg&#34; data-caption=&#34;CEEMID metadata summary (2019)&#34;&gt;
+  &lt;img data-src=&#34;/post/2020-04-16-regional-opendata-release/gallery/metadata_ceemid_regional_social_media_use_2019_hua485aaf22d1f04af04808580e8565870_243997_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;263&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
 
@@ -803,9 +803,9 @@ Final Report.&lt;/em&gt;, 397–417. Luxembourg.
     
     <item>
       <title>Comparing Social Distancing in Europe</title>
-      <link>https://dataandlyrics.com/post/2020-04-15-comparing-social-distancing/</link>
+      <link>/post/2020-04-15-comparing-social-distancing/</link>
       <pubDate>Wed, 15 Apr 2020 13:00:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/post/2020-04-15-comparing-social-distancing/</guid>
+      <guid>/post/2020-04-15-comparing-social-distancing/</guid>
       <description>&lt;p&gt;People around the world are facing newer and newer exponential charts everyday. We’re all hoping for new information about the progress against the coronavirus. Unfortunately, the vast majority of these charts is meaningless. In fact, 
 &lt;a href=&#34;https://fivethirtyeight.com/features/coronavirus-case-counts-are-meaningless/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;coronavirus case counts are meaningless&lt;/a&gt;, unless they are done with very heavy statistical knowledge, and even then they are very messy. Countries have different testing and hospitalization protocols, death certificating standards, and there are less and more trustworthy governments. We do not really know the severity of the local epidemics and the relative success of public health policies.&lt;/p&gt;
 
@@ -835,8 +835,8 @@ Final Report.&lt;/em&gt;, 397–417. Luxembourg.
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2020-04-15-comparing-social-distancing/gallery/countryclusters.jpg&#34; data-caption=&#34;Clustering countries on current lockdown strictness and change&#34;&gt;
-  &lt;img data-src=&#34;https://dataandlyrics.com/post/2020-04-15-comparing-social-distancing/gallery/countryclusters_huc63f6ee1cc1b69a8e28d2c9e7295fd18_347025_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2020-04-15-comparing-social-distancing/gallery/countryclusters.jpg&#34; data-caption=&#34;Clustering countries on current lockdown strictness and change&#34;&gt;
+  &lt;img data-src=&#34;/post/2020-04-15-comparing-social-distancing/gallery/countryclusters_huc63f6ee1cc1b69a8e28d2c9e7295fd18_347025_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -848,8 +848,8 @@ Final Report.&lt;/em&gt;, 397–417. Luxembourg.
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2020-04-15-comparing-social-distancing/gallery/difference_summary_en.jpg&#34; data-caption=&#34;Changes in community space use, end of March and early April&#34;&gt;
-  &lt;img data-src=&#34;https://dataandlyrics.com/post/2020-04-15-comparing-social-distancing/gallery/difference_summary_en_huc7370673eb468102ac3ad5af70997f54_262570_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;263&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2020-04-15-comparing-social-distancing/gallery/difference_summary_en.jpg&#34; data-caption=&#34;Changes in community space use, end of March and early April&#34;&gt;
+  &lt;img data-src=&#34;/post/2020-04-15-comparing-social-distancing/gallery/difference_summary_en_huc7370673eb468102ac3ad5af70997f54_262570_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;263&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -861,8 +861,8 @@ Final Report.&lt;/em&gt;, 397–417. Luxembourg.
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2020-04-15-comparing-social-distancing/gallery/work_home_change_EN.jpg&#34; data-caption=&#34;Growth in time spend at home and in the workplace since January&#34;&gt;
-  &lt;img data-src=&#34;https://dataandlyrics.com/post/2020-04-15-comparing-social-distancing/gallery/work_home_change_EN_huf1bc5f0534491039237e4dc526b79bf4_336010_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;263&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2020-04-15-comparing-social-distancing/gallery/work_home_change_EN.jpg&#34; data-caption=&#34;Growth in time spend at home and in the workplace since January&#34;&gt;
+  &lt;img data-src=&#34;/post/2020-04-15-comparing-social-distancing/gallery/work_home_change_EN_huf1bc5f0534491039237e4dc526b79bf4_336010_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;263&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
 
@@ -871,12 +871,12 @@ Final Report.&lt;/em&gt;, 397–417. Luxembourg.
 &lt;p&gt;Nevertheless, we have some timely information on how people and the economy react to the epidemic, because there are ongoing, frequent, and comparable data sources on various consequences of the epidemic.  A particularly interesting big data source is 
 &lt;a href=&#34;https://www.blog.google/technology/health/covid-19-community-mobility-reports/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google’s geolocational reporting&lt;/a&gt; on how people’s time spent in homes, workplaces, parks, shopping areas and recreational areas change. Google gets plenty of realtime data from hundreds of millions of people and compares them by days in the week and local time with the ‘baseline’ scenario before the outbreak of the coronavirus.&lt;/p&gt;
 &lt;p&gt;Based on the locational data of various smartphones and application data, we know that people spend 10-15% more time at home since January, and 40-50% less in their workplaces.  Similar data is available for other locations.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dataandlyrics.com/img/post/2020-04-15-covid/work_home_en_small.jpg&#34; alt=&#34;Stay at home or go to the workplace?&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/post/2020-04-15-covid/work_home_en_small.jpg&#34; alt=&#34;Stay at home or go to the workplace?&#34;&gt;&lt;/p&gt;
 &lt;p&gt;While people are spending less time in the workplace and more at home in every European country, there are significant differences.  Countries in the top left corner, most notable Sweden, switched less from workplaces to homes.  On the bottom right corner, Spain and Italy, which were most hit by the epidemic, are in the most severe form of lockdown.&lt;/p&gt;
 &lt;p&gt;There are some outliers, like Romania, where people stay a lot more at home, but not so much less in the workplaces – probably they cannot afford to stay clear of the job, but they are reducing other activities.  Or, in the case of Germany, people spend a lot more time in parks.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dataandlyrics.com/img/post/2020-04-15-covid/difference_summary_en_small.jpg&#34; alt=&#34;Differences in space use in Europe&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/post/2020-04-15-covid/difference_summary_en_small.jpg&#34; alt=&#34;Differences in space use in Europe&#34;&gt;&lt;/p&gt;
 &lt;p&gt;I grouped the countries according to their dynamics.  Looking at Belgium and Luxembourg, we see that they are more locked down than the typical European country, but they are moving up in the first week of April compared to the last week of March. This is very much in line with their improving strain on the health system.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dataandlyrics.com/img/post/2020-04-15-covid/countryclusters_small.jpg&#34; alt=&#34;Clusters of countries&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/post/2020-04-15-covid/countryclusters_small.jpg&#34; alt=&#34;Clusters of countries&#34;&gt;&lt;/p&gt;
 &lt;p&gt;What is worrying is that there appears to be a significant asynchronicity in the Schengen zone, where people and goods should move around freely.  The peripheric countries, which are less densely populated, often less integrated into the global transport and travel routes, are getting into the local epidemics later, and are acting later.  This is logical from a national point of view, but given that the European economy is very much integrated, it will prolong the pain.  The Netherlands, France and Germany need plenty of seasonal agricultural workers from the Southeast, where the lockdown is just getting really strict.  While some of their regions see improving national epidemic situations, the easing will increase the intensity of the local epidemic if a large number of workers will arrive from countries that are just going into the epidemic.&lt;/p&gt;
 &lt;p&gt;The efficient solution, as many public health officials keep saying, would be a synchronized effort to contain the virus.  The different pace and strictness of social distancing measures will mean that the local epidemics will not be in synchronization, and the countries will re-infect each other, this way prolonging the economic and social cost of this devastating pandemic.  While health policy is a national competence in the European Union, in fact, the European economic and social life is so much integrated, not only within the Schengen Zone, but even with future, prospective and candidate members states in the Balkans, that a far more coordinated public health policy would be required.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Use this in your article? Further research? Collaboration? The data &amp;amp; code is available in a private github repo. Let&amp;rsquo;s get in touch on 
@@ -892,9 +892,9 @@ Final Report.&lt;/em&gt;, 397–417. Luxembourg.
     
     <item>
       <title>CCS Ecosystems: Evidence-Driven CCI Policy &amp; The Central &amp; Eastern European Music Industry Report</title>
-      <link>https://dataandlyrics.com/post/2020-01-30-ceereport/</link>
+      <link>/post/2020-01-30-ceereport/</link>
       <pubDate>Wed, 29 Jan 2020 16:00:00 +0100</pubDate>
-      <guid>https://dataandlyrics.com/post/2020-01-30-ceereport/</guid>
+      <guid>/post/2020-01-30-ceereport/</guid>
       <description>&lt;p&gt;CEEMID &amp;amp; Consolidated Independent presented and discussed with stakeholders the  
 &lt;a href=&#34;https://danielantal.eu/publication/ceereport_2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Central &amp;amp; Eastern European Music Industry Report 2020&lt;/a&gt; as a case-study on national and comparative evidence-based policymaking in the cultural and creative sector on the 
 &lt;a href=&#34;http://creativeflip.creativehubs.net/2019/12/03/flipping-the-odds/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CCS Ecosystems: FLIPPING THE ODDS Conference&lt;/a&gt; – a two-day high-level stakeholder event jointly organized by Geothe-Institute and the DG Education and Culture of the European Commission with the Creative FLIP project.&lt;/p&gt;
@@ -905,7 +905,7 @@ Final Report.&lt;/em&gt;, 397–417. Luxembourg.
 &lt;a href=&#34;https://danielantal.eu/publication/slovak_music_industry_2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slovak&lt;/a&gt;, 
 &lt;a href=&#34;https://danielantal.eu/publication/private_copying_croatia_2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Croatian&lt;/a&gt; and 
 &lt;a href=&#34;http://czdev.ceemid.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Czech&lt;/a&gt; music industry reports are compared with Armenian, Austrian, Bulgarian, Lithuanian, Serbian and Slovenian data and findings.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dataandlyrics.com/img/publications/cee_report_2020_frontcover.jpg&#34; alt=&#34;Central &amp; Eastern European Music Industry Report 2020&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/publications/cee_report_2020_frontcover.jpg&#34; alt=&#34;Central &amp; Eastern European Music Industry Report 2020&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;invisibility&#34;&gt;Invisibility&lt;/h2&gt;
 &lt;p&gt;The measurement problems and the ‘invisibility’ of creative and cultural industries is a consequence of the fact that these industries are predominantly comprised of microenterprises and individual, freelancing entrepreneurs.  Even larger entities, such as collective management organizations can be classified as small enterprises.
 In the EU, small- and medium enterprises, and especially microenterprises usually have reduced reporting duties to the statistical authorities and tax authorities (which is the most important secondary source of government statistics in anonymized, aggregated form.)  This means that the supply side is not visible for policymakers. The recommendation is to conduct sample-based surveys among these microenterprises, but very few member states do that.&lt;/p&gt;
@@ -961,9 +961,9 @@ Perspectives on Academic Research with the European Commission’s Eurobarometer
     
     <item>
       <title>Czech Music Development Program &amp; Comparative Market Research</title>
-      <link>https://dataandlyrics.com/post/2019-11-09-nouvelle-prague/</link>
+      <link>/post/2019-11-09-nouvelle-prague/</link>
       <pubDate>Sat, 09 Nov 2019 11:00:00 +0100</pubDate>
-      <guid>https://dataandlyrics.com/post/2019-11-09-nouvelle-prague/</guid>
+      <guid>/post/2019-11-09-nouvelle-prague/</guid>
       <description>&lt;p&gt;I was presenting some highlights from the work we started with in the organization of SoundCzech with 25 music professionals representing more than 20 stakeholders in the 
 &lt;a href=&#34;https://danielantal.eu/talk/2019_10_09_praha/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How We Would Like To Work in the Czech Music Industry in 2020&lt;/a&gt; &lt;em&gt;ex ante&lt;/em&gt; evaluation workshop in the context of the comparative 
 &lt;a href=&#34;https://danielantal.eu/post/2019-09-27_cee_report/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Central European Music Industry Report&lt;/a&gt;.&lt;/p&gt;
@@ -976,9 +976,9 @@ Perspectives on Academic Research with the European Commission’s Eurobarometer
     
     <item>
       <title>Private Copying in Croatia</title>
-      <link>https://dataandlyrics.com/publication/private_copying_croatia_2019/</link>
+      <link>/publication/private_copying_croatia_2019/</link>
       <pubDate>Thu, 31 Oct 2019 12:00:00 +0100</pubDate>
-      <guid>https://dataandlyrics.com/publication/private_copying_croatia_2019/</guid>
+      <guid>/publication/private_copying_croatia_2019/</guid>
       <description>&lt;p&gt;Press release: 
 &lt;a href=&#34;https://www.zamp.hr/clanak/pregled/2197/studija-naknade-za-privatno-kopiranje-btl-u-hrvatskoj-drasticno-ispod-prosjeka-eu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Studija: Naknade za privatno kopiranje (BTL) u Hrvatskoj drastično ispod prosjeka EU&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Short summary in Croatian: 
@@ -990,22 +990,22 @@ Full text in English:
     
     <item>
       <title>Central European Music Industry Report Presentation</title>
-      <link>https://dataandlyrics.com/post/2019-09-27_cee_report/</link>
+      <link>/post/2019-09-27_cee_report/</link>
       <pubDate>Mon, 30 Sep 2019 08:05:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/post/2019-09-27_cee_report/</guid>
+      <guid>/post/2019-09-27_cee_report/</guid>
       <description>&lt;p&gt;We had the first public and panel discussion of the forthcoming Central European Music Industry Report.  After mapping and analysing in depth the music industries of several CEE countries, I put together with the help of Consolidated Independent and state51 a regional report in previously unseen detail.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;You can review the whole 
-&lt;a href=&#34;https://dataandlyrics.com/presentation/CEE_Music_Report.html&#34;&gt;presentation here&lt;/a&gt; (10Mb self-contained HTML file, takes some time to load).&lt;/em&gt;&lt;/p&gt;
+&lt;a href=&#34;/presentation/CEE_Music_Report.html&#34;&gt;presentation here&lt;/a&gt; (10Mb self-contained HTML file, takes some time to load).&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;After 
 &lt;a href=&#34;post/2016-04-20_makk15&#34;&gt;mapping&lt;/a&gt; and analysing (see most recently 
 &lt;a href=&#34;https://danielantal.eu/publication/slovak_music_industry_2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slovakia&lt;/a&gt;) in depth the music industries of several CEE countries, with the help of Consolidated Independent I put together a regional report in previously unseen detail.&lt;/p&gt;
 &lt;p&gt;The live music part explains the different demography and other demand drivers of the CEE region for concerts, resulting in high seasonality, low venue profitability, an unusually high vulnerability of small venues – and as a result an unusually strong music festival scene.&lt;/p&gt;
 &lt;p&gt;For recordings, the report shows the royalty gap in comparison to Western Europe and the difficulties of labels and publishers to create value added to musicians.  In the absence of a fully functional recording market, musicians are more reliant on collective management revenues than in the rest of Europe – yet in many countries collective management has profound difficulty in asking the correct price for music or collecting it.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dataandlyrics.com/img/ceemid/expenditure_private_cultural_cinema_theatre_concert_filled_plot.jpg&#34; alt=&#34;Consumer demand for music events&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/ceemid/expenditure_private_cultural_cinema_theatre_concert_filled_plot.jpg&#34; alt=&#34;Consumer demand for music events&#34;&gt;&lt;/p&gt;
 &lt;p&gt;When analysing the music flows among European countries, and the 
 &lt;a href=&#34;https://danielantal.eu/post/cross_border_2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;export-import flows&lt;/a&gt; of other emerging markets in Latin America and the worlds most stable ones, like that of the United States, Brazil and Japan, we must realize that these nations face an uphill battle to get into the better paying markets and at the same time to protect their domestic market from increasing import substitution.&lt;/p&gt;
 &lt;p&gt;Music grants could be an important tool to balance the disadvantaged position of CEE musicians in this global competition.  Austria and Hungary has a strong popular music support program, but usually the availability and suitability of grants is lower in those countries where musicians and their technical and managerial team would need it most.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dataandlyrics.com/img/dataanimation/is_grant_animation_1000_no_loop.gif&#34; alt=&#34;Accessibility and suitability of music grants&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/dataanimation/is_grant_animation_1000_no_loop.gif&#34; alt=&#34;Accessibility and suitability of music grants&#34;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;I am very grateful for the support given by 
 &lt;a href=&#34;https://ci-info.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Consolidated Independent&lt;/a&gt; in the making of this report. CI is the market leader in managed services for the digital music industry, connecting the best independent music with the opportunities of the global market. With their data science team, we put together data from about 700,000,000 royalty statement documents about the whole region. I believe that this is the first time that a global player releases large amounts of data to help understanding the changing music landscape in the era of digital streaming. Equally thankful for Franz Hergovich (Music Austria) for inviting us to discuss these findings on 
@@ -1019,9 +1019,9 @@ Full text in English:
     
     <item>
       <title>Slovak Music Industry Report</title>
-      <link>https://dataandlyrics.com/publication/slovak_music_industry_2019/</link>
+      <link>/publication/slovak_music_industry_2019/</link>
       <pubDate>Tue, 26 Mar 2019 00:00:00 +0100</pubDate>
-      <guid>https://dataandlyrics.com/publication/slovak_music_industry_2019/</guid>
+      <guid>/publication/slovak_music_industry_2019/</guid>
       <description>&lt;p&gt;The whole report can be downloaded for free from the 
 &lt;a href=&#34;http://www.soza.sk/aktuality/235/soza-zverej%C5%88uje-historicky-prvu-spravu-o-slovenskom-hudobnom-priemysle&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;homepage of SOZA&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Press reports in Slovak:&lt;/p&gt;

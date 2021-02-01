@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>streaming | Data &amp; Lyrics</title>
-    <link>https://dataandlyrics.com/tag/streaming/</link>
-      <atom:link href="https://dataandlyrics.com/tag/streaming/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/streaming/</link>
+      <atom:link href="/tag/streaming/index.xml" rel="self" type="application/rss+xml" />
     <description>streaming</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 17 Nov 2020 11:03:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Tue, 17 Nov 2020 11:03:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>streaming</title>
-      <link>https://dataandlyrics.com/tag/streaming/</link>
+      <link>/tag/streaming/</link>
     </image>
     
     <item>
       <title>Who Is Not Recommended On Spotify?</title>
-      <link>https://dataandlyrics.com/post/2020-11-17-recommendation-analysis/</link>
+      <link>/post/2020-11-17-recommendation-analysis/</link>
       <pubDate>Tue, 17 Nov 2020 11:03:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/post/2020-11-17-recommendation-analysis/</guid>
+      <guid>/post/2020-11-17-recommendation-analysis/</guid>
       <description>&lt;p&gt;&lt;em&gt;We are analysing how recommendations work for the artists involved in our 
 &lt;a href=&#34;https://dataandlyrics.com/project/listen-local/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Listen Local&lt;/a&gt; experiment. We created a testing database with their music and other artists from their cities, regions and countries. We need new recommendation engines to dig out from a pile of international hits the local artists.&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -46,10 +46,10 @@
 &lt;figure id=&#34;figure-artist-has-more-related-artists-as-number-popularity-and-number-of-followers-grows-nationality-may-affect-related-artists&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://dataandlyrics.com/img/streaming/spotify_related_artists_corrplot_no_title.png&#34; data-caption=&#34;Artist has more related artists as number popularity and number of followers grows. Nationality may affect related artists.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/streaming/spotify_related_artists_corrplot_no_title.png&#34; data-caption=&#34;Artist has more related artists as number popularity and number of followers grows. Nationality may affect related artists.&#34;&gt;
 
 
-  &lt;img src=&#34;https://dataandlyrics.com/img/streaming/spotify_related_artists_corrplot_no_title.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/streaming/spotify_related_artists_corrplot_no_title.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -86,10 +86,10 @@
 &lt;figure id=&#34;figure-the-algorithm-can-learn-more-about-popular-music-because-the-song-is-more-often-selected-by-a-larger-number-of-people&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://dataandlyrics.com/img/streaming/spotify_related_artists_popularity.png&#34; data-caption=&#34;The algorithm can learn more about popular music, because the song is more often selected by a larger number of people&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/streaming/spotify_related_artists_popularity.png&#34; data-caption=&#34;The algorithm can learn more about popular music, because the song is more often selected by a larger number of people&#34;&gt;
 
 
-  &lt;img src=&#34;https://dataandlyrics.com/img/streaming/spotify_related_artists_popularity.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/streaming/spotify_related_artists_popularity.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -124,10 +124,10 @@
 &lt;figure id=&#34;figure-artist-with-less-than-1000-followers-risk-not-being-to-recommended-at-all-doubling-your-chances-to-be-discovered-requires-1000x-more-followers&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://dataandlyrics.com/img/streaming/spotify_related_artists_followers.png&#34; data-caption=&#34;Artist with less than 1000 followers risk not being to recommended at all. Doubling your chances to be discovered requires 1000x more followers.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/streaming/spotify_related_artists_followers.png&#34; data-caption=&#34;Artist with less than 1000 followers risk not being to recommended at all. Doubling your chances to be discovered requires 1000x more followers.&#34;&gt;
 
 
-  &lt;img src=&#34;https://dataandlyrics.com/img/streaming/spotify_related_artists_followers.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/streaming/spotify_related_artists_followers.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 

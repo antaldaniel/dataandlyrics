@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Data &amp; Lyrics</title>
-    <link>https://dataandlyrics.com/project/</link>
-      <atom:link href="https://dataandlyrics.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 16 Oct 2020 00:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Fri, 16 Oct 2020 00:00:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Projects</title>
-      <link>https://dataandlyrics.com/project/</link>
+      <link>/project/</link>
     </image>
     
     <item>
       <title>Grants</title>
-      <link>https://dataandlyrics.com/project/grants/</link>
+      <link>/project/grants/</link>
       <pubDate>Fri, 16 Oct 2020 00:00:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/project/grants/</guid>
+      <guid>/project/grants/</guid>
       <description>&lt;p&gt;Governments, the EU, international organizations, and private donors often support causes of public interest with grants and donations. In some cases, these grants are aimed to help starting or sustaining economic activities. In other cases, they are supporting artistic activities or education.&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://dataandlyrics.com/author/daniel/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel&lt;/a&gt; had been involved in the professional assessment of granting schemes and grant applications since 2000. He has learned and taught various assessment methods to evaluated EU and national grants to support valuable public infrastructure, energy savings, health investments and other causes.&lt;/p&gt;
@@ -41,10 +41,10 @@
 &lt;figure id=&#34;figure-experience-with-grant-in-select-countries-based-on-our-music-professionals-survey-in-2019&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://dataandlyrics.com/img/music/isgrantplot-1.png&#34; data-caption=&#34;Experience with grant in select countries based on our music professionals survey in 2019.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/music/isgrantplot-1.png&#34; data-caption=&#34;Experience with grant in select countries based on our music professionals survey in 2019.&#34;&gt;
 
 
-  &lt;img src=&#34;https://dataandlyrics.com/img/music/isgrantplot-1.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/music/isgrantplot-1.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -73,9 +73,9 @@
     
     <item>
       <title>Listen Local</title>
-      <link>https://dataandlyrics.com/project/listen-local/</link>
+      <link>/project/listen-local/</link>
       <pubDate>Tue, 29 Sep 2020 10:00:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/project/listen-local/</guid>
+      <guid>/project/listen-local/</guid>
       <description>&lt;p&gt;&lt;em&gt;“Big data creates injustice.”&lt;/em&gt; &amp;ndash; Cathy O&amp;rsquo;Neil, author of 
 &lt;a href=&#34;https://blogs.scientificamerican.com/roots-of-unity/review-weapons-of-math-destruction/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Weapons of Math Destruction&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Our Listen Local project is aiming to create better radio playlisting, personal playlisting and concert promotion in a local context: within Slovakia or at a more specific level, Flanders or even the city of Utrecht or Budapest. We aim to place our partner’s music in local radio lists, personal playlists, and grow their fan base during the COVID-19 pandemic so that in 2021 they can eventually meet in the venues again, and carry out longer, more successful tours than ever.&lt;/p&gt;
@@ -170,9 +170,9 @@
     
     <item>
       <title>Music Observatory</title>
-      <link>https://dataandlyrics.com/project/music-observatory/</link>
+      <link>/project/music-observatory/</link>
       <pubDate>Wed, 26 Aug 2020 08:00:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/project/music-observatory/</guid>
+      <guid>/project/music-observatory/</guid>
       <description>&lt;p&gt;We are developing our 
 &lt;a href=&#34;project/music-observatory/&#34;&gt;Demo Music Observatory&lt;/a&gt; in the world&amp;rsquo;s 2nd ranked university-backed incubator program, the 
 &lt;a href=&#34;post/2020-09-25-yesdelft-validation/&#34;&gt;Yes!Delft AI Validation Lab&lt;/a&gt;. Our aim is to show a better organizational model, examples of research automation and other data integration innovation that can reduce the budgetary needs of the European Music Observatory by 80-90% and provide far more timely, accurate, and relevant service than most data observatories in Europe.&lt;/p&gt;
@@ -228,10 +228,10 @@
 &lt;figure id=&#34;figure-illustration-our-map-to-find-to-locate-data-in-the-croatian-music-industry-our-demo-music-observatory-is-based-on-the-accepted-music-industry-concept-in-the-us-and-the-eu-the-three-income-stream-model-and-its-data-maps&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://dataandlyrics.com/img/methodology/three_income_streams_croatia.png&#34; data-caption=&#34;Illustration: our map to find to locate data in the Croatian music industry. Our Demo Music Observatory is based on the accepted music industry concept in the US and the EU (the three-income stream model) and its data maps.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/methodology/three_income_streams_croatia.png&#34; data-caption=&#34;Illustration: our map to find to locate data in the Croatian music industry. Our Demo Music Observatory is based on the accepted music industry concept in the US and the EU (the three-income stream model) and its data maps.&#34;&gt;
 
 
-  &lt;img src=&#34;https://dataandlyrics.com/img/methodology/three_income_streams_croatia.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/methodology/three_income_streams_croatia.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -270,10 +270,10 @@
 &lt;figure id=&#34;figure-illustration-our-map-to-find-to-locate-data-in-the-croatian-music-industry-our-demo-music-observatory-is-based-on-the-accepted-music-industry-concept-in-the-us-and-the-eu-the-three-income-stream-model-and-its-data-maps&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://dataandlyrics.com/img/reports/medianvalue-1.png&#34; data-caption=&#34;Illustration: our map to find to locate data in the Croatian music industry. Our Demo Music Observatory is based on the accepted music industry concept in the US and the EU (the three-income stream model) and its data maps.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/reports/medianvalue-1.png&#34; data-caption=&#34;Illustration: our map to find to locate data in the Croatian music industry. Our Demo Music Observatory is based on the accepted music industry concept in the US and the EU (the three-income stream model) and its data maps.&#34;&gt;
 
 
-  &lt;img src=&#34;https://dataandlyrics.com/img/reports/medianvalue-1.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/reports/medianvalue-1.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -316,10 +316,10 @@
 &lt;figure id=&#34;figure-illusory-data-gap-active-and-music-participation-is-available-on-eu-level-both-for-gender-groups-or-four-ethnic-minorities--this-is-regularly-featured-in-various-european-cap-surveys-and-in-our-national-cap-surveys-too&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://dataandlyrics.com/img/comparative/music_activity_playing_an_instrument_by_gender.png&#34; data-caption=&#34;Illusory data gap: active and music participation is available on EU level both for gender groups or four ethnic minorities – this is regularly featured in various European CAP surveys and in our national CAP surveys, too.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/comparative/music_activity_playing_an_instrument_by_gender.png&#34; data-caption=&#34;Illusory data gap: active and music participation is available on EU level both for gender groups or four ethnic minorities – this is regularly featured in various European CAP surveys and in our national CAP surveys, too.&#34;&gt;
 
 
-  &lt;img src=&#34;https://dataandlyrics.com/img/comparative/music_activity_playing_an_instrument_by_gender.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/comparative/music_activity_playing_an_instrument_by_gender.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -406,9 +406,9 @@
     
     <item>
       <title>Music Exports &amp; Imports</title>
-      <link>https://dataandlyrics.com/project/music-export/</link>
+      <link>/project/music-export/</link>
       <pubDate>Fri, 27 Sep 2019 00:00:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/project/music-export/</guid>
+      <guid>/project/music-export/</guid>
       <description>&lt;p&gt;Europe, like most regions of the world, is a net importer of music, but has very signficant export potential. Intra-European export is also very significant, especially from Germany, France, Sweden and the Netherlands.&lt;/p&gt;
 &lt;p&gt;The Central and Eastern European region is relatively weak in exporting recorded and live performances, but it is among global leaders in creating export revenues from festivals.&lt;/p&gt;
 &lt;p&gt;Currently I am involved in creating predicitve models that help finding the best potential foreign market for music, and I make economic impact assessments of cultural tourism.&lt;/p&gt;

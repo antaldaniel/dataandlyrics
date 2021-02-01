@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ex-post | Data &amp; Lyrics</title>
-    <link>https://dataandlyrics.com/tag/ex-post/</link>
-      <atom:link href="https://dataandlyrics.com/tag/ex-post/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/ex-post/</link>
+      <atom:link href="/tag/ex-post/index.xml" rel="self" type="application/rss+xml" />
     <description>ex-post</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 16 Oct 2020 00:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Fri, 16 Oct 2020 00:00:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>ex-post</title>
-      <link>https://dataandlyrics.com/tag/ex-post/</link>
+      <link>/tag/ex-post/</link>
     </image>
     
     <item>
       <title>Grants</title>
-      <link>https://dataandlyrics.com/project/grants/</link>
+      <link>/project/grants/</link>
       <pubDate>Fri, 16 Oct 2020 00:00:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/project/grants/</guid>
+      <guid>/project/grants/</guid>
       <description>&lt;p&gt;Governments, the EU, international organizations, and private donors often support causes of public interest with grants and donations. In some cases, these grants are aimed to help starting or sustaining economic activities. In other cases, they are supporting artistic activities or education.&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://dataandlyrics.com/author/daniel/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel&lt;/a&gt; had been involved in the professional assessment of granting schemes and grant applications since 2000. He has learned and taught various assessment methods to evaluated EU and national grants to support valuable public infrastructure, energy savings, health investments and other causes.&lt;/p&gt;
@@ -41,10 +41,10 @@
 &lt;figure id=&#34;figure-experience-with-grant-in-select-countries-based-on-our-music-professionals-survey-in-2019&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://dataandlyrics.com/img/music/isgrantplot-1.png&#34; data-caption=&#34;Experience with grant in select countries based on our music professionals survey in 2019.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/music/isgrantplot-1.png&#34; data-caption=&#34;Experience with grant in select countries based on our music professionals survey in 2019.&#34;&gt;
 
 
-  &lt;img src=&#34;https://dataandlyrics.com/img/music/isgrantplot-1.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/music/isgrantplot-1.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 

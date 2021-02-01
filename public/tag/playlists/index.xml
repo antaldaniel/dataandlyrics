@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>playlists | Data &amp; Lyrics</title>
-    <link>https://dataandlyrics.com/tag/playlists/</link>
-      <atom:link href="https://dataandlyrics.com/tag/playlists/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/playlists/</link>
+      <atom:link href="/tag/playlists/index.xml" rel="self" type="application/rss+xml" />
     <description>playlists</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 18 Oct 2020 18:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Sun, 18 Oct 2020 18:00:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>playlists</title>
-      <link>https://dataandlyrics.com/tag/playlists/</link>
+      <link>/tag/playlists/</link>
     </image>
     
     <item>
       <title>Listen Local: Open Collaboration Experiment &amp; Feasibility Study</title>
-      <link>https://dataandlyrics.com/post/2020-10-19-listen-local/</link>
+      <link>/post/2020-10-19-listen-local/</link>
       <pubDate>Sun, 18 Oct 2020 18:00:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/post/2020-10-19-listen-local/</guid>
+      <guid>/post/2020-10-19-listen-local/</guid>
       <description>&lt;p&gt;&lt;em&gt;“Big data creates injustice.”&lt;/em&gt; &amp;ndash; Cathy O&amp;rsquo;Neil, author of 
 &lt;a href=&#34;https://blogs.scientificamerican.com/roots-of-unity/review-weapons-of-math-destruction/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Weapons of Math Destruction&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;If you can train machine learning algorithms on millions of music fans, then you can very precisely find listeners in Bratislava, entire Slovakia, in the Slovak diaspora in the United States.  In Utrecht, in Flanders, in Japan. If you cannot, then your sales will be driven by Spotify, Apple, Amazon or Google’s YouTube. And you fill compete with millions, tens of million of songs in your own city.&lt;/p&gt;

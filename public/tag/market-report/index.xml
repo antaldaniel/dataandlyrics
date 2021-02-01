@@ -2,21 +2,74 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>market-report | Data &amp; Lyrics</title>
-    <link>https://dataandlyrics.com/tag/market-report/</link>
-      <atom:link href="https://dataandlyrics.com/tag/market-report/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/market-report/</link>
+      <atom:link href="/tag/market-report/index.xml" rel="self" type="application/rss+xml" />
     <description>market-report</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 29 Jan 2020 16:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Thu, 03 Dec 2020 11:00:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>market-report</title>
-      <link>https://dataandlyrics.com/tag/market-report/</link>
+      <link>/tag/market-report/</link>
     </image>
     
     <item>
+      <title>Can scholarly pirate libraries bridge the knowledge access gap? An empirical study on the structural conditions of book piracy in global and European academia</title>
+      <link>/publication/scholarly_pirate_libraries_2020/</link>
+      <pubDate>Thu, 03 Dec 2020 11:00:00 +0100</pubDate>
+      <guid>/publication/scholarly_pirate_libraries_2020/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://journals.plos.org/plosone/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PLOS One&lt;/a&gt; is the fourth most influential multidisciplinary journal after Nature, and Science, and Proceedings of the National Academy of Sciences of the United States of America (based on 
+&lt;a href=&#34;https://www.scimagojr.com/journalrank.php?category=1000&amp;amp;area=1000&amp;amp;order=h&amp;amp;ord=desc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;H index&lt;/a&gt;.) On December 3, 2020 it published 
+&lt;a href=&#34;https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0242509&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a paper&lt;/a&gt; co-authored by Dr. Balazs Bodo, associate professor at the Institute for Information Law (IViR), Daniel Antal (Reprex, Demo Music Observatory), a data scientist interested in reproducible research, as an independent researcher, and Zoltan Puha, a Data Science PhD at Tilburg University, JADS. PLOS (Public Library of Science) is a nonprofit Open Access publisher, empowering researchers to accelerate progress in science and medicine by leading a transformation in research communication.&lt;/p&gt;
+&lt;p&gt;The article utilizes the our reproducible datasets created with our 
+&lt;a href=&#34;https://regions.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;regions&lt;/a&gt; package, and builds on many years of expertise in empirical research on the field of music and audiovisual piracy, home copying and private copying compensation (see for example 
+&lt;a href=&#34;https://dataandlyrics.com/publication/private_copying_croatia_2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Private Copying in Croatia&lt;/a&gt;.)  Our aim is to provide reliable, high quality indicators for the creative industries not only on national, but provincial, state, regional and metropolitan area level, too, because these levels are often more relevant for creators, performers and policy-makers.&lt;/p&gt;
+&lt;p&gt;The topic of the paper is Library Genesis (LG), the biggest piratical scholarly library on the internet, which provides copyright infringing access to more than 2.5 million scientific monographs, edited volumes, and textbooks. The paper uses advanced statistical methods to explain why researchers around the globe use copyright infringing knowledge resources. The analysis is based on a huge usage dataset from LG, as well as data from the World Bank, Eurostat, and Eurobarometer, to identify the role of macroeconomic factors, such as R&amp;amp;D and higher education spending, GDP, researcher density in scholarly copyright infringing activities.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-we-created-a-global-and-a-far-more-detailed-european-model-for-pirate-book-downloads&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;journal.pone.0242509.g002.png&#34; data-caption=&#34;We created a global and a far more detailed European model for pirate book downloads.&#34;&gt;
+
+
+  &lt;img src=&#34;journal.pone.0242509.g002.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    We created a global and a far more detailed European model for pirate book downloads.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;The main finding of the paper is that open access, even if it is radical, is not a panacea. The hypothesis of the research was that researchers in low-income regions use piratical open knowledge resources relatively more to compensate for the limitations of their legal access infrastructures. The authors found evidence to the contrary. Researchers in high income countries and European regions with access to high quality knowledge infrastructures, and high levels of funding use radical open access resources more intensively than researchers in lower income countries and regions, with less resourceful libraries. This means that while open knowledge is an important resource to close the knowledge gap between centrum and periphery, equality in access does not translate into equality in use. Structural knowledge inequalities are both present and are being reproduced in the context of open access resources.&lt;/p&gt;
+&lt;p&gt;The paper is unique not just because of the data it is based on. It also sets new standards in interdisciplinary legal research by publishing the paper, the data and the software code in the same time in open access repositories, following reproducible research best practices &amp;mdash; the practices that we want to promote in our 
+&lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo Music Observatory&lt;/a&gt; and further data observatories to serve business, evidence-based policy and scientific research.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>CCS Ecosystems: Evidence-Driven CCI Policy &amp; The Central &amp; Eastern European Music Industry Report</title>
-      <link>https://dataandlyrics.com/post/2020-01-30-ceereport/</link>
+      <link>/post/2020-01-30-ceereport/</link>
       <pubDate>Wed, 29 Jan 2020 16:00:00 +0100</pubDate>
-      <guid>https://dataandlyrics.com/post/2020-01-30-ceereport/</guid>
+      <guid>/post/2020-01-30-ceereport/</guid>
       <description>&lt;p&gt;CEEMID &amp;amp; Consolidated Independent presented and discussed with stakeholders the  
 &lt;a href=&#34;https://danielantal.eu/publication/ceereport_2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Central &amp;amp; Eastern European Music Industry Report 2020&lt;/a&gt; as a case-study on national and comparative evidence-based policymaking in the cultural and creative sector on the 
 &lt;a href=&#34;http://creativeflip.creativehubs.net/2019/12/03/flipping-the-odds/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CCS Ecosystems: FLIPPING THE ODDS Conference&lt;/a&gt; – a two-day high-level stakeholder event jointly organized by Geothe-Institute and the DG Education and Culture of the European Commission with the Creative FLIP project.&lt;/p&gt;
@@ -27,7 +80,7 @@
 &lt;a href=&#34;https://danielantal.eu/publication/slovak_music_industry_2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slovak&lt;/a&gt;, 
 &lt;a href=&#34;https://danielantal.eu/publication/private_copying_croatia_2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Croatian&lt;/a&gt; and 
 &lt;a href=&#34;http://czdev.ceemid.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Czech&lt;/a&gt; music industry reports are compared with Armenian, Austrian, Bulgarian, Lithuanian, Serbian and Slovenian data and findings.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dataandlyrics.com/img/publications/cee_report_2020_frontcover.jpg&#34; alt=&#34;Central &amp; Eastern European Music Industry Report 2020&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/publications/cee_report_2020_frontcover.jpg&#34; alt=&#34;Central &amp; Eastern European Music Industry Report 2020&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;invisibility&#34;&gt;Invisibility&lt;/h2&gt;
 &lt;p&gt;The measurement problems and the ‘invisibility’ of creative and cultural industries is a consequence of the fact that these industries are predominantly comprised of microenterprises and individual, freelancing entrepreneurs.  Even larger entities, such as collective management organizations can be classified as small enterprises.
 In the EU, small- and medium enterprises, and especially microenterprises usually have reduced reporting duties to the statistical authorities and tax authorities (which is the most important secondary source of government statistics in anonymized, aggregated form.)  This means that the supply side is not visible for policymakers. The recommendation is to conduct sample-based surveys among these microenterprises, but very few member states do that.&lt;/p&gt;
@@ -83,9 +136,9 @@ Perspectives on Academic Research with the European Commission’s Eurobarometer
     
     <item>
       <title>Central &amp; Eastern European Music Industry Report 2020</title>
-      <link>https://dataandlyrics.com/publication/ceereport_2020/</link>
+      <link>/publication/ceereport_2020/</link>
       <pubDate>Wed, 29 Jan 2020 16:00:00 +0100</pubDate>
-      <guid>https://dataandlyrics.com/publication/ceereport_2020/</guid>
+      <guid>/publication/ceereport_2020/</guid>
       <description>&lt;p&gt;The predecessor of Reprex&amp;rsquo;s Demo Music Observatory, CEEMID together with the independent music distributor Consolidated Independent presented and discussed with stakeholders the  
 &lt;a href=&#34;https://danielantal.eu/publication/ceereport_2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Central &amp;amp; Eastern European Music Industry Report 2020&lt;/a&gt; as a case-study on national and comparative evidence-based policymaking in the cultural and creative sector on the 
 &lt;a href=&#34;http://creativeflip.creativehubs.net/2019/12/03/flipping-the-odds/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CCS Ecosystems: FLIPPING THE ODDS Conference&lt;/a&gt; – a two-day high-level stakeholder event jointly organized by Geothe-Institute and the DG Education and Culture of the European Commission with the Creative FLIP project.&lt;/p&gt;
@@ -118,9 +171,9 @@ Perspectives on Academic Research with the European Commission’s Eurobarometer
     
     <item>
       <title>Czech Music Development Program &amp; Comparative Market Research</title>
-      <link>https://dataandlyrics.com/post/2019-11-09-nouvelle-prague/</link>
+      <link>/post/2019-11-09-nouvelle-prague/</link>
       <pubDate>Sat, 09 Nov 2019 11:00:00 +0100</pubDate>
-      <guid>https://dataandlyrics.com/post/2019-11-09-nouvelle-prague/</guid>
+      <guid>/post/2019-11-09-nouvelle-prague/</guid>
       <description>&lt;p&gt;I was presenting some highlights from the work we started with in the organization of SoundCzech with 25 music professionals representing more than 20 stakeholders in the 
 &lt;a href=&#34;https://danielantal.eu/talk/2019_10_09_praha/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How We Would Like To Work in the Czech Music Industry in 2020&lt;/a&gt; &lt;em&gt;ex ante&lt;/em&gt; evaluation workshop in the context of the comparative 
 &lt;a href=&#34;https://danielantal.eu/post/2019-09-27_cee_report/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Central European Music Industry Report&lt;/a&gt;.&lt;/p&gt;
@@ -133,9 +186,9 @@ Perspectives on Academic Research with the European Commission’s Eurobarometer
     
     <item>
       <title>Private Copying in Croatia</title>
-      <link>https://dataandlyrics.com/publication/private_copying_croatia_2019/</link>
+      <link>/publication/private_copying_croatia_2019/</link>
       <pubDate>Thu, 31 Oct 2019 12:00:00 +0100</pubDate>
-      <guid>https://dataandlyrics.com/publication/private_copying_croatia_2019/</guid>
+      <guid>/publication/private_copying_croatia_2019/</guid>
       <description>&lt;p&gt;Press release: 
 &lt;a href=&#34;https://www.zamp.hr/clanak/pregled/2197/studija-naknade-za-privatno-kopiranje-btl-u-hrvatskoj-drasticno-ispod-prosjeka-eu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Studija: Naknade za privatno kopiranje (BTL) u Hrvatskoj drastično ispod prosjeka EU&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Short summary in Croatian: 
@@ -147,9 +200,9 @@ Full text in English:
     
     <item>
       <title>Slovak Music Industry Report</title>
-      <link>https://dataandlyrics.com/publication/slovak_music_industry_2019/</link>
+      <link>/publication/slovak_music_industry_2019/</link>
       <pubDate>Tue, 26 Mar 2019 00:00:00 +0100</pubDate>
-      <guid>https://dataandlyrics.com/publication/slovak_music_industry_2019/</guid>
+      <guid>/publication/slovak_music_industry_2019/</guid>
       <description>&lt;p&gt;The whole report can be downloaded for free from the 
 &lt;a href=&#34;http://www.soza.sk/aktuality/235/soza-zverej%C5%88uje-historicky-prvu-spravu-o-slovenskom-hudobnom-priemysle&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;homepage of SOZA&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Press reports in Slovak:&lt;/p&gt;
@@ -166,9 +219,9 @@ Full text in English:
     
     <item>
       <title>Eurpoean Comparison: How Many People Ever Pay For Music, Film or Software</title>
-      <link>https://dataandlyrics.com/post/2018-06-08_how_many_ever_pay/</link>
+      <link>/post/2018-06-08_how_many_ever_pay/</link>
       <pubDate>Fri, 08 Jun 2018 00:00:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/post/2018-06-08_how_many_ever_pay/</guid>
+      <guid>/post/2018-06-08_how_many_ever_pay/</guid>
       <description>&lt;p&gt;In our recent private copying reports we compiled European survey data relevant to analysis.  In Europe, there is a big difference between the use of electronic entertainment devices in richer and poorer countries. Nevertheless, the real difference is between the number of people who sometimes and who never pay for downloaded music, films and software.&lt;/p&gt;
 &lt;p&gt;In some countries of Europe, less then 10 percent of the population ever pays for the content that is loaded to their computers, smartphones and tablets.  These survey data, accompanied by other objective data, can help explaining 96% of the variance among digital music sales levels within the EU countries, and it is highly relevant in calculating the economic benefit of home copying for users, and the harm for rightsholders.&lt;/p&gt;
 </description>
@@ -176,9 +229,9 @@ Full text in English:
     
     <item>
       <title>Slovak Music Industry Report</title>
-      <link>https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/</link>
+      <link>/post/2018-04-18_sharpe_bratislava/</link>
       <pubDate>Wed, 18 Apr 2018 19:00:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/</guid>
+      <guid>/post/2018-04-18_sharpe_bratislava/</guid>
       <description>&lt;p&gt;You can review the slides here.&lt;/p&gt;
 
 
@@ -207,8 +260,8 @@ Full text in English:
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/gallery/Slide1.JPG&#34; data-caption=&#34;Slovak Music Industry Report&#34;&gt;
-  &lt;img data-src=&#34;https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/gallery/Slide1_huaadc006dabad6f931881373b7458ff05_88558_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018-04-18_sharpe_bratislava/gallery/Slide1.JPG&#34; data-caption=&#34;Slovak Music Industry Report&#34;&gt;
+  &lt;img data-src=&#34;/post/2018-04-18_sharpe_bratislava/gallery/Slide1_huaadc006dabad6f931881373b7458ff05_88558_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -220,8 +273,8 @@ Full text in English:
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/gallery/Slide2.JPG&#34; data-caption=&#34;Music industry has a great potential to create jobs…&#34;&gt;
-  &lt;img data-src=&#34;https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/gallery/Slide2_hu8fb30eb298294ef97d61dc144e7c2b4c_182313_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018-04-18_sharpe_bratislava/gallery/Slide2.JPG&#34; data-caption=&#34;Music industry has a great potential to create jobs…&#34;&gt;
+  &lt;img data-src=&#34;/post/2018-04-18_sharpe_bratislava/gallery/Slide2_hu8fb30eb298294ef97d61dc144e7c2b4c_182313_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -233,8 +286,8 @@ Full text in English:
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/gallery/Slide3.JPG&#34; data-caption=&#34;Mapping the Slovak Music Industry&#34;&gt;
-  &lt;img data-src=&#34;https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/gallery/Slide3_hu5e60fd5e970b2c7bbcc362473ec09bc8_99011_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018-04-18_sharpe_bratislava/gallery/Slide3.JPG&#34; data-caption=&#34;Mapping the Slovak Music Industry&#34;&gt;
+  &lt;img data-src=&#34;/post/2018-04-18_sharpe_bratislava/gallery/Slide3_hu5e60fd5e970b2c7bbcc362473ec09bc8_99011_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -246,8 +299,8 @@ Full text in English:
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/gallery/Slide4.JPG&#34; data-caption=&#34;Mapping the Slovak Music industry&#34;&gt;
-  &lt;img data-src=&#34;https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/gallery/Slide4_hu66be944f36e1d56a5b372a09ce09fd93_159996_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018-04-18_sharpe_bratislava/gallery/Slide4.JPG&#34; data-caption=&#34;Mapping the Slovak Music industry&#34;&gt;
+  &lt;img data-src=&#34;/post/2018-04-18_sharpe_bratislava/gallery/Slide4_hu66be944f36e1d56a5b372a09ce09fd93_159996_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -259,8 +312,8 @@ Full text in English:
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/gallery/Slide5.JPG&#34; data-caption=&#34;The importance of the changing VAT regulation&#34;&gt;
-  &lt;img data-src=&#34;https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/gallery/Slide5_huf441aca3285f3f8d19a741ecc5d66464_97903_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018-04-18_sharpe_bratislava/gallery/Slide5.JPG&#34; data-caption=&#34;The importance of the changing VAT regulation&#34;&gt;
+  &lt;img data-src=&#34;/post/2018-04-18_sharpe_bratislava/gallery/Slide5_huf441aca3285f3f8d19a741ecc5d66464_97903_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -272,8 +325,8 @@ Full text in English:
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/gallery/Slide6.JPG&#34; data-caption=&#34;The need of stronger copyright protection and higher royalty values&#34;&gt;
-  &lt;img data-src=&#34;https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/gallery/Slide6_hudb27c489db7df2ca4a2fd0d2d125d94e_117307_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018-04-18_sharpe_bratislava/gallery/Slide6.JPG&#34; data-caption=&#34;The need of stronger copyright protection and higher royalty values&#34;&gt;
+  &lt;img data-src=&#34;/post/2018-04-18_sharpe_bratislava/gallery/Slide6_hudb27c489db7df2ca4a2fd0d2d125d94e_117307_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -285,8 +338,8 @@ Full text in English:
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/gallery/Slide7.JPG&#34; data-caption=&#34;Critical size in the global market requires strong national players&#34;&gt;
-  &lt;img data-src=&#34;https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/gallery/Slide7_hu8225d1627899f21a00b525433d99e2f9_78204_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018-04-18_sharpe_bratislava/gallery/Slide7.JPG&#34; data-caption=&#34;Critical size in the global market requires strong national players&#34;&gt;
+  &lt;img data-src=&#34;/post/2018-04-18_sharpe_bratislava/gallery/Slide7_hu8225d1627899f21a00b525433d99e2f9_78204_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -298,8 +351,8 @@ Full text in English:
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/gallery/Slide8.JPG&#34; data-caption=&#34;Part of an animation, not animated here.&#34;&gt;
-  &lt;img data-src=&#34;https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/gallery/Slide8_hucff3831e7fc362d0de36638c3e4c5f36_89596_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018-04-18_sharpe_bratislava/gallery/Slide8.JPG&#34; data-caption=&#34;Part of an animation, not animated here.&#34;&gt;
+  &lt;img data-src=&#34;/post/2018-04-18_sharpe_bratislava/gallery/Slide8_hucff3831e7fc362d0de36638c3e4c5f36_89596_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -311,8 +364,8 @@ Full text in English:
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/gallery/Slide9.JPG&#34; data-caption=&#34;Short-term growth with foreign revenues&#34;&gt;
-  &lt;img data-src=&#34;https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/gallery/Slide9_hu5c68701034a87e6f9ad825617271edc0_234931_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018-04-18_sharpe_bratislava/gallery/Slide9.JPG&#34; data-caption=&#34;Short-term growth with foreign revenues&#34;&gt;
+  &lt;img data-src=&#34;/post/2018-04-18_sharpe_bratislava/gallery/Slide9_hu5c68701034a87e6f9ad825617271edc0_234931_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -324,8 +377,8 @@ Full text in English:
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/gallery/Slidez10.JPG&#34; data-caption=&#34;Get involved&#34;&gt;
-  &lt;img data-src=&#34;https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/gallery/Slidez10_hu32c80ac327c29a20d60060ed92a80c5b_49531_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2018-04-18_sharpe_bratislava/gallery/Slidez10.JPG&#34; data-caption=&#34;Get involved&#34;&gt;
+  &lt;img data-src=&#34;/post/2018-04-18_sharpe_bratislava/gallery/Slidez10_hu32c80ac327c29a20d60060ed92a80c5b_49531_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
 
@@ -334,16 +387,16 @@ Full text in English:
 &lt;p&gt;or on 
 &lt;a href=&#34;https://www.slideshare.net/antaldaniel/spva-o-hudobnom-priemysle-na-slovensku-sharpe-2018&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slideshare&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The 
-&lt;a href=&#34;https://dataandlyrics.com/publication/slovak_music_industry_2019/&#34;&gt;Slovak Music Industy Report&lt;/a&gt; can be downloaded from 
+&lt;a href=&#34;/publication/slovak_music_industry_2019/&#34;&gt;Slovak Music Industy Report&lt;/a&gt; can be downloaded from 
 &lt;a href=&#34;http://www.soza.sk/aktuality/235/soza-zverej%C5%88uje-historicky-prvu-spravu-o-slovenskom-hudobnom-priemysle&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>CEEMP Session: Licensing, How To Tackle The Value Gap And A Discussion on Licensing Initiatives</title>
-      <link>https://dataandlyrics.com/post/2017-09-29_ceempc/</link>
+      <link>/post/2017-09-29_ceempc/</link>
       <pubDate>Fri, 29 Sep 2017 00:00:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/post/2017-09-29_ceempc/</guid>
+      <guid>/post/2017-09-29_ceempc/</guid>
       <description>&lt;p&gt;CEEMID had the honor to participate in the third panel of CEEMP in Warsaw together with Ben McEwen from ICE; Jules Parker from Spotify and Dominic Houston from Netflix, and Chris Butler from Music Sales, who is also the chairperson of ICMP. Our panel was moderated by Nigel Elderton from peermusic, who is also the new chairperson of PRS in the UK.&lt;/p&gt;
 &lt;p&gt;Jules from Spotify spoke about their new initiative, Spotify for Publishers.  Spotify pays out about 20% of its royalties to publishers.  Because the labels are the bigger stakeholders, they often do not provide the necessary information for work identification in the case of publishers.&lt;/p&gt;
 &lt;p&gt;Dominic from Netflix is already one of the biggest buyers of music, and I believe that his company’s footprint will just continue growing.  His time buys licenses only 10% of their music from publishers. They mainly use original film music, and to a significant degree, catalogs.&lt;/p&gt;
@@ -356,9 +409,9 @@ Comparing household cultural spending with digital music revenues in Europe’s 
     
     <item>
       <title>Changing Musician Career Paths</title>
-      <link>https://dataandlyrics.com/post/2017-02-03-music_career_path/</link>
+      <link>/post/2017-02-03-music_career_path/</link>
       <pubDate>Fri, 03 Feb 2017 19:00:00 +0100</pubDate>
-      <guid>https://dataandlyrics.com/post/2017-02-03-music_career_path/</guid>
+      <guid>/post/2017-02-03-music_career_path/</guid>
       <description>&lt;p&gt;In the 20th century the first career step was to get on stage and create a credible live performance. After several years on the stage musician’s got a recording contract, and usually even later they registered their first composition. The recording stream was the most important revenue source. The making of a record was expensive and offered considerable royalties or advances.&lt;/p&gt;
 &lt;p&gt;In the 21st century the live music stream is far more important than the recordings. Creating recordings is much cheaper and stage performances are expensive. Musicians usually create their music, also register it as a music work and offer it to the public on an online portfolio of mp3 downloads, YouTube and music streams.  Often they are booked for their first live performance after publishing a recording.&lt;/p&gt;
 &lt;p&gt;What does it mean for the musician and the manager?  First and foremost that traditional career development strategies do not work anymore. A convincing stage performance is mandatory with a good touring strategy.  Recordings are often not profitable, but equally important in building the audience. Making the recording stream a revenue stream instead of the cost stream requires a very good understanding of the costs and benefits of the different digital channels. CEEMID also contains market information on these issues.&lt;/p&gt;
@@ -386,9 +439,9 @@ Comparing household cultural spending with digital music revenues in Europe’s 
     
     <item>
       <title>Hungarian Music Industry Report</title>
-      <link>https://dataandlyrics.com/publication/hungary_music_industry_2014/</link>
+      <link>/publication/hungary_music_industry_2014/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/publication/hungary_music_industry_2014/</guid>
+      <guid>/publication/hungary_music_industry_2014/</guid>
       <description>&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/fQuYJEbQXoPgP3&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/antaldaniel/a-proart-zeneipari-jelentse&#34; title=&#34;A ProArt zeneipari jelentése&#34; target=&#34;_blank&#34;&gt;A ProArt zeneipari jelentése&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;https://www.slideshare.net/antaldaniel&#34; target=&#34;_blank&#34;&gt;Dániel Antal&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
 </description>
     </item>

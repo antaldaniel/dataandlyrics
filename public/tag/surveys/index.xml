@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>surveys | Data &amp; Lyrics</title>
-    <link>https://dataandlyrics.com/tag/surveys/</link>
-      <atom:link href="https://dataandlyrics.com/tag/surveys/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/surveys/</link>
+      <atom:link href="/tag/surveys/index.xml" rel="self" type="application/rss+xml" />
     <description>surveys</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 26 Aug 2020 08:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Wed, 26 Aug 2020 08:00:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>surveys</title>
-      <link>https://dataandlyrics.com/tag/surveys/</link>
+      <link>/tag/surveys/</link>
     </image>
     
     <item>
       <title>Music Observatory</title>
-      <link>https://dataandlyrics.com/project/music-observatory/</link>
+      <link>/project/music-observatory/</link>
       <pubDate>Wed, 26 Aug 2020 08:00:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/project/music-observatory/</guid>
+      <guid>/project/music-observatory/</guid>
       <description>&lt;p&gt;We are developing our 
 &lt;a href=&#34;project/music-observatory/&#34;&gt;Demo Music Observatory&lt;/a&gt; in the world&amp;rsquo;s 2nd ranked university-backed incubator program, the 
 &lt;a href=&#34;post/2020-09-25-yesdelft-validation/&#34;&gt;Yes!Delft AI Validation Lab&lt;/a&gt;. Our aim is to show a better organizational model, examples of research automation and other data integration innovation that can reduce the budgetary needs of the European Music Observatory by 80-90% and provide far more timely, accurate, and relevant service than most data observatories in Europe.&lt;/p&gt;
@@ -72,10 +72,10 @@
 &lt;figure id=&#34;figure-illustration-our-map-to-find-to-locate-data-in-the-croatian-music-industry-our-demo-music-observatory-is-based-on-the-accepted-music-industry-concept-in-the-us-and-the-eu-the-three-income-stream-model-and-its-data-maps&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://dataandlyrics.com/img/methodology/three_income_streams_croatia.png&#34; data-caption=&#34;Illustration: our map to find to locate data in the Croatian music industry. Our Demo Music Observatory is based on the accepted music industry concept in the US and the EU (the three-income stream model) and its data maps.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/methodology/three_income_streams_croatia.png&#34; data-caption=&#34;Illustration: our map to find to locate data in the Croatian music industry. Our Demo Music Observatory is based on the accepted music industry concept in the US and the EU (the three-income stream model) and its data maps.&#34;&gt;
 
 
-  &lt;img src=&#34;https://dataandlyrics.com/img/methodology/three_income_streams_croatia.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/methodology/three_income_streams_croatia.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -114,10 +114,10 @@
 &lt;figure id=&#34;figure-illustration-our-map-to-find-to-locate-data-in-the-croatian-music-industry-our-demo-music-observatory-is-based-on-the-accepted-music-industry-concept-in-the-us-and-the-eu-the-three-income-stream-model-and-its-data-maps&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://dataandlyrics.com/img/reports/medianvalue-1.png&#34; data-caption=&#34;Illustration: our map to find to locate data in the Croatian music industry. Our Demo Music Observatory is based on the accepted music industry concept in the US and the EU (the three-income stream model) and its data maps.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/reports/medianvalue-1.png&#34; data-caption=&#34;Illustration: our map to find to locate data in the Croatian music industry. Our Demo Music Observatory is based on the accepted music industry concept in the US and the EU (the three-income stream model) and its data maps.&#34;&gt;
 
 
-  &lt;img src=&#34;https://dataandlyrics.com/img/reports/medianvalue-1.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/reports/medianvalue-1.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -160,10 +160,10 @@
 &lt;figure id=&#34;figure-illusory-data-gap-active-and-music-participation-is-available-on-eu-level-both-for-gender-groups-or-four-ethnic-minorities--this-is-regularly-featured-in-various-european-cap-surveys-and-in-our-national-cap-surveys-too&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://dataandlyrics.com/img/comparative/music_activity_playing_an_instrument_by_gender.png&#34; data-caption=&#34;Illusory data gap: active and music participation is available on EU level both for gender groups or four ethnic minorities – this is regularly featured in various European CAP surveys and in our national CAP surveys, too.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/comparative/music_activity_playing_an_instrument_by_gender.png&#34; data-caption=&#34;Illusory data gap: active and music participation is available on EU level both for gender groups or four ethnic minorities – this is regularly featured in various European CAP surveys and in our national CAP surveys, too.&#34;&gt;
 
 
-  &lt;img src=&#34;https://dataandlyrics.com/img/comparative/music_activity_playing_an_instrument_by_gender.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/comparative/music_activity_playing_an_instrument_by_gender.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -250,9 +250,9 @@
     
     <item>
       <title>Changing Musician Career Paths</title>
-      <link>https://dataandlyrics.com/post/2017-02-03-music_career_path/</link>
+      <link>/post/2017-02-03-music_career_path/</link>
       <pubDate>Fri, 03 Feb 2017 19:00:00 +0100</pubDate>
-      <guid>https://dataandlyrics.com/post/2017-02-03-music_career_path/</guid>
+      <guid>/post/2017-02-03-music_career_path/</guid>
       <description>&lt;p&gt;In the 20th century the first career step was to get on stage and create a credible live performance. After several years on the stage musician’s got a recording contract, and usually even later they registered their first composition. The recording stream was the most important revenue source. The making of a record was expensive and offered considerable royalties or advances.&lt;/p&gt;
 &lt;p&gt;In the 21st century the live music stream is far more important than the recordings. Creating recordings is much cheaper and stage performances are expensive. Musicians usually create their music, also register it as a music work and offer it to the public on an online portfolio of mp3 downloads, YouTube and music streams.  Often they are booked for their first live performance after publishing a recording.&lt;/p&gt;
 &lt;p&gt;What does it mean for the musician and the manager?  First and foremost that traditional career development strategies do not work anymore. A convincing stage performance is mandatory with a good touring strategy.  Recordings are often not profitable, but equally important in building the audience. Making the recording stream a revenue stream instead of the cost stream requires a very good understanding of the costs and benefits of the different digital channels. CEEMID also contains market information on these issues.&lt;/p&gt;

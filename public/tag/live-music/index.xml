@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>live-music | Data &amp; Lyrics</title>
-    <link>https://dataandlyrics.com/tag/live-music/</link>
-      <atom:link href="https://dataandlyrics.com/tag/live-music/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/live-music/</link>
+      <atom:link href="/tag/live-music/index.xml" rel="self" type="application/rss+xml" />
     <description>live-music</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 06 Nov 2020 08:10:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Fri, 06 Nov 2020 08:10:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>live-music</title>
-      <link>https://dataandlyrics.com/tag/live-music/</link>
+      <link>/tag/live-music/</link>
     </image>
     
     <item>
       <title>Inquiry Into The Live Music Industry In Wales</title>
-      <link>https://dataandlyrics.com/post/2020-11-06-welsh-covid-response/</link>
+      <link>/post/2020-11-06-welsh-covid-response/</link>
       <pubDate>Fri, 06 Nov 2020 08:10:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/post/2020-11-06-welsh-covid-response/</guid>
+      <guid>/post/2020-11-06-welsh-covid-response/</guid>
       <description>&lt;p&gt;In July 2020, Professor Paul Carr of 
 &lt;a href=&#34;http://staff.southwales.ac.uk/users/381-pcarr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of South Wales&lt;/a&gt; was commissioned by 
 &lt;a href=&#34;https://senedd.wales/en/Pages/Home.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Senedd Cymru – the Welsh Parliament&lt;/a&gt; to create a report examining the ‘&lt;em&gt;state of play&lt;/em&gt;’ in the post Covid-19 music industries in Wales.&lt;/p&gt;

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CEEMID | Data &amp; Lyrics</title>
-    <link>https://dataandlyrics.com/tag/ceemid/</link>
-      <atom:link href="https://dataandlyrics.com/tag/ceemid/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/ceemid/</link>
+      <atom:link href="/tag/ceemid/index.xml" rel="self" type="application/rss+xml" />
     <description>CEEMID</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 26 Aug 2020 08:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Wed, 26 Aug 2020 08:00:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>CEEMID</title>
-      <link>https://dataandlyrics.com/tag/ceemid/</link>
+      <link>/tag/ceemid/</link>
     </image>
     
     <item>
       <title>Music Observatory</title>
-      <link>https://dataandlyrics.com/project/music-observatory/</link>
+      <link>/project/music-observatory/</link>
       <pubDate>Wed, 26 Aug 2020 08:00:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/project/music-observatory/</guid>
+      <guid>/project/music-observatory/</guid>
       <description>&lt;p&gt;We are developing our 
 &lt;a href=&#34;project/music-observatory/&#34;&gt;Demo Music Observatory&lt;/a&gt; in the world&amp;rsquo;s 2nd ranked university-backed incubator program, the 
 &lt;a href=&#34;post/2020-09-25-yesdelft-validation/&#34;&gt;Yes!Delft AI Validation Lab&lt;/a&gt;. Our aim is to show a better organizational model, examples of research automation and other data integration innovation that can reduce the budgetary needs of the European Music Observatory by 80-90% and provide far more timely, accurate, and relevant service than most data observatories in Europe.&lt;/p&gt;
@@ -72,10 +72,10 @@
 &lt;figure id=&#34;figure-illustration-our-map-to-find-to-locate-data-in-the-croatian-music-industry-our-demo-music-observatory-is-based-on-the-accepted-music-industry-concept-in-the-us-and-the-eu-the-three-income-stream-model-and-its-data-maps&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://dataandlyrics.com/img/methodology/three_income_streams_croatia.png&#34; data-caption=&#34;Illustration: our map to find to locate data in the Croatian music industry. Our Demo Music Observatory is based on the accepted music industry concept in the US and the EU (the three-income stream model) and its data maps.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/methodology/three_income_streams_croatia.png&#34; data-caption=&#34;Illustration: our map to find to locate data in the Croatian music industry. Our Demo Music Observatory is based on the accepted music industry concept in the US and the EU (the three-income stream model) and its data maps.&#34;&gt;
 
 
-  &lt;img src=&#34;https://dataandlyrics.com/img/methodology/three_income_streams_croatia.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/methodology/three_income_streams_croatia.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -114,10 +114,10 @@
 &lt;figure id=&#34;figure-illustration-our-map-to-find-to-locate-data-in-the-croatian-music-industry-our-demo-music-observatory-is-based-on-the-accepted-music-industry-concept-in-the-us-and-the-eu-the-three-income-stream-model-and-its-data-maps&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://dataandlyrics.com/img/reports/medianvalue-1.png&#34; data-caption=&#34;Illustration: our map to find to locate data in the Croatian music industry. Our Demo Music Observatory is based on the accepted music industry concept in the US and the EU (the three-income stream model) and its data maps.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/reports/medianvalue-1.png&#34; data-caption=&#34;Illustration: our map to find to locate data in the Croatian music industry. Our Demo Music Observatory is based on the accepted music industry concept in the US and the EU (the three-income stream model) and its data maps.&#34;&gt;
 
 
-  &lt;img src=&#34;https://dataandlyrics.com/img/reports/medianvalue-1.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/reports/medianvalue-1.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -160,10 +160,10 @@
 &lt;figure id=&#34;figure-illusory-data-gap-active-and-music-participation-is-available-on-eu-level-both-for-gender-groups-or-four-ethnic-minorities--this-is-regularly-featured-in-various-european-cap-surveys-and-in-our-national-cap-surveys-too&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://dataandlyrics.com/img/comparative/music_activity_playing_an_instrument_by_gender.png&#34; data-caption=&#34;Illusory data gap: active and music participation is available on EU level both for gender groups or four ethnic minorities – this is regularly featured in various European CAP surveys and in our national CAP surveys, too.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/comparative/music_activity_playing_an_instrument_by_gender.png&#34; data-caption=&#34;Illusory data gap: active and music participation is available on EU level both for gender groups or four ethnic minorities – this is regularly featured in various European CAP surveys and in our national CAP surveys, too.&#34;&gt;
 
 
-  &lt;img src=&#34;https://dataandlyrics.com/img/comparative/music_activity_playing_an_instrument_by_gender.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/comparative/music_activity_playing_an_instrument_by_gender.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -250,9 +250,9 @@
     
     <item>
       <title>Regionalized Cultural Access and Participation (Books And Libraries) And Science Attitudes Variables</title>
-      <link>https://dataandlyrics.com/post/2020-04-22-regional-eurobarometer/</link>
+      <link>/post/2020-04-22-regional-eurobarometer/</link>
       <pubDate>Wed, 22 Apr 2020 17:00:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/post/2020-04-22-regional-eurobarometer/</guid>
+      <guid>/post/2020-04-22-regional-eurobarometer/</guid>
       <description>&lt;p&gt;My new R package, Eurobarometer, helps the creation of data panels and regionalized statistics from the Pan-European survey’s microdata. This allows the creation of many new statistical indicators for the CEEMID Music Observatory and for many market and policy research tasks.&lt;/p&gt;
 &lt;p&gt;This example dataset (Antal 2020) was created from the microdata of the
 Eurobarometer 79.2 survey using the development version of the
@@ -264,27 +264,27 @@ The dataset can be downloaded from
 &lt;h2 id=&#34;cultural-access--participation-variables&#34;&gt;Cultural Access &amp;amp; Participation Variables&lt;/h2&gt;
 &lt;p&gt;The read a book variable is a weighted sum of the responses that chose
 from &lt;code&gt;QB1 How many times in the last twelve months have you read a book?&lt;/code&gt; any answer apart from “not in the last 12 months.”&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dataandlyrics.com/img/Eurobarometer_79_2_files/book-1.png&#34; alt=&#34;Individuals Who Read A Book&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/Eurobarometer_79_2_files/book-1.png&#34; alt=&#34;Individuals Who Read A Book&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;library-access&#34;&gt;Library Access&lt;/h3&gt;
 &lt;p&gt;The library access variable is a weighted sum of the responses that
 chose from &lt;code&gt;QB1 How many times in the last twelve months have you visited a public library?&lt;/code&gt; any answer apart from “not in the last 12 months.”&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dataandlyrics.com/img/Eurobarometer_79_2_files/library-1.png&#34; alt=&#34;Individuals Who Visited A Library&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/Eurobarometer_79_2_files/library-1.png&#34; alt=&#34;Individuals Who Visited A Library&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;limited-library-access&#34;&gt;Limited Library Access&lt;/h3&gt;
 &lt;p&gt;The limited library access is a weighted sum of the responses that chose from the question block
 &lt;code&gt;QB2 And for each of the following activities, please tell me why you haven’t done it or haven’t done it more often in the last 12 months? ... Visited a public library&lt;/code&gt; the answer option &lt;code&gt;Limited or poor quality of this activity in the place where you live.&lt;/code&gt; In this case, the number of respondents is rather low and this is not a very reliable statistic on regional level.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dataandlyrics.com/img/Eurobarometer_79_2_files/limitedlibrary-1.png&#34; alt=&#34;Individuals Who Have Poor Local  Library&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/Eurobarometer_79_2_files/limitedlibrary-1.png&#34; alt=&#34;Individuals Who Have Poor Local  Library&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;science--technology-attitudes&#34;&gt;Science &amp;amp; Technology Attitudes&lt;/h2&gt;
 &lt;p&gt;The supports open access variable is a weighted sum of yes answer
 options to the &lt;code&gt;QD 17 Do you think that the results of publicly funded research should be made available online free of charge?&lt;/code&gt;
 question.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dataandlyrics.com/img/Eurobarometer_79_2_files/openaccess-1.png&#34; alt=&#34;Individuals Who Have Poor Local  Library&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/Eurobarometer_79_2_files/openaccess-1.png&#34; alt=&#34;Individuals Who Have Poor Local  Library&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;demography&#34;&gt;Demography&lt;/h2&gt;
 &lt;p&gt;The internet access question is a weighted sum of responses to the
 answer option for &lt;code&gt;D46 Which of the following do you have? - An Internet connection at home&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dataandlyrics.com/img/Eurobarometer_79_2_files/internetaccess-1.png&#34; alt=&#34;Individuals Who Have Internet Access At Home&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/Eurobarometer_79_2_files/internetaccess-1.png&#34; alt=&#34;Individuals Who Have Internet Access At Home&#34;&gt;&lt;/p&gt;
 &lt;p&gt;The internet access question is a weighted sum of responses to the
 answer option for &lt;code&gt;D15 What is your current occupation? - student&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dataandlyrics.com/img/Eurobarometer_79_2_files/students-1.png&#34; alt=&#34;Regional Student Population&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/Eurobarometer_79_2_files/students-1.png&#34; alt=&#34;Regional Student Population&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;data-source--data-processing&#34;&gt;Data Source &amp;amp; Data Processing&lt;/h2&gt;
 &lt;p&gt;The source of the data is the microdata file stored in GESIS for the
 
@@ -331,18 +331,18 @@ Final Report.&lt;/em&gt;, 397–417. Luxembourg.
     
     <item>
       <title>First CEEMID Regional Open Data Release</title>
-      <link>https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/</link>
+      <link>/post/2020-04-16-regional-opendata-release/</link>
       <pubDate>Thu, 16 Apr 2020 17:00:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/</guid>
+      <guid>/post/2020-04-16-regional-opendata-release/</guid>
       <description>&lt;p&gt;&lt;em&gt;Internet use: participating in social networks (creating user profile, posting messages or other contributions to facebook, twitter, etc.) [percentage of individuals]&lt;/em&gt; shows the development of social media use in the past 10 years in very high detail.  Social media is one of the most important ways to communicate with fans and find audiences for gigs, performances and to share new releases.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dataandlyrics.com/img/dataanimation/internet_use_social_networks.gif&#34; alt=&#34;Social media use 2011-2019&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/dataanimation/internet_use_social_networks.gif&#34; alt=&#34;Social media use 2011-2019&#34;&gt;&lt;/p&gt;
 &lt;p&gt;The chosen dataset is highlighting several new priorities of CEEMID.  This indicator, which is based on a 
 &lt;a href=&#34;https://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=isoc_r_iuse_i&amp;amp;lang=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eurostat statistical product&lt;/a&gt;, has a much higher data quality than the Eurostat release, it is easier to use, and goes beyond the detail of national statistics.  It contains data on 411 territories in Europe, including countries, provinces and smaller regions, even some metropolitan areas.&lt;/p&gt;
 &lt;p&gt;The dataset is available on the European open research data repository, 
 &lt;a href=&#34;https://zenodo.org/record/3754574#.XpimX8gzbIU&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zenodo&lt;/a&gt;. It will be updated annually. 
 &lt;a href=&#34;https://doi.org/10.5281/zenodo.3754574&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://zenodo.org/badge/DOI/10.5281/zenodo.3754574.svg&#34; alt=&#34;DOI&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The processing information is available in the dataset.  First, we have used our open source software to correct the regional boundary changes during the decade (see 
-&lt;a href=&#34;https://dataandlyrics.com/post/2020-02-13-regional_eurostat/&#34;&gt;Programatic Approach To Work With European Regional Data Panels&lt;/a&gt;).&lt;/p&gt;
+&lt;a href=&#34;/post/2020-02-13-regional_eurostat/&#34;&gt;Programatic Approach To Work With European Regional Data Panels&lt;/a&gt;).&lt;/p&gt;
 &lt;p&gt;When data was missing in the end of the dataset, we used the last observation carry forward, when in the beginning, the next observation carry backwards data.  Gaps in the data were interpolated using linear interpolation. Whenever data was available on a larger (provincial level), we imputed it to the smaller regional units.&lt;/p&gt;
 &lt;p&gt;The data contains standard national / regional references according the European NUTS2013 standard for backwards compatibility. Further documentation will be available on our methodology on the 
 &lt;a href=&#34;https://documentation.ceemid.eu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;documentation.ceemid.eu&lt;/a&gt; wiki website.&lt;/p&gt;
@@ -379,8 +379,8 @@ Final Report.&lt;/em&gt;, 397–417. Luxembourg.
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/gallery/ceemid_regional_social_media_use_2011.jpg&#34; data-caption=&#34;Internet use: participating in social networks (2011)&#34;&gt;
-  &lt;img data-src=&#34;https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/gallery/ceemid_regional_social_media_use_2011_hua485aaf22d1f04af04808580e8565870_238711_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;263&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2020-04-16-regional-opendata-release/gallery/ceemid_regional_social_media_use_2011.jpg&#34; data-caption=&#34;Internet use: participating in social networks (2011)&#34;&gt;
+  &lt;img data-src=&#34;/post/2020-04-16-regional-opendata-release/gallery/ceemid_regional_social_media_use_2011_hua485aaf22d1f04af04808580e8565870_238711_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;263&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -392,8 +392,8 @@ Final Report.&lt;/em&gt;, 397–417. Luxembourg.
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/gallery/ceemid_regional_social_media_use_2015.jpg&#34; data-caption=&#34;Internet use: participating in social networks (2015)&#34;&gt;
-  &lt;img data-src=&#34;https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/gallery/ceemid_regional_social_media_use_2015_hua485aaf22d1f04af04808580e8565870_246037_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;263&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2020-04-16-regional-opendata-release/gallery/ceemid_regional_social_media_use_2015.jpg&#34; data-caption=&#34;Internet use: participating in social networks (2015)&#34;&gt;
+  &lt;img data-src=&#34;/post/2020-04-16-regional-opendata-release/gallery/ceemid_regional_social_media_use_2015_hua485aaf22d1f04af04808580e8565870_246037_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;263&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -405,8 +405,8 @@ Final Report.&lt;/em&gt;, 397–417. Luxembourg.
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/gallery/ceemid_regional_social_media_use_2019.jpg&#34; data-caption=&#34;Internet use: participating in social networks (2019)&#34;&gt;
-  &lt;img data-src=&#34;https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/gallery/ceemid_regional_social_media_use_2019_hua485aaf22d1f04af04808580e8565870_250355_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;263&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2020-04-16-regional-opendata-release/gallery/ceemid_regional_social_media_use_2019.jpg&#34; data-caption=&#34;Internet use: participating in social networks (2019)&#34;&gt;
+  &lt;img data-src=&#34;/post/2020-04-16-regional-opendata-release/gallery/ceemid_regional_social_media_use_2019_hua485aaf22d1f04af04808580e8565870_250355_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;263&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -418,8 +418,8 @@ Final Report.&lt;/em&gt;, 397–417. Luxembourg.
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/gallery/metadata_ceemid_regional_social_media_use_2011.jpg&#34; data-caption=&#34;CEEMID metadata summary (2011)&#34;&gt;
-  &lt;img data-src=&#34;https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/gallery/metadata_ceemid_regional_social_media_use_2011_hua485aaf22d1f04af04808580e8565870_247818_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;263&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2020-04-16-regional-opendata-release/gallery/metadata_ceemid_regional_social_media_use_2011.jpg&#34; data-caption=&#34;CEEMID metadata summary (2011)&#34;&gt;
+  &lt;img data-src=&#34;/post/2020-04-16-regional-opendata-release/gallery/metadata_ceemid_regional_social_media_use_2011_hua485aaf22d1f04af04808580e8565870_247818_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;263&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -431,8 +431,8 @@ Final Report.&lt;/em&gt;, 397–417. Luxembourg.
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/gallery/metadata_ceemid_regional_social_media_use_2015.jpg&#34; data-caption=&#34;CEEMID metadata summary (2015)&#34;&gt;
-  &lt;img data-src=&#34;https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/gallery/metadata_ceemid_regional_social_media_use_2015_hua485aaf22d1f04af04808580e8565870_247520_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;263&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2020-04-16-regional-opendata-release/gallery/metadata_ceemid_regional_social_media_use_2015.jpg&#34; data-caption=&#34;CEEMID metadata summary (2015)&#34;&gt;
+  &lt;img data-src=&#34;/post/2020-04-16-regional-opendata-release/gallery/metadata_ceemid_regional_social_media_use_2015_hua485aaf22d1f04af04808580e8565870_247520_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;263&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -444,8 +444,8 @@ Final Report.&lt;/em&gt;, 397–417. Luxembourg.
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/gallery/metadata_ceemid_regional_social_media_use_2019.jpg&#34; data-caption=&#34;CEEMID metadata summary (2019)&#34;&gt;
-  &lt;img data-src=&#34;https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/gallery/metadata_ceemid_regional_social_media_use_2019_hua485aaf22d1f04af04808580e8565870_243997_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;263&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2020-04-16-regional-opendata-release/gallery/metadata_ceemid_regional_social_media_use_2019.jpg&#34; data-caption=&#34;CEEMID metadata summary (2019)&#34;&gt;
+  &lt;img data-src=&#34;/post/2020-04-16-regional-opendata-release/gallery/metadata_ceemid_regional_social_media_use_2019_hua485aaf22d1f04af04808580e8565870_243997_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;263&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
 
@@ -456,9 +456,9 @@ Final Report.&lt;/em&gt;, 397–417. Luxembourg.
     
     <item>
       <title>CCS Ecosystems: Evidence-Driven CCI Policy &amp; The Central &amp; Eastern European Music Industry Report</title>
-      <link>https://dataandlyrics.com/post/2020-01-30-ceereport/</link>
+      <link>/post/2020-01-30-ceereport/</link>
       <pubDate>Wed, 29 Jan 2020 16:00:00 +0100</pubDate>
-      <guid>https://dataandlyrics.com/post/2020-01-30-ceereport/</guid>
+      <guid>/post/2020-01-30-ceereport/</guid>
       <description>&lt;p&gt;CEEMID &amp;amp; Consolidated Independent presented and discussed with stakeholders the  
 &lt;a href=&#34;https://danielantal.eu/publication/ceereport_2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Central &amp;amp; Eastern European Music Industry Report 2020&lt;/a&gt; as a case-study on national and comparative evidence-based policymaking in the cultural and creative sector on the 
 &lt;a href=&#34;http://creativeflip.creativehubs.net/2019/12/03/flipping-the-odds/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CCS Ecosystems: FLIPPING THE ODDS Conference&lt;/a&gt; – a two-day high-level stakeholder event jointly organized by Geothe-Institute and the DG Education and Culture of the European Commission with the Creative FLIP project.&lt;/p&gt;
@@ -469,7 +469,7 @@ Final Report.&lt;/em&gt;, 397–417. Luxembourg.
 &lt;a href=&#34;https://danielantal.eu/publication/slovak_music_industry_2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slovak&lt;/a&gt;, 
 &lt;a href=&#34;https://danielantal.eu/publication/private_copying_croatia_2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Croatian&lt;/a&gt; and 
 &lt;a href=&#34;http://czdev.ceemid.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Czech&lt;/a&gt; music industry reports are compared with Armenian, Austrian, Bulgarian, Lithuanian, Serbian and Slovenian data and findings.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dataandlyrics.com/img/publications/cee_report_2020_frontcover.jpg&#34; alt=&#34;Central &amp; Eastern European Music Industry Report 2020&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/publications/cee_report_2020_frontcover.jpg&#34; alt=&#34;Central &amp; Eastern European Music Industry Report 2020&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;invisibility&#34;&gt;Invisibility&lt;/h2&gt;
 &lt;p&gt;The measurement problems and the ‘invisibility’ of creative and cultural industries is a consequence of the fact that these industries are predominantly comprised of microenterprises and individual, freelancing entrepreneurs.  Even larger entities, such as collective management organizations can be classified as small enterprises.
 In the EU, small- and medium enterprises, and especially microenterprises usually have reduced reporting duties to the statistical authorities and tax authorities (which is the most important secondary source of government statistics in anonymized, aggregated form.)  This means that the supply side is not visible for policymakers. The recommendation is to conduct sample-based surveys among these microenterprises, but very few member states do that.&lt;/p&gt;
@@ -525,9 +525,9 @@ Perspectives on Academic Research with the European Commission’s Eurobarometer
     
     <item>
       <title>Czech Music Development Program &amp; Comparative Market Research</title>
-      <link>https://dataandlyrics.com/post/2019-11-09-nouvelle-prague/</link>
+      <link>/post/2019-11-09-nouvelle-prague/</link>
       <pubDate>Sat, 09 Nov 2019 11:00:00 +0100</pubDate>
-      <guid>https://dataandlyrics.com/post/2019-11-09-nouvelle-prague/</guid>
+      <guid>/post/2019-11-09-nouvelle-prague/</guid>
       <description>&lt;p&gt;I was presenting some highlights from the work we started with in the organization of SoundCzech with 25 music professionals representing more than 20 stakeholders in the 
 &lt;a href=&#34;https://danielantal.eu/talk/2019_10_09_praha/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How We Would Like To Work in the Czech Music Industry in 2020&lt;/a&gt; &lt;em&gt;ex ante&lt;/em&gt; evaluation workshop in the context of the comparative 
 &lt;a href=&#34;https://danielantal.eu/post/2019-09-27_cee_report/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Central European Music Industry Report&lt;/a&gt;.&lt;/p&gt;
@@ -540,9 +540,9 @@ Perspectives on Academic Research with the European Commission’s Eurobarometer
     
     <item>
       <title>Private Copying in Croatia</title>
-      <link>https://dataandlyrics.com/post/2019-10-31-croatia_pcr/</link>
+      <link>/post/2019-10-31-croatia_pcr/</link>
       <pubDate>Thu, 31 Oct 2019 12:00:00 +0100</pubDate>
-      <guid>https://dataandlyrics.com/post/2019-10-31-croatia_pcr/</guid>
+      <guid>/post/2019-10-31-croatia_pcr/</guid>
       <description>&lt;p&gt;After much delay, the first measurement of licensed use of music, audiovisual content, home copying and value transfer to media platforms in Croatia for a practical update of the private copying remuneration in the country.&lt;/p&gt;
 &lt;p&gt;You can find the whole study in English, a Croatian language summary and a press release in the 
 &lt;a href=&#34;https://danielantal.eu/publication/private_copying_croatia_2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Publications&lt;/a&gt; section.&lt;/p&gt;
@@ -558,22 +558,22 @@ Perspectives on Academic Research with the European Commission’s Eurobarometer
     
     <item>
       <title>Central European Music Industry Report Presentation</title>
-      <link>https://dataandlyrics.com/post/2019-09-27_cee_report/</link>
+      <link>/post/2019-09-27_cee_report/</link>
       <pubDate>Mon, 30 Sep 2019 08:05:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/post/2019-09-27_cee_report/</guid>
+      <guid>/post/2019-09-27_cee_report/</guid>
       <description>&lt;p&gt;We had the first public and panel discussion of the forthcoming Central European Music Industry Report.  After mapping and analysing in depth the music industries of several CEE countries, I put together with the help of Consolidated Independent and state51 a regional report in previously unseen detail.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;You can review the whole 
-&lt;a href=&#34;https://dataandlyrics.com/presentation/CEE_Music_Report.html&#34;&gt;presentation here&lt;/a&gt; (10Mb self-contained HTML file, takes some time to load).&lt;/em&gt;&lt;/p&gt;
+&lt;a href=&#34;/presentation/CEE_Music_Report.html&#34;&gt;presentation here&lt;/a&gt; (10Mb self-contained HTML file, takes some time to load).&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;After 
 &lt;a href=&#34;post/2016-04-20_makk15&#34;&gt;mapping&lt;/a&gt; and analysing (see most recently 
 &lt;a href=&#34;https://danielantal.eu/publication/slovak_music_industry_2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slovakia&lt;/a&gt;) in depth the music industries of several CEE countries, with the help of Consolidated Independent I put together a regional report in previously unseen detail.&lt;/p&gt;
 &lt;p&gt;The live music part explains the different demography and other demand drivers of the CEE region for concerts, resulting in high seasonality, low venue profitability, an unusually high vulnerability of small venues – and as a result an unusually strong music festival scene.&lt;/p&gt;
 &lt;p&gt;For recordings, the report shows the royalty gap in comparison to Western Europe and the difficulties of labels and publishers to create value added to musicians.  In the absence of a fully functional recording market, musicians are more reliant on collective management revenues than in the rest of Europe – yet in many countries collective management has profound difficulty in asking the correct price for music or collecting it.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dataandlyrics.com/img/ceemid/expenditure_private_cultural_cinema_theatre_concert_filled_plot.jpg&#34; alt=&#34;Consumer demand for music events&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/ceemid/expenditure_private_cultural_cinema_theatre_concert_filled_plot.jpg&#34; alt=&#34;Consumer demand for music events&#34;&gt;&lt;/p&gt;
 &lt;p&gt;When analysing the music flows among European countries, and the 
 &lt;a href=&#34;https://danielantal.eu/post/cross_border_2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;export-import flows&lt;/a&gt; of other emerging markets in Latin America and the worlds most stable ones, like that of the United States, Brazil and Japan, we must realize that these nations face an uphill battle to get into the better paying markets and at the same time to protect their domestic market from increasing import substitution.&lt;/p&gt;
 &lt;p&gt;Music grants could be an important tool to balance the disadvantaged position of CEE musicians in this global competition.  Austria and Hungary has a strong popular music support program, but usually the availability and suitability of grants is lower in those countries where musicians and their technical and managerial team would need it most.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dataandlyrics.com/img/dataanimation/is_grant_animation_1000_no_loop.gif&#34; alt=&#34;Accessibility and suitability of music grants&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/dataanimation/is_grant_animation_1000_no_loop.gif&#34; alt=&#34;Accessibility and suitability of music grants&#34;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;I am very grateful for the support given by 
 &lt;a href=&#34;https://ci-info.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Consolidated Independent&lt;/a&gt; in the making of this report. CI is the market leader in managed services for the digital music industry, connecting the best independent music with the opportunities of the global market. With their data science team, we put together data from about 700,000,000 royalty statement documents about the whole region. I believe that this is the first time that a global player releases large amounts of data to help understanding the changing music landscape in the era of digital streaming. Equally thankful for Franz Hergovich (Music Austria) for inviting us to discuss these findings on 
@@ -587,9 +587,9 @@ Perspectives on Academic Research with the European Commission’s Eurobarometer
     
     <item>
       <title>Eurpoean Comparison: How Many People Ever Pay For Music, Film or Software</title>
-      <link>https://dataandlyrics.com/post/2018-06-08_how_many_ever_pay/</link>
+      <link>/post/2018-06-08_how_many_ever_pay/</link>
       <pubDate>Fri, 08 Jun 2018 00:00:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/post/2018-06-08_how_many_ever_pay/</guid>
+      <guid>/post/2018-06-08_how_many_ever_pay/</guid>
       <description>&lt;p&gt;In our recent private copying reports we compiled European survey data relevant to analysis.  In Europe, there is a big difference between the use of electronic entertainment devices in richer and poorer countries. Nevertheless, the real difference is between the number of people who sometimes and who never pay for downloaded music, films and software.&lt;/p&gt;
 &lt;p&gt;In some countries of Europe, less then 10 percent of the population ever pays for the content that is loaded to their computers, smartphones and tablets.  These survey data, accompanied by other objective data, can help explaining 96% of the variance among digital music sales levels within the EU countries, and it is highly relevant in calculating the economic benefit of home copying for users, and the harm for rightsholders.&lt;/p&gt;
 </description>
@@ -597,9 +597,9 @@ Perspectives on Academic Research with the European Commission’s Eurobarometer
     
     <item>
       <title>CEEMP Session: Licensing, How To Tackle The Value Gap And A Discussion on Licensing Initiatives</title>
-      <link>https://dataandlyrics.com/post/2017-09-29_ceempc/</link>
+      <link>/post/2017-09-29_ceempc/</link>
       <pubDate>Fri, 29 Sep 2017 00:00:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/post/2017-09-29_ceempc/</guid>
+      <guid>/post/2017-09-29_ceempc/</guid>
       <description>&lt;p&gt;CEEMID had the honor to participate in the third panel of CEEMP in Warsaw together with Ben McEwen from ICE; Jules Parker from Spotify and Dominic Houston from Netflix, and Chris Butler from Music Sales, who is also the chairperson of ICMP. Our panel was moderated by Nigel Elderton from peermusic, who is also the new chairperson of PRS in the UK.&lt;/p&gt;
 &lt;p&gt;Jules from Spotify spoke about their new initiative, Spotify for Publishers.  Spotify pays out about 20% of its royalties to publishers.  Because the labels are the bigger stakeholders, they often do not provide the necessary information for work identification in the case of publishers.&lt;/p&gt;
 &lt;p&gt;Dominic from Netflix is already one of the biggest buyers of music, and I believe that his company’s footprint will just continue growing.  His time buys licenses only 10% of their music from publishers. They mainly use original film music, and to a significant degree, catalogs.&lt;/p&gt;
@@ -612,9 +612,9 @@ Comparing household cultural spending with digital music revenues in Europe’s 
     
     <item>
       <title>Changing Musician Career Paths</title>
-      <link>https://dataandlyrics.com/post/2017-02-03-music_career_path/</link>
+      <link>/post/2017-02-03-music_career_path/</link>
       <pubDate>Fri, 03 Feb 2017 19:00:00 +0100</pubDate>
-      <guid>https://dataandlyrics.com/post/2017-02-03-music_career_path/</guid>
+      <guid>/post/2017-02-03-music_career_path/</guid>
       <description>&lt;p&gt;In the 20th century the first career step was to get on stage and create a credible live performance. After several years on the stage musician’s got a recording contract, and usually even later they registered their first composition. The recording stream was the most important revenue source. The making of a record was expensive and offered considerable royalties or advances.&lt;/p&gt;
 &lt;p&gt;In the 21st century the live music stream is far more important than the recordings. Creating recordings is much cheaper and stage performances are expensive. Musicians usually create their music, also register it as a music work and offer it to the public on an online portfolio of mp3 downloads, YouTube and music streams.  Often they are booked for their first live performance after publishing a recording.&lt;/p&gt;
 &lt;p&gt;What does it mean for the musician and the manager?  First and foremost that traditional career development strategies do not work anymore. A convincing stage performance is mandatory with a good touring strategy.  Recordings are often not profitable, but equally important in building the audience. Making the recording stream a revenue stream instead of the cost stream requires a very good understanding of the costs and benefits of the different digital channels. CEEMID also contains market information on these issues.&lt;/p&gt;
@@ -642,9 +642,9 @@ Comparing household cultural spending with digital music revenues in Europe’s 
     
     <item>
       <title>Mapping the Croatian Music Industry</title>
-      <link>https://dataandlyrics.com/post/2016-04-20_makk15/</link>
+      <link>/post/2016-04-20_makk15/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/post/2016-04-20_makk15/</guid>
+      <guid>/post/2016-04-20_makk15/</guid>
       <description>&lt;p&gt;Daniel Antal presented the preliminary findings of the Croatian music industry research in the 
 &lt;a href=&#34;http://www.makk.hr/web/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;International Authors’ and Creators’ Conference (Međunarodna autorska kreativna konferencija, #MAKK2015)&lt;/a&gt; in Zagreb on 24 November 2015. The presentation was largely based on analysis of various CEEMID databases.&lt;/p&gt;
 &lt;p&gt;The Central European music industry, as shown by processing the data of more than 2000 musicians in the region is even more reliant on live performances than the British music industry.  Even though Croatia appears to be more similar to the UK than the region, a deeper analysis of the data reveals that this is not the case. The most important difference between mature markets and emerging markets is the lack of good distribution and monetization strategy for recorded music.&lt;/p&gt;
@@ -656,9 +656,9 @@ Comparing household cultural spending with digital music revenues in Europe’s 
     
     <item>
       <title>First National Hungarian Music Industry Report</title>
-      <link>https://dataandlyrics.com/post/2015-04-27-proart_report_15/</link>
+      <link>/post/2015-04-27-proart_report_15/</link>
       <pubDate>Mon, 27 Apr 2015 00:00:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/post/2015-04-27-proart_report_15/</guid>
+      <guid>/post/2015-04-27-proart_report_15/</guid>
       <description>&lt;p&gt;The report was compiled with joining data and knowledge from collective management agencies for composer, producer and performer royalties, and market leading companies Sziget (organizer of Sziget festival and many more festivals), WMMD music distribution company, market-leading Schubert Music Publishing and A38, Hungary’s leading music club, together with producer and audience survey data, tax authority data and other government sources.&lt;/p&gt;
 &lt;p&gt;The report was presented in the Music Hungary Conference in 2015 and became the prototype of further Hungarian and regional reports.  It was commissioned by 
 &lt;a href=&#34;http://www.proart.hu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ProArt&lt;/a&gt;.&lt;/p&gt;

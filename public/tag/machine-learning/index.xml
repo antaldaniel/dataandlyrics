@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>machine-learning | Data &amp; Lyrics</title>
-    <link>https://dataandlyrics.com/tag/machine-learning/</link>
-      <atom:link href="https://dataandlyrics.com/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/machine-learning/</link>
+      <atom:link href="/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>machine-learning</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 27 Oct 2020 10:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Tue, 27 Oct 2020 10:00:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>machine-learning</title>
-      <link>https://dataandlyrics.com/tag/machine-learning/</link>
+      <link>/tag/machine-learning/</link>
     </image>
     
     <item>
       <title>Why Did We Start The Demo Music Observatory?</title>
-      <link>https://dataandlyrics.com/post/2020-10-27-why-start-music-observatory/</link>
+      <link>/post/2020-10-27-why-start-music-observatory/</link>
       <pubDate>Tue, 27 Oct 2020 10:00:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/post/2020-10-27-why-start-music-observatory/</guid>
+      <guid>/post/2020-10-27-why-start-music-observatory/</guid>
       <description>&lt;p&gt;I was contacted during the consultation period of the Feasibility Study of the European Music Observatory. That led to an uneasy series of conversations with the consultants of this project, and a very enlightening series of conversations with European civil servants, music industry organizations, music managers and artists.  My main pitch was that every single assumption of this project is wrong.&lt;/p&gt;
 &lt;p&gt;They started from the assumption that there is hardly any data available on the European music scene &amp;ndash; whereas we found while building up CEEMID, errr, a pan-European music data observatory, is that music is one of the most data-driven industries in the world, it is choking in numbers, and the reason why this data is not visible is very different. They were talking about lack of data in fields where we already had about 2000 pan-European indicators ready. (See 
 &lt;a href=&#34;https://danielantal.eu/presentation/ceemid-observatory.html#/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introducing the CEEMID Observatory, 9/28/2019&lt;/a&gt; &lt;em&gt;large self-contained html file, takes time to load into browser&lt;/em&gt;)&lt;/p&gt;
@@ -73,9 +73,9 @@
     
     <item>
       <title>Forgetify: Popular Music That Nobody Listens To</title>
-      <link>https://dataandlyrics.com/post/2020-10-24-forgetify_pop_october/</link>
+      <link>/post/2020-10-24-forgetify_pop_october/</link>
       <pubDate>Sat, 24 Oct 2020 18:00:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/post/2020-10-24-forgetify_pop_october/</guid>
+      <guid>/post/2020-10-24-forgetify_pop_october/</guid>
       <description>&lt;p&gt;When you work on recommendation engines, particularly recommendation engines that are different from the ones developed by large media or streaming platforms, you do not want to consider goals and directions that you follow, but also the road where you do not want to end up at all. For me, Forgetify has always been a puzzling and wonderful application, because it shows purely where your artists do not want to end up.&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://forgotify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Forgetify&lt;/a&gt; is a wonderful application that is “recommending” you songs that have never been played on Spotify.  Music from artists that has not been played by their fans, their friends or foes, brothers and sisters, children and grandchildren! I use recommendations in quotation marks, because their recommendations are usually based on your taste. Forgetify just picks you a song that has not been played on Spotify ever. (Never been played means that somebody may have started it, but very soon stopped playing the song.)&lt;/p&gt;
@@ -134,9 +134,9 @@ Nettwerk Music Group in Vancouver, Canada.&lt;/p&gt;
     
     <item>
       <title>Listen Local: Open Collaboration Experiment &amp; Feasibility Study</title>
-      <link>https://dataandlyrics.com/post/2020-10-19-listen-local/</link>
+      <link>/post/2020-10-19-listen-local/</link>
       <pubDate>Sun, 18 Oct 2020 18:00:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/post/2020-10-19-listen-local/</guid>
+      <guid>/post/2020-10-19-listen-local/</guid>
       <description>&lt;p&gt;&lt;em&gt;“Big data creates injustice.”&lt;/em&gt; &amp;ndash; Cathy O&amp;rsquo;Neil, author of 
 &lt;a href=&#34;https://blogs.scientificamerican.com/roots-of-unity/review-weapons-of-math-destruction/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Weapons of Math Destruction&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;If you can train machine learning algorithms on millions of music fans, then you can very precisely find listeners in Bratislava, entire Slovakia, in the Slovak diaspora in the United States.  In Utrecht, in Flanders, in Japan. If you cannot, then your sales will be driven by Spotify, Apple, Amazon or Google’s YouTube. And you fill compete with millions, tens of million of songs in your own city.&lt;/p&gt;
@@ -181,9 +181,9 @@ Nettwerk Music Group in Vancouver, Canada.&lt;/p&gt;
     
     <item>
       <title>October Playlist: Wounded Egos</title>
-      <link>https://dataandlyrics.com/post/2020-10-18-october_playlist/</link>
+      <link>/post/2020-10-18-october_playlist/</link>
       <pubDate>Sat, 17 Oct 2020 18:00:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/post/2020-10-18-october_playlist/</guid>
+      <guid>/post/2020-10-18-october_playlist/</guid>
       <description>&lt;p&gt;Every month I create a playlist for my friends and myself – a habit that I have started with mixtapes. This month reflects our team’s journey into one of the world’s most prestigious 
 &lt;a href=&#34;https://dataandlyrics.com/post/2020-09-25-yesdelft-validation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;startup validation
 lab&lt;/a&gt; in the AI field, in a year when the recession is deeper than ever since the World War 2, the music business is devastated by the pandemic, and our team is forced to lockdown, follow this excellent validation lab on Zoom screens, meet our first clients online, and learn to work together in a socially distanced way. The songs I chose are subjectively important to me, a bit maybe even controversial ones, and probably very different from the music that you are listening to.&lt;/p&gt;

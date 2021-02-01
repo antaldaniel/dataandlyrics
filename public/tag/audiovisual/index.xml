@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>audiovisual | Data &amp; Lyrics</title>
-    <link>https://dataandlyrics.com/tag/audiovisual/</link>
-      <atom:link href="https://dataandlyrics.com/tag/audiovisual/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/audiovisual/</link>
+      <atom:link href="/tag/audiovisual/index.xml" rel="self" type="application/rss+xml" />
     <description>audiovisual</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 08 Jun 2018 00:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Fri, 08 Jun 2018 00:00:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>audiovisual</title>
-      <link>https://dataandlyrics.com/tag/audiovisual/</link>
+      <link>/tag/audiovisual/</link>
     </image>
     
     <item>
       <title>Eurpoean Comparison: How Many People Ever Pay For Music, Film or Software</title>
-      <link>https://dataandlyrics.com/post/2018-06-08_how_many_ever_pay/</link>
+      <link>/post/2018-06-08_how_many_ever_pay/</link>
       <pubDate>Fri, 08 Jun 2018 00:00:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/post/2018-06-08_how_many_ever_pay/</guid>
+      <guid>/post/2018-06-08_how_many_ever_pay/</guid>
       <description>&lt;p&gt;In our recent private copying reports we compiled European survey data relevant to analysis.  In Europe, there is a big difference between the use of electronic entertainment devices in richer and poorer countries. Nevertheless, the real difference is between the number of people who sometimes and who never pay for downloaded music, films and software.&lt;/p&gt;
 &lt;p&gt;In some countries of Europe, less then 10 percent of the population ever pays for the content that is loaded to their computers, smartphones and tablets.  These survey data, accompanied by other objective data, can help explaining 96% of the variance among digital music sales levels within the EU countries, and it is highly relevant in calculating the economic benefit of home copying for users, and the harm for rightsholders.&lt;/p&gt;
 </description>

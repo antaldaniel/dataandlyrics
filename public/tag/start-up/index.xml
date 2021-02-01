@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>start-up | Data &amp; Lyrics</title>
-    <link>https://dataandlyrics.com/tag/start-up/</link>
-      <atom:link href="https://dataandlyrics.com/tag/start-up/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/start-up/</link>
+      <atom:link href="/tag/start-up/index.xml" rel="self" type="application/rss+xml" />
     <description>start-up</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 25 Sep 2020 15:31:39 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Fri, 25 Sep 2020 15:31:39 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>start-up</title>
-      <link>https://dataandlyrics.com/tag/start-up/</link>
+      <link>/tag/start-up/</link>
     </image>
     
     <item>
       <title>Product/Market Fit Validation in Yes!Delft</title>
-      <link>https://dataandlyrics.com/post/2020-09-25-yesdelft-validation/</link>
+      <link>/post/2020-09-25-yesdelft-validation/</link>
       <pubDate>Fri, 25 Sep 2020 15:31:39 +0200</pubDate>
-      <guid>https://dataandlyrics.com/post/2020-09-25-yesdelft-validation/</guid>
+      <guid>/post/2020-09-25-yesdelft-validation/</guid>
       <description>&lt;p&gt;We would like to validate our product market/fit in two segments, business/policy research and scientific research, with a supporting role given to data journalism. Because we want to follow a bootstrapping strategy, we must focus on those clients where we find the highest value proposition, which is of course easier said than done.  We see much interest in our offering from other continents, therefore we truly welcome the opportunity that we can do this on a truly global business canvas in one of the worlds’ 
 &lt;a href=&#34;https://www.yesdelft.com/news/yesdelft-among-the-top-5-business-incubators-in-the-world/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;top five incubators&lt;/a&gt;, the number 2 university-backed incubator in the world, second to none in Europe, in the 
 &lt;a href=&#34;https://www.yesdelft.com/focus-areas/artificial-intelligence/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yes!Delft AI+Blockchain&lt;/a&gt; Validation Lab.&lt;/p&gt;

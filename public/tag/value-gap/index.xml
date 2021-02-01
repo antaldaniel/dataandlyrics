@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>value-gap | Data &amp; Lyrics</title>
-    <link>https://dataandlyrics.com/tag/value-gap/</link>
-      <atom:link href="https://dataandlyrics.com/tag/value-gap/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/value-gap/</link>
+      <atom:link href="/tag/value-gap/index.xml" rel="self" type="application/rss+xml" />
     <description>value-gap</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 27 Oct 2020 10:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Tue, 27 Oct 2020 10:00:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>value-gap</title>
-      <link>https://dataandlyrics.com/tag/value-gap/</link>
+      <link>/tag/value-gap/</link>
     </image>
     
     <item>
       <title>Why Did We Start The Demo Music Observatory?</title>
-      <link>https://dataandlyrics.com/post/2020-10-27-why-start-music-observatory/</link>
+      <link>/post/2020-10-27-why-start-music-observatory/</link>
       <pubDate>Tue, 27 Oct 2020 10:00:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/post/2020-10-27-why-start-music-observatory/</guid>
+      <guid>/post/2020-10-27-why-start-music-observatory/</guid>
       <description>&lt;p&gt;I was contacted during the consultation period of the Feasibility Study of the European Music Observatory. That led to an uneasy series of conversations with the consultants of this project, and a very enlightening series of conversations with European civil servants, music industry organizations, music managers and artists.  My main pitch was that every single assumption of this project is wrong.&lt;/p&gt;
 &lt;p&gt;They started from the assumption that there is hardly any data available on the European music scene &amp;ndash; whereas we found while building up CEEMID, errr, a pan-European music data observatory, is that music is one of the most data-driven industries in the world, it is choking in numbers, and the reason why this data is not visible is very different. They were talking about lack of data in fields where we already had about 2000 pan-European indicators ready. (See 
 &lt;a href=&#34;https://danielantal.eu/presentation/ceemid-observatory.html#/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introducing the CEEMID Observatory, 9/28/2019&lt;/a&gt; &lt;em&gt;large self-contained html file, takes time to load into browser&lt;/em&gt;)&lt;/p&gt;
@@ -73,9 +73,9 @@
     
     <item>
       <title>Czech Music Development Program &amp; Comparative Market Research</title>
-      <link>https://dataandlyrics.com/post/2019-11-09-nouvelle-prague/</link>
+      <link>/post/2019-11-09-nouvelle-prague/</link>
       <pubDate>Sat, 09 Nov 2019 11:00:00 +0100</pubDate>
-      <guid>https://dataandlyrics.com/post/2019-11-09-nouvelle-prague/</guid>
+      <guid>/post/2019-11-09-nouvelle-prague/</guid>
       <description>&lt;p&gt;I was presenting some highlights from the work we started with in the organization of SoundCzech with 25 music professionals representing more than 20 stakeholders in the 
 &lt;a href=&#34;https://danielantal.eu/talk/2019_10_09_praha/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How We Would Like To Work in the Czech Music Industry in 2020&lt;/a&gt; &lt;em&gt;ex ante&lt;/em&gt; evaluation workshop in the context of the comparative 
 &lt;a href=&#34;https://danielantal.eu/post/2019-09-27_cee_report/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Central European Music Industry Report&lt;/a&gt;.&lt;/p&gt;
@@ -88,9 +88,9 @@
     
     <item>
       <title>Private Copying in Croatia</title>
-      <link>https://dataandlyrics.com/post/2019-10-31-croatia_pcr/</link>
+      <link>/post/2019-10-31-croatia_pcr/</link>
       <pubDate>Thu, 31 Oct 2019 12:00:00 +0100</pubDate>
-      <guid>https://dataandlyrics.com/post/2019-10-31-croatia_pcr/</guid>
+      <guid>/post/2019-10-31-croatia_pcr/</guid>
       <description>&lt;p&gt;After much delay, the first measurement of licensed use of music, audiovisual content, home copying and value transfer to media platforms in Croatia for a practical update of the private copying remuneration in the country.&lt;/p&gt;
 &lt;p&gt;You can find the whole study in English, a Croatian language summary and a press release in the 
 &lt;a href=&#34;https://danielantal.eu/publication/private_copying_croatia_2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Publications&lt;/a&gt; section.&lt;/p&gt;
@@ -106,9 +106,9 @@
     
     <item>
       <title>Private Copying in Croatia</title>
-      <link>https://dataandlyrics.com/publication/private_copying_croatia_2019/</link>
+      <link>/publication/private_copying_croatia_2019/</link>
       <pubDate>Thu, 31 Oct 2019 12:00:00 +0100</pubDate>
-      <guid>https://dataandlyrics.com/publication/private_copying_croatia_2019/</guid>
+      <guid>/publication/private_copying_croatia_2019/</guid>
       <description>&lt;p&gt;Press release: 
 &lt;a href=&#34;https://www.zamp.hr/clanak/pregled/2197/studija-naknade-za-privatno-kopiranje-btl-u-hrvatskoj-drasticno-ispod-prosjeka-eu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Studija: Naknade za privatno kopiranje (BTL) u Hrvatskoj drastično ispod prosjeka EU&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Short summary in Croatian: 
@@ -120,9 +120,9 @@ Full text in English:
     
     <item>
       <title>CEEMP Session: Licensing, How To Tackle The Value Gap And A Discussion on Licensing Initiatives</title>
-      <link>https://dataandlyrics.com/post/2017-09-29_ceempc/</link>
+      <link>/post/2017-09-29_ceempc/</link>
       <pubDate>Fri, 29 Sep 2017 00:00:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/post/2017-09-29_ceempc/</guid>
+      <guid>/post/2017-09-29_ceempc/</guid>
       <description>&lt;p&gt;CEEMID had the honor to participate in the third panel of CEEMP in Warsaw together with Ben McEwen from ICE; Jules Parker from Spotify and Dominic Houston from Netflix, and Chris Butler from Music Sales, who is also the chairperson of ICMP. Our panel was moderated by Nigel Elderton from peermusic, who is also the new chairperson of PRS in the UK.&lt;/p&gt;
 &lt;p&gt;Jules from Spotify spoke about their new initiative, Spotify for Publishers.  Spotify pays out about 20% of its royalties to publishers.  Because the labels are the bigger stakeholders, they often do not provide the necessary information for work identification in the case of publishers.&lt;/p&gt;
 &lt;p&gt;Dominic from Netflix is already one of the biggest buyers of music, and I believe that his company’s footprint will just continue growing.  His time buys licenses only 10% of their music from publishers. They mainly use original film music, and to a significant degree, catalogs.&lt;/p&gt;

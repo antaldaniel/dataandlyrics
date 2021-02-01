@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>observatory | Data &amp; Lyrics</title>
-    <link>https://dataandlyrics.com/tag/observatory/</link>
-      <atom:link href="https://dataandlyrics.com/tag/observatory/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/observatory/</link>
+      <atom:link href="/tag/observatory/index.xml" rel="self" type="application/rss+xml" />
     <description>observatory</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 15 Sep 2020 08:00:39 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Tue, 15 Sep 2020 08:00:39 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>observatory</title>
-      <link>https://dataandlyrics.com/tag/observatory/</link>
+      <link>/tag/observatory/</link>
     </image>
     
     <item>
       <title>Launching Our Demo Music Observatory</title>
-      <link>https://dataandlyrics.com/post/2020-09-15-music-observatory-launch/</link>
+      <link>/post/2020-09-15-music-observatory-launch/</link>
       <pubDate>Tue, 15 Sep 2020 08:00:39 +0200</pubDate>
-      <guid>https://dataandlyrics.com/post/2020-09-15-music-observatory-launch/</guid>
+      <guid>/post/2020-09-15-music-observatory-launch/</guid>
       <description>&lt;p&gt;Today, on 15 September 2020, we officially launched our &lt;code&gt;minimal viable product&lt;/code&gt; as we promised to partners back in February. This was a particularly difficult period for everybody. We aspired to deliver by September in a very different environment, our hopes for commissioned work went up in flames with the pandemic, and our targeted users, musicians and music entrepreneurs, talent managers, music venues lost most of their income. The organizations helping them, granting authorities, export offices and collective management societies are overwhelmed with the problem. During these troublesome times, our team expanded, attracted great new talent, and kept working.&lt;/p&gt;
 &lt;p&gt;Our first product is the 
 &lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo Music Observatory&lt;/a&gt;, a collaborative, automated research-based 

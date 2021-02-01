@@ -3,925 +3,1089 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://dataandlyrics.com/authors/</loc>
-    <lastmod>2020-11-20T15:10:00+02:00</lastmod>
+    <loc>/tag/algorithms/</loc>
+    <lastmod>2020-12-17T17:10:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/author/daniel-antal/</loc>
-    <lastmod>2020-11-20T15:10:00+02:00</lastmod>
+    <loc>/authors/</loc>
+    <lastmod>2020-12-17T17:10:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/</loc>
-    <lastmod>2020-11-20T15:10:00+02:00</lastmod>
+    <loc>/tag/big-data/</loc>
+    <lastmod>2020-12-17T17:10:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/post/2020-11-20-music-discovery-population/</loc>
-    <lastmod>2020-11-20T15:10:00+02:00</lastmod>
+    <loc>/author/daniel-antal/</loc>
+    <lastmod>2020-12-17T17:10:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/music-discovery/</loc>
-    <lastmod>2020-11-20T15:10:00+02:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2020-12-17T17:10:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/music-observatory/</loc>
-    <lastmod>2020-11-20T15:10:00+02:00</lastmod>
+    <loc>/post/2020-12-17-demo-slovak-music-database/</loc>
+    <lastmod>2020-12-17T17:10:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/open-data/</loc>
-    <lastmod>2020-11-20T15:10:00+02:00</lastmod>
+    <loc>/tag/justice/</loc>
+    <lastmod>2020-12-17T17:10:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/post/</loc>
-    <lastmod>2020-11-20T15:10:00+02:00</lastmod>
+    <loc>/tag/listen-local/</loc>
+    <lastmod>2020-12-17T17:10:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tags/</loc>
-    <lastmod>2020-11-20T15:10:00+02:00</lastmod>
+    <loc>/tag/local-content-requirements/</loc>
+    <lastmod>2020-12-17T17:10:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/hungary/</loc>
+    <loc>/post/</loc>
+    <lastmod>2020-12-17T17:10:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/recommendations/</loc>
+    <lastmod>2020-12-17T17:10:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/slovakia/</loc>
+    <lastmod>2020-12-17T17:10:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-12-17T17:10:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2020-12-15-alternative-recommendations/</loc>
+    <lastmod>2020-12-14T17:10:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/diy/</loc>
+    <lastmod>2020-12-14T08:10:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/labels/</loc>
+    <lastmod>2020-12-14T08:10:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/netherlands/</loc>
+    <lastmod>2020-12-14T08:10:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2020-12-14-tinyrooms/</loc>
+    <lastmod>2020-12-14T08:10:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/utrecht/</loc>
+    <lastmod>2020-12-14T08:10:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/music-observatory/</loc>
+    <lastmod>2020-12-05T08:10:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2020-12-04-pirate-libraries/</loc>
+    <lastmod>2020-12-05T08:10:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/reproducible-research/</loc>
+    <lastmod>2020-12-05T08:10:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/reproducible-science/</loc>
+    <lastmod>2020-12-05T08:10:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/3/</loc>
+    <lastmod>2020-12-03T11:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/balazs-bodo/</loc>
+    <lastmod>2020-12-03T11:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/books/</loc>
+    <lastmod>2020-12-03T11:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/scholarly_pirate_libraries_2020/</loc>
+    <lastmod>2020-12-03T11:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/libraries/</loc>
+    <lastmod>2020-12-03T11:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/market-report/</loc>
+    <lastmod>2020-12-03T11:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-12-03T11:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-12-03T11:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/shadow-libraries/</loc>
+    <lastmod>2020-12-03T11:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/zoltan-puha/</loc>
+    <lastmod>2020-12-03T11:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/california/</loc>
+    <lastmod>2020-11-30T08:10:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/japan/</loc>
+    <lastmod>2020-11-30T08:10:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2020-11-30-youniverse/</loc>
+    <lastmod>2020-11-30T08:10:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/music-export/</loc>
+    <lastmod>2020-11-30T08:10:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/texas/</loc>
+    <lastmod>2020-11-30T08:10:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/ai/</loc>
+    <lastmod>2020-11-26T15:55:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/ethics/</loc>
+    <lastmod>2020-11-26T15:55:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2020-11-26-hcaptcha/</loc>
+    <lastmod>2020-11-26T15:55:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/turning-tide/</loc>
+    <lastmod>2020-11-26T15:55:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/czechia/</loc>
+    <lastmod>2020-11-27T08:55:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jana-gombikova/</loc>
+    <lastmod>2020-11-27T08:55:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2020-11-25-katarzia/</loc>
+    <lastmod>2020-11-27T08:55:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/nitra/</loc>
+    <lastmod>2020-11-27T08:55:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/prague/</loc>
+    <lastmod>2020-11-27T08:55:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2020-11-20-music-discovery-population/</loc>
+    <lastmod>2020-11-23T07:55:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/future-audiences/</loc>
+    <lastmod>2020-11-23T07:55:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/music-discovery/</loc>
+    <lastmod>2020-11-23T07:55:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/music-education/</loc>
+    <lastmod>2020-11-23T07:55:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/open-data/</loc>
+    <lastmod>2020-11-23T07:55:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/hungary/</loc>
     <lastmod>2020-11-18T08:15:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/author/katya-nagy/</loc>
+    <loc>/author/katya-nagy/</loc>
     <lastmod>2020-11-18T08:15:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/listen-local/</loc>
+    <loc>/tag/romania/</loc>
     <lastmod>2020-11-18T08:15:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/romania/</loc>
+    <loc>/tag/serbia/</loc>
     <lastmod>2020-11-18T08:15:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/serbia/</loc>
+    <loc>/post/2020-11-18-where-they-understand-us/</loc>
     <lastmod>2020-11-18T08:15:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/slovakia/</loc>
-    <lastmod>2020-11-18T08:15:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dataandlyrics.com/post/2020-11-18-where-they-understand-us/</loc>
-    <lastmod>2020-11-18T08:15:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dataandlyrics.com/tag/big-data/</loc>
+    <loc>/tag/spotify/</loc>
     <lastmod>2020-11-17T11:03:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/recommendations/</loc>
+    <loc>/tag/streaming/</loc>
     <lastmod>2020-11-17T11:03:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/spotify/</loc>
+    <loc>/post/2020-11-17-recommendation-analysis/</loc>
     <lastmod>2020-11-17T11:03:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/streaming/</loc>
-    <lastmod>2020-11-17T11:03:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dataandlyrics.com/post/2020-11-17-recommendation-analysis/</loc>
-    <lastmod>2020-11-17T11:03:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dataandlyrics.com/tag/eu/</loc>
+    <loc>/tag/eu/</loc>
     <lastmod>2020-11-16T07:03:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/europe/</loc>
+    <loc>/tag/europe/</loc>
     <lastmod>2020-11-16T07:03:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/post/2020-11-16-european-music-observatory-feasibility/</loc>
+    <loc>/post/2020-11-16-european-music-observatory-feasibility/</loc>
     <lastmod>2020-11-16T07:03:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/reproducible-research/</loc>
-    <lastmod>2020-11-16T07:03:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dataandlyrics.com/tag/music-industry/</loc>
+    <loc>/tag/music-industry/</loc>
     <lastmod>2020-11-13T07:10:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/music-report/</loc>
+    <loc>/tag/music-report/</loc>
     <lastmod>2020-11-13T07:10:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/post/2020-11-13-wales-comparison/</loc>
+    <loc>/post/2020-11-13-wales-comparison/</loc>
     <lastmod>2020-11-13T07:10:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/united-kingdom/</loc>
+    <loc>/tag/united-kingdom/</loc>
     <lastmod>2020-11-13T07:10:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/wales/</loc>
+    <loc>/tag/wales/</loc>
     <lastmod>2020-11-13T07:10:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/netherlands/</loc>
+    <loc>/post/2020-11-11-listen-local-robin-kester/</loc>
     <lastmod>2020-11-11T11:10:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/post/2020-11-11-listen-local-robin-kester/</loc>
+    <loc>/author/stef-koenis/</loc>
     <lastmod>2020-11-11T11:10:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/author/stef-koenis/</loc>
-    <lastmod>2020-11-11T11:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dataandlyrics.com/tag/utrecht/</loc>
-    <lastmod>2020-11-11T11:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dataandlyrics.com/tag/charts/</loc>
+    <loc>/tag/charts/</loc>
     <lastmod>2020-11-08T18:10:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/author/daniel-antal-cfa/</loc>
+    <loc>/author/daniel-antal-cfa/</loc>
     <lastmod>2020-11-08T18:10:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/datasets/</loc>
+    <loc>/tag/datasets/</loc>
     <lastmod>2020-11-08T18:10:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/post/2020-11-09-spotify-national-charts/</loc>
+    <loc>/post/2020-11-09-spotify-national-charts/</loc>
     <lastmod>2020-11-08T18:10:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/covid-19/</loc>
+    <loc>/tag/covid-19/</loc>
     <lastmod>2020-11-06T08:10:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/post/2020-11-06-welsh-covid-response/</loc>
+    <loc>/post/2020-11-06-welsh-covid-response/</loc>
     <lastmod>2020-11-06T08:10:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/live-music/</loc>
+    <loc>/tag/live-music/</loc>
     <lastmod>2020-11-06T08:10:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/injustice/</loc>
+    <loc>/tag/injustice/</loc>
     <lastmod>2020-10-30T08:10:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/racism/</loc>
+    <loc>/tag/racism/</loc>
     <lastmod>2020-10-30T08:10:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/post/2020-10-30-racist-algorithm/</loc>
+    <loc>/post/2020-10-30-racist-algorithm/</loc>
     <lastmod>2020-10-30T08:10:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/turning-tide/</loc>
-    <lastmod>2020-10-30T08:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dataandlyrics.com/tag/bosnia-herzegovnia/</loc>
+    <loc>/tag/bosnia-herzegovnia/</loc>
     <lastmod>2020-10-28T08:10:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/post/2020-10-28-duka-mission/</loc>
+    <loc>/post/2020-10-28-duka-mission/</loc>
     <lastmod>2020-10-28T08:10:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/germany/</loc>
+    <loc>/tag/germany/</loc>
     <lastmod>2020-10-28T08:10:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/music-production/</loc>
+    <loc>/tag/music-production/</loc>
     <lastmod>2020-10-28T08:10:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/pakistan/</loc>
+    <loc>/tag/pakistan/</loc>
     <lastmod>2020-10-28T08:10:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/machine-learning/</loc>
+    <loc>/tag/machine-learning/</loc>
     <lastmod>2020-10-27T10:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/music-circulation/</loc>
+    <loc>/tag/music-circulation/</loc>
     <lastmod>2020-10-27T10:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/music-economy/</loc>
+    <loc>/tag/music-economy/</loc>
     <lastmod>2020-10-27T10:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/royalties/</loc>
+    <loc>/tag/royalties/</loc>
     <lastmod>2020-10-27T10:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/value-gap/</loc>
+    <loc>/tag/value-gap/</loc>
     <lastmod>2020-10-27T10:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/post/2020-10-27-why-start-music-observatory/</loc>
+    <loc>/post/2020-10-27-why-start-music-observatory/</loc>
     <lastmod>2020-10-27T10:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/forgetify/</loc>
+    <loc>/tag/forgetify/</loc>
     <lastmod>2020-10-24T18:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/post/2020-10-24-forgetify_pop_october/</loc>
+    <loc>/post/2020-10-24-forgetify_pop_october/</loc>
     <lastmod>2020-10-24T18:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/musicology/</loc>
+    <loc>/tag/musicology/</loc>
     <lastmod>2020-10-24T18:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/playlist/</loc>
+    <loc>/tag/playlist/</loc>
     <lastmod>2020-10-24T18:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/algorithms/</loc>
+    <loc>/tag/belgium/</loc>
     <lastmod>2020-10-18T18:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/belgium/</loc>
+    <loc>/post/2020-10-19-listen-local/</loc>
     <lastmod>2020-10-18T18:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/post/2020-10-19-listen-local/</loc>
+    <loc>/tag/playlists/</loc>
     <lastmod>2020-10-18T18:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/playlists/</loc>
-    <lastmod>2020-10-18T18:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dataandlyrics.com/post/2020-10-18-october_playlist/</loc>
+    <loc>/post/2020-10-18-october_playlist/</loc>
     <lastmod>2020-10-17T18:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/ex-ante/</loc>
+    <loc>/tag/ex-ante/</loc>
     <lastmod>2020-10-16T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/ex-post/</loc>
+    <loc>/tag/ex-post/</loc>
     <lastmod>2020-10-16T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/project/grants/</loc>
+    <loc>/project/grants/</loc>
     <lastmod>2020-10-16T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/grants/</loc>
+    <loc>/tag/grants/</loc>
     <lastmod>2020-10-16T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/project/</loc>
+    <loc>/project/</loc>
     <lastmod>2020-11-18T08:15:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/collective-management/</loc>
+    <loc>/tag/collective-management/</loc>
     <lastmod>2020-10-14T10:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/post/2020-10-14-making_websites/</loc>
+    <loc>/post/2020-10-14-making_websites/</loc>
     <lastmod>2020-10-14T10:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/web-technology/</loc>
+    <loc>/tag/web-technology/</loc>
     <lastmod>2020-10-14T10:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/project/listen-local/</loc>
+    <loc>/project/listen-local/</loc>
     <lastmod>2020-11-18T08:15:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/open-source/</loc>
+    <loc>/tag/open-source/</loc>
     <lastmod>2020-09-25T15:31:39+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/post/2020-09-25-yesdelft-validation/</loc>
+    <loc>/post/2020-09-25-yesdelft-validation/</loc>
     <lastmod>2020-09-25T15:31:39+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/reproducible/</loc>
+    <loc>/tag/reproducible/</loc>
     <lastmod>2020-09-25T15:31:39+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/author/reka-szentirmay/</loc>
+    <loc>/author/reka-szentirmay/</loc>
     <lastmod>2020-09-25T15:31:39+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/start-up/</loc>
+    <loc>/tag/start-up/</loc>
     <lastmod>2020-09-25T15:31:39+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/post/2020-09-15-music-observatory-launch/</loc>
+    <loc>/post/2020-09-15-music-observatory-launch/</loc>
     <lastmod>2020-09-15T08:00:39+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/music/</loc>
+    <loc>/tag/music/</loc>
     <lastmod>2020-09-15T08:00:39+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/observatory/</loc>
+    <loc>/tag/observatory/</loc>
     <lastmod>2020-09-15T08:00:39+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/r/</loc>
+    <loc>/tag/r/</loc>
     <lastmod>2020-09-15T08:00:39+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/post/2020-09-11-creating-automated-observatory/</loc>
+    <loc>/post/2020-09-11-creating-automated-observatory/</loc>
     <lastmod>2020-09-11T16:00:39+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/author/line-matson/</loc>
+    <loc>/author/line-matson/</loc>
     <lastmod>2020-09-11T16:00:39+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/author/moon-moon-moon/</loc>
+    <loc>/author/moon-moon-moon/</loc>
     <lastmod>2020-09-11T16:00:39+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/author/sandor-budai/</loc>
+    <loc>/author/sandor-budai/</loc>
     <lastmod>2020-09-11T16:00:39+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/ceemid/</loc>
+    <loc>/tag/ceemid/</loc>
     <lastmod>2020-08-26T08:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/project/music-observatory/</loc>
+    <loc>/project/music-observatory/</loc>
     <lastmod>2020-08-26T08:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/surveys/</loc>
+    <loc>/tag/surveys/</loc>
     <lastmod>2020-08-26T08:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/post/2020-08-24-start-up/</loc>
+    <loc>/post/2020-08-24-start-up/</loc>
     <lastmod>2020-09-01T17:34:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/post/2020-music-professional-survey-wave/</loc>
+    <loc>/post/2020-music-professional-survey-wave/</loc>
     <lastmod>2020-07-30T15:38:43+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/survey/</loc>
+    <loc>/tag/survey/</loc>
     <lastmod>2020-07-30T15:38:43+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/faq/reproducible/</loc>
+    <loc>/faq/reproducible/</loc>
     <lastmod>2020-07-16T10:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/team/</loc>
+    <loc>/team/</loc>
     <lastmod>2020-07-10T10:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/faq/modeling/</loc>
+    <loc>/faq/modeling/</loc>
     <lastmod>2020-07-16T10:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/faq/consulting/</loc>
+    <loc>/faq/consulting/</loc>
     <lastmod>2020-07-10T10:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/blog/</loc>
+    <loc>/blog/</loc>
     <lastmod>2020-07-10T10:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/faq/cap/</loc>
+    <loc>/faq/cap/</loc>
     <lastmod>2020-07-10T10:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/faq/dashboards/</loc>
+    <loc>/faq/dashboards/</loc>
     <lastmod>2020-09-01T08:10:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/faq/curation/</loc>
+    <loc>/faq/curation/</loc>
     <lastmod>2020-07-10T10:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/faq/data_maps/</loc>
+    <loc>/faq/data_maps/</loc>
     <lastmod>2020-07-10T10:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/faq/observatories/</loc>
+    <loc>/faq/observatories/</loc>
     <lastmod>2020-07-10T10:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/faq/apps/</loc>
+    <loc>/faq/apps/</loc>
     <lastmod>2020-07-10T10:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/faq/experimental/</loc>
+    <loc>/faq/experimental/</loc>
     <lastmod>2020-07-10T10:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/faq/otherobservatories/</loc>
+    <loc>/faq/otherobservatories/</loc>
     <lastmod>2020-09-01T07:10:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/faq/surveys/</loc>
+    <loc>/faq/surveys/</loc>
     <lastmod>2020-07-10T10:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/faq/integration/</loc>
+    <loc>/faq/integration/</loc>
     <lastmod>2020-07-10T10:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/faq/journalism/</loc>
+    <loc>/faq/journalism/</loc>
     <lastmod>2020-07-10T10:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/faq/localization/</loc>
+    <loc>/faq/localization/</loc>
     <lastmod>2020-07-10T10:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/faq/reports/</loc>
+    <loc>/faq/reports/</loc>
     <lastmod>2020-07-10T10:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/faq/psi/</loc>
+    <loc>/faq/psi/</loc>
     <lastmod>2020-07-10T10:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/faq/demoobservatories/</loc>
+    <loc>/faq/demoobservatories/</loc>
     <lastmod>2020-09-01T07:10:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/faq/</loc>
+    <loc>/faq/</loc>
     <lastmod>2020-07-10T10:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/eurobarometer/</loc>
+    <loc>/tag/eurobarometer/</loc>
     <lastmod>2020-04-22T17:30:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/regional/</loc>
+    <loc>/tag/regional/</loc>
     <lastmod>2020-04-22T17:30:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/post/2020-04-22-regional-eurobarometer/</loc>
+    <loc>/post/2020-04-22-regional-eurobarometer/</loc>
     <lastmod>2020-04-22T17:30:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/</loc>
+    <loc>/post/2020-04-16-regional-opendata-release/</loc>
     <lastmod>2020-04-16T17:30:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/music-demand/</loc>
+    <loc>/tag/music-demand/</loc>
     <lastmod>2020-04-16T17:30:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/post/2020-04-15-comparing-social-distancing/</loc>
+    <loc>/post/2020-04-15-comparing-social-distancing/</loc>
     <lastmod>2020-04-16T13:30:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/geolocations/</loc>
+    <loc>/tag/geolocations/</loc>
     <lastmod>2020-04-16T13:30:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/public-policy/</loc>
+    <loc>/tag/public-policy/</loc>
     <lastmod>2020-04-16T13:30:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/publication-type/4/</loc>
+    <loc>/tag/reprex/</loc>
+    <lastmod>2020-02-01T09:10:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2021-02-01-reprex-website/</loc>
+    <lastmod>2020-02-01T09:10:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/trustworthy-ai/</loc>
+    <lastmod>2020-02-01T09:10:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/4/</loc>
     <lastmod>2020-01-29T16:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/armenia/</loc>
+    <loc>/tag/armenia/</loc>
     <lastmod>2020-01-29T16:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/austria/</loc>
+    <loc>/tag/austria/</loc>
     <lastmod>2020-01-29T16:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/bulgaria/</loc>
+    <loc>/tag/bulgaria/</loc>
     <lastmod>2020-01-29T16:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/cci/</loc>
+    <loc>/tag/cci/</loc>
     <lastmod>2020-01-29T16:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/post/2020-01-30-ceereport/</loc>
+    <loc>/post/2020-01-30-ceereport/</loc>
     <lastmod>2020-01-29T16:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/publication/ceereport_2020/</loc>
+    <loc>/publication/ceereport_2020/</loc>
     <lastmod>2020-01-29T16:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/czechia/</loc>
+    <loc>/tag/lithuania/</loc>
     <lastmod>2020-01-29T16:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/lithuania/</loc>
+    <loc>/tag/opendata/</loc>
     <lastmod>2020-01-29T16:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/market-report/</loc>
-    <lastmod>2020-01-29T16:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dataandlyrics.com/tag/opendata/</loc>
-    <lastmod>2020-01-29T16:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dataandlyrics.com/publication_types/</loc>
-    <lastmod>2020-01-29T16:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dataandlyrics.com/publication/</loc>
-    <lastmod>2020-01-29T16:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dataandlyrics.com/tag/cee/</loc>
+    <loc>/tag/cee/</loc>
     <lastmod>2019-11-09T11:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/post/2019-11-09-nouvelle-prague/</loc>
+    <loc>/post/2019-11-09-nouvelle-prague/</loc>
     <lastmod>2019-11-09T11:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/croatia/</loc>
+    <loc>/tag/croatia/</loc>
     <lastmod>2019-10-31T12:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/pcr/</loc>
+    <loc>/tag/pcr/</loc>
     <lastmod>2019-10-31T12:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/pricing/</loc>
+    <loc>/tag/pricing/</loc>
     <lastmod>2019-10-31T12:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/post/2019-10-31-croatia_pcr/</loc>
+    <loc>/post/2019-10-31-croatia_pcr/</loc>
     <lastmod>2019-10-31T12:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/publication/private_copying_croatia_2019/</loc>
+    <loc>/publication/private_copying_croatia_2019/</loc>
     <lastmod>2019-10-31T12:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/private-copying/</loc>
+    <loc>/tag/private-copying/</loc>
     <lastmod>2019-10-31T12:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/post/2019-09-27_cee_report/</loc>
+    <loc>/post/2019-09-27_cee_report/</loc>
     <lastmod>2019-09-30T08:05:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/project/music-export/</loc>
+    <loc>/project/music-export/</loc>
     <lastmod>2019-09-27T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/music-export/</loc>
-    <lastmod>2019-09-27T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dataandlyrics.com/tag/data-animation/</loc>
+    <loc>/tag/data-animation/</loc>
     <lastmod>2019-09-23T19:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/hitlists/</loc>
+    <loc>/tag/hitlists/</loc>
     <lastmod>2019-09-23T19:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/post/2019-09-24_streaming-market/</loc>
+    <loc>/post/2019-09-24_streaming-market/</loc>
     <lastmod>2019-09-23T19:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/post/2019-09-23_cross-border_europe/</loc>
+    <loc>/post/2019-09-23_cross-border_europe/</loc>
     <lastmod>2019-09-23T18:30:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/career/</loc>
+    <loc>/tag/career/</loc>
     <lastmod>2019-07-21T19:45:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/living-standards/</loc>
+    <loc>/tag/living-standards/</loc>
     <lastmod>2019-07-21T19:45:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/post/2019-07-21_life_satisfaction/</loc>
+    <loc>/post/2019-07-21_life_satisfaction/</loc>
     <lastmod>2019-07-21T19:45:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/musicinan/</loc>
+    <loc>/tag/musicinan/</loc>
     <lastmod>2019-07-21T19:45:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/advocacy/</loc>
+    <loc>/tag/advocacy/</loc>
     <lastmod>2019-03-26T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/ccs/</loc>
+    <loc>/tag/ccs/</loc>
     <lastmod>2019-03-26T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/regulation/</loc>
+    <loc>/tag/regulation/</loc>
     <lastmod>2019-03-26T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/publication/slovak_music_industry_2019/</loc>
+    <loc>/publication/slovak_music_industry_2019/</loc>
     <lastmod>2019-03-26T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/vat/</loc>
+    <loc>/tag/vat/</loc>
     <lastmod>2019-03-26T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/audiovisual/</loc>
+    <loc>/tag/audiovisual/</loc>
     <lastmod>2018-06-08T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/post/2018-06-08_how_many_ever_pay/</loc>
+    <loc>/post/2018-06-08_how_many_ever_pay/</loc>
     <lastmod>2018-06-08T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/software/</loc>
+    <loc>/tag/software/</loc>
     <lastmod>2018-06-08T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/multipliers/</loc>
+    <loc>/tag/multipliers/</loc>
     <lastmod>2019-05-05T19:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/post/2018-04-18_sharpe_bratislava/</loc>
+    <loc>/post/2018-04-18_sharpe_bratislava/</loc>
     <lastmod>2019-05-05T19:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/post/2017-11-01_cee_mini/</loc>
+    <loc>/post/2017-11-01_cee_mini/</loc>
     <lastmod>2017-11-01T19:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/emerging-markets/</loc>
+    <loc>/tag/emerging-markets/</loc>
     <lastmod>2017-11-01T19:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/post/2017-09-29_ceempc/</loc>
+    <loc>/post/2017-09-29_ceempc/</loc>
     <lastmod>2019-03-14T09:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/music-publishing/</loc>
+    <loc>/tag/music-publishing/</loc>
     <lastmod>2019-03-14T09:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/post/2017-02-03-music_career_path/</loc>
+    <loc>/post/2017-02-03-music_career_path/</loc>
     <lastmod>2019-03-14T19:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/post/2016-04-20_makk15/</loc>
+    <loc>/post/2016-04-20_makk15/</loc>
     <lastmod>2018-01-13T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/post/2015-11-12-cstp/</loc>
+    <loc>/post/2015-11-12-cstp/</loc>
     <lastmod>2015-11-12T19:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/publication/hungary_music_industry_2014/</loc>
+    <loc>/publication/hungary_music_industry_2014/</loc>
     <lastmod>2015-05-01T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/post/2015-04-27-proart_report_15/</loc>
+    <loc>/post/2015-04-27-proart_report_15/</loc>
     <lastmod>2015-04-27T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/cisac/</loc>
+    <loc>/tag/cisac/</loc>
     <lastmod>2013-11-18T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/hedonic-pricing/</loc>
+    <loc>/tag/hedonic-pricing/</loc>
     <lastmod>2013-11-18T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/restaurants/</loc>
+    <loc>/tag/restaurants/</loc>
     <lastmod>2013-11-18T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/tag/valuation/</loc>
+    <loc>/tag/valuation/</loc>
     <lastmod>2013-11-18T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/post/2013-11-18-cisac_good_governance/</loc>
+    <loc>/post/2013-11-18-cisac_good_governance/</loc>
     <lastmod>2013-11-18T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/author/</loc>
+    <loc>/author/</loc>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/author/andres/</loc>
+    <loc>/author/andres/</loc>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/author/daniel/</loc>
+    <loc>/author/daniel/</loc>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/author/katya-nagy/</loc>
+    <loc>/author/emily-hansell-clark/</loc>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/talk/</loc>
+    <loc>/author/katya-nagy/</loc>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/author/reka-szentirmay/</loc>
+    <loc>/talk/</loc>
   </url>
   
   <url>
-    <loc>https://dataandlyrics.com/author/stef-koenis/</loc>
+    <loc>/author/reka-szentirmay/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/stef-koenis/</loc>
   </url>
   
 </urlset>

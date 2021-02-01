@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>music-report | Data &amp; Lyrics</title>
-    <link>https://dataandlyrics.com/tag/music-report/</link>
-      <atom:link href="https://dataandlyrics.com/tag/music-report/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/music-report/</link>
+      <atom:link href="/tag/music-report/index.xml" rel="self" type="application/rss+xml" />
     <description>music-report</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 13 Nov 2020 07:10:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Fri, 13 Nov 2020 07:10:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>music-report</title>
-      <link>https://dataandlyrics.com/tag/music-report/</link>
+      <link>/tag/music-report/</link>
     </image>
     
     <item>
       <title>The Welsh Music Industry In International Comparison</title>
-      <link>https://dataandlyrics.com/post/2020-11-13-wales-comparison/</link>
+      <link>/post/2020-11-13-wales-comparison/</link>
       <pubDate>Fri, 13 Nov 2020 07:10:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/post/2020-11-13-wales-comparison/</guid>
+      <guid>/post/2020-11-13-wales-comparison/</guid>
       <description>&lt;p&gt;Next week we will introduce a music industry report from Wales. The country is a sub-national part of the United Kingdom from a statistical point view. Making evidence-based policy or market analysis is as challenging as in emerging markets where government statistical services are weak. And the parallels do not stop here.&lt;/p&gt;
 &lt;p&gt;Earlier this year we introduced a comparison of music audiences in the 
 &lt;a href=&#34;https://ceereport2020.ceemid.eu/audience.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chapter 2&lt;/a&gt;. Central European Music Industry Report. Using our 
@@ -44,10 +44,10 @@
 &lt;figure id=&#34;figure-participation-in-music-concerts&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://dataandlyrics.com/post/2020-11-13-wales-comparison/CAP_with_Wales_concerts_hu992e35f77e4832a96d2027b8b86ba362_286799_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Participation in music: concerts&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/2020-11-13-wales-comparison/CAP_with_Wales_concerts_hu992e35f77e4832a96d2027b8b86ba362_286799_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Participation in music: concerts&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://dataandlyrics.com/post/2020-11-13-wales-comparison/CAP_with_Wales_concerts_hu992e35f77e4832a96d2027b8b86ba362_286799_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2204&#34; height=&#34;1240&#34;&gt;
+  &lt;img data-src=&#34;/post/2020-11-13-wales-comparison/CAP_with_Wales_concerts_hu992e35f77e4832a96d2027b8b86ba362_286799_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2204&#34; height=&#34;1240&#34;&gt;
 &lt;/a&gt;
 
 
@@ -82,10 +82,10 @@
 &lt;figure id=&#34;figure-participation-in-music-playing-an-instrument&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://dataandlyrics.com/post/2020-11-13-wales-comparison/CAP_with_Wales_play_music_hu2e80ed59562796b9e4a189f8c557127d_286388_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Participation in music: playing an instrument&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/2020-11-13-wales-comparison/CAP_with_Wales_play_music_hu2e80ed59562796b9e4a189f8c557127d_286388_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Participation in music: playing an instrument&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://dataandlyrics.com/post/2020-11-13-wales-comparison/CAP_with_Wales_play_music_hu2e80ed59562796b9e4a189f8c557127d_286388_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2204&#34; height=&#34;1240&#34;&gt;
+  &lt;img data-src=&#34;/post/2020-11-13-wales-comparison/CAP_with_Wales_play_music_hu2e80ed59562796b9e4a189f8c557127d_286388_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2204&#34; height=&#34;1240&#34;&gt;
 &lt;/a&gt;
 
 
@@ -120,10 +120,10 @@
 &lt;figure id=&#34;figure-participation-in-music-singing&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://dataandlyrics.com/post/2020-11-13-wales-comparison/CAP_with_Wales_sung_huc89aa99748f8439fc04b109d842c911d_246327_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Participation in music: singing&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/2020-11-13-wales-comparison/CAP_with_Wales_sung_huc89aa99748f8439fc04b109d842c911d_246327_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Participation in music: singing&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://dataandlyrics.com/post/2020-11-13-wales-comparison/CAP_with_Wales_sung_huc89aa99748f8439fc04b109d842c911d_246327_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2204&#34; height=&#34;1240&#34;&gt;
+  &lt;img data-src=&#34;/post/2020-11-13-wales-comparison/CAP_with_Wales_sung_huc89aa99748f8439fc04b109d842c911d_246327_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2204&#34; height=&#34;1240&#34;&gt;
 &lt;/a&gt;
 
 

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>injustice | Data &amp; Lyrics</title>
-    <link>https://dataandlyrics.com/tag/injustice/</link>
-      <atom:link href="https://dataandlyrics.com/tag/injustice/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/injustice/</link>
+      <atom:link href="/tag/injustice/index.xml" rel="self" type="application/rss+xml" />
     <description>injustice</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 30 Oct 2020 08:10:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Fri, 30 Oct 2020 08:10:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>injustice</title>
-      <link>https://dataandlyrics.com/tag/injustice/</link>
+      <link>/tag/injustice/</link>
     </image>
     
     <item>
       <title>The Racist Music Algorithm</title>
-      <link>https://dataandlyrics.com/post/2020-10-30-racist-algorithm/</link>
+      <link>/post/2020-10-30-racist-algorithm/</link>
       <pubDate>Fri, 30 Oct 2020 08:10:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/post/2020-10-30-racist-algorithm/</guid>
+      <guid>/post/2020-10-30-racist-algorithm/</guid>
       <description>&lt;p&gt;We want big data algorithms to work for small venues, undiscovered bands, and all artists coming from diverse walks of life. We often find that big data works against them, and our Listen Local Initiative was designed to change this trend.&lt;/p&gt;
 &lt;p&gt;Big data algorithms will increase injustice and breach social norms if they are trained on improper data, or the algorithms are biased &amp;ndash; this is why we place so much emphasis on algorithm transparency and input data transparency. Facebook, Apple or Spotify are often criticized for helping the spread of hate, for example.  But how can an algorithm turn racist?&lt;/p&gt;
 &lt;p&gt;Daniel Kraemer &amp;amp; Steve Holden reported on BBC recently that 

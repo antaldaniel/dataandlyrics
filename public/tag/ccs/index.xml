@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CCS | Data &amp; Lyrics</title>
-    <link>https://dataandlyrics.com/tag/ccs/</link>
-      <atom:link href="https://dataandlyrics.com/tag/ccs/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/ccs/</link>
+      <atom:link href="/tag/ccs/index.xml" rel="self" type="application/rss+xml" />
     <description>CCS</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 26 Mar 2019 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Tue, 26 Mar 2019 00:00:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>CCS</title>
-      <link>https://dataandlyrics.com/tag/ccs/</link>
+      <link>/tag/ccs/</link>
     </image>
     
     <item>
       <title>Slovak Music Industry Report</title>
-      <link>https://dataandlyrics.com/publication/slovak_music_industry_2019/</link>
+      <link>/publication/slovak_music_industry_2019/</link>
       <pubDate>Tue, 26 Mar 2019 00:00:00 +0100</pubDate>
-      <guid>https://dataandlyrics.com/publication/slovak_music_industry_2019/</guid>
+      <guid>/publication/slovak_music_industry_2019/</guid>
       <description>&lt;p&gt;The whole report can be downloaded for free from the 
 &lt;a href=&#34;http://www.soza.sk/aktuality/235/soza-zverej%C5%88uje-historicky-prvu-spravu-o-slovenskom-hudobnom-priemysle&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;homepage of SOZA&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Press reports in Slovak:&lt;/p&gt;

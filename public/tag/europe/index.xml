@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Europe | Data &amp; Lyrics</title>
-    <link>https://dataandlyrics.com/tag/europe/</link>
-      <atom:link href="https://dataandlyrics.com/tag/europe/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/europe/</link>
+      <atom:link href="/tag/europe/index.xml" rel="self" type="application/rss+xml" />
     <description>Europe</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 16 Nov 2020 07:03:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Mon, 16 Nov 2020 07:03:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Europe</title>
-      <link>https://dataandlyrics.com/tag/europe/</link>
+      <link>/tag/europe/</link>
     </image>
     
     <item>
       <title>Feasibility Study For The Establishment Of A European Music Observatory &amp; The Demo Observatory</title>
-      <link>https://dataandlyrics.com/post/2020-11-16-european-music-observatory-feasibility/</link>
+      <link>/post/2020-11-16-european-music-observatory-feasibility/</link>
       <pubDate>Mon, 16 Nov 2020 07:03:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/post/2020-11-16-european-music-observatory-feasibility/</guid>
+      <guid>/post/2020-11-16-european-music-observatory-feasibility/</guid>
       <description>&lt;p&gt;&lt;em&gt;The 
 &lt;a href=&#34;https://op.europa.eu/en/publication-detail/-/publication/a756542a-249d-11eb-9d7e-01aa75ed71a1/language-en/format-PDF/source-171307257&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Feasibility study for the establishment of a European Music Observatory&lt;/a&gt; was published on 13 November.  Our private observatory, CEEMID was consulted in the creation of the Feasibility Study, and some of our recommendations found way into the consultant’s document. We created a Demo Music Observatory to provide a practical guidance on the decisions facing the European stakeholders, and to answer the questions that were left open in the Feasibility Study &amp;mdash; particularly on  
 &lt;a href=&#34;https://dataandlyrics.com/project/music-observatory/#data-gaps&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data integration&lt;/a&gt; and the 
@@ -54,10 +54,10 @@
 &lt;figure id=&#34;figure-illusory-data-gap-active-and-music-participation-is-available-on-eu-level-both-for-gender-groups-or-four-ethnic-minorities--this-is-regularly-featured-in-various-european-cap-surveys-and-in-our-national-cap-surveys-too&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://dataandlyrics.com/img/comparative/music_activity_playing_an_instrument_by_gender.png&#34; data-caption=&#34;Illusory data gap: active and music participation is available on EU level both for gender groups or four ethnic minorities – this is regularly featured in various European CAP surveys and in our national CAP surveys, too.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/comparative/music_activity_playing_an_instrument_by_gender.png&#34; data-caption=&#34;Illusory data gap: active and music participation is available on EU level both for gender groups or four ethnic minorities – this is regularly featured in various European CAP surveys and in our national CAP surveys, too.&#34;&gt;
 
 
-  &lt;img src=&#34;https://dataandlyrics.com/img/comparative/music_activity_playing_an_instrument_by_gender.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/comparative/music_activity_playing_an_instrument_by_gender.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>4 | Data &amp; Lyrics</title>
-    <link>https://dataandlyrics.com/publication-type/4/</link>
-      <atom:link href="https://dataandlyrics.com/publication-type/4/index.xml" rel="self" type="application/rss+xml" />
+    <link>/publication-type/4/</link>
+      <atom:link href="/publication-type/4/index.xml" rel="self" type="application/rss+xml" />
     <description>4</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 29 Jan 2020 16:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Wed, 29 Jan 2020 16:00:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>4</title>
-      <link>https://dataandlyrics.com/publication-type/4/</link>
+      <link>/publication-type/4/</link>
     </image>
     
     <item>
       <title>Central &amp; Eastern European Music Industry Report 2020</title>
-      <link>https://dataandlyrics.com/publication/ceereport_2020/</link>
+      <link>/publication/ceereport_2020/</link>
       <pubDate>Wed, 29 Jan 2020 16:00:00 +0100</pubDate>
-      <guid>https://dataandlyrics.com/publication/ceereport_2020/</guid>
+      <guid>/publication/ceereport_2020/</guid>
       <description>&lt;p&gt;The predecessor of Reprex&amp;rsquo;s Demo Music Observatory, CEEMID together with the independent music distributor Consolidated Independent presented and discussed with stakeholders the  
 &lt;a href=&#34;https://danielantal.eu/publication/ceereport_2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Central &amp;amp; Eastern European Music Industry Report 2020&lt;/a&gt; as a case-study on national and comparative evidence-based policymaking in the cultural and creative sector on the 
 &lt;a href=&#34;http://creativeflip.creativehubs.net/2019/12/03/flipping-the-odds/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CCS Ecosystems: FLIPPING THE ODDS Conference&lt;/a&gt; – a two-day high-level stakeholder event jointly organized by Geothe-Institute and the DG Education and Culture of the European Commission with the Creative FLIP project.&lt;/p&gt;
@@ -49,9 +49,9 @@
     
     <item>
       <title>Private Copying in Croatia</title>
-      <link>https://dataandlyrics.com/publication/private_copying_croatia_2019/</link>
+      <link>/publication/private_copying_croatia_2019/</link>
       <pubDate>Thu, 31 Oct 2019 12:00:00 +0100</pubDate>
-      <guid>https://dataandlyrics.com/publication/private_copying_croatia_2019/</guid>
+      <guid>/publication/private_copying_croatia_2019/</guid>
       <description>&lt;p&gt;Press release: 
 &lt;a href=&#34;https://www.zamp.hr/clanak/pregled/2197/studija-naknade-za-privatno-kopiranje-btl-u-hrvatskoj-drasticno-ispod-prosjeka-eu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Studija: Naknade za privatno kopiranje (BTL) u Hrvatskoj drastično ispod prosjeka EU&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Short summary in Croatian: 
@@ -63,9 +63,9 @@ Full text in English:
     
     <item>
       <title>Slovak Music Industry Report</title>
-      <link>https://dataandlyrics.com/publication/slovak_music_industry_2019/</link>
+      <link>/publication/slovak_music_industry_2019/</link>
       <pubDate>Tue, 26 Mar 2019 00:00:00 +0100</pubDate>
-      <guid>https://dataandlyrics.com/publication/slovak_music_industry_2019/</guid>
+      <guid>/publication/slovak_music_industry_2019/</guid>
       <description>&lt;p&gt;The whole report can be downloaded for free from the 
 &lt;a href=&#34;http://www.soza.sk/aktuality/235/soza-zverej%C5%88uje-historicky-prvu-spravu-o-slovenskom-hudobnom-priemysle&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;homepage of SOZA&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Press reports in Slovak:&lt;/p&gt;
@@ -82,9 +82,9 @@ Full text in English:
     
     <item>
       <title>Hungarian Music Industry Report</title>
-      <link>https://dataandlyrics.com/publication/hungary_music_industry_2014/</link>
+      <link>/publication/hungary_music_industry_2014/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0200</pubDate>
-      <guid>https://dataandlyrics.com/publication/hungary_music_industry_2014/</guid>
+      <guid>/publication/hungary_music_industry_2014/</guid>
       <description>&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/fQuYJEbQXoPgP3&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/antaldaniel/a-proart-zeneipari-jelentse&#34; title=&#34;A ProArt zeneipari jelentése&#34; target=&#34;_blank&#34;&gt;A ProArt zeneipari jelentése&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;https://www.slideshare.net/antaldaniel&#34; target=&#34;_blank&#34;&gt;Dániel Antal&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
 </description>
     </item>
