@@ -11,6 +11,8 @@ tags = ["CEEMID", "open-data", "music-demand", "music-observatory"]
 
 projects = ["music-observatory"]
 
+categories = ["rbloggers"]
+
 summary = "In the preparation to make the CEEMID available as an open-source data integration platform and as a source of open data for the European Music Observatory, the first regional dataset was published today."
 
 # Featured image
