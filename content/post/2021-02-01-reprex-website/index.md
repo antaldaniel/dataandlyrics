@@ -42,10 +42,3 @@ AI requires large datasets to be effective, small organizations face challenges 
 -	[Trustworthy AI](https://reprex.nl/service/trustworthy-ai/): Use validated, trustworthy AI applications or identify the biases of algorithms working against your goals.
 
 Our Listen Local project is our flagship trustworthy, transparent AI project.
-
-
-
-
-
-
-
