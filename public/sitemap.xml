@@ -3,12 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/tag/algorithms/</loc>
-    <lastmod>2020-12-17T17:10:00+02:00</lastmod>
+    <loc>/authors/</loc>
+    <lastmod>2021-02-02T10:10:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/</loc>
+    <loc>/author/daniel-antal-cfa/</loc>
+    <lastmod>2021-02-02T10:10:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2021-02-02T10:10:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/2021_03_06_ood/</loc>
+    <lastmod>2021-02-02T10:10:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/open-data/</loc>
+    <lastmod>2021-02-02T10:10:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2021-02-02T10:10:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/sustainability/</loc>
+    <lastmod>2021-02-02T10:10:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2021-02-02T10:10:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/algorithms/</loc>
     <lastmod>2020-12-17T17:10:00+02:00</lastmod>
   </url>
   
@@ -19,11 +54,6 @@
   
   <url>
     <loc>/author/daniel-antal/</loc>
-    <lastmod>2020-12-17T17:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
     <lastmod>2020-12-17T17:10:00+02:00</lastmod>
   </url>
   
@@ -59,11 +89,6 @@
   
   <url>
     <loc>/tag/slovakia/</loc>
-    <lastmod>2020-12-17T17:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2020-12-17T17:10:00+02:00</lastmod>
   </url>
   
@@ -258,11 +283,6 @@
   </url>
   
   <url>
-    <loc>/tag/open-data/</loc>
-    <lastmod>2020-11-23T07:55:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tag/hungary/</loc>
     <lastmod>2020-11-18T08:15:00+02:00</lastmod>
   </url>
@@ -354,11 +374,6 @@
   
   <url>
     <loc>/tag/charts/</loc>
-    <lastmod>2020-11-08T18:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/daniel-antal-cfa/</loc>
     <lastmod>2020-11-08T18:10:00+02:00</lastmod>
   </url>
   
@@ -758,12 +773,22 @@
   </url>
   
   <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-04-16T17:30:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/2020-04-16-regional-opendata-release/</loc>
     <lastmod>2020-04-16T17:30:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>/tag/music-demand/</loc>
+    <lastmod>2020-04-16T17:30:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/rbloggers/</loc>
     <lastmod>2020-04-16T17:30:00+02:00</lastmod>
   </url>
   
@@ -789,6 +814,11 @@
   
   <url>
     <loc>/post/2021-02-01-reprex-website/</loc>
+    <lastmod>2020-02-01T09:10:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2021-02-03-save-the-date-odd/</loc>
     <lastmod>2020-02-01T09:10:00+02:00</lastmod>
   </url>
   
@@ -1061,10 +1091,6 @@
   </url>
   
   <url>
-    <loc>/categories/</loc>
-  </url>
-  
-  <url>
     <loc>/author/daniel/</loc>
   </url>
   
@@ -1074,10 +1100,6 @@
   
   <url>
     <loc>/author/katya-nagy/</loc>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
   </url>
   
   <url>

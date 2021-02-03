@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sustainability | Data &amp; Lyrics</title>
+    <link>/tag/sustainability/</link>
+      <atom:link href="/tag/sustainability/index.xml" rel="self" type="application/rss+xml" />
+    <description>sustainability</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Tue, 02 Feb 2021 10:10:00 +0100</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>sustainability</title>
+      <link>/tag/sustainability/</link>
+    </image>
+    
+    <item>
+      <title>Open Data Day 2021</title>
+      <link>/talk/2021_03_06_ood/</link>
+      <pubDate>Tue, 02 Feb 2021 10:10:00 +0100</pubDate>
+      <guid>/talk/2021_03_06_ood/</guid>
+      <description>&lt;p&gt;Open Data Day is an annual celebration of open data all over the world. It is an opportunity to show the benefits of open data and encourage the adoption of open data policies in government, business, and civil society. Reprex is a start-up that utilizes open data with open-source reproducible research: please challenge us with your data requests and participate in our web events.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Details soon, save the day!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Link: 
+&lt;a href=&#34;https://opendataday.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Data Day&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
