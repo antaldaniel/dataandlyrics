@@ -5,12 +5,66 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Data &amp; Lyrics</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Tue, 02 Feb 2021 10:10:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Wed, 03 Feb 2021 09:16:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Data &amp; Lyrics</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Save The Date: Open Data Day 2021 on 6th March</title>
+      <link>/post/2021-02-03-save-the-date-odd/</link>
+      <pubDate>Wed, 03 Feb 2021 09:16:00 +0200</pubDate>
+      <guid>/post/2021-02-03-save-the-date-odd/</guid>
+      <description>&lt;p&gt;Open data is not only a cheap resource for scientists or NGOs, but a serious business opportunity for the business sector, too. The European Union has been promoting the business reuse of data collected at the taxpayer’s expense since 2003 – and our team members have been involved since the beginning. This is a particularly good deal opportunity for small businesses and organizations that do not have a big data infrastructure or budget.&lt;/p&gt;
+&lt;p&gt;At &lt;strong&gt;Open Data Day 2021&lt;/strong&gt;, our goal is to demonstrate how our open-source software can connect different sources and types of data to generate new knowledge about environmental sustainability by combining several perspectives: from air pollution sensors, public perceptions and opinions, and government policies. We will show how to connect environmental sensory data, environmental spending, and opinion polling data about the environment together with open-source software from open data sources, to follow the four highlighted topics of #ODD21. We’ll offer tutorials, webinars, and Q&amp;amp;A based around these topics.&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-we-will-show-how-to-use-open-access-survey-data-and-how-to-plot-results-on-a-map-this-dataset-was-used-in-an-empirical-study-on-the-structural-conditions-of-book-piracy-in-global-and-european-academiahttpsreprexnlpublicationscholarly_pirate_libraries_2020-published-in-plos-one&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/Eurobarometer_79_2_files/limitedlibrary-1.png&#34; data-caption=&#34;We will show how to use open access survey data, and how to plot results on a map. This dataset was used in an empirical study on the structural conditions of book piracy in global and European academia published in PLOS One.&#34;&gt;
+
+
+  &lt;img src=&#34;/img/Eurobarometer_79_2_files/limitedlibrary-1.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    We will show how to use open access survey data, and how to plot results on a map. This dataset was used in an &lt;a href=&#34;https://reprex.nl/publication/scholarly_pirate_libraries_2020/&#34;&gt;empirical study on the structural conditions of book piracy in global and European academia&lt;/a&gt; published in PLOS One.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Who would think that you can use &amp;ldquo;raw inflation data components&amp;rdquo; to create &lt;em&gt;cultural&lt;/em&gt; indicators? Working with open data often feels like working with raw diamonds, because most open data was originally collected and processed for a different use that you would have in mind. But this is our expertise – if you want to see public financing, opinion polling or sensory information about environmental and sustainability issues, &lt;strong&gt;do challenge us&lt;/strong&gt;. Be part of our Open Data Day, tell us about your research needs, and we’ll bring some open data to the surface to start the conversation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://opendataday.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Data Day&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://reprex.nl/talk/open-data-day-2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Our Event Page&lt;/a&gt;  &amp;ndash; with more details about guests and topics every day&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Open Data Day 2021</title>
@@ -21,6 +75,40 @@
 &lt;p&gt;&lt;strong&gt;Details soon, save the day!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Link: 
 &lt;a href=&#34;https://opendataday.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Data Day&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reprex Website</title>
+      <link>/post/2021-02-01-reprex-website/</link>
+      <pubDate>Mon, 01 Feb 2021 09:10:00 +0200</pubDate>
+      <guid>/post/2021-02-01-reprex-website/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;We want to help small organizations with big data.&lt;/strong&gt; Big data creates inequalities. Only the largest corporations, government bureaucracies, and scientific organizations have the human financial resources to create large, consistent datasets. We help our clients to access datasets of sufficient size, and to build trustworthy scientific, policy, business, or AI applications with the data.&lt;/p&gt;
+&lt;p&gt;Our new website, 
+&lt;a href=&#34;https://reprex.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;reprex.nl&lt;/a&gt; leaves the two flagship project &amp;mdash; 
+&lt;a href=&#34;https://listenlocal.community/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Listen Local&lt;/a&gt; and 
+&lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo Music Observatory&lt;/a&gt; pages intact, and connects through our service offering. The Data&amp;amp;Lyrics blog will remain open for many interesting topics that we find interesting for our partners, friends, readers.&lt;/p&gt;
+&lt;h2 id=&#34;data-access&#34;&gt;Data Access&lt;/h2&gt;
+&lt;p&gt;Reprex grew out of CEEMID, a project that connected data and pooled surveys across twelve countries and over fifty music industry stakeholders to create thousands of relevant policy, statistical, and scientific indicators for the music and creative industries. (See the Central European Music Industry Report 2020 at 
+&lt;a href=&#34;https://ceereport2020.ceemid.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ceereport2020.ceemid.edu&lt;/a&gt;.) Reprex offers services to help small organizations access data and use data in a trustworthy way.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://reprex.nl/service/data-curation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Data Curation&lt;/a&gt;: Find the best value data solution for your research or evaluation project.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://reprex.nl/service/open-data/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Data&lt;/a&gt;: Access thousands of statistical, business, and policy indicators in the cultural and creative industries and sustainability.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://reprex.nl/software/retroharmonize/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Survey harmonization&lt;/a&gt;: Reuse already existing surveys and harmonized question banks; create longitudinal and cross-sectional datasets.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We encourage our clients to become partners in our permanent data collection and sharing platforms: the data observatories.&lt;/p&gt;
+&lt;h2 id=&#34;data-use-research-automation--trustworthy-ai&#34;&gt;Data Use: Research Automation &amp;amp; Trustworthy AI&lt;/h2&gt;
+&lt;p&gt;AI requires large datasets to be effective, small organizations face challenges in harnessing the benefits of algorithms &amp;mdash; or, worse, biased algorithms created for different purposes will work against their strategic goals. We want to help our clients with pooling, sharing data, and validating or creating trustworthy applications.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://reprex.nl/service/research/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reproducible Research&lt;/a&gt;: Automate data collection, processing, validation, correction, and documentation to support error-prone human work.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://reprex.nl/service/trustworthy-ai/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trustworthy AI&lt;/a&gt;: Use validated, trustworthy AI applications or identify the biases of algorithms working against your goals.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Our Listen Local project is our flagship trustworthy, transparent AI project.&lt;/p&gt;
 </description>
     </item>
     
@@ -2909,87 +2997,6 @@ Final Report.&lt;/em&gt;, 397–417. Luxembourg.
 &lt;blockquote&gt;
 &lt;p&gt;Antal, Daniel (2020): Comparing Social Distancing in Europe (March, April 2020). figshare. Preprint. &lt;a href=&#34;https://doi.org/10.6084/m9.figshare.12124194.v1&#34;&gt;https://doi.org/10.6084/m9.figshare.12124194.v1&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Reprex Website</title>
-      <link>/post/2021-02-01-reprex-website/</link>
-      <pubDate>Sat, 01 Feb 2020 09:10:00 +0200</pubDate>
-      <guid>/post/2021-02-01-reprex-website/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;We want to help small organizations with big data.&lt;/strong&gt; Big data creates inequalities. Only the largest corporations, government bureaucracies, and scientific organizations have the human financial resources to create large, consistent datasets. We help our clients to access datasets of sufficient size, and to build trustworthy scientific, policy, business, or AI applications with the data.&lt;/p&gt;
-&lt;p&gt;Our new website, 
-&lt;a href=&#34;https://reprex.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;reprex.nl&lt;/a&gt; leaves the two flagship project &amp;mdash; 
-&lt;a href=&#34;https://listenlocal.community/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Listen Local&lt;/a&gt; and 
-&lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo Music Observatory&lt;/a&gt; pages intact, and connects through our service offering. The Data&amp;amp;Lyrics blog will remain open for many interesting topics that we find interesting for our partners, friends, readers.&lt;/p&gt;
-&lt;h2 id=&#34;data-access&#34;&gt;Data Access&lt;/h2&gt;
-&lt;p&gt;Reprex grew out of CEEMID, a project that connected data and pooled surveys across twelve countries and over fifty music industry stakeholders to create thousands of relevant policy, statistical, and scientific indicators for the music and creative industries. (See the Central European Music Industry Report 2020 at 
-&lt;a href=&#34;https://ceereport2020.ceemid.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ceereport2020.ceemid.edu&lt;/a&gt;.) Reprex offers services to help small organizations access data and use data in a trustworthy way.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://reprex.nl/service/data-curation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Data Curation&lt;/a&gt;: Find the best value data solution for your research or evaluation project.&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://reprex.nl/service/open-data/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Data&lt;/a&gt;: Access thousands of statistical, business, and policy indicators in the cultural and creative industries and sustainability.&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://reprex.nl/software/retroharmonize/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Survey harmonization&lt;/a&gt;: Reuse already existing surveys and harmonized question banks; create longitudinal and cross-sectional datasets.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;We encourage our clients to become partners in our permanent data collection and sharing platforms: the data observatories.&lt;/p&gt;
-&lt;h2 id=&#34;data-use-research-automation--trustworthy-ai&#34;&gt;Data Use: Research Automation &amp;amp; Trustworthy AI&lt;/h2&gt;
-&lt;p&gt;AI requires large datasets to be effective, small organizations face challenges in harnessing the benefits of algorithms &amp;mdash; or, worse, biased algorithms created for different purposes will work against their strategic goals. We want to help our clients with pooling, sharing data, and validating or creating trustworthy applications.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://reprex.nl/service/research/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reproducible Research&lt;/a&gt;: Automate data collection, processing, validation, correction, and documentation to support error-prone human work.&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://reprex.nl/service/trustworthy-ai/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trustworthy AI&lt;/a&gt;: Use validated, trustworthy AI applications or identify the biases of algorithms working against your goals.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Our Listen Local project is our flagship trustworthy, transparent AI project.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Reprex Website</title>
-      <link>/post/2021-02-03-save-the-date-odd/</link>
-      <pubDate>Sat, 01 Feb 2020 09:10:00 +0200</pubDate>
-      <guid>/post/2021-02-03-save-the-date-odd/</guid>
-      <description>&lt;p&gt;Open data is not only a cheap resource for scientists or NGOs, but a serious business opportunity for the business sector, too. The European Union has been promoting the business reuse of data collected at the taxpayer’s expense since 2003 – and our team members have been involved since the beginning. This is a particularly good deal opportunity for small businesses and organizations that do not have a big data infrastructure or budget.&lt;/p&gt;
-&lt;p&gt;At Open Data Day 2021, our goal is to demonstrate how our open-source software can connect different sources and types of data to generate new knowledge about environmental sustainability by combining several perspectives: from air pollution sensors, public perceptions and opinions, and government policies. We will show how to connect environmental sensory data, environmental spending, and opinion polling data about the environment together with open-source software from open data sources, to follow the four highlighted topics of #ODD21. We’ll offer tutorials, webinars, and Q&amp;amp;A based around these topics.&lt;/p&gt;
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-we-will-show-how-to-use-open-access-survey-data-and-how-to-plot-results-on-a-map&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/Eurobarometer_79_2_files/limitedlibrary-1.jpg&#34; data-caption=&#34;We will show how to use open access survey data, and how to plot results on a map.&#34;&gt;
-
-
-  &lt;img src=&#34;/img/Eurobarometer_79_2_files/limitedlibrary-1.jpg&#34; alt=&#34;&#34;  &gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    We will show how to use open access survey data, and how to plot results on a map.
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-
-&lt;p&gt;Who would think that you can use &amp;ldquo;raw inflation data components&amp;rdquo; to create &lt;em&gt;cultural&lt;/em&gt; indicators? Working with open data often feels like working with raw diamonds, because most open data was originally collected and processed for a different use that you would have in mind. But this is our expertise –&amp;ndash; if you want to see public financing, opinion polling or sensory information about environmental and sustainability issues, do challenge us. Be part of our Open Day, tell us about your research needs, and we’ll bring some open data to the surface to start the conversation.&lt;/p&gt;
 </description>
     </item>
     
