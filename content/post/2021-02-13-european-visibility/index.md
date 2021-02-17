@@ -2,7 +2,7 @@
 title = "Ensuring the Visibility and Accessibility of European Creative Content on the World Market: The Need for Copyright Data Improvement in the Light of New Technologies"
 
 date = 2021-02-13T18:10:00+02:00
-lastmod = 2021-02-13T18:10:00+02:00
+lastmod = 2021-02-17T18:10:00+02:00
 draft = false
 
 authors = ["Daniel Antal"]
