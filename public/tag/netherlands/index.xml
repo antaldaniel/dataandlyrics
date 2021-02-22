@@ -5,12 +5,28 @@
     <link>/tag/netherlands/</link>
       <atom:link href="/tag/netherlands/index.xml" rel="self" type="application/rss+xml" />
     <description>Netherlands</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Mon, 14 Dec 2020 08:10:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Tue, 16 Feb 2021 17:10:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Netherlands</title>
       <link>/tag/netherlands/</link>
     </image>
+    
+    <item>
+      <title>Reprex Joins The Dutch AI Coalition</title>
+      <link>/post/2021-02-16-nlaic/</link>
+      <pubDate>Tue, 16 Feb 2021 17:10:00 +0200</pubDate>
+      <guid>/post/2021-02-16-nlaic/</guid>
+      <description>&lt;p&gt;Reprex, our start-up, is based in the Netherlands and the United States that validated its early products in the 
+&lt;a href=&#34;post/2020-09-25-yesdelft-validation/&#34;&gt;Yes!Delft AI+Blockchain Lab&lt;/a&gt; in the Hague. In 2021, we decided to join the Dutch AI Coalition &amp;ndash; 
+&lt;a href=&#34;https://nlaic.com/en/about-nl-aic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NL AIC&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The NL AIC is a public-private partnership in which the government, the business sector, educational and research institutions, as well as civil society organisations collaborate to accelerate and connect AI developments and initiatives. The ambition is to position the Netherlands at the forefront of knowledge and application of AI for prosperity and well-being. We are continually doing so with due observance of both the Dutch and European standards and values. The NL AIC functions as the catalyst for AI applications in our country.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;We are particularly looking forward to participating in the Culture working group of NLAIC, but we will also take a look at the Security, Peace and Justice and the Energy and Sustainability working groups.  Reprex is committed to use and further develop AI solutions that fulfil the requirements of trustworthy AI, a human-centric, ethical, and accountable use of artificial intelligence.  We are committed to develop our data platforms, or automated data observatories, and our Listen Local system in this manner. Furthermore, we are involved in various scientific collaborations that are researching ideas on future regulation of copyright and fair competition with respect to AI algorithms.&lt;/p&gt;
+&lt;p&gt;We are committed to applying reproducible in an open collaboration with our business, scientific, policy and civil society partners, and facilitate the use of open data and open-source software.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Tiny Rooms: A Label That Connects DIY Scenes</title>
