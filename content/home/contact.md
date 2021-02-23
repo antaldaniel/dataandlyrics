@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 130  # Order that this section will appear.
 
 title = "Contact"
-subtitle = ""
+subtitle = "Chat with us on Keybase"
 
 # Automatically link email and phone?
 autolink = true
@@ -18,3 +18,4 @@ autolink = true
 email_form = 2
 +++
 
+We are editing Data & Lyrics on Chat with us on Keybase.  During daytime hours in Europe and the U.S. you are likely to find somebody on our [team channel](https://keybase.io/team/datalyrics). Alternatively, you can send us an email with the form below, or get in touch on social media.
