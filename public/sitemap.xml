@@ -3,32 +3,92 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/author/amelia-fletcher/</loc>
+    <lastmod>2021-02-24T21:23:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2021-02-24T21:23:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/competition/</loc>
+    <lastmod>2021-02-24T21:23:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/daniel-antal/</loc>
+    <lastmod>2021-02-24T21:23:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2021-02-24T21:23:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/listen-local/</loc>
+    <lastmod>2021-02-24T21:23:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2021-02-24-music-level-playing-field/</loc>
+    <lastmod>2021-02-24T21:23:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/music-observatory/</loc>
+    <lastmod>2021-02-24T21:23:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/music-streaming/</loc>
+    <lastmod>2021-02-24T21:23:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/peter-ormosi/</loc>
+    <lastmod>2021-02-24T21:23:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2021-02-24T21:23:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2021-02-24T21:23:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/ucps/</loc>
+    <lastmod>2021-02-24T21:23:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2021-02-22-jump/</loc>
+    <lastmod>2021-02-22T21:23:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/eu/</loc>
+    <lastmod>2021-02-22T21:23:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/jump/</loc>
+    <lastmod>2021-02-22T21:23:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tag/ai/</loc>
     <lastmod>2021-02-22T09:10:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>/tag/algorithms/</loc>
-    <lastmod>2021-02-22T09:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2021-02-22T09:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/competition/</loc>
-    <lastmod>2021-02-22T09:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/daniel-antal/</loc>
-    <lastmod>2021-02-22T09:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
     <lastmod>2021-02-22T09:10:00+02:00</lastmod>
   </url>
   
@@ -43,22 +103,7 @@
   </url>
   
   <url>
-    <loc>/tag/listen-local/</loc>
-    <lastmod>2021-02-22T09:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2021-02-22T09:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tag/spotify/</loc>
-    <lastmod>2021-02-22T09:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2021-02-22T09:10:00+02:00</lastmod>
   </url>
   
@@ -94,11 +139,6 @@
   
   <url>
     <loc>/tag/metadata/</loc>
-    <lastmod>2021-02-17T18:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/music-observatory/</loc>
     <lastmod>2021-02-17T18:10:00+02:00</lastmod>
   </url>
   
@@ -445,11 +485,6 @@
   <url>
     <loc>/post/2020-11-17-recommendation-analysis/</loc>
     <lastmod>2020-11-17T11:03:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/eu/</loc>
-    <lastmod>2020-11-16T07:03:00+02:00</lastmod>
   </url>
   
   <url>
