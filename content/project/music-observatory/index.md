@@ -43,7 +43,7 @@ url_code = ""
   focal_point = "Smart"
 +++
 
-We are developing our [Demo Music Observatory](project/music-observatory/) in the world's 2nd ranked university-backed incubator program, the [Yes!Delft AI Validation Lab](post/2020-09-25-yesdelft-validation/). Our aim is to show a better organizational model, examples of research automation and other data integration innovation that can reduce the budgetary needs of the European Music Observatory by 80-90% and provide far more timely, accurate, and relevant service than most data observatories in Europe.
+We are developing our [Demo Music Observatory](https://music.dataobservatory.eu/) in the world's 2nd ranked university-backed incubator program, the [Yes!Delft AI Validation Lab](post/2020-09-25-yesdelft-validation/). Our aim is to show a better organizational model, examples of research automation and other data integration innovation that can reduce the budgetary needs of the European Music Observatory by 80-90% and provide far more timely, accurate, and relevant service than most data observatories in Europe.
 
 1. [Background](#background)
 2. [Data gaps](#data-gaps)
@@ -81,7 +81,7 @@ The problem with Nielsen’s charts, or any chart provider’s chart, is that it
 
 We believe that the right approach, followed by our Demo Music Observatory, is a reconciliation with the work on [Big Data](https://ec.europa.eu/eurostat/cros/content/big-data_en) the  European Statistical System (i.e. the partnership of Eurostat and the national statistical authorities.) (See [our analysis](https://ceereport2020.ceemid.eu/market.html#recmarket) of 20 advanced, emerging and future markets in Europe.)
 
-`Challenge Our Demo Observatory`: *Check out the* [Music Diversity & Circulation Pillar](https://demoobservatory.dataobservatory.eu/music-diversity-circulation.html) *of our Demo Music Observatory.  If you do not find what you are looking for,* [contact us](https://dataobservatory.eu/#contact) --- *we will try to put the data there from our repositories.*
+`Challenge Our Demo Observatory`: *Check out the* [Music Diversity & Circulation Pillar](https://demoobservatory.dataobservatory.eu/music-diversity-circulation.html) *of our Demo Music Observatory.  If you do not find what you are looking for,* [contact us](https://reprex.nl/#contact) --- *we will try to put the data there from our repositories.*
 
 ### People & Diversity 
 
