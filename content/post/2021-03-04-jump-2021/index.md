@@ -3,7 +3,7 @@ title = "Our Music Observatory in the Jump European Music Market Accelerator: Me
 
 date = 2021-03-04T15:00:00+02:00
 lastmod = 2021-03-04T15:00:00+02:00
-draft = true
+draft = false
 
 authors = ["Daniel Antal"]
 
