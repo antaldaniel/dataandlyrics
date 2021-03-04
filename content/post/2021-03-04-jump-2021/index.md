@@ -35,14 +35,14 @@ For nine months, the 20 fellows living in many European countries will develop t
 The 20 selected projects cover a great variety of urgent needs faced within the music sector.
 They will:
 
-- [x] help fostering social change with projects focusing on diversity in the industry, more fairness and
+- help fostering social change with projects focusing on diversity in the industry, more fairness and
 transparency as well as raising awareness on timely issues.
 
-- [x] enhance technological development with projects using blockchain, immersive sound and VR and AR.
+- enhance technological development with projects using blockchain, immersive sound and VR and AR.
 
-- [x] build bridges between different key actors of the ecosystem.
+- build bridges between different key actors of the ecosystem.
 
-{{% staticref "documents/JUMP2021_Annoucement_Press Release_040321.pdf" "newtab" %}}Download the entire JUMP press release{{% /staticref %}}.
+{{% staticref "documents/JUMP2021_Annoucement_Press_Release_040321.pdf" "newtab" %}}Download the entire JUMP press release{{% /staticref %}}.
 
 Reprex's project, the automated [Demo Music Observatory](https://reprex.nl/project/music-observatory/) will be represented by Daniel Antal, co-founder of Reprex among other building bridges projects. This project offers a different approach to the planned European Music Observatory based on the principles of open collaboration, which allows contributions from small organizations and even individuals, and which provides higher levels of quality in terms of auditability, timeliness, transparency and general ease of use. Our open collaboration approach allows to power trustworthy, ethical AI systems like our [Listen Local](https://reprex.nl/project/listen-local/) that we started out from Slovakia with the support of the Slovak Arts Council. 
 
@@ -52,7 +52,7 @@ Apart from our [Demo Music Observatory](https://reprex.nl/project/music-observat
 
 _Meet all the [JUMP 2021 Fellows](https://www.jumpmusic.eu/fellows/), including the technology and social change professionals!_
 
-Reprex is a start-up company based in the Netherlands and the United States that validated its early products in the [Yes!Delft AI+Blockchain Lab](post/2020-09-25-yesdelft-validation/) in the Hague. In 2021 we joined the Dutch AI Coalition -- [NL AIC](post/2021-02-16-nlaic/) and requested membership in the European AI Alliance. Reprex is committed to applying reproducible in an open collaboration with our business, scientific, policy and civil society partners, and facilitate the use of open data and open-source software.
+Reprex is a start-up company based in the Netherlands and the United States that validated its early products in the [Yes!Delft AI+Blockchain Lab](post/2020-09-25-yesdelft-validation/) in the Hague. In 2021 we joined the Dutch AI Coalition -- [NL AIC](post/2021-02-16-nlaic/) and requested membership in the European AI Alliance. Reprex is committed to applying reproducible in an open collaboration with our business, scientific, policy and civil society partners, and facilitate the use of open data and open-source software. Many fellows in the program are connected to other regions, like North America and Australia -- because music is one of the most globalized industries and forms of art in the world!  Reprex is a startup based in the Netherlands and the United States, and we are very excited to collaborate with our peers in new European territories, and in Canada and Australia. 
 
 {{< figure src="JUMP_events_2021.png" caption="Hope to meet you in these great events - maybe not only online!" >}}
 
