@@ -26,6 +26,7 @@ projects = ["listen-local"]
   preview_only = true
 
 +++
+{{< figure src="/img/logos/JUMP_Banner_851x315.png" >}}
 
 Daniel Antal, co-founder of Reprex, and co-editor of Data & Lyrics, was selected into 2021 Fellowship program of [JUMP, the European Music Market Accelerator](https://www.jumpmusic.eu/). Jump provides a framework for music professionals to develop innovative business models, encouraging the music sector to work on a transnational level.  The European Music Market Accelerator composed of MaMA Festival and Convention, UnConvention, MIL, Athens Music Week, Nouvelle Prague and Linecheck support him in the development of our two, interrelated projects over the next nine months.
 
