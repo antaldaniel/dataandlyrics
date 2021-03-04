@@ -42,7 +42,7 @@ transparency as well as raising awareness on timely issues.
 
 - [x] build bridges between different key actors of the ecosystem.
 
-{{% staticref "JUMP2021_Annoucement_Press Release_040321.pdf" "newtab" %}}Download the entire JUMP press release{{% /staticref %}}.
+{{% staticref "documents/JUMP2021_Annoucement_Press Release_040321.pdf" "newtab" %}}Download the entire JUMP press release{{% /staticref %}}.
 
 Reprex's project, the automated [Demo Music Observatory](https://reprex.nl/project/music-observatory/) will be represented by Daniel Antal, co-founder of Reprex among other building bridges projects. This project offers a different approach to the planned European Music Observatory based on the principles of open collaboration, which allows contributions from small organizations and even individuals, and which provides higher levels of quality in terms of auditability, timeliness, transparency and general ease of use. Our open collaboration approach allows to power trustworthy, ethical AI systems like our [Listen Local](https://reprex.nl/project/listen-local/) that we started out from Slovakia with the support of the Slovak Arts Council. 
 
