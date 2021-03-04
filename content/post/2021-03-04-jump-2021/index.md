@@ -34,9 +34,12 @@ For nine months, the 20 fellows living in many European countries will develop t
 
 The 20 selected projects cover a great variety of urgent needs faced within the music sector.
 They will:
+
 - [x] help fostering social change with projects focusing on diversity in the industry, more fairness and
 transparency as well as raising awareness on timely issues.
+
 - [x] enhance technological development with projects using blockchain, immersive sound and VR and AR.
+
 - [x] build bridges between different key actors of the ecosystem.
 
 {{% staticref "JUMP2021_Annoucement_Press Release_040321.pdf" "newtab" %}}Download the entire JUMP press release{{% /staticref %}}.
