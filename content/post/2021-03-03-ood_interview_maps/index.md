@@ -35,11 +35,14 @@ That’s a great question that really makes me pause and look back at the past 5
 
 I used to think that my interest is linked to growing up in a war-torn country. But, as my map-making evolved, I discovered that my passion is to use maps as a way to democratize the data: to take the scores of unused, and often buried datasets, place them on the map and share the dataviz with people.
 
+
 **Can you show us an example of the best use of mapped data, and the best map that you have personally created? What is their distinctive value?**
 
 I’m immensely proud of my work that required making the shapefiles from the scratch. For instance, my shapefile of over 1500 Kosovo cadastral settlements came into being after I turned dozens of high-resolution raster files into a shapefile fully compatible with Open Street Maps. After months of hard work, I managed to merge the shapefile with the 2011 Kosovo census and present several laser-focused demographic maps to my audience. Same goes for the settlement shapefile of _Republika Srpska_ [the Serb-speaking entity of Bosnia-Herzegovina — the editor], which I made out of a pdf file and merged with the 2013 census data. Whereas most existing maps take a bird’s eye view, my work offers a more fine-grained view of the local dynamics to stakeholders.
 
-Another similar undertaking was my transformation of the pre-WWII German military map of Yugoslavia into a unique shapefile of a few hundred Yugoslav municipalities. I combined this shapefile with the 1931 census data, 80 years after it was first published (better late than never!). It took me almost a year to complete this tremendous project but I enjoyed every bit of it. I’ve teamed up with [my brother](https://aleksandarpopovic.com/) who is a web developer and we even made [an interactive map of Yugoslavia based on the 1931 census](https://milosp.info/maps/interactive/census1931/index.html). We hope this project would serve not only scholars but also history enthusiasts to better understand a history of the country that is no more.
+Another similar undertaking was my transformation of the pre-WWII German military map of Yugoslavia into a unique shapefile of a few hundred Yugoslav municipalities. I combined this shapefile with the 1931 census data, 80 years after it was first published (better late than never!). It took me almost a year to complete this tremendous project but I enjoyed every bit of it. I have teamed up with [my brother](https://aleksandarpopovic.com/) who is a web developer and we even made [an interactive map of Yugoslavia based on the 1931 census](https://milosp.info/maps/interactive/census1931/index.html).[*The screenshot of this interactive map is the top image in the post -- the editor*] We hope this project would serve not only scholars but also history enthusiasts to better understand a history of the country that is no more.
+
+{{< figure src="milos_popovic_internet_never.png" title="Check out Milos’s beautiful static and interactive maps on [https://milosp.info/]([https://milosp.info/)" >}}
 
 **What do you think about collaboration based on open data and open-source software that processes such data?**
 
