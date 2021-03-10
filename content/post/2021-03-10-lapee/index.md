@@ -7,7 +7,7 @@ draft = false
 
 authors = ["Daniel Antal"]
 
-tags = ["feminsim", "live-music", "future", "JUMP"]
+tags = ["feminsim", "live-music", "future", "JUMP", "Denmark", "Copenhagen", "startup"]
 
 summary = "Gina Périer is a fellow in the JUMP European Music Market Accelerator. She is an architect trying to solve a serious problem before music festivals reopen after the pandemic: many, many women, all in one place… who need to pee."
 
@@ -45,7 +45,7 @@ When we started drawing Lapee, we made some 1/1 cardboard models and we invited 
 
 **Can you name another product or service that help womxn to participate more in music, either as members of the audience, or as creators, or technicians that you like?**
 
-![clubmafia99](clubmaffia99.png)
+[![clubmafia99](clubmafia99.png)](https://www.instagram.com/clubmafia99/)
 
 I think that safety is still quite an issue within the music industry. I have a friend who created an organisation, Club Mafia, which consists of having a community of people that can educate and help people in trouble or making trouble. Basically they are people in between safety guards and participants that are easier to reach out to and that are more understanding and value minded. They will listen to you if you feel uncomfortable and will go and explain to the person how not to make someone uncomfortable. I think it’s a great initiative!
 
@@ -55,18 +55,19 @@ So I hope for more ideas that can improve equality. I also really hope for music
 
 **You were selected to JUMP along with us. What do you expect to gain from this European Music Accelerator?**
 
-![JUMP Fellow Gina Périer](JUMP_Gina_Périer.png)
+[![JUMP Fellow Gina Périer](JUMP_Gina_Périer.png)](https://www.jumpmusic.eu/fellow2021/lapee/)
 
 I hope to develop a great relevant network and make Lapee a normality in festivals :)
 
 **In our [Listen Local](https://dataandlyrics.com/project/listen-local/) project, we try to bypass recommendation and gatekeeper biases and make sure that local music scenes are connected to local people, and not colonized by the global music industry. Can you recommend any bands, labels, or local festivals from the area where you live?**
 
 Check out this:
-![ved_siden_af](ved_siden_af.png)
-ved_siden_af
+
+[![ved_siden_af](ved_siden_af.png)](https://www.instagram.com/ved_siden_af/)
+
 
 … and this:
-![endurance.chp](endurance_chp.png)
+[![endurance.chp](endurance_cph.png)](https://www.instagram.com/endurance.cph/)
 
 
 ## How many awards has Lapee won?
@@ -75,3 +76,13 @@ Shortlisted for the Danish Design Award in DK — Shortlisted in the Best Toilet
 ## Further Lapee details
 
 **All product photos and infographics are taken from [lapee.dk](https://www.lapee.dk/). Gina is very vocal that the product is meant to be a safe, quick, comfortable choice for everybody who identifies as a woman, but it should not be viewed as a unisex solution. “Who ever identifies as women or femme, and feels safer squatting, is more than welcome to use Lapee. Boys you pee literally e-v-e-r-y-w-h-e-r-e, leave some space for the girls please. Thanks!”**
+
+## Links
+
+- [Lapee](https://www.lapee.dk/)
+- [Gina Périer JUMP fellow 2021](https://www.jumpmusic.eu/fellow2021/lapee/)
+- [clubmafia99](https://www.instagram.com/clubmafia99/)
+- [ved_siden_af](https://www.instagram.com/ved_siden_af/)
+- [endurance.cph](https://www.instagram.com/endurance.cph/)
+- [Listen Local](https://dataandlyrics.com/project/listen-local/)
+- [JUMP European Music Accelerator](https://www.jumpmusic.eu/)
