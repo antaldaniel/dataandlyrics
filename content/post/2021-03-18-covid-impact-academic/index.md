@@ -14,7 +14,7 @@ summary = "After a couple of months on planing, the IASPM event I organised on t
 # Featured image
 [image]
   # Caption (optional)
-  caption = "Walking around the festival populated with male urinals, it was quite hard to understand why there wasn’t a proper industrialized solution for womxn yet."
+  caption = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
