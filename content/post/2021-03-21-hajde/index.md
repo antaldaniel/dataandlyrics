@@ -47,11 +47,11 @@ Hajde is currently published by *Association Hajde Creative*, and relies on [don
 
 Hajde’s founder applied to the [JUMP European Music Market Accelerator](https://www.jumpmusic.eu/) to create [Hajde Radio](https://hajde.fr/general/actus/hajde-lance-hajde-radio/), a music-oriented podcast and radio program, but this is only viable within a broader concept. Thibaut wants to create a self-brand as a curator, to find affiliations with cultural tourist destinations and festivals with all his media, and to generally show a different side of the region to a French-speaking audience. His plan has three focus points:
 
-- “**Trendings**” brings together articles dealing with cultural discoveries (music, cinema, arts and literature, lifestyle), as well as the latest news and social trends for a better understanding of these countries.
+1. [Trendings](https://hajde.fr/tendances/) brings together articles dealing with cultural discoveries (music, cinema, arts and literature, lifestyle), as well as the latest news and social trends for a better understanding of these countries.
 
-- “**Go East**” will be the ultimate tourist guide to Eastern Europe, with must-see places (heritage, natural sites, cultural and underground places) and discoveries (food, traditions, green activities, outdoor activities and well-being). The expertise of its editors help the tourist choose the next destination, prepare for visits and take the time to travel in “slow tourism” style.
+2. [Go East](https://hajde.fr/destination-est/) will be the ultimate tourist guide to Eastern Europe, with must-see places (heritage, natural sites, cultural and underground places) and discoveries (food, traditions, green activities, outdoor activities and well-being). The expertise of its editors help the tourist choose the next destination, prepare for visits and take the time to travel in “slow tourism” style.
 
-- “**Festivals**” and music have been in Hajde’s DNA since its beginning. Regularly updated pages are dedicated to the biggest festivals in the East as well as the most under-the-radar.
+3. [Festivals](https://hajde.fr/festivals/) and music have been in Hajde’s DNA since its beginning. Regularly updated pages are dedicated to the biggest festivals in the East as well as the most under-the-radar.
 
 <iframe src="https://open.spotify.com/embed/playlist/6ESirwBrnBsIwocFK2hsmp" width="700" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
