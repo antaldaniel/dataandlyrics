@@ -51,6 +51,10 @@ Also, we are creating a platform for a group of musicians, healers, and artists 
 
 The more we go virtual the more there is also a need for real life connection. So on the one end, it doesn’t matter where all of us are based, as long as we have access to high-speed internet. On the other hand, real life encounters will become more rare and precious: basically what is happening now during all these lockdowns. So it will come down to making careful decisions about when to travel to create these real life experiences, and at the same time making sure that with virtual communication channels we keep in touch and keep creating the intimacy that is needed to perform and create new projects.
 
+<iframe width="700" height="393" src="https://www.youtube.com/embed/Y1jQHudtpzU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+>Check out Claudio Vittori's Collateral Nature debut album [Morning Mars](https://machinejockey.net/collateral-nature-morning-mars-eng/). The album has ten original tracks of which half are instrumental.  The album is enriched with immersive contents and produced in Stereo, binaural and Dolby Atmos.
+
 **Elise, you have a background in book publishing and distribution. As an experienced book publisher and a book couch, what insights can you bring into the music market? What has surprised you the most on this journey?**
 
 ![Elise on boekcoach.nl](Elise-de-Bres-boekcoach-slider-home.jpg)
