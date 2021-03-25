@@ -25,7 +25,7 @@ projects = ["listen-local"]
 slides = ""
 
 # Tags (optional).
-tags = ["Slovakia", "trustworthy-AI", "recommendations", "music-distribution"]
+tags = ["Slovakia", "trustworthy-AI", "recommendations", "music-distribution", "local-content-regulation"]
 
 # Links (optional).
 url_pdf = "https://dataandlyrics.com/publications/Listen_Local_Feasibility_Study_2020_EN.pdf"
