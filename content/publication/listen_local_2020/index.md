@@ -109,3 +109,5 @@ Thanks for the entire Reprex team who contributed to the English version:
 and the Slovak version:
 - **Dáša Bulíková**, musician, translator
 - **Dominika Semaňáková**, musicologist, editor, layout.
+
+Special thanks to [Tammy Nižňanska](https://dataandlyrics.com/post/2020-11-30-youniverse/).

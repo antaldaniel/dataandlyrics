@@ -6,9 +6,9 @@ draft = false
 
 authors = ["Daniel Antal"]
 
-tags = ["Slovakia", "trustworthy-AI", "recommendations", "music-distribution"]
+tags = ["Slovakia", "trustworthy-AI", "recommendations", "music-distribution", "local-content-regulation"]
 
-summary = "HAJDE is a digital platform specializing in eco-responsible and cultural tourism in Eastern Europe. Its founder, Thibaut Boudaud, is developing his project alongside our music observatory in the JUMP European Music Market Accelerator."
+summary = "Why are the total market shares of Slovak music relatively low both on the domestic and the foreign markets? How can we measure the market share of the Slovak music in the domestic and foreign markets? We offer some answers and solution based on empirical research and with the creation of a database and an AI application."
 
 # Featured image
 [image]
