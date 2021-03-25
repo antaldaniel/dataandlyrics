@@ -66,10 +66,14 @@ The Slovak broadcasting quotas in comparison with other national quotas a very s
 
 Another deficiency of the broadcasting quotas is that because of its fuzzy target, it is not clear whom it tries to help, and it has few friends. It is unclear how performers, composers or Slovak music producers can benefit from the system. Furthermore, it only helps a few genres, and it decreases the chances of other Slovak music in instrumental and non-Slovak language genres (for example, classical, jazz, rock) to be heard.
 
+{{< figure src="/img/streaming/mind_map_goal_setting.jpg" caption="What should a good local content policy (radio quota, recommendation system, streaming quota) achieve?" numbered="true" >}}
+
 And at last, radio is losing its importance in music discovery. New generation find the music during their music discovery age on YouTube and digital streaming platforms. A Slovak content promoting policy that does not work on digital streaming platforms will be obsolete when radio content providers will switch to digital streaming in the foreseeable future.
 
 **Our Feasibility Study follows the following logic:**
 In the first chapter we introduce various music recommendation systems in the context of local content promotion polices, like local mandatory content quota regulations.
+
+{{< figure src="/img/streaming/mind_map_recommendations.jpg" caption="We aimed to create a demo version of a utility-based, transparent, accountable recommendation system." numbered="true" >}}
 
 In the second chapter, we consider the market-based or creative industry economy supporting policy goals, measurements, and potential support given to artists and producers.
 
@@ -81,7 +85,10 @@ The project website contains the [Demo Slovak Music Database](https://listenloca
 
 We also created a [Demo Recommendation System](https://listenlocal.community/project/demo-app/). We explain here [why](https://listenlocal.community/post/2020-11-23-alternative-recommendations/).
 
-##Research questions
+{{< figure src="/img/streaming/listen_local_app_1.png" caption="Screenshot of the first verison of the demo app." numbered="true" >}}
+
+## Research questions
+
 * Why are the total market shares of Slovak music relatively low both on the domestic and the foreign markets?
 * How can we measure the market share of the Slovak music in the domestic and foreign markets?
 * How can we measure the value gap between what some media platforms, most particularly the biggest YouTube, does not pay out to the Slovak stakeholders within Slovakia?
@@ -89,14 +96,16 @@ We also created a [Demo Recommendation System](https://listenlocal.community/pro
 * How ‘shadow-markets’ of home copying and unlicensed media platforms, such as YouTube impact market shares directly and national quotas indirectly?
 * How can modern data science, predictive microeconomics and statistics help increase the market share of Slovak music in Slovakia and abroad?
 
+We would like to continue this work in more depth in Slovakia, and include new countries and regions, for example, Estonia, Hungary, the Netherlands, Flanders and Wales in the next versions. We are also planning city-version. 
 
 Thanks for the entire Reprex team who contributed to the English version:
 
-- **Dr. Emily H. Clarke**, musicology
+- **Budai, Sándor**, programming and deployment
+- **Dr. Emily H. Clarke**, musicologist
 - **Stef Koenis**, musicologist, musician
 - **Dr. Andrés Garcia Molina**, data scientist, musicologist, editor
 - **Kátya Nagy**, music journalist, research assistant; 
 
 and the Slovak version:
-- **Dominika Semaňáková**, musicologist, editor
-- **Dáša Bulíková**, musician, translator.
+- **Dáša Bulíková**, musician, translator
+- **Dominika Semaňáková**, musicologist, editor.
