@@ -8,12 +8,10 @@ authors = ["Daniel Antal", "Dáša Bulíková (translator)"]
 # Publication type.
 # Legend:
 
-publication_types = ["0"]
+publication_types = ["4"]
 
 # Abstract and optional shortened version.
 abstract = "Why are the total market shares of Slovak music relatively low both on the domestic and the foreign markets? How can we measure the market share of the Slovak music in the domestic and foreign markets? We offer some answers and solution based on empirical research and with the creation of a database and an AI application."
-
-abstract_short = "The lacking strategy to organize data and metadata in a multilingual Europe puts creators opens up the biggest cultural market of the world to American competition."
 
 # Is this a selected publication? (true/false)
 featured = true
@@ -60,9 +58,9 @@ math = true
   focal_point = "Left"
 +++
 
-{{% staticref "media/publications/Listen_Local_Feasibility study_2020_SK.pdf" "newtab" %}}direct download{{% /staticref %}} in Slovak.
+{{% staticref "media/publications/Listen_Local_Feasibility_Study_2020_SK.pdf" "newtab" %}}direct download{{% /staticref %}} in Slovak.
 
-{{% staticref "media/publications/Listen_Local_Feasibility study_2020_EN.pdf" "newtab" %}}direct download{{% /staticref %}} in English.
+{{% staticref "media/publications/Listen_Local_Feasibility_Study_2020_EN.pdf" "newtab" %}}direct download{{% /staticref %}} in English.
 
 In 2015, realizing the low visibility and income-generating potential of Slovak music, the legislation introduced an amendment to the broadcasting act to regulate local content in radiostreams. The Slovak content promoting policy was well-intended but not based on any impact assessment, and it reached its goal only partially.
 
@@ -94,16 +92,13 @@ We also created a [Demo Recommendation System](https://listenlocal.community/pro
 * How can modern data science, predictive microeconomics and statistics help increase the market share of Slovak music in Slovakia and abroad?
 
 
-
-
 Thanks for the entire Reprex team who contributed to the English version:
 
-Dr. Emily H. Clarke, musicology
-Stef Koenis, musicologist, musician
-Dr. Andrés Garcia Molina, data scientist, musicologist, editor
-Kátya Nagy, music journalist, research assistant
+**Dr. Emily H. Clarke**, musicology
+**Stef Koenis**, musicologist, musician
+**Dr. Andrés Garcia Molina**, data scientist, musicologist, editor
+**Kátya Nagy**, music journalist, research assistant; 
 
-
-And the Slovak version:
-Dominika Semaňáková, musicologist, editor
-Dáša Bulíková, musician, translator
+and the Slovak version:
+**Dominika Semaňáková**, musicologist, editor
+**Dáša Bulíková**, musician, translator.
