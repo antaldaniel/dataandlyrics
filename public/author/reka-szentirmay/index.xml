@@ -5,11 +5,16 @@
     <link>/author/reka-szentirmay/</link>
       <atom:link href="/author/reka-szentirmay/index.xml" rel="self" type="application/rss+xml" />
     <description>Réka Szentirmay</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Fri, 25 Sep 2020 15:31:39 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Réka Szentirmay</title>
       <link>/author/reka-szentirmay/</link>
+    </image>
+    
+  </channel>
+</rss>
+reka-szentirmay/</link>
     </image>
     
     <item>

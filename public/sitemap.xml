@@ -1,1248 +1,868 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
+    <loc>/publication-type/0/</loc>
+    <lastmod>2021-03-25T11:00:00+01:00</lastmod>
+  </url><url>
+    <loc>/authors/</loc>
+    <lastmod>2021-03-25T11:00:00+01:00</lastmod>
+  </url><url>
+    <loc>/tag/books/</loc>
+    <lastmod>2021-03-25T11:00:00+01:00</lastmod>
+  </url><url>
+    <loc>/author/daniel-antal/</loc>
+    <lastmod>2021-03-25T11:00:00+01:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2021-03-25T11:00:00+01:00</lastmod>
+  </url><url>
+    <loc>/author/dasa-bulikova-translator/</loc>
+    <lastmod>2021-03-25T11:00:00+01:00</lastmod>
+  </url><url>
+    <loc>/publication/listen_local_2020/</loc>
+    <lastmod>2021-03-25T11:00:00+01:00</lastmod>
+  </url><url>
+    <loc>/tag/libraries/</loc>
+    <lastmod>2021-03-25T11:00:00+01:00</lastmod>
+  </url><url>
+    <loc>/tag/market-report/</loc>
+    <lastmod>2021-03-25T11:00:00+01:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2021-03-25T11:00:00+01:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2021-03-25T11:00:00+01:00</lastmod>
+  </url><url>
+    <loc>/tag/shadow-libraries/</loc>
+    <lastmod>2021-03-25T11:00:00+01:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2021-03-25T11:00:00+01:00</lastmod>
+  </url><url>
+    <loc>/tag/amersfoort/</loc>
+    <lastmod>2021-03-22T19:19:00+02:00</lastmod>
+  </url><url>
+    <loc>/author/emily-hansell-clark/</loc>
+    <lastmod>2021-03-22T19:19:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/jump/</loc>
+    <lastmod>2021-03-22T19:19:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/milano/</loc>
+    <lastmod>2021-03-22T19:19:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/music-therapy/</loc>
+    <lastmod>2021-03-22T19:19:00+02:00</lastmod>
+  </url><url>
+    <loc>/post/</loc>
+    <lastmod>2021-03-22T19:19:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/sound-design/</loc>
+    <lastmod>2021-03-22T19:19:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/startup/</loc>
+    <lastmod>2021-03-22T19:19:00+02:00</lastmod>
+  </url><url>
+    <loc>/post/2021-03-22-flower-of-sound/</loc>
+    <lastmod>2021-03-22T19:19:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/festivals/</loc>
+    <lastmod>2021-03-21T19:19:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/france/</loc>
+    <lastmod>2021-03-21T19:19:00+02:00</lastmod>
+  </url><url>
+    <loc>/post/2021-03-21-hajde/</loc>
+    <lastmod>2021-03-21T19:19:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/hajde/</loc>
+    <lastmod>2021-03-21T19:19:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/north-macedonia/</loc>
+    <lastmod>2021-03-21T19:19:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/skopje/</loc>
+    <lastmod>2021-03-21T19:19:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/academic/</loc>
+    <lastmod>2021-03-18T19:19:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/covid-19/</loc>
+    <lastmod>2021-03-18T19:19:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/impact-assessment/</loc>
+    <lastmod>2021-03-18T19:19:00+02:00</lastmod>
+  </url><url>
+    <loc>/author/paul-carr/</loc>
+    <lastmod>2021-03-18T19:19:00+02:00</lastmod>
+  </url><url>
+    <loc>/post/2021-03-18-covid-impact-academic/</loc>
+    <lastmod>2021-03-18T19:19:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/copenhagen/</loc>
+    <lastmod>2021-03-10T19:19:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/denmark/</loc>
+    <lastmod>2021-03-10T19:19:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/feminism/</loc>
+    <lastmod>2021-03-10T19:19:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/future/</loc>
+    <lastmod>2021-03-10T19:19:00+02:00</lastmod>
+  </url><url>
+    <loc>/post/2021-03-10-lapee/</loc>
+    <lastmod>2021-03-10T19:19:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/live-music/</loc>
+    <lastmod>2021-03-10T19:19:00+02:00</lastmod>
+  </url><url>
+    <loc>/post/2021-03-07-jazz-popcorn-robot/</loc>
+    <lastmod>2021-03-07T09:19:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/copyright/</loc>
+    <lastmod>2021-03-07T09:19:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/robots/</loc>
+    <lastmod>2021-03-07T09:19:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/bandcamp/</loc>
+    <lastmod>2021-03-05T15:00:00+02:00</lastmod>
+  </url><url>
+    <loc>/author/botond-vitos/</loc>
+    <lastmod>2021-03-05T15:00:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/clustering/</loc>
+    <lastmod>2021-03-05T15:00:00+02:00</lastmod>
+  </url><url>
+    <loc>/post/2021-03-05-folksonomies/</loc>
+    <lastmod>2021-03-05T15:00:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/library/</loc>
+    <lastmod>2021-03-05T15:00:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/listen-local/</loc>
+    <lastmod>2021-03-05T15:00:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/music-observatory/</loc>
+    <lastmod>2021-03-05T15:00:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/musicology/</loc>
+    <lastmod>2021-03-05T15:00:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/eu/</loc>
+    <lastmod>2021-03-04T15:00:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/music-moves-europe/</loc>
+    <lastmod>2021-03-04T15:00:00+02:00</lastmod>
+  </url><url>
+    <loc>/post/2021-03-04-jump-2021/</loc>
+    <lastmod>2021-03-04T15:00:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/maps/</loc>
+    <lastmod>2021-03-03T22:23:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/open-data-day/</loc>
+    <lastmod>2021-03-03T22:23:00+02:00</lastmod>
+  </url><url>
+    <loc>/post/2021-03-03-ood_interview_maps/</loc>
+    <lastmod>2021-03-03T22:23:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/open-data/</loc>
+    <lastmod>2021-03-03T22:23:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/competition/</loc>
+    <lastmod>2021-03-02T07:23:00+02:00</lastmod>
+  </url><url>
+    <loc>/post/2021-03-01-major-vs-independent/</loc>
+    <lastmod>2021-03-02T07:23:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/music-streaming/</loc>
+    <lastmod>2021-03-02T07:23:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/ucps/</loc>
+    <lastmod>2021-03-02T07:23:00+02:00</lastmod>
+  </url><url>
     <loc>/author/amelia-fletcher/</loc>
     <lastmod>2021-02-24T21:23:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2021-02-24T21:23:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/competition/</loc>
-    <lastmod>2021-02-24T21:23:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/daniel-antal/</loc>
-    <lastmod>2021-02-24T21:23:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2021-02-24T21:23:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/listen-local/</loc>
-    <lastmod>2021-02-24T21:23:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2021-02-24-music-level-playing-field/</loc>
     <lastmod>2021-02-24T21:23:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/music-observatory/</loc>
-    <lastmod>2021-02-24T21:23:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/music-streaming/</loc>
-    <lastmod>2021-02-24T21:23:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/peter-ormosi/</loc>
     <lastmod>2021-02-24T21:23:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2021-02-24T21:23:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2021-02-24T21:23:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/ucps/</loc>
-    <lastmod>2021-02-24T21:23:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>/publication-type/4/</loc>
+    <lastmod>2021-02-23T11:00:00+01:00</lastmod>
+  </url><url>
+    <loc>/tag/algorithms/</loc>
+    <lastmod>2021-02-23T11:00:00+01:00</lastmod>
+  </url><url>
+    <loc>/tag/deezer/</loc>
+    <lastmod>2021-02-23T11:00:00+01:00</lastmod>
+  </url><url>
+    <loc>/tag/justice/</loc>
+    <lastmod>2021-02-23T11:00:00+01:00</lastmod>
+  </url><url>
+    <loc>/publication/music_level_playing_field_2021/</loc>
+    <lastmod>2021-02-23T11:00:00+01:00</lastmod>
+  </url><url>
+    <loc>/tag/spotify/</loc>
+    <lastmod>2021-02-23T11:00:00+01:00</lastmod>
+  </url><url>
+    <loc>/tag/youtube/</loc>
+    <lastmod>2021-02-23T11:00:00+01:00</lastmod>
+  </url><url>
     <loc>/post/2021-02-22-jump/</loc>
     <lastmod>2021-02-22T21:23:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/eu/</loc>
-    <lastmod>2021-02-22T21:23:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/jump/</loc>
-    <lastmod>2021-02-22T21:23:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/ai/</loc>
     <lastmod>2021-02-22T09:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/algorithms/</loc>
-    <lastmod>2021-02-22T09:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/deezer/</loc>
-    <lastmod>2021-02-22T09:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/justice/</loc>
-    <lastmod>2021-02-22T09:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/spotify/</loc>
-    <lastmod>2021-02-22T09:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2021-02-21-cnm-streaming/</loc>
     <lastmod>2021-02-22T09:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/netherlands/</loc>
     <lastmod>2021-02-16T17:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/nlaic/</loc>
     <lastmod>2021-02-16T17:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2021-02-16-nlaic/</loc>
     <lastmod>2021-02-16T17:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/copyright/</loc>
-    <lastmod>2021-02-17T18:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2021-02-13-european-visibility/</loc>
     <lastmod>2021-02-17T18:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/metadata/</loc>
     <lastmod>2021-02-17T18:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/trustworthy-ai/</loc>
     <lastmod>2021-02-17T18:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication-type/4/</loc>
-    <lastmod>2021-02-13T11:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/balazs-bodo/</loc>
     <lastmod>2021-02-13T11:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/books/</loc>
-    <lastmod>2021-02-13T11:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/christian-handke/</loc>
     <lastmod>2021-02-13T11:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/european_visibilitiy_2021/</loc>
     <lastmod>2021-02-13T11:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/joost-poort/</loc>
     <lastmod>2021-02-13T11:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/joao-quintais/</loc>
     <lastmod>2021-02-13T11:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/libraries/</loc>
-    <lastmod>2021-02-13T11:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/market-report/</loc>
-    <lastmod>2021-02-13T11:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/martin-kretschmer/</loc>
     <lastmod>2021-02-13T11:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/martin-senfleben/</loc>
     <lastmod>2021-02-13T11:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2021-02-13T11:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2021-02-13T11:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/sebastian-felix-schwemer/</loc>
     <lastmod>2021-02-13T11:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/shadow-libraries/</loc>
-    <lastmod>2021-02-13T11:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/stef-van-gompel/</loc>
     <lastmod>2021-02-13T11:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/thomas-margoni/</loc>
     <lastmod>2021-02-13T11:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/mapping/</loc>
     <lastmod>2021-02-03T09:16:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/ood2021/</loc>
     <lastmod>2021-02-03T09:16:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/open-data/</loc>
-    <lastmod>2021-02-03T09:16:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2021-02-03-save-the-date-odd/</loc>
     <lastmod>2021-02-03T09:16:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2021-02-12-opendataday/</loc>
     <lastmod>2021-02-03T09:16:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/sustainability/</loc>
-    <lastmod>2021-02-03T09:16:00+02:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-03-02T19:10:00+01:00</lastmod>
+  </url><url>
     <loc>/author/daniel-antal-cfa/</loc>
-    <lastmod>2021-02-02T10:10:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-03-02T19:10:00+01:00</lastmod>
+  </url><url>
     <loc>/talk/2021_03_06_ood/</loc>
-    <lastmod>2021-02-02T10:10:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-03-02T19:10:00+01:00</lastmod>
+  </url><url>
     <loc>/talk/</loc>
-    <lastmod>2021-02-02T10:10:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-03-02T19:10:00+01:00</lastmod>
+  </url><url>
     <loc>/tag/big-data/</loc>
-    <lastmod>2021-02-01T09:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-02-25T08:10:00+02:00</lastmod>
+  </url><url>
     <loc>/tag/recommendations/</loc>
     <lastmod>2021-02-01T09:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/reprex/</loc>
     <lastmod>2021-02-01T09:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2021-02-01-reprex-website/</loc>
     <lastmod>2021-02-01T09:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2020-12-17-demo-slovak-music-database/</loc>
     <lastmod>2020-12-17T17:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/local-content-requirements/</loc>
     <lastmod>2020-12-17T17:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/slovakia/</loc>
     <lastmod>2020-12-17T17:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2020-12-15-alternative-recommendations/</loc>
     <lastmod>2020-12-14T17:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/diy/</loc>
     <lastmod>2020-12-14T08:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/labels/</loc>
     <lastmod>2020-12-14T08:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2020-12-14-tinyrooms/</loc>
     <lastmod>2020-12-14T08:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/utrecht/</loc>
     <lastmod>2020-12-14T08:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2020-12-04-pirate-libraries/</loc>
     <lastmod>2020-12-05T08:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/reproducible-research/</loc>
     <lastmod>2020-12-05T08:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/reproducible-science/</loc>
     <lastmod>2020-12-05T08:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication-type/3/</loc>
     <lastmod>2020-12-03T11:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/scholarly_pirate_libraries_2020/</loc>
     <lastmod>2020-12-03T11:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/zoltan-puha/</loc>
     <lastmod>2020-12-03T11:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/california/</loc>
     <lastmod>2020-11-30T08:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/japan/</loc>
     <lastmod>2020-11-30T08:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2020-11-30-youniverse/</loc>
     <lastmod>2020-11-30T08:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/music-export/</loc>
     <lastmod>2020-11-30T08:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/texas/</loc>
     <lastmod>2020-11-30T08:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/ethics/</loc>
     <lastmod>2020-11-26T15:55:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2020-11-26-hcaptcha/</loc>
     <lastmod>2020-11-26T15:55:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/turning-tide/</loc>
-    <lastmod>2020-11-26T15:55:00+02:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-02-25T08:10:00+02:00</lastmod>
+  </url><url>
     <loc>/tag/czechia/</loc>
     <lastmod>2020-11-27T08:55:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/jana-gombikova/</loc>
     <lastmod>2020-11-27T08:55:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2020-11-25-katarzia/</loc>
     <lastmod>2020-11-27T08:55:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/nitra/</loc>
     <lastmod>2020-11-27T08:55:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/prague/</loc>
     <lastmod>2020-11-27T08:55:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2020-11-20-music-discovery-population/</loc>
     <lastmod>2020-11-23T07:55:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/future-audiences/</loc>
     <lastmod>2020-11-23T07:55:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/music-discovery/</loc>
     <lastmod>2020-11-23T07:55:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/music-education/</loc>
     <lastmod>2020-11-23T07:55:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/hungary/</loc>
     <lastmod>2020-11-18T08:15:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/katya-nagy/</loc>
     <lastmod>2020-11-18T08:15:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/romania/</loc>
     <lastmod>2020-11-18T08:15:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/serbia/</loc>
     <lastmod>2020-11-18T08:15:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2020-11-18-where-they-understand-us/</loc>
     <lastmod>2020-11-18T08:15:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/streaming/</loc>
     <lastmod>2020-11-17T11:03:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2020-11-17-recommendation-analysis/</loc>
     <lastmod>2020-11-17T11:03:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/europe/</loc>
     <lastmod>2020-11-16T07:03:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2020-11-16-european-music-observatory-feasibility/</loc>
     <lastmod>2020-11-16T07:03:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/music-industry/</loc>
     <lastmod>2020-11-13T07:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/music-report/</loc>
     <lastmod>2020-11-13T07:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2020-11-13-wales-comparison/</loc>
     <lastmod>2020-11-13T07:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/united-kingdom/</loc>
     <lastmod>2020-11-13T07:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/wales/</loc>
     <lastmod>2020-11-13T07:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2020-11-11-listen-local-robin-kester/</loc>
     <lastmod>2020-11-11T11:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/stef-koenis/</loc>
     <lastmod>2020-11-11T11:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/charts/</loc>
     <lastmod>2020-11-08T18:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/datasets/</loc>
     <lastmod>2020-11-08T18:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2020-11-09-spotify-national-charts/</loc>
     <lastmod>2020-11-08T18:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/covid-19/</loc>
-    <lastmod>2020-11-06T08:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2020-11-06-welsh-covid-response/</loc>
     <lastmod>2020-11-06T08:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/live-music/</loc>
-    <lastmod>2020-11-06T08:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/injustice/</loc>
-    <lastmod>2020-10-30T08:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-02-25T08:10:00+02:00</lastmod>
+  </url><url>
     <loc>/tag/racism/</loc>
-    <lastmod>2020-10-30T08:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-02-25T08:10:00+02:00</lastmod>
+  </url><url>
     <loc>/post/2020-10-30-racist-algorithm/</loc>
-    <lastmod>2020-10-30T08:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-02-25T08:10:00+02:00</lastmod>
+  </url><url>
     <loc>/tag/bosnia-herzegovnia/</loc>
     <lastmod>2020-10-28T08:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2020-10-28-duka-mission/</loc>
     <lastmod>2020-10-28T08:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/germany/</loc>
     <lastmod>2020-10-28T08:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/music-production/</loc>
     <lastmod>2020-10-28T08:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/pakistan/</loc>
     <lastmod>2020-10-28T08:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/machine-learning/</loc>
     <lastmod>2020-10-27T10:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/music-circulation/</loc>
     <lastmod>2020-10-27T10:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/music-economy/</loc>
     <lastmod>2020-10-27T10:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/royalties/</loc>
     <lastmod>2020-10-27T10:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/value-gap/</loc>
     <lastmod>2020-10-27T10:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2020-10-27-why-start-music-observatory/</loc>
     <lastmod>2020-10-27T10:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/forgetify/</loc>
     <lastmod>2020-10-24T18:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2020-10-24-forgetify_pop_october/</loc>
     <lastmod>2020-10-24T18:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/musicology/</loc>
-    <lastmod>2020-10-24T18:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/playlist/</loc>
     <lastmod>2020-10-24T18:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/belgium/</loc>
     <lastmod>2020-10-18T18:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2020-10-19-listen-local/</loc>
     <lastmod>2020-10-18T18:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/playlists/</loc>
     <lastmod>2020-10-18T18:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2020-10-18-october_playlist/</loc>
     <lastmod>2020-10-17T18:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/ex-ante/</loc>
     <lastmod>2020-10-16T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/ex-post/</loc>
     <lastmod>2020-10-16T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/grants/</loc>
     <lastmod>2020-10-16T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/grants/</loc>
     <lastmod>2020-10-16T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/</loc>
     <lastmod>2020-11-18T08:15:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/collective-management/</loc>
     <lastmod>2020-10-14T10:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2020-10-14-making_websites/</loc>
     <lastmod>2020-10-14T10:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/web-technology/</loc>
     <lastmod>2020-10-14T10:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/listen-local/</loc>
     <lastmod>2020-11-18T08:15:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/open-source/</loc>
     <lastmod>2020-09-25T15:31:39+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2020-09-25-yesdelft-validation/</loc>
     <lastmod>2020-09-25T15:31:39+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/reproducible/</loc>
     <lastmod>2020-09-25T15:31:39+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/reka-szentirmay/</loc>
     <lastmod>2020-09-25T15:31:39+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/start-up/</loc>
     <lastmod>2020-09-25T15:31:39+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2020-09-15-music-observatory-launch/</loc>
     <lastmod>2020-09-15T08:00:39+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/music/</loc>
     <lastmod>2020-09-15T08:00:39+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/observatory/</loc>
     <lastmod>2020-09-15T08:00:39+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/r/</loc>
     <lastmod>2020-09-15T08:00:39+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2020-09-11-creating-automated-observatory/</loc>
     <lastmod>2020-09-11T16:00:39+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/line-matson/</loc>
     <lastmod>2020-09-11T16:00:39+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/moon-moon-moon/</loc>
     <lastmod>2020-09-11T16:00:39+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/sandor-budai/</loc>
     <lastmod>2020-09-11T16:00:39+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/ceemid/</loc>
     <lastmod>2020-08-26T08:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/music-observatory/</loc>
     <lastmod>2020-08-26T08:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/surveys/</loc>
     <lastmod>2020-08-26T08:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2020-08-24-start-up/</loc>
     <lastmod>2020-09-01T17:34:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2020-music-professional-survey-wave/</loc>
     <lastmod>2020-07-30T15:38:43+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/survey/</loc>
     <lastmod>2020-07-30T15:38:43+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/faq/reproducible/</loc>
     <lastmod>2020-07-16T10:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/team/</loc>
     <lastmod>2020-07-10T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/faq/modeling/</loc>
     <lastmod>2020-07-16T10:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/faq/consulting/</loc>
     <lastmod>2020-07-10T10:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/blog/</loc>
     <lastmod>2020-07-10T10:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/faq/cap/</loc>
     <lastmod>2020-07-10T10:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/faq/dashboards/</loc>
     <lastmod>2020-09-01T08:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/faq/curation/</loc>
     <lastmod>2020-07-10T10:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/faq/data_maps/</loc>
     <lastmod>2020-07-10T10:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/faq/observatories/</loc>
     <lastmod>2020-07-10T10:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/faq/apps/</loc>
     <lastmod>2020-07-10T10:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/faq/experimental/</loc>
     <lastmod>2020-07-10T10:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/faq/otherobservatories/</loc>
     <lastmod>2020-09-01T07:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/faq/surveys/</loc>
     <lastmod>2020-07-10T10:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/faq/integration/</loc>
     <lastmod>2020-07-10T10:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/faq/journalism/</loc>
     <lastmod>2020-07-10T10:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/faq/localization/</loc>
     <lastmod>2020-07-10T10:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/faq/reports/</loc>
     <lastmod>2020-07-10T10:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/faq/psi/</loc>
     <lastmod>2020-07-10T10:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/faq/demoobservatories/</loc>
     <lastmod>2020-09-01T07:10:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/faq/</loc>
     <lastmod>2020-07-10T10:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/eurobarometer/</loc>
     <lastmod>2020-04-22T17:30:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/regional/</loc>
     <lastmod>2020-04-22T17:30:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2020-04-22-regional-eurobarometer/</loc>
     <lastmod>2020-04-22T17:30:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/categories/</loc>
     <lastmod>2020-04-16T17:30:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2020-04-16-regional-opendata-release/</loc>
     <lastmod>2020-04-16T17:30:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/music-demand/</loc>
     <lastmod>2020-04-16T17:30:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/category/rbloggers/</loc>
     <lastmod>2020-04-16T17:30:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2020-04-15-comparing-social-distancing/</loc>
     <lastmod>2020-04-16T13:30:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/geolocations/</loc>
     <lastmod>2020-04-16T13:30:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/public-policy/</loc>
     <lastmod>2020-04-16T13:30:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/armenia/</loc>
     <lastmod>2020-01-29T16:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/austria/</loc>
     <lastmod>2020-01-29T16:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/bulgaria/</loc>
     <lastmod>2020-01-29T16:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/cci/</loc>
     <lastmod>2020-01-29T16:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2020-01-30-ceereport/</loc>
     <lastmod>2020-01-29T16:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/ceereport_2020/</loc>
     <lastmod>2020-01-29T16:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/lithuania/</loc>
     <lastmod>2020-01-29T16:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/opendata/</loc>
     <lastmod>2020-01-29T16:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/cee/</loc>
     <lastmod>2019-11-09T11:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2019-11-09-nouvelle-prague/</loc>
     <lastmod>2019-11-09T11:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/croatia/</loc>
     <lastmod>2019-10-31T12:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/pcr/</loc>
     <lastmod>2019-10-31T12:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/pricing/</loc>
     <lastmod>2019-10-31T12:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2019-10-31-croatia_pcr/</loc>
     <lastmod>2019-10-31T12:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/private_copying_croatia_2019/</loc>
     <lastmod>2019-10-31T12:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/private-copying/</loc>
     <lastmod>2019-10-31T12:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2019-09-27_cee_report/</loc>
     <lastmod>2019-09-30T08:05:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/music-export/</loc>
     <lastmod>2019-09-27T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/data-animation/</loc>
     <lastmod>2019-09-23T19:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/hitlists/</loc>
     <lastmod>2019-09-23T19:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2019-09-24_streaming-market/</loc>
     <lastmod>2019-09-23T19:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2019-09-23_cross-border_europe/</loc>
     <lastmod>2019-09-23T18:30:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/career/</loc>
     <lastmod>2019-07-21T19:45:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/living-standards/</loc>
     <lastmod>2019-07-21T19:45:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2019-07-21_life_satisfaction/</loc>
     <lastmod>2019-07-21T19:45:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/musicinan/</loc>
     <lastmod>2019-07-21T19:45:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/advocacy/</loc>
     <lastmod>2019-03-26T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/ccs/</loc>
     <lastmod>2019-03-26T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/regulation/</loc>
     <lastmod>2019-03-26T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/slovak_music_industry_2019/</loc>
     <lastmod>2019-03-26T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/vat/</loc>
     <lastmod>2019-03-26T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/audiovisual/</loc>
     <lastmod>2018-06-08T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2018-06-08_how_many_ever_pay/</loc>
     <lastmod>2018-06-08T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/software/</loc>
     <lastmod>2018-06-08T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/multipliers/</loc>
     <lastmod>2019-05-05T19:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2018-04-18_sharpe_bratislava/</loc>
     <lastmod>2019-05-05T19:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2017-11-01_cee_mini/</loc>
     <lastmod>2017-11-01T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/emerging-markets/</loc>
     <lastmod>2017-11-01T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2017-09-29_ceempc/</loc>
     <lastmod>2019-03-14T09:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/music-publishing/</loc>
     <lastmod>2019-03-14T09:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2017-02-03-music_career_path/</loc>
     <lastmod>2019-03-14T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2016-04-20_makk15/</loc>
     <lastmod>2018-01-13T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2015-11-12-cstp/</loc>
     <lastmod>2015-11-12T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/hungary_music_industry_2014/</loc>
     <lastmod>2015-05-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2015-04-27-proart_report_15/</loc>
     <lastmod>2015-04-27T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/cisac/</loc>
     <lastmod>2013-11-18T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/hedonic-pricing/</loc>
     <lastmod>2013-11-18T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/restaurants/</loc>
     <lastmod>2013-11-18T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/valuation/</loc>
     <lastmod>2013-11-18T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/2013-11-18-cisac_good_governance/</loc>
     <lastmod>2013-11-18T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/andres/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/daniel/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/emily-hansell-clark/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/katya-nagy/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/reka-szentirmay/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/stef-koenis/</loc>
   </url>
-  
 </urlset>

@@ -17,7 +17,7 @@ abstract = "Why are the total market shares of Slovak music relatively low both 
 featured = true
 
 # Projects (optional).
-projects = ["market-report"]
+projects = ["listen-local"]
 
 # Slides (optional).
 #   `content/slides/example-slides.md`.
@@ -25,11 +25,11 @@ projects = ["market-report"]
 slides = ""
 
 # Tags (optional).
-tags = ["market-report", "books", "libraries", "shadow libraries"]
+tags = ["Slovakia", "trustworthy-A", "recommendations", "music-distribution"]
 
 # Links (optional).
-url_pdf = ""
-url_preprint = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3785272"
+url_pdf = "media/publications/Listen_Local_Feasibility_Study_2020_EN.pdf"
+url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -92,11 +92,11 @@ We also created a [Demo Recommendation System](https://listenlocal.community/pro
 
 Thanks for the entire Reprex team who contributed to the English version:
 
-**Dr. Emily H. Clarke**, musicology
-**Stef Koenis**, musicologist, musician
-**Dr. Andrés Garcia Molina**, data scientist, musicologist, editor
-**Kátya Nagy**, music journalist, research assistant; 
+- **Dr. Emily H. Clarke**, musicology
+- **Stef Koenis**, musicologist, musician
+- **Dr. Andrés Garcia Molina**, data scientist, musicologist, editor
+- **Kátya Nagy**, music journalist, research assistant; 
 
 and the Slovak version:
-**Dominika Semaňáková**, musicologist, editor
-**Dáša Bulíková**, musician, translator.
+- **Dominika Semaňáková**, musicologist, editor
+- **Dáša Bulíková**, musician, translator.

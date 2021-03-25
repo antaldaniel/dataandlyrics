@@ -384,30 +384,30 @@ Currently, our app is demonstration to provide a more comprehensive database-dri
       <link>/post/2020-10-30-racist-algorithm/</link>
       <pubDate>Fri, 30 Oct 2020 08:10:00 +0200</pubDate>
       <guid>/post/2020-10-30-racist-algorithm/</guid>
-      <description>&lt;p&gt;We want big data algorithms to work for small venues, undiscovered bands, and all artists coming from diverse walks of life. We often find that big data works against them, and our Listen Local Initiative was designed to change this trend.&lt;/p&gt;
-&lt;p&gt;Big data algorithms will increase injustice and breach social norms if they are trained on improper data, or the algorithms are biased &amp;ndash; this is why we place so much emphasis on algorithm transparency and input data transparency. Facebook, Apple or Spotify are often criticized for helping the spread of hate, for example.  But how can an algorithm turn racist?&lt;/p&gt;
+      <description>&lt;p&gt;We want big data algorithms to work for small venues, undiscovered bands, and all artists coming from diverse walks of life. We often find that big data works against such types of users, and our Listen Local Initiative was designed to change this trend.&lt;/p&gt;
+&lt;p&gt;Big data algorithms will increase injustice and breach social norms if they are trained on biased data, or if the algorithms themselves are biased — this is why we place so much emphasis on algorithm transparency and input data transparency. Facebook, Apple, and Spotify are often criticized for helping the spread of hate, for example. But how can an algorithm turn racist?&lt;/p&gt;
 &lt;p&gt;Daniel Kraemer &amp;amp; Steve Holden reported on BBC recently that 
 &lt;a href=&#34;https://www.bbc.com/news/newsbeat-54613907&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Spotify, Apple Music, Deezer and YouTube found recently hosting racist music&lt;/a&gt; &amp;ndash; and they removed it after the BBC’s investigation.&lt;/p&gt;
-&lt;p&gt;On Spotify, public playlists and &amp;ldquo;suggested artists&amp;rdquo; did make it easier to find extreme content: In some cases, users created playlists that collated songs and bands associated with the National Socialist Black Metal (NSBM) movement, mainly from Eastern Europe and Russia. Anti-Semitism and glorification of the Holocaust was commonn in their lyrics.&lt;/p&gt;
+&lt;p&gt;On Spotify, public playlists and “suggested artist” algorithms make it easier to find extreme content. In some cases, users created playlists that collated songs and bands associated with the National Socialist Black Metal (NSBM) movement, mainly from Eastern Europe and Russia. Anti-Semitism and glorification of the Holocaust is common in their lyrics.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;How can an algorithm become racist?&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;If it is trained on the tastes and habits of “white people”, it will less likely recommend “black music.”&lt;/p&gt;
+&lt;p&gt;If an algorithm is trained on the tastes and habits of white users, it will less likely recommend Black music (i.e. genres with histories in Black communities such as hip-hop or jazz, or Black artists making any genre of music) to anyone.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;If a music is coming from a “black” community, it will probably not recommend it in the “white community.”&lt;/p&gt;
+&lt;p&gt;If music is coming from a Black community (based on genre, location, or artists with a Black identity), a racist algorithm will be less likely to recommend it to white users, according to what the algorithm predicts white users typically listen to and like.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;If the algorithm learns that taste of racists people, it will provide them with more racist material.&lt;/p&gt;
+&lt;p&gt;If the algorithm learns that certain users have listened to and liked music with racist content, it will provide them with more racist material.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Of course, you can replace &lt;code&gt;black&lt;/code&gt; and &lt;code&gt;white&lt;/code&gt; with any &lt;code&gt;minority&lt;/code&gt; and &lt;code&gt;majority&lt;/code&gt; group.  Take &lt;code&gt;Slovak&lt;/code&gt; and &lt;code&gt;American&lt;/code&gt;; &lt;code&gt;major release&lt;/code&gt; and &lt;code&gt;independent release&lt;/code&gt;. European independent music makers may feel a minority compared to international majors.  The problem with algorithms is that they can ruthlessly reinforce injustice, because they just learn how to do something better, faster, and more than before.&lt;/p&gt;
+&lt;p&gt;Of course, you can replace &lt;code&gt;black&lt;/code&gt; and &lt;code&gt;white&lt;/code&gt; with any &lt;code&gt;minority&lt;/code&gt; and &lt;code&gt;majority&lt;/code&gt; group.  Take &lt;code&gt;Slovak&lt;/code&gt; and &lt;code&gt;American&lt;/code&gt;; &lt;code&gt;major release&lt;/code&gt; and &lt;code&gt;independent release&lt;/code&gt;. European independent music makers may feel a minority compared to international majors. The problem with algorithms is that they can ruthlessly reinforce injustice, because they are focused on learning how to do things better, faster, and more — but not in qualitatively different ways — than they were done before.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;What can we do?&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Fight for the removal of inappropriate content from the &lt;em&gt;training set&lt;/em&gt;. If you see any non-English hateful songs on these platforms, let us know, because English-language moderation is just the tip of the iceberg.&lt;/li&gt;
-&lt;li&gt;Make sure that the training sets of the algorithms behind sales or listening recommendations are inclusive. Our 
-&lt;a href=&#34;https://dataandlyrics.com/project/listen-local/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Listen Local Initative&lt;/a&gt; is an early beta of a recommendation system that makes sure that locally relevant music gets recommended to locally relevant audiences, and does not need to go into an uneven fight with giants.&lt;/li&gt;
-&lt;li&gt;Allow the external verification of the algorithm and its results. We will allow multiple levels of audit for all our algorithms, and we make all critical elements of our data products open source.&lt;/li&gt;
+&lt;li&gt;Make sure that the training sets of the algorithms behind sales or listening recommendations are inclusive. Our  
+&lt;a href=&#34;https://dataandlyrics.com/project/listen-local/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Listen Local Initative&lt;/a&gt; is an early beta of a recommendation system that makes sure that locally relevant music gets recommended to locally relevant audiences, and does not need to engage in a David and Goliath fight against international giants.&lt;/li&gt;
+&lt;li&gt;Allow the external verification of the algorithm and its results. We allow multiple levels of audit for all our algorithms, and we make all critical elements of our data products open source.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;A few examples that the tides are turning:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Justin Joffe: 
@@ -416,6 +416,8 @@ Currently, our app is demonstration to provide a more comprehensive database-dri
 &lt;a href=&#34;https://www.nytimes.com/2020/07/01/arts/music/music-industry-black-lives-matter.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Music Industry Is Wrestling With Race. Here’s What It Has Promised&lt;/a&gt; 2020/07/01&lt;/p&gt;
 &lt;p&gt;Photo credit: 
 &lt;a href=&#34;https://www.flickr.com/photos/kali187/29537032568/in/photolist-M161Jd-Fb3bBZ-2hL9Zw2-oHvory-oHvRMx-oZY9Gw-oZZXBz-oHvMod-oZZXzR-oHvMrj-oHvo5w-7a1jrw-HmVzFz-W45Mq3-GMhHU5-26MJg25-29hg18w-vv7kap-24mAJA5-2dRDUMa-8Hk58E-7UskvS-akZE6J-E6kKTp-2V2uSq-2gsHaES-2gsGZ1K-2gsH2Ct-2gsGZre-2gsHdvw-2gsHg6G-2gsHfpX-2gsH2ok-2gsHcrY-2gsHd3c-2gsHdnf-2gsGXKt-2gsGVJV-2gsGW3R-2gsHe7S-2gsHgAK-2gsGWvu-2gsGXmx-2gsGVCc-yUw5E2-2gsGYPx-2gsGZSe-818JBs-FBqXev-gYrUWa&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Janusz Kaliszczak&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This post was slightly edited for additional clarity by 
+&lt;a href=&#34;https://dataandlyrics.com/author/emily-hansell-clark/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Emily&lt;/a&gt; on 25 February 2021.&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     

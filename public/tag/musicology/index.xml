@@ -5,12 +5,64 @@
     <link>/tag/musicology/</link>
       <atom:link href="/tag/musicology/index.xml" rel="self" type="application/rss+xml" />
     <description>musicology</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Sat, 24 Oct 2020 18:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Fri, 05 Mar 2021 15:00:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>musicology</title>
       <link>/tag/musicology/</link>
     </image>
+    
+    <item>
+      <title>How to Speak About Music in the Digital Age from Taxonomies to Folksonomies</title>
+      <link>/post/2021-03-05-folksonomies/</link>
+      <pubDate>Fri, 05 Mar 2021 15:00:00 +0200</pubDate>
+      <guid>/post/2021-03-05-folksonomies/</guid>
+      <description>&lt;p&gt;Since the dawn of the digital age we have experienced an unprecedented proliferation of music tied to the emergence of digital tools and media channels that accelerate its production and dissemination. Music streaming platforms like Spotify, media platforms like YouTube, or alternative sales platforms like 
+&lt;a href=&#34;https://bandcamp.com/tags&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bandcamp&lt;/a&gt; make around 100 million songs available worldwide.&lt;/p&gt;
+&lt;p&gt;From a conservative viewpoint the fact that everything is readily exposed to us (i.e. the flooding of content) can be seen as degrading to the cultural experience; conversely, one can celebrate the growth of free digital culture, where music production and promotion is tied to less constrains, and musical experience is enriched by blogs, podcasts and other music promotion services.&lt;/p&gt;
+&lt;p&gt;We do not need to take sides, but we might agree that the digital explosion does not equate to instant access to relevant content — in certain cases it may trigger the opposite effect. There is so much music out there, with so many releases every week, that even professional users like radio editors, DJs or curators face challenges staying up to date. For the audience, this is even more challenging, and therefore all these platforms rely on some form of AI to make personalized recommendations or to automate the categorization of music.&lt;/p&gt;
+&lt;p&gt;Music might have a universal language, but finding music is rooted in natural languages, and users rely on simple verbal identifiers like genre labels. According to their broad 
+&lt;a href=&#34;https://www.tagg.org/others/ffabbri9907.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;definition&lt;/a&gt;, musical genres emerge as names to define similarities that identify musical events for the members of a community. These labels aid orientation within the sonic landscape, and make it easier for humans to give recommendations in a human conversation — and they are attached to extra-musical activities, too, because music is a social activity.&lt;/p&gt;
+&lt;p&gt;One goes to a concert and meets like-minded people, or at least there is a sense of togetherness triggered by a shared appreciation of the music. Music events are embedded into socio-cultural contexts that may prescribe forms of belonging, dress and behaviour codes, and are prone to economic regulation. Within popular music studies a range of concepts have been developed to grasp such communities, such as subcultures, neo-tribes or music scenes. One must take into account the multitude of sometimes overlapping subgenres and their varying interpretations by music lovers, which makes categorization even harder. More generic genre descriptions, like “rock” or “punk”, may sound straightforward and less confusing, but they are also less useful for uncovering complexities and nuances. More specific categories, like “darkwave” or “cold wave”, are more practical in this regard, but may sound pretty obscure or even esoteric to a non-specialist audience.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Music tech companies that support labels, A&amp;amp;R, music supervisors, DJs, radio editors, music journalists, and the entire music and entertainment industry, attempt to cut through the turmoil of genre labels by providing (and improving) relatively detailed taxonomies, or well-designed labels that help both humans and AI-powered robots to find and connect to music. 
+&lt;a href=&#34;https://www.beatport.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Beatport&lt;/a&gt;, for example, is focused exclusively on electronic dance music, distributing its catalogue into 33 subgenres (as of Jan 2021, and counting).&lt;/p&gt;
+&lt;p&gt;Of course, Beatport’s subgenre categories are not carved in stone. Particularly in electronic dance music, a meta-genre featuring 
+&lt;a href=&#34;https://music.ishkur.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a very high number of subgenres&lt;/a&gt;, such labels are often contested, and when it comes to niche genres, bottom-up, free tagging systems or &lt;em&gt;
+&lt;a href=&#34;https://www.vanderwal.net/folksonomy.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;folksonomies&lt;/a&gt;&lt;/em&gt; may better capture diversity and creativity, although they are less exact by their nature. These tags are rooted in the authentic, verbal descriptions of artists and promoters, and may refer to affective qualities and localities or express free associations.&lt;/p&gt;
+&lt;p&gt;The abundance of subgenres is a hallmark of not only electronic dance music, but also of various indie, hip-hop, jazz or other music that has lively scenes and active, emerging artists. Within electronic dance music, scholars attribute it to various factors.&lt;/p&gt;
+&lt;p&gt;Subgenre naming can be part of a merchandising strategy, related to a top-down model of genre categorization, where taxonomies are established by vendors or industry representatives such as Beatport. It may also reflect socially accepted musical qualities and innovations; folksonomies, by their nature, are at the forefront of such stylistic innovations. Folksonomies are also supported by certain independent music promotion and marketing websites. Bandcamp, for example, is seen as a reputable platform within the indie music community, and it also provides tagging possibilities for its artists and labels. In certain cases, such tags may offer a refreshing contrast to Beatport’s genre categories.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;As a cultural anthropologist, I have been involved in the study of alternative electronic dance music communities and event-based cultures; as is often the case, this interest has permeated into my personal life. Consequently, I have first hand experience of grassroots artists resisting classification to their music on the grounds that such labels are narrow and limiting — especially when they are defined by major industry vendors. At the same time, such categories provide basic orientation within a kaleidoscopic musical landscape, which can be especially useful for newcomers to a music scene.&lt;/p&gt;
+&lt;p&gt;The 
+&lt;a href=&#34;https://pypi.org/project/bandcamp-librarian/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bandcamp Dance Librarian&lt;/a&gt; project grew out of these impressions. In short, the project uses the industry taxonomy of Beatport in an attempt to detect stylistic tendencies or repertoires within the Bandcamp libraries of (mainly) grasroots labels. To achieve this, an automatic subgenre classifier is trained on Beatport’s Top-100 lists, which identifies the possible subgenres a track may belong to based on an audio analysis of its musical features. The classifier is then applied to detect the styles a Bandcamp library may belong to. The tracks pertaining to the whole library are first individually analysed, then distributed into groups or clusters based on their possible subgenre affiliations. The project output also show the tags (folksonomies) added by the artists/labels to the Bandcamp pages. It is therefore possible to compare the industry taxonomy of Beatport with artist folksonomies, as long as such tags are provided on Bandcamp.&lt;/p&gt;
+&lt;p&gt;Let’s take a look at a working example. 
+&lt;a href=&#34;https://sonicgroove.bandcamp.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sonic Groove&lt;/a&gt; can be described a Berlin-based industrial techno label with strong EBM (Electronic Body Music) influences from a niche side of the electronic dance music spectrum. Neither industrial nor EBM techno are part of the Bandcamp taxonomy, so one can expect that the closest subgenres will be detected by the classifier. After running the Librarian we get a PDF report proposing three clusters with the following timeline distribution (the clustering algorithm may give different results each time):&lt;/p&gt;
+&lt;h2 id=&#34;cluster-0-techno-electro-and-indie-dance&#34;&gt;Cluster 0: Techno, Electro and Indie Dance&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;cluster_0.png&#34; alt=&#34;Cluster 0: Techno, Electro and Indie Dance&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The first group (Cluster 0) is tentatively associated with the (&lt;em&gt;Raw-Deep-Hpynotic&lt;/em&gt;) Techno, (&lt;em&gt;Classic-Detroit-Modern&lt;/em&gt;) Electro and Indie Dance Beatport genres (the numbers in brackets represent confidence values). Three track examples are provided within each cluster, with links to their Bandcamp pages and their associated folksonomies:&lt;/p&gt;
+&lt;iframe src=&#34;https://open.spotify.com/embed/playlist/6n1b560ejaDz3Gfqj7ZlIa&#34; width=&#34;300&#34; height=&#34;380&#34; frameborder=&#34;0&#34; allowtransparency=&#34;true&#34; allow=&#34;encrypted-media&#34;&gt;&lt;/iframe&gt;
+&lt;h2 id=&#34;cluster-1-techno-to-hard-techno&#34;&gt;Cluster 1: Techno to Hard Techno&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;cluster_1.png&#34; alt=&#34;Cluster 1: Techno to Hard Techno&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The second group is crystallized around more evident techno influences according to the classifier:&lt;/p&gt;
+&lt;iframe src=&#34;https://open.spotify.com/embed/playlist/465WEBBmdsG2fIrmGq0KwZ&#34; width=&#34;700&#34; height=&#34;380&#34; frameborder=&#34;0&#34; allowtransparency=&#34;true&#34; allow=&#34;encrypted-media&#34;&gt;&lt;/iframe&gt;
+&lt;h2 id=&#34;cluster-2-ambient&#34;&gt;Cluster 2: Ambient&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;cluster_2.png&#34; alt=&#34;Cluster 2: Ambient&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Finally, the last cluster is predominantly classified as ambient. The example tracks are highly atmospheric, and their beats are less pronounced.&lt;/p&gt;
+&lt;iframe src=&#34;https://open.spotify.com/embed/playlist/48snI8H5RyBBinAJh0Zvq0&#34; width=&#34;700&#34; height=&#34;380&#34; frameborder=&#34;0&#34; allowtransparency=&#34;true&#34; allow=&#34;encrypted-media&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;The tags associated to the tracks refer to subgenres (&lt;em&gt;EBM, industrial and electro&lt;/em&gt;), aesthetic modes (&lt;em&gt;purism, futurism&lt;/em&gt;), localities (&lt;em&gt;Berlin, Hamilton, New York&lt;/em&gt;) and moods (&lt;em&gt;desolation, subway&lt;/em&gt;).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;In the next blogpost I will get into more details on the project, discuss additional examples and touch on possible ramifications of this work.&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Charles, Christopher. 2020. “Genre in Practice: Categories, Metadata and Music-Making in Psytrance Culture”. Dancecult: Journal of Electronic Dance Music Culture, no. 12 (1): 22–47.&lt;/li&gt;
+&lt;li&gt;Fabbri, Franco. 2007. “Browsing Music Spaces: Categories and the Musical Mind”. Critical essays in popular musicology, ed. A. Moore, Aldershot: Ashgate. 49–62.&lt;/li&gt;
+&lt;li&gt;Graham, Stephen. 1996. Sounds of the Underground: A Cultural, Political and Aesthetic Mapping of Underground and Fringe Music. Ann Arbor: University of Michigan Press. 115–124.&lt;/li&gt;
+&lt;li&gt;McLeod, Kernbrew. 2001. “Genres, Subgenres, Sub-subgenres and More: Musical and Social Differentiation Within Electronic/Dance Music Communities”. Journal of Popular Music Studies, no. 13 (1): 59–75.&lt;/li&gt;
+&lt;li&gt;Vander Wal, Thomas. 2007. “Folksonomy Coinage and Definition”. Off The Top. 
+&lt;a href=&#34;https://vanderwal.net/folksonomy.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://vanderwal.net/folksonomy.html&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Forgetify: Popular Music That Nobody Listens To</title>
