@@ -1,52 +1,14 @@
 +++
 title = "Feasibility Study On Promoting Slovak Music In Slovakia & Abroad"
 date = 2021-03-25T11:00:00
+lastmod = 2021-03-25T11:00:00
 draft = false
 
-authors = ["Daniel Antal", "Dáša Bulíková (translator)"]
+authors = ["Daniel Antal"]
 
-# Publication type.
-# Legend:
-
-publication_types = ["4"]
-
-# Abstract and optional shortened version.
-abstract = "Why are the total market shares of Slovak music relatively low both on the domestic and the foreign markets? How can we measure the market share of the Slovak music in the domestic and foreign markets? We offer some answers and solution based on empirical research and with the creation of a database and an AI application."
-
-# Is this a selected publication? (true/false)
-featured = true
-
-# Projects (optional).
-projects = ["listen-local"]
-
-# Slides (optional).
-#   `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides = ""
-
-# Tags (optional).
 tags = ["Slovakia", "trustworthy-AI", "recommendations", "music-distribution"]
 
-# Links (optional).
-url_pdf = "https://dataandlyrics.com/publications/Listen_Local_Feasibility_Study_2020_EN.pdf"
-url_preprint = ""
-url_code = ""
-url_dataset = ""
-url_project = ""
-url_slides = ""
-url_video = ""
-url_poster = ""
-url_source = ""
-
-# Custom links (optional).
-#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
-
-# Digital Object Identifier (DOI)
-doi = ""
-
-# Does this page contain LaTeX math? (true/false)
-math = true
+summary = "HAJDE is a digital platform specializing in eco-responsible and cultural tourism in Eastern Europe. Its founder, Thibaut Boudaud, is developing his project alongside our music observatory in the JUMP European Music Market Accelerator."
 
 # Featured image
 [image]
@@ -55,10 +17,12 @@ math = true
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Left"
-+++
+  focal_point = "Top"
 
-Download the study {{% staticref "publications/Listen_Local_Feasibility_Study_2020_SK.pdf" "newtab" %}}in Slovak{{% /staticref %}} or {{% staticref "publications/Listen_Local_Feasibility_Study_2020_EN.pdf" "newtab" %}}in English{{% /staticref %}}.
+  # Show image only in page previews?
+  preview_only = false
+
++++
 
 In 2015, realizing the low visibility and income-generating potential of Slovak music, the legislation introduced an amendment to the broadcasting act to regulate local content in radiostreams. The Slovak content promoting policy was well-intended but not based on any impact assessment, and it reached its goal only partially.
 
@@ -70,7 +34,6 @@ Another deficiency of the broadcasting quotas is that because of its fuzzy targe
 
 And at last, radio is losing its importance in music discovery. New generation find the music during their music discovery age on YouTube and digital streaming platforms. A Slovak content promoting policy that does not work on digital streaming platforms will be obsolete when radio content providers will switch to digital streaming in the foreseeable future.
 
-**Our Feasibility Study follows the following logic:**
 In the first chapter we introduce various music recommendation systems in the context of local content promotion polices, like local mandatory content quota regulations.
 
 {{< figure src="/img/streaming/mind_map_recommendations.jpg" caption="We aimed to create a demo version of a utility-based, transparent, accountable recommendation system." numbered="true" >}}
@@ -87,25 +50,8 @@ We also created a [Demo Recommendation System](https://listenlocal.community/pro
 
 {{< figure src="/img/streaming/listen_local_app_1.png" caption="Screenshot of the first verison of the demo app." numbered="true" >}}
 
-## Research questions
-
-* Why are the total market shares of Slovak music relatively low both on the domestic and the foreign markets?
-* How can we measure the market share of the Slovak music in the domestic and foreign markets?
-* How can we measure the value gap between what some media platforms, most particularly the biggest YouTube, does not pay out to the Slovak stakeholders within Slovakia?
-* What is the interplay of the various definitions on market share and national quota targets?
-* How ‘shadow-markets’ of home copying and unlicensed media platforms, such as YouTube impact market shares directly and national quotas indirectly?
-* How can modern data science, predictive microeconomics and statistics help increase the market share of Slovak music in Slovakia and abroad?
-
 We would like to continue this work in more depth in Slovakia, and include new countries and regions, for example, Estonia, Hungary, the Netherlands, Flanders and Wales in the next versions. We are also planning city-version. 
 
-Thanks for the entire Reprex team who contributed to the English version:
+## Download, Details, Acknowledgements
 
-- **Budai, Sándor**, programming and deployment
-- **Dr. Emily H. Clarke**, musicologist
-- **Stef Koenis**, musicologist, musician
-- **Dr. Andrés Garcia Molina**, data scientist, musicologist, editor
-- **Kátya Nagy**, music journalist, research assistant; 
-
-and the Slovak version:
-- **Dáša Bulíková**, musician, translator
-- **Dominika Semaňáková**, musicologist, editor, layout.
+You can download the entire study, read the research questions, and meet the contributors on the [publication page](https://dataandlyrics.com/publication/listen_local_2020/).

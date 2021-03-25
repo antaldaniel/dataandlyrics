@@ -14,17 +14,83 @@
     
     <item>
       <title>Feasibility Study On Promoting Slovak Music In Slovakia &amp; Abroad</title>
-      <link>/publication/listen_local_2020/</link>
+      <link>/post/2021-03-25-listen-slovak/</link>
       <pubDate>Thu, 25 Mar 2021 11:00:00 +0100</pubDate>
-      <guid>/publication/listen_local_2020/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;/media/publications/Listen_Local_Feasibility%20study_2020_SK.pdf&#34; target=&#34;_blank&#34;&gt;direct download&lt;/a&gt; in Slovak.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;/media/publications/Listen_Local_Feasibility%20study_2020_EN.pdf&#34; target=&#34;_blank&#34;&gt;direct download&lt;/a&gt; in English.&lt;/p&gt;
-&lt;p&gt;In 2015, realizing the low visibility and income-generating potential of Slovak music, the legislation introduced an amendment to the broadcasting act to regulate local content in radiostreams. The Slovak content promoting policy was well-intended but not based on any impact assessment, and it reached its goal only partially.&lt;/p&gt;
-&lt;p&gt;The Slovak broadcasting quotas in comparison with other national quotas a very simple, and they are impossible to measure, which makes both compliance and enforcement very difficult. Radio editors do not get any help to find music that fits into the playlists and fulfil the quota obligations – in many cases, it is impossible for them to find out if a song actually meets the quota requirements. For the same reason, neither is enforcement possible.&lt;/p&gt;
+      <guid>/post/2021-03-25-listen-slovak/</guid>
+      <description>&lt;p&gt;In 2015, realizing the low visibility and income-generating potential of Slovak music, the legislation introduced an amendment to the broadcasting act to regulate local content in radiostreams. The Slovak content promoting policy was well-intended but not based on any impact assessment, and it reached its goal only partially.&lt;/p&gt;
+&lt;p&gt;The Slovak broadcasting quotas in comparison with other national quotas a very simple, and they are impossible to measure, which makes both compliance and enforcement very difficult. Radio editors do not get any help to find music that fits into the playlists and fulfill the quota obligations – in many cases, it is impossible for them to find out if a song actually meets the quota requirements. For the same reason, neither is enforcement possible.&lt;/p&gt;
 &lt;p&gt;Another deficiency of the broadcasting quotas is that because of its fuzzy target, it is not clear whom it tries to help, and it has few friends. It is unclear how performers, composers or Slovak music producers can benefit from the system. Furthermore, it only helps a few genres, and it decreases the chances of other Slovak music in instrumental and non-Slovak language genres (for example, classical, jazz, rock) to be heard.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-what-should-a-good-local-content-policy-radio-quota-recommendation-system-streaming-quota-achieve&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/streaming/mind_map_goal_setting.jpg&#34; data-caption=&#34;What should a good local content policy (radio quota, recommendation system, streaming quota) achieve?&#34;&gt;
+
+
+  &lt;img src=&#34;/img/streaming/mind_map_goal_setting.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    What should a good local content policy (radio quota, recommendation system, streaming quota) achieve?
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
 &lt;p&gt;And at last, radio is losing its importance in music discovery. New generation find the music during their music discovery age on YouTube and digital streaming platforms. A Slovak content promoting policy that does not work on digital streaming platforms will be obsolete when radio content providers will switch to digital streaming in the foreseeable future.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Our Feasibility Study follows the following logic:&lt;/strong&gt;
 In the first chapter we introduce various music recommendation systems in the context of local content promotion polices, like local mandatory content quota regulations.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-we-aimed-to-create-a-demo-version-of-a-utility-based-transparent-accountable-recommendation-system&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/streaming/mind_map_recommendations.jpg&#34; data-caption=&#34;We aimed to create a demo version of a utility-based, transparent, accountable recommendation system.&#34;&gt;
+
+
+  &lt;img src=&#34;/img/streaming/mind_map_recommendations.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    We aimed to create a demo version of a utility-based, transparent, accountable recommendation system.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
 &lt;p&gt;In the second chapter, we consider the market-based or creative industry economy supporting policy goals, measurements, and potential support given to artists and producers.&lt;/p&gt;
 &lt;p&gt;We then turn in the third chapter to content-based local regulations promoting the use of the Slovak language or Slovak music content, irrespective of the performers and producers nationality, residence or ethnicity.&lt;/p&gt;
 &lt;p&gt;We introduce the idea of the &lt;strong&gt;Slovak Music Database&lt;/strong&gt;, a comprehensive, mainly opt-in, opt-out database that of Slovak artists and Slovak music that should be supported by the local content regulation and other policies. We also create a Demo Slovak Music Database to understand the problem and scope of the creation of the comprehensive version.&lt;/p&gt;
@@ -33,7 +99,170 @@ In the first chapter we introduce various music recommendation systems in the co
 &lt;p&gt;We also created a 
 &lt;a href=&#34;https://listenlocal.community/project/demo-app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo Recommendation System&lt;/a&gt;. We explain here 
 &lt;a href=&#34;https://listenlocal.community/post/2020-11-23-alternative-recommendations/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;why&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;##Research questions&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-screenshot-of-the-first-verison-of-the-demo-app&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/streaming/listen_local_app_1.png&#34; data-caption=&#34;Screenshot of the first verison of the demo app.&#34;&gt;
+
+
+  &lt;img src=&#34;/img/streaming/listen_local_app_1.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Screenshot of the first verison of the demo app.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;We would like to continue this work in more depth in Slovakia, and include new countries and regions, for example, Estonia, Hungary, the Netherlands, Flanders and Wales in the next versions. We are also planning city-version.&lt;/p&gt;
+&lt;h2 id=&#34;download-details-acknowledgements&#34;&gt;Download, Details, Acknowledgements&lt;/h2&gt;
+&lt;p&gt;You can download the entire study, read the research questions, and meet the contributors on the 
+&lt;a href=&#34;https://dataandlyrics.com/publication/listen_local_2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;publication page&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Feasibility Study On Promoting Slovak Music In Slovakia &amp; Abroad</title>
+      <link>/publication/listen_local_2020/</link>
+      <pubDate>Thu, 25 Mar 2021 11:00:00 +0100</pubDate>
+      <guid>/publication/listen_local_2020/</guid>
+      <description>&lt;p&gt;Download the study &lt;a href=&#34;/publications/Listen_Local_Feasibility_Study_2020_SK.pdf&#34; target=&#34;_blank&#34;&gt;in Slovak&lt;/a&gt; or &lt;a href=&#34;/publications/Listen_Local_Feasibility_Study_2020_EN.pdf&#34; target=&#34;_blank&#34;&gt;in English&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In 2015, realizing the low visibility and income-generating potential of Slovak music, the legislation introduced an amendment to the broadcasting act to regulate local content in radiostreams. The Slovak content promoting policy was well-intended but not based on any impact assessment, and it reached its goal only partially.&lt;/p&gt;
+&lt;p&gt;The Slovak broadcasting quotas in comparison with other national quotas a very simple, and they are impossible to measure, which makes both compliance and enforcement very difficult. Radio editors do not get any help to find music that fits into the playlists and fulfill the quota obligations – in many cases, it is impossible for them to find out if a song actually meets the quota requirements. For the same reason, neither is enforcement possible.&lt;/p&gt;
+&lt;p&gt;Another deficiency of the broadcasting quotas is that because of its fuzzy target, it is not clear whom it tries to help, and it has few friends. It is unclear how performers, composers or Slovak music producers can benefit from the system. Furthermore, it only helps a few genres, and it decreases the chances of other Slovak music in instrumental and non-Slovak language genres (for example, classical, jazz, rock) to be heard.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-what-should-a-good-local-content-policy-radio-quota-recommendation-system-streaming-quota-achieve&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/streaming/mind_map_goal_setting.jpg&#34; data-caption=&#34;What should a good local content policy (radio quota, recommendation system, streaming quota) achieve?&#34;&gt;
+
+
+  &lt;img src=&#34;/img/streaming/mind_map_goal_setting.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    What should a good local content policy (radio quota, recommendation system, streaming quota) achieve?
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;And at last, radio is losing its importance in music discovery. New generation find the music during their music discovery age on YouTube and digital streaming platforms. A Slovak content promoting policy that does not work on digital streaming platforms will be obsolete when radio content providers will switch to digital streaming in the foreseeable future.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Our Feasibility Study follows the following logic:&lt;/strong&gt;
+In the first chapter we introduce various music recommendation systems in the context of local content promotion polices, like local mandatory content quota regulations.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-we-aimed-to-create-a-demo-version-of-a-utility-based-transparent-accountable-recommendation-system&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/streaming/mind_map_recommendations.jpg&#34; data-caption=&#34;We aimed to create a demo version of a utility-based, transparent, accountable recommendation system.&#34;&gt;
+
+
+  &lt;img src=&#34;/img/streaming/mind_map_recommendations.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    We aimed to create a demo version of a utility-based, transparent, accountable recommendation system.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;In the second chapter, we consider the market-based or creative industry economy supporting policy goals, measurements, and potential support given to artists and producers.&lt;/p&gt;
+&lt;p&gt;We then turn in the third chapter to content-based local regulations promoting the use of the Slovak language or Slovak music content, irrespective of the performers and producers nationality, residence or ethnicity.&lt;/p&gt;
+&lt;p&gt;We introduce the idea of the &lt;strong&gt;Slovak Music Database&lt;/strong&gt;, a comprehensive, mainly opt-in, opt-out database that of Slovak artists and Slovak music that should be supported by the local content regulation and other policies. We also create a Demo Slovak Music Database to understand the problem and scope of the creation of the comprehensive version.&lt;/p&gt;
+&lt;p&gt;The project website contains the 
+&lt;a href=&#34;https://listenlocal.community/project/demo-sk-music-db/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo Slovak Music Database&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We also created a 
+&lt;a href=&#34;https://listenlocal.community/project/demo-app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo Recommendation System&lt;/a&gt;. We explain here 
+&lt;a href=&#34;https://listenlocal.community/post/2020-11-23-alternative-recommendations/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;why&lt;/a&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-screenshot-of-the-first-verison-of-the-demo-app&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/streaming/listen_local_app_1.png&#34; data-caption=&#34;Screenshot of the first verison of the demo app.&#34;&gt;
+
+
+  &lt;img src=&#34;/img/streaming/listen_local_app_1.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Screenshot of the first verison of the demo app.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;research-questions&#34;&gt;Research questions&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Why are the total market shares of Slovak music relatively low both on the domestic and the foreign markets?&lt;/li&gt;
 &lt;li&gt;How can we measure the market share of the Slovak music in the domestic and foreign markets?&lt;/li&gt;
@@ -42,14 +271,20 @@ In the first chapter we introduce various music recommendation systems in the co
 &lt;li&gt;How ‘shadow-markets’ of home copying and unlicensed media platforms, such as YouTube impact market shares directly and national quotas indirectly?&lt;/li&gt;
 &lt;li&gt;How can modern data science, predictive microeconomics and statistics help increase the market share of Slovak music in Slovakia and abroad?&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;We would like to continue this work in more depth in Slovakia, and include new countries and regions, for example, Estonia, Hungary, the Netherlands, Flanders and Wales in the next versions. We are also planning city-version.&lt;/p&gt;
 &lt;p&gt;Thanks for the entire Reprex team who contributed to the English version:&lt;/p&gt;
-&lt;p&gt;Dr. Emily H. Clarke, musicology
-Stef Koenis, musicologist, musician
-Dr. Andrés Garcia Molina, data scientist, musicologist, editor
-Kátya Nagy, music journalist, research assistant&lt;/p&gt;
-&lt;p&gt;And the Slovak version:
-Dominika Semaňáková, musicologist, editor
-Dáša Bulíková, musician, translator&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Budai, Sándor&lt;/strong&gt;, programming and deployment&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dr. Emily H. Clarke&lt;/strong&gt;, musicologist&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stef Koenis&lt;/strong&gt;, musicologist, musician&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dr. Andrés Garcia Molina&lt;/strong&gt;, data scientist, musicologist, editor&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Kátya Nagy&lt;/strong&gt;, music journalist, research assistant;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;and the Slovak version:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Dáša Bulíková&lt;/strong&gt;, musician, translator&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dominika Semaňáková&lt;/strong&gt;, musicologist, editor, layout.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

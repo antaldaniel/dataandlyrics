@@ -2,13 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/publication-type/0/</loc>
+    <loc>/publication-type/4/</loc>
     <lastmod>2021-03-25T11:00:00+01:00</lastmod>
   </url><url>
     <loc>/authors/</loc>
-    <lastmod>2021-03-25T11:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/tag/books/</loc>
     <lastmod>2021-03-25T11:00:00+01:00</lastmod>
   </url><url>
     <loc>/author/daniel-antal/</loc>
@@ -20,13 +17,16 @@
     <loc>/author/dasa-bulikova-translator/</loc>
     <lastmod>2021-03-25T11:00:00+01:00</lastmod>
   </url><url>
+    <loc>/post/2021-03-25-listen-slovak/</loc>
+    <lastmod>2021-03-25T11:00:00+01:00</lastmod>
+  </url><url>
     <loc>/publication/listen_local_2020/</loc>
     <lastmod>2021-03-25T11:00:00+01:00</lastmod>
   </url><url>
-    <loc>/tag/libraries/</loc>
+    <loc>/tag/music-distribution/</loc>
     <lastmod>2021-03-25T11:00:00+01:00</lastmod>
   </url><url>
-    <loc>/tag/market-report/</loc>
+    <loc>/post/</loc>
     <lastmod>2021-03-25T11:00:00+01:00</lastmod>
   </url><url>
     <loc>/publication_types/</loc>
@@ -35,10 +35,16 @@
     <loc>/publication/</loc>
     <lastmod>2021-03-25T11:00:00+01:00</lastmod>
   </url><url>
-    <loc>/tag/shadow-libraries/</loc>
+    <loc>/tag/recommendations/</loc>
+    <lastmod>2021-03-25T11:00:00+01:00</lastmod>
+  </url><url>
+    <loc>/tag/slovakia/</loc>
     <lastmod>2021-03-25T11:00:00+01:00</lastmod>
   </url><url>
     <loc>/tags/</loc>
+    <lastmod>2021-03-25T11:00:00+01:00</lastmod>
+  </url><url>
+    <loc>/tag/trustworthy-ai/</loc>
     <lastmod>2021-03-25T11:00:00+01:00</lastmod>
   </url><url>
     <loc>/tag/amersfoort/</loc>
@@ -54,9 +60,6 @@
     <lastmod>2021-03-22T19:19:00+02:00</lastmod>
   </url><url>
     <loc>/tag/music-therapy/</loc>
-    <lastmod>2021-03-22T19:19:00+02:00</lastmod>
-  </url><url>
-    <loc>/post/</loc>
     <lastmod>2021-03-22T19:19:00+02:00</lastmod>
   </url><url>
     <loc>/tag/sound-design/</loc>
@@ -194,9 +197,6 @@
     <loc>/author/peter-ormosi/</loc>
     <lastmod>2021-02-24T21:23:00+02:00</lastmod>
   </url><url>
-    <loc>/publication-type/4/</loc>
-    <lastmod>2021-02-23T11:00:00+01:00</lastmod>
-  </url><url>
     <loc>/tag/algorithms/</loc>
     <lastmod>2021-02-23T11:00:00+01:00</lastmod>
   </url><url>
@@ -204,6 +204,9 @@
     <lastmod>2021-02-23T11:00:00+01:00</lastmod>
   </url><url>
     <loc>/tag/justice/</loc>
+    <lastmod>2021-02-23T11:00:00+01:00</lastmod>
+  </url><url>
+    <loc>/tag/market-report/</loc>
     <lastmod>2021-02-23T11:00:00+01:00</lastmod>
   </url><url>
     <loc>/publication/music_level_playing_field_2021/</loc>
@@ -239,10 +242,10 @@
     <loc>/tag/metadata/</loc>
     <lastmod>2021-02-17T18:10:00+02:00</lastmod>
   </url><url>
-    <loc>/tag/trustworthy-ai/</loc>
-    <lastmod>2021-02-17T18:10:00+02:00</lastmod>
-  </url><url>
     <loc>/author/balazs-bodo/</loc>
+    <lastmod>2021-02-13T11:00:00+01:00</lastmod>
+  </url><url>
+    <loc>/tag/books/</loc>
     <lastmod>2021-02-13T11:00:00+01:00</lastmod>
   </url><url>
     <loc>/author/christian-handke/</loc>
@@ -257,6 +260,9 @@
     <loc>/author/joao-quintais/</loc>
     <lastmod>2021-02-13T11:00:00+01:00</lastmod>
   </url><url>
+    <loc>/tag/libraries/</loc>
+    <lastmod>2021-02-13T11:00:00+01:00</lastmod>
+  </url><url>
     <loc>/author/martin-kretschmer/</loc>
     <lastmod>2021-02-13T11:00:00+01:00</lastmod>
   </url><url>
@@ -264,6 +270,9 @@
     <lastmod>2021-02-13T11:00:00+01:00</lastmod>
   </url><url>
     <loc>/author/sebastian-felix-schwemer/</loc>
+    <lastmod>2021-02-13T11:00:00+01:00</lastmod>
+  </url><url>
+    <loc>/tag/shadow-libraries/</loc>
     <lastmod>2021-02-13T11:00:00+01:00</lastmod>
   </url><url>
     <loc>/author/stef-van-gompel/</loc>
@@ -299,9 +308,6 @@
     <loc>/tag/big-data/</loc>
     <lastmod>2021-02-25T08:10:00+02:00</lastmod>
   </url><url>
-    <loc>/tag/recommendations/</loc>
-    <lastmod>2021-02-01T09:10:00+02:00</lastmod>
-  </url><url>
     <loc>/tag/reprex/</loc>
     <lastmod>2021-02-01T09:10:00+02:00</lastmod>
   </url><url>
@@ -312,9 +318,6 @@
     <lastmod>2020-12-17T17:10:00+02:00</lastmod>
   </url><url>
     <loc>/tag/local-content-requirements/</loc>
-    <lastmod>2020-12-17T17:10:00+02:00</lastmod>
-  </url><url>
-    <loc>/tag/slovakia/</loc>
     <lastmod>2020-12-17T17:10:00+02:00</lastmod>
   </url><url>
     <loc>/post/2020-12-15-alternative-recommendations/</loc>
