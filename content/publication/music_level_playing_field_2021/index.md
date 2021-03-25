@@ -19,7 +19,7 @@ abstract_short = "Urgent consideration should be given to a user-centric payment
 featured = true
 
 # Projects (optional).
-projects = ["market-report"]
+projects = ["music-observatory"]
 
 # Slides (optional).
 #   `content/slides/example-slides.md`.
