@@ -52,6 +52,10 @@ We also created a [Demo Recommendation System](https://listenlocal.community/pro
 
 We would like to continue this work in more depth in Slovakia, and include new countries and regions, for example, Estonia, Hungary, the Netherlands, Flanders and Wales in the next versions. We are also planning city-version. 
 
+## Project Website, Demo App
+
+[Listen Local](https://listenlocal.community/#about) is an open initiative for musicians and music organizations to create new, open AI applications that make locally relevant music visible online and offline. Listen Slovak is our first demonstration project, accompanied with a Feasibility Study. It was created jointly with the Slovak Performing Rights Society, and with the support of the Slovak Arts Council and Consolidated Independent, a music distributor company for independent labels and artist. Our aim was to understand why some Slovak music cannot be heard on radio and on streaming platforms, and to create a database and a demo application that makes that music discoverable.
+
 ## Download, Details, Acknowledgements
 
 You can download the entire study, read the research questions, and meet the contributors on the [publication page](https://dataandlyrics.com/publication/listen_local_2020/).
