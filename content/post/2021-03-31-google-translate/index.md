@@ -24,9 +24,7 @@ summary = "An interesting meme is going around on social media that shows the ge
 
 +++
 
-## How to help promote local music?
-The new study opens the question of the local music promotion within the digital environment.
-The Slovak Performing and Mechanical Rights Society (SOZA), the State51 music group in the United Kingdom, and the Slovak Arts Council commissioned Reprex to created a feasibility study which provides recommendations for better use of quotas for Slovak radio stations and which also maps the share and promotion of Slovak music within large streaming and media platforms such as Spotify.
+An interesting meme is going around on social media that shows the gender specific translations created by Google Translate from a source text typed in a genderless language, Hungarian.
 
 ![](google_translate_EN.png)
 
