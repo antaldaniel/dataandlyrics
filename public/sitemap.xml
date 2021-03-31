@@ -2,16 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/publication-type/4/</loc>
-    <lastmod>2021-03-25T11:00:00+01:00</lastmod>
-  </url><url>
     <loc>/authors/</loc>
-    <lastmod>2021-03-25T11:00:00+01:00</lastmod>
+    <lastmod>2021-03-31T09:00:00+02:00</lastmod>
   </url><url>
     <loc>/author/daniel-antal/</loc>
-    <lastmod>2021-03-25T11:00:00+01:00</lastmod>
+    <lastmod>2021-03-31T09:00:00+02:00</lastmod>
   </url><url>
     <loc>/</loc>
+    <lastmod>2021-03-31T09:00:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/google/</loc>
+    <lastmod>2021-03-31T09:00:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/hungary/</loc>
+    <lastmod>2021-03-31T09:00:00+02:00</lastmod>
+  </url><url>
+    <loc>/post/</loc>
+    <lastmod>2021-03-31T09:00:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/sexism/</loc>
+    <lastmod>2021-03-31T09:00:00+02:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2021-03-31T09:00:00+02:00</lastmod>
+  </url><url>
+    <loc>/post/2021-03-31-google-translate/</loc>
+    <lastmod>2021-03-31T09:00:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/translation/</loc>
+    <lastmod>2021-03-31T09:00:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/trustworthy-ai/</loc>
+    <lastmod>2021-03-31T09:00:00+02:00</lastmod>
+  </url><url>
+    <loc>/publication-type/4/</loc>
     <lastmod>2021-03-25T11:00:00+01:00</lastmod>
   </url><url>
     <loc>/author/dasa-bulikova-translator/</loc>
@@ -23,10 +47,10 @@
     <loc>/publication/listen_local_2020/</loc>
     <lastmod>2021-03-25T11:00:00+01:00</lastmod>
   </url><url>
-    <loc>/tag/music-distribution/</loc>
+    <loc>/tag/local-content-regulation/</loc>
     <lastmod>2021-03-25T11:00:00+01:00</lastmod>
   </url><url>
-    <loc>/post/</loc>
+    <loc>/tag/music-distribution/</loc>
     <lastmod>2021-03-25T11:00:00+01:00</lastmod>
   </url><url>
     <loc>/publication_types/</loc>
@@ -39,12 +63,6 @@
     <lastmod>2021-03-25T11:00:00+01:00</lastmod>
   </url><url>
     <loc>/tag/slovakia/</loc>
-    <lastmod>2021-03-25T11:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2021-03-25T11:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/tag/trustworthy-ai/</loc>
     <lastmod>2021-03-25T11:00:00+01:00</lastmod>
   </url><url>
     <loc>/tag/amersfoort/</loc>
@@ -403,9 +421,6 @@
   </url><url>
     <loc>/tag/music-education/</loc>
     <lastmod>2020-11-23T07:55:00+02:00</lastmod>
-  </url><url>
-    <loc>/tag/hungary/</loc>
-    <lastmod>2020-11-18T08:15:00+02:00</lastmod>
   </url><url>
     <loc>/author/katya-nagy/</loc>
     <lastmod>2020-11-18T08:15:00+02:00</lastmod>

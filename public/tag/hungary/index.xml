@@ -5,12 +5,43 @@
     <link>/tag/hungary/</link>
       <atom:link href="/tag/hungary/index.xml" rel="self" type="application/rss+xml" />
     <description>Hungary</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Wed, 18 Nov 2020 08:15:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Wed, 31 Mar 2021 09:00:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Hungary</title>
       <link>/tag/hungary/</link>
     </image>
+    
+    <item>
+      <title>The Problem of Gender Bias In Machine Translation</title>
+      <link>/post/2021-03-31-google-translate/</link>
+      <pubDate>Wed, 31 Mar 2021 09:00:00 +0200</pubDate>
+      <guid>/post/2021-03-31-google-translate/</guid>
+      <description>&lt;h2 id=&#34;how-to-help-promote-local-music&#34;&gt;How to help promote local music?&lt;/h2&gt;
+&lt;p&gt;The new study opens the question of the local music promotion within the digital environment.
+The Slovak Performing and Mechanical Rights Society (SOZA), the State51 music group in the United Kingdom, and the Slovak Arts Council commissioned Reprex to created a feasibility study which provides recommendations for better use of quotas for Slovak radio stations and which also maps the share and promotion of Slovak music within large streaming and media platforms such as Spotify.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;google_translate_EN.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;I was able to replicate this problem in several languages — English, Dutch, French, and German — and I am quite certain that the list could grow. What is going on here?&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;google_translate_DE.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Sie sieht sehr gut aus. Und er siet dumm aus.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;google_translate_FR.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Elle est belle. Il est intelligent.
+I treat Data Feminism, the magnum opus of Catherine D’Ignazio and Lauren F. Klein as a guidebook to all sorts of power-related problems in big data, not only those specifically pertaining to womxn. The reason why Slovak artists of any gender are less likely to be recommended by a music streaming platform are similar to why Google Translate assumes “the professor” is a “he” every time. In this case, of course, the problems of data and power that we see so clearly represented here do specifically deal with gender and sexism.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;google_translate_NL.png&#34; alt=&#34;&#34;&gt;
+Ze is aan het winkelen. Hij gaat naar huis.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[T]he past data in question (like segregated housing patterns or single parentage) are products of structurally unequal conditions. These unequal conditions are true across large social groups, and yet the technology uses those data as predictive elements that will influence one person’s future. […] This is one of the challenges of using data about people as an input into a system: the data are never “raw.” Data are always the product of unequal social relations — relations affected by centuries of history. As computer scientist Ben Green states, “Although most people talk about machine learning’s ability to predict the future, what it really does is predict the past.” — 
+&lt;a href=&#34;https://mitsap.medium.com/data-feminism-ad4263858321&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introduction to Data Feminism&lt;/a&gt; by Catherine D’Ignazio and Lauren F. Klein&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The problem here is that Google has “read” all books, translations, dictionaries and whatever it can get its proverbial hands on, as well as recording for years how people use and correct its translation tool. In a patriarchal society, more men drive buses then women, and women are more often considered and described as beautiful than they are strong. Google considers the most used translation in the past the one that is most likely to be correct in future cases.
+(To Google’s credit, if you enter only a single term, not an entire text, it explains the problem. The Hungarian language does not use gendered nouns and pronouns — even though Hungarian society is quite patriarchal in other ways!)&lt;/p&gt;
+&lt;p&gt;Big data reenforces existing power imbalances because it projects the past into the present and the future, through numbers and language. As a study published by the 
+&lt;a href=&#34;https://fra.europa.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;European Union Agency For Fundamental Rights&lt;/a&gt;, 
+&lt;a href=&#34;https://fra.europa.eu/en/publication/2020/artificial-intelligence-and-fundamental-rights&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Getting the future right — Artificial intelligence and fundamental rights argues, justice and equality are fundamental rights&lt;/a&gt;. Accordingly, everyone must have the right to challenge an algorithm that discriminates against them, in music streaming, recruitment processes, or other contexts, in court.&lt;/p&gt;
+&lt;p&gt;Therefore, a transparent, accountable, trustworthy AI is one that constantly checks for biases and changes them. This is the reason why black-box, proprietary algorithms can do more harm than good. If you want to correct injustices in music streaming, in everyday language use, or in a recruitment process, you must be able to verify the training dataset of an algorithm, its working principles, and its outcome as unbiased.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Our startup has initiated several collaborations open for citizen scientists, individual artists, universities and corporations as well to create validated, trustworthy datasets to train accountable algorithms. We are currently focusing on music and climate change, and will start new data programs in other cultural and environmental areas.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Twentees: The Mountains Are Higher Next Door And They Understand Our Lyrics</title>

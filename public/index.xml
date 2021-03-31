@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Data &amp; Lyrics</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Thu, 25 Mar 2021 11:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Wed, 31 Mar 2021 09:00:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Data &amp; Lyrics</title>
@@ -13,13 +13,44 @@
     </image>
     
     <item>
+      <title>The Problem of Gender Bias In Machine Translation</title>
+      <link>/post/2021-03-31-google-translate/</link>
+      <pubDate>Wed, 31 Mar 2021 09:00:00 +0200</pubDate>
+      <guid>/post/2021-03-31-google-translate/</guid>
+      <description>&lt;h2 id=&#34;how-to-help-promote-local-music&#34;&gt;How to help promote local music?&lt;/h2&gt;
+&lt;p&gt;The new study opens the question of the local music promotion within the digital environment.
+The Slovak Performing and Mechanical Rights Society (SOZA), the State51 music group in the United Kingdom, and the Slovak Arts Council commissioned Reprex to created a feasibility study which provides recommendations for better use of quotas for Slovak radio stations and which also maps the share and promotion of Slovak music within large streaming and media platforms such as Spotify.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;google_translate_EN.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;I was able to replicate this problem in several languages — English, Dutch, French, and German — and I am quite certain that the list could grow. What is going on here?&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;google_translate_DE.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Sie sieht sehr gut aus. Und er siet dumm aus.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;google_translate_FR.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Elle est belle. Il est intelligent.
+I treat Data Feminism, the magnum opus of Catherine D’Ignazio and Lauren F. Klein as a guidebook to all sorts of power-related problems in big data, not only those specifically pertaining to womxn. The reason why Slovak artists of any gender are less likely to be recommended by a music streaming platform are similar to why Google Translate assumes “the professor” is a “he” every time. In this case, of course, the problems of data and power that we see so clearly represented here do specifically deal with gender and sexism.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;google_translate_NL.png&#34; alt=&#34;&#34;&gt;
+Ze is aan het winkelen. Hij gaat naar huis.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[T]he past data in question (like segregated housing patterns or single parentage) are products of structurally unequal conditions. These unequal conditions are true across large social groups, and yet the technology uses those data as predictive elements that will influence one person’s future. […] This is one of the challenges of using data about people as an input into a system: the data are never “raw.” Data are always the product of unequal social relations — relations affected by centuries of history. As computer scientist Ben Green states, “Although most people talk about machine learning’s ability to predict the future, what it really does is predict the past.” — 
+&lt;a href=&#34;https://mitsap.medium.com/data-feminism-ad4263858321&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introduction to Data Feminism&lt;/a&gt; by Catherine D’Ignazio and Lauren F. Klein&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The problem here is that Google has “read” all books, translations, dictionaries and whatever it can get its proverbial hands on, as well as recording for years how people use and correct its translation tool. In a patriarchal society, more men drive buses then women, and women are more often considered and described as beautiful than they are strong. Google considers the most used translation in the past the one that is most likely to be correct in future cases.
+(To Google’s credit, if you enter only a single term, not an entire text, it explains the problem. The Hungarian language does not use gendered nouns and pronouns — even though Hungarian society is quite patriarchal in other ways!)&lt;/p&gt;
+&lt;p&gt;Big data reenforces existing power imbalances because it projects the past into the present and the future, through numbers and language. As a study published by the 
+&lt;a href=&#34;https://fra.europa.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;European Union Agency For Fundamental Rights&lt;/a&gt;, 
+&lt;a href=&#34;https://fra.europa.eu/en/publication/2020/artificial-intelligence-and-fundamental-rights&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Getting the future right — Artificial intelligence and fundamental rights argues, justice and equality are fundamental rights&lt;/a&gt;. Accordingly, everyone must have the right to challenge an algorithm that discriminates against them, in music streaming, recruitment processes, or other contexts, in court.&lt;/p&gt;
+&lt;p&gt;Therefore, a transparent, accountable, trustworthy AI is one that constantly checks for biases and changes them. This is the reason why black-box, proprietary algorithms can do more harm than good. If you want to correct injustices in music streaming, in everyday language use, or in a recruitment process, you must be able to verify the training dataset of an algorithm, its working principles, and its outcome as unbiased.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Our startup has initiated several collaborations open for citizen scientists, individual artists, universities and corporations as well to create validated, trustworthy datasets to train accountable algorithms. We are currently focusing on music and climate change, and will start new data programs in other cultural and environmental areas.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Feasibility Study On Promoting Slovak Music In Slovakia &amp; Abroad</title>
       <link>/post/2021-03-25-listen-slovak/</link>
       <pubDate>Thu, 25 Mar 2021 11:00:00 +0100</pubDate>
       <guid>/post/2021-03-25-listen-slovak/</guid>
-      <description>&lt;p&gt;In 2015, realizing the low visibility and income-generating potential of Slovak music, the legislation introduced an amendment to the broadcasting act to regulate local content in radiostreams. The Slovak content promoting policy was well-intended but not based on any impact assessment, and it reached its goal only partially.&lt;/p&gt;
-&lt;p&gt;The Slovak broadcasting quotas in comparison with other national quotas a very simple, and they are impossible to measure, which makes both compliance and enforcement very difficult. Radio editors do not get any help to find music that fits into the playlists and fulfill the quota obligations – in many cases, it is impossible for them to find out if a song actually meets the quota requirements. For the same reason, neither is enforcement possible.&lt;/p&gt;
-&lt;p&gt;Another deficiency of the broadcasting quotas is that because of its fuzzy target, it is not clear whom it tries to help, and it has few friends. It is unclear how performers, composers or Slovak music producers can benefit from the system. Furthermore, it only helps a few genres, and it decreases the chances of other Slovak music in instrumental and non-Slovak language genres (for example, classical, jazz, rock) to be heard.&lt;/p&gt;
+      <description>&lt;h2 id=&#34;how-to-help-promote-local-music&#34;&gt;How to help promote local music?&lt;/h2&gt;
+&lt;p&gt;The new study opens the question of the local music promotion within the digital environment.
+The Slovak Performing and Mechanical Rights Society (SOZA), the State51 music group in the United Kingdom, and the Slovak Arts Council commissioned Reprex to created a feasibility study which provides recommendations for better use of quotas for Slovak radio stations and which also maps the share and promotion of Slovak music within large streaming and media platforms such as Spotify.&lt;/p&gt;
 
 
 
@@ -54,9 +85,8 @@
 
 &lt;/figure&gt;
 
-&lt;p&gt;And at last, radio is losing its importance in music discovery. New generation find the music during their music discovery age on YouTube and digital streaming platforms. A Slovak content promoting policy that does not work on digital streaming platforms will be obsolete when radio content providers will switch to digital streaming in the foreseeable future.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Our Feasibility Study follows the following logic:&lt;/strong&gt;
-In the first chapter we introduce various music recommendation systems in the context of local content promotion polices, like local mandatory content quota regulations.&lt;/p&gt;
+&lt;p&gt;The study proposes best practices for the introduction of mandatory quotas for Slovak radio stations and points out how current recommendation systems used by large platforms such as Spotify, YouTube, or Apple hardly consider local music from smaller countries. Local music stands against competition consisting of million songs from the whole world, and for ordinary Slovak musicians, whose music doesn&amp;rsquo;t belong to the global hits playlists, it is almost impossible to get recommended by the recommendation systems of large platforms.&lt;/p&gt;
+&lt;h2 id=&#34;listen-local-app-for-discovering-new-music&#34;&gt;Listen Local App for discovering new music&lt;/h2&gt;
 
 
 
@@ -91,13 +121,10 @@ In the first chapter we introduce various music recommendation systems in the co
 
 &lt;/figure&gt;
 
-&lt;p&gt;In the second chapter, we consider the market-based or creative industry economy supporting policy goals, measurements, and potential support given to artists and producers.&lt;/p&gt;
-&lt;p&gt;We then turn in the third chapter to content-based local regulations promoting the use of the Slovak language or Slovak music content, irrespective of the performers and producers nationality, residence or ethnicity.&lt;/p&gt;
-&lt;p&gt;We introduce the idea of the &lt;strong&gt;Slovak Music Database&lt;/strong&gt;, a comprehensive, mainly opt-in, opt-out database that of Slovak artists and Slovak music that should be supported by the local content regulation and other policies. We also create a Demo Slovak Music Database to understand the problem and scope of the creation of the comprehensive version.&lt;/p&gt;
-&lt;p&gt;The project website contains the 
-&lt;a href=&#34;https://listenlocal.community/project/demo-sk-music-db/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo Slovak Music Database&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;We also created a 
-&lt;a href=&#34;https://listenlocal.community/project/demo-app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo Recommendation System&lt;/a&gt;. We explain here 
+&lt;p&gt;The solution to this problem could be the Listen Local App, built on a comprehensive reference database of local music, which we created as a demo version within the study. The app aims to help listeners discover more local music; the app also presents new and alternative ways for large digital platforms to recommend local artists. Through Listen Local, listeners search for artists and bands based on their taste and the city they are situated in. In this way, listeners can easily search for music by artists from particular cities or from the town they are about to visit.
+We are releasing today the feasibility study in English and Slovak. We call for an open consultation to evaluate the results of this work and continue developing the Slovak Music Database, the Listen Local recommendation, and the AI validation system.&lt;/p&gt;
+&lt;p&gt;Check out the 
+&lt;a href=&#34;https://listenlocal.community/project/demo-app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo Listen Local App&lt;/a&gt;. We explain here 
 &lt;a href=&#34;https://listenlocal.community/post/2020-11-23-alternative-recommendations/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;why&lt;/a&gt;.&lt;/p&gt;
 
 
@@ -133,10 +160,34 @@ In the first chapter we introduce various music recommendation systems in the co
 
 &lt;/figure&gt;
 
-&lt;p&gt;We would like to continue this work in more depth in Slovakia, and include new countries and regions, for example, Estonia, Hungary, the Netherlands, Flanders and Wales in the next versions. We are also planning city-version.&lt;/p&gt;
-&lt;h2 id=&#34;download-details-acknowledgements&#34;&gt;Download, Details, Acknowledgements&lt;/h2&gt;
-&lt;p&gt;You can download the entire study, read the research questions, and meet the contributors on the 
-&lt;a href=&#34;https://dataandlyrics.com/publication/listen_local_2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;publication page&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;database&#34;&gt;Database&lt;/h2&gt;
+&lt;p&gt;The Slovak Music Database is connected to Reprex&amp;rsquo;s flagship project, the Demo Music Observatory, an open collaboration-based demo version of the planned European Music Observatory, currently being further developed in the JUMP Music Market Accelerator Programme supported by Music Moves Europe.&lt;/p&gt;
+&lt;p&gt;The project website contains the 
+&lt;a href=&#34;https://listenlocal.community/project/demo-sk-music-db/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;demo version of the Slovak Music Database&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;download-the-study&#34;&gt;Download the Study&lt;/h2&gt;
+&lt;p&gt;You can download the study here&lt;a href=&#34;/publications/Listen_Local_Feasibility_Study_2020_SK.pdf&#34; target=&#34;_blank&#34;&gt;in Slovak&lt;/a&gt; or &lt;a href=&#34;/publications/Listen_Local_Feasibility_Study_2020_EN.pdf&#34; target=&#34;_blank&#34;&gt;in English&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;next-steps&#34;&gt;Next steps&lt;/h2&gt;
+&lt;p&gt;In the next phase of the work, we add further data to our Slovak Demo Music Database and carry out more and more experiments and educational activities to understand how Slovak music can become more visible and targeted. We are also bringing this project into an international collaboration for better utilization of R&amp;amp;D efforts and experiences throughout Europe. This agile project method originated in reproducible scientific practice and open-source software development and allows participation in large projects on any scale: from individual musicians and educators to large research universities and music distributors. Anyone can join in on the effort.&lt;/p&gt;
+&lt;p&gt;Reprex is looking for further international partners; Reprex is currently part of the 
+&lt;a href=&#34;https://reprex.nl/post/2021-02-16-nlaic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dutch AI Coalition&lt;/a&gt; and the 
+&lt;a href=&#34;https://digital-strategy.ec.europa.eu/en/policies/european-ai-alliance&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;European AI Alliance&lt;/a&gt; project. SOZA and Reprex are committed to opening this project for international collaboration while ensuring that a significant part of the R&amp;amp;D activities remains in the Slovak Republic.&lt;/p&gt;
+&lt;p&gt;We are preparing informal, online information sessions for artists, promoters, researchers, and developers to join our project.&lt;/p&gt;
+&lt;h2 id=&#34;contributors&#34;&gt;Contributors&lt;/h2&gt;
+&lt;p&gt;The Reprex team who contributed to the English version:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Budai, Sándor&lt;/strong&gt;, programming and deployment&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dr. Emily H. Clarke&lt;/strong&gt;, musicologist&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stef Koenis&lt;/strong&gt;, musicologist, musician&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dr. Andrés Garcia Molina&lt;/strong&gt;, data scientist, musicologist, editor&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Kátya Nagy&lt;/strong&gt;, music journalist, research assistant;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;and the Slovak version:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Dáša Bulíková&lt;/strong&gt;, musician, translator&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dominika Semaňáková&lt;/strong&gt;, musicologist, editor, layout.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Special thanks to 
+&lt;a href=&#34;https://dataandlyrics.com/post/2020-11-30-youniverse/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tammy Nižňanska &amp;amp; the Youniverse&lt;/a&gt; for the case study.&lt;/p&gt;
 </description>
     </item>
     
@@ -285,6 +336,11 @@ In the first chapter we introduce various music recommendation systems in the co
 &lt;li&gt;&lt;strong&gt;Dáša Bulíková&lt;/strong&gt;, musician, translator&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Dominika Semaňáková&lt;/strong&gt;, musicologist, editor, layout.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;Special thanks to 
+&lt;a href=&#34;https://dataandlyrics.com/post/2020-11-30-youniverse/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tammy Nižňanska&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;project-website-demo-app&#34;&gt;Project Website, Demo App&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://listenlocal.community/#about&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Listen Local&lt;/a&gt; is an open initiative for musicians and music organizations to create new, open AI applications that make locally relevant music visible online and offline. Listen Slovak is our first demonstration project, accompanied with a Feasibility Study. It was created jointly with the Slovak Performing Rights Society, and with the support of the Slovak Arts Council and Consolidated Independent, a music distributor company for independent labels and artist. Our aim was to understand why some Slovak music cannot be heard on radio and on streaming platforms, and to create a database and a demo application that makes that music discoverable.&lt;/p&gt;
 </description>
     </item>
     
