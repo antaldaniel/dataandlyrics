@@ -30,17 +30,13 @@ An interesting meme is going around on social media that shows the gender specif
 
 I was able to replicate this problem in several languages — English, Dutch, French, and German — and I am quite certain that the list could grow. What is going on here?
 
-![](google_translate_DE.png)
+![Sie sieht sehr gut aus. Und er siet dumm aus.](google_translate_DE.png)
 
-Sie sieht sehr gut aus. Und er siet dumm aus.
+![Elle est belle. Il est intelligent.](google_translate_FR.png)
 
-![](google_translate_FR.png)
-
-Elle est belle. Il est intelligent.
 I treat Data Feminism, the magnum opus of Catherine D’Ignazio and Lauren F. Klein as a guidebook to all sorts of power-related problems in big data, not only those specifically pertaining to womxn. The reason why Slovak artists of any gender are less likely to be recommended by a music streaming platform are similar to why Google Translate assumes “the professor” is a “he” every time. In this case, of course, the problems of data and power that we see so clearly represented here do specifically deal with gender and sexism.
 
-![](google_translate_NL.png)
-Ze is aan het winkelen. Hij gaat naar huis.
+![Ze is aan het winkelen. Hij gaat naar huis.](google_translate_NL.png)
 
 > [T]he past data in question (like segregated housing patterns or single parentage) are products of structurally unequal conditions. These unequal conditions are true across large social groups, and yet the technology uses those data as predictive elements that will influence one person’s future. […] This is one of the challenges of using data about people as an input into a system: the data are never “raw.” Data are always the product of unequal social relations — relations affected by centuries of history. As computer scientist Ben Green states, “Although most people talk about machine learning’s ability to predict the future, what it really does is predict the past.” — [Introduction to Data Feminism](https://mitsap.medium.com/data-feminism-ad4263858321) by Catherine D’Ignazio and Lauren F. Klein
 
