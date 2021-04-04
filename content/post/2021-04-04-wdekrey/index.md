@@ -59,7 +59,7 @@ I think pretty much everything starts from where you are located, so yes, local 
 
 The thing is that in art you have to get introduced to galleries and such by someone who has a connection with the gallery owner. Someone has to say, Hey, I think you might be interested in seeing the work of this artist, rather than going somewhere and saying, Hey, I’m an artist, want to look at my work? It also doesn’t feel right to present yourself like that, or at least for me it doesn’t.
 
-{{< figure src="up_is_the_only_way_down.jpg" caption="Willemijn de Krey: Up is the Only Way Down>}}
+{{< figure src="up_is_the_only_way_down.jpg" caption="Willemijn de Krey: Up is the Only Way Down">}}
 
 > In this day and age it seems that everyone has to be their own businessman/woman, but in my opinion that’s somewhat ridiculous.
 
