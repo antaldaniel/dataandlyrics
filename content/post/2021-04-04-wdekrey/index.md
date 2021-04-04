@@ -54,13 +54,12 @@ Recently I discovered Matt Watts’s music. At the moment he’s working on a ne
 
 I think pretty much everything starts from where you are located, so yes, local is the logical first step. Last July I had an exhibition in a place here in Antwerp called [Who’s Afraid of Red, Yellow and Blue](https://whosafraid.be/). The owner gives courses in art, people can drink and eat something there and she has a space where every month other artists can show their work.
 
-{{< figure src="the_rabbit_dream.jpg" caption="illemijn de Krey: The Rabbit Dream Two — Pink is for Punk (in private collection" >}}
+{{< figure src="the_rabbit_dream.jpg" caption="Willemijn de Krey: The Rabbit Dream Two — Pink is for Punk (in private collection)" >}}
 
 
 The thing is that in art you have to get introduced to galleries and such by someone who has a connection with the gallery owner. Someone has to say, Hey, I think you might be interested in seeing the work of this artist, rather than going somewhere and saying, Hey, I’m an artist, want to look at my work? It also doesn’t feel right to present yourself like that, or at least for me it doesn’t.
 
-![Willemijn de Krey: Up is the Only Way Down](up_is_the_only_way_down.jpg)
-
+{{< figure src="up_is_the_only_way_down.jpg" caption="Willemijn de Krey: Up is the Only Way Down>}}
 
 > In this day and age it seems that everyone has to be their own businessman/woman, but in my opinion that’s somewhat ridiculous.
 
@@ -70,7 +69,7 @@ I think people who have a lot of connections have a huge advantage in getting so
 
 People approach me. Oftentimes they want to see a certain photo painted by me. It also happened that I got a commission from a friend of someone who had bought ink drawings from me. This person gave me a phrase, “men of words,” and from there I created this ink drawing in complete freedom. It was a very nice thing to do.
 
-![Willemijn de Krey: Men of Words (in private collection)](men_of_words.jpg)
+{{< figure src="men_of_words.jpg" caption="Willemijn de Krey: Men of Words (in private collection)">}}
 
 You painted the cover art for your own band. Have you worked with other bands as a painter, creative designer, makeup artist or in another, non-musician role?
 
@@ -96,6 +95,7 @@ Sure! Bring it on.
 
 *You can see more of Willemijn’s work on and of course, find her for commissions on [her website](https://dekreyw.wixsite.com/willemijndekrey), and her social media pages on [Facebook](https://www.facebook.com/wdekrey/) and [Instagram](https://www.instagram.com/wdekrey.artist.page/).*
 
-![Willemijn de Krey: Mio Cuore](mio_cuore.jpg)
+
+{{< figure src="mio_cuore.jpg" caption="Willemijn de Krey: Mio Cuore">}}
 
 *If you read Medium, you can read [this](https://medium.com/data-lyrics/in-this-age-everyone-has-to-be-her-own-businesswoman-i-find-this-somewhat-ridiculous-1cfaa743ec73) and all our other stories on the premium blogging platform, too.*
