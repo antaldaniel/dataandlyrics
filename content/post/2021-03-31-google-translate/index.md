@@ -54,7 +54,7 @@ Therefore, a transparent, accountable, trustworthy AI is one that constantly che
 
 *Our startup has initiated several collaborations open for citizen scientists, individual artists, universities and corporations as well to create validated, trustworthy datasets to train accountable algorithms. We are currently focusing on music and climate change, and will start new data programs in other cultural and environmental areas.*
 
-##Update
+## Update
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Here&#39;s our discussion one of the potential methods of combating bias <a href="https://t.co/F2rUCbATpI">https://t.co/F2rUCbATpI</a></p>&mdash; Davit Soselia (@SoseliaDavit) <a href="https://twitter.com/SoseliaDavit/status/1377928893257166850?ref_src=twsrc%5Etfw">April 2, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
