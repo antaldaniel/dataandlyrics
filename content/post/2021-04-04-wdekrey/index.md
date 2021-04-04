@@ -28,7 +28,9 @@ summary = "Willemijn de Krey is a Dutch painter, musician, and occasional filmma
 
 *Willemijn graduated from art academy ArtEZ in Enschede in 2011. At her final exhibition she was one of ten talented upcoming artists across the graduates of the three ArtEZ art academies selected to show their work at Oostenwind 11 in the Delta Lloyd building in Amsterdam. She moved to Antwerp to work in solitude and to find her creative environment. Besides making her own art, Willemijn also works as a painter on commission, as a production manager at Picoux Productions, and as a vocalist and cellist with Verlin. She is looking for both audiences and collaborators.*
 
-![Willemijn de Krey, photo by E. Dierckx](willemijn.jpg)
+![Willemijn de Krey, photo by E. Dierckx](willemijn.jpg "Willemijn de Krey, photo by E. Dierckx")
+
+{{< figure src="willemijn.jpg" caption="Willemijn de Krey, photo by E. Dierckx" >}}
 
 **Our initiative, Listen Local, is trying to connect local audiences with locally relevant musicians. Where do you feel at home as a musician?**
 
@@ -36,7 +38,7 @@ Feeling at home for me is not linked to a place, feeling at home for me has to d
 
 It’s true, though, that I feel at home in Antwerp; I did from the moment I stepped out of the train the first time I came here. There’s something about the atmosphere here, it’s sort of laissez-faire — or at least it felt that way nine years ago. It’s the reason why I wanted to live here, even though I didn’t know anyone here. The second time ever that I came to Antwerp was to move my belongings from the Netherlands to my Antwerp apartment. It was freedom, it was following my heart: on my own in a city and country I didn’t really know, choosing art above everything.
 
-![Willemijn de Krey: Sixteen and Beautiful](16_and_beautiful.jpg)
+![Willemijn de Krey: Sixteen and Beautiful](16_and_beautiful.jpg "Willemijn de Krey: Sixteen and Beautiful")
 
 This is the morning of my sixteenth birthday. The first time I slept on the campsite of a music festival. Lowlands with my best friend. I hate camping, but I love music! Still glad someone found it worth it to capture this moment: “It’s your birthday!” #flash We’re eating bread with ‘schuddebuikjes’ here. In other words, “bread with minuscule cookies.” She’s wearing her skeleton hoodie and I’m wearing my Nirvana hoodie. The day before, when I was still 15, I saw PJ Harvey perform. Bless her. And bless how beautiful my friend and I were then.
 
@@ -54,7 +56,7 @@ Recently I discovered Matt Watts’s music. At the moment he’s working on a ne
 
 I think pretty much everything starts from where you are located, so yes, local is the logical first step. Last July I had an exhibition in a place here in Antwerp called [Who’s Afraid of Red, Yellow and Blue](https://whosafraid.be/). The owner gives courses in art, people can drink and eat something there and she has a space where every month other artists can show their work.
 
-![Willemijn de Krey: The Rabbit Dream Two — Pink is for Punk (in private collection)](the_rabbit_dream.jpg)
+![Willemijn de Krey: The Rabbit Dream Two — Pink is for Punk (in private collection)](the_rabbit_dream.jpg "Willemijn de Krey: The Rabbit Dream Two — Pink is for Punk (in private collection")
 
 The thing is that in art you have to get introduced to galleries and such by someone who has a connection with the gallery owner. Someone has to say, Hey, I think you might be interested in seeing the work of this artist, rather than going somewhere and saying, Hey, I’m an artist, want to look at my work? It also doesn’t feel right to present yourself like that, or at least for me it doesn’t.
 
