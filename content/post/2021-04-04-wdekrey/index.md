@@ -26,7 +26,7 @@ summary = "Willemijn de Krey is a Dutch painter, musician, and occasional filmma
 
 +++
 
-*Willemijn graduated from art academy ArtEZ in Enschede in 2011. At her final exhibition she was one of ten talented upcoming artists across the graduates of the three ArtEZ art academies selected to show their work at Oostenwind 11 in the Delta Lloyd building in Amsterdam. She moved to Antwerp to work in solitude and to find her creative environment. Besides making her own art, Willemijn also works as a painter on commission, as a production manager at Picoux Productions, and as a vocalist and cellist with Verlin. She is looking for both audiences and collaborators.*
+*Willemijn graduated from art academy ArtEZ in Enschede in 2011. At her final exhibition she was one of ten talented upcoming artists across the graduates of the three ArtEZ art academies selected to show their work at Oostenwind 11 in the Delta Lloyd building in Amsterdam. She moved to Antwerp to work in solitude and to find her creative environment. Besides making her own art, Willemijn also works as a painter on commission, as a production manager at Picoux Productions, and has been a vocalist and cellist with Verlin. She is looking for both audiences and collaborators.*
 
 {{< figure src="willemijn.jpg" caption="Willemijn de Krey, photo by E. Dierckx" >}}
 
