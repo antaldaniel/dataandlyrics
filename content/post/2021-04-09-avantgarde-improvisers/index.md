@@ -1,7 +1,7 @@
 +++
 title = "A New Streaming Model Built by Avant-Garde Improvisers"
-date = 2021-04-04T09:00:00
-lastmod = 2021-04-04T09:00:00
+date = 2021-04-09T09:00:00
+lastmod = 2021-04-10T09:10:00
 draft = false
 
 authors = ["Andrés García Molina"]
@@ -39,3 +39,5 @@ Writing as a member of Reprex, a startup that brings together the sensibilities 
 – Catalytic Sound underlines the importance of openness: As Andy Cush narrates, the Catalytic Sound project started with tweets by Nipsey Hussle, in which the the late Los Angeles rapper shared how much money one million streams translated to in different streaming platforms (around `$12,500` in Tidal and `$4,000` in Spotify and Amazon Music). Having a sense of these numbers led to some serious coming to terms with how little musicians make through streaming, and the need to look for an alternative, no matter how modest. It’s a matter of principle: “Catalytic isn’t making any of its partners rich, but then again, neither is Spotify. (Even the $46 the musicians received at minimum last month adds up to a bigger yearly check than plenty of artists see from corporate streaming.)” At Reprex, we prioritize open data and open source collaboration as a way to build bridges between businesses, policy-makers, and academia.
 
 Ultimately, the model Catalytic Sound is proposing is one about collaboration in which similar grassroots organizations share knowledge and work towards common goals. So far, in our Listen Local initiative, we have focused on the ways in which independent and marginalized artists can find their way on existing streaming platforms, and how listeners find locally relevant artists instead of being taken to the playlists of international superstars. Catalytic Sounds opens a new perspective— starting a new streaming service as a way of participating in that larger historical project of dismantling, rethinking, and creating, recalling what a certain Audre Lorde had to say about undoing the master’s house  [pdf](https://collectiveliberation.org/wp-content/uploads/2013/01/Lorde_The_Masters_Tools.pdf).
+
+*If you read, and especially if you write on Medium, you can read and contribute to [Data & Lyrics](https://medium.com/data-lyrics/a-new-streaming-model-built-by-avant-garde-improvisers-da6c16777437) on the premium bloggging platform, too.*
