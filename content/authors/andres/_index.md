@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Andres
+title: Andrés García Molina
 name:  Andrés García Molina, PhD
 
 # Username (this should match the folder name)
