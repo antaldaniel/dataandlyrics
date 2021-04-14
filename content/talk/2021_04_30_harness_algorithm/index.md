@@ -1,7 +1,7 @@
 +++
 title = "Harness the Algorithm"
-date = 2021-02-02T10:10:00  
-lastmod = 2021-03-02T19:10:00
+date = 2021-04-14T08:10:00  
+lastmod = 2021-04-14T08:10:00  
 draft = false
 
 # Talk start and end times.
