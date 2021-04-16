@@ -4,5 +4,11 @@
 .Ruserdata
 
 public/
+public/tag/
+public/post/
+public/author/
+public/authors/
+public/team/
+public/talk
 
 resources/
