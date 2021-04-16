@@ -27,9 +27,9 @@ summary = "The second post in this series presents two use cases focused on loca
 
 +++
 
-My [previous blogpost ](https://medium.com/data-lyrics/how-to-speak-about-music-in-the-digital-age-from-taxonomies-to-folksonomies-ac2d25ed29f7) addressed two ways of classifying music in the digital age: on the one hand, subgenre taxonomies proposed by industry vendors; on the other hand, user-defined collaborative tagging systems or folksonomies, which are more suitable for exploring niche music genres and to delve into the intricacies of an ever-evolving musical landscape. The Bandcamp Dance Librarian project takes into account both classification systems, using the taxonomy of industry vendor Beatport to detect stylistic tendencies or repertoires within the Bandcamp libraries of grassroots electronic dance music labels. This is performed by identifying clusters within a Bandcamp library based on Beatport’s subgenre labels. For instance, a cluster from the library of Samurai Music is identifed as an amalgam of Drum&Bass, Leftfield Bass, and to a lesser extent Trap-Hip-Hop-R&B. The dimension of this cluster (i.e., the number of tracks) is then displayed on a timeline among other clusters.
+My [previous blogpost ](https://medium.com/data-lyrics/how-to-speak-about-music-in-the-digital-age-from-taxonomies-to-folksonomies-ac2d25ed29f7) addressed two ways of classifying music in the digital age: on the one hand, subgenre taxonomies proposed by industry vendors; on the other hand, user-defined collaborative tagging systems or folksonomies, which are more suitable for exploring niche music genres and to delve into the intricacies of an ever-evolving musical landscape. The Bandcamp Dance Librarian project takes into account both classification systems, using the taxonomy of industry vendor Beatport to detect stylistic tendencies or repertoires within the Bandcamp libraries of grassroots electronic dance music labels. This is performed by identifying clusters within a Bandcamp library based on Beatport’s subgenre labels. For instance, a cluster from the library of *Samurai Music* is identifed as an amalgam of `Drum&Bass`, `Leftfield Bass`, and to a lesser extent `Trap-Hip-Hop-R&B`. The dimension of this cluster (i.e., the number of tracks) is then displayed on a timeline among other clusters.
 
-Bandcamp is a reputable publishing platform aimed towards independent musicians that encourages the use of tags (folksonomies) by its users — accordingly, the Librarian takes into account the artist/label tags added to the Bandcamp pages. It is therefore possible to compare the industry taxonomy of Beatport with artist folksonomies, as long as such tags are provided on Bandcamp or further investigation around particular folksonomies is performed. For instance, a representative track from the cluster identified above is described, among others, as “homemade weaponry” by the eponymous artist:
+Bandcamp is a reputable publishing platform aimed towards independent musicians that encourages the use of tags (folksonomies) by its users — accordingly, the Librarian takes into account the artist/label tags added to the Bandcamp pages. It is therefore possible to compare the industry taxonomy of Beatport with artist folksonomies, as long as such tags are provided on Bandcamp or further investigation around particular folksonomies is performed. For instance, a representative track from the cluster identified above is described, among others, as *homemade weaponry* by the eponymous artist:
 
 {{< figure src="/img/bandcamp_librarian/homemade_weaponry.jpeg" title="homemade weaponry" numbered="true" >}}
 
@@ -53,12 +53,11 @@ The following table shows the total number of tags pertaining to each location (
 
 {{< figure src="/img/bandcamp_librarian/tags_per_city.jpeg" title="Tags per city" numbered="true" >}}
 
-
-(Note: United Kingdom has been conflated with London for the purposes of this illustration.)
+(*Note: United Kingdom has been conflated with London for the purposes of this illustration.*)
 
 In one way or another, the relative relevance of these cities within the global techno circuit can be inferred from these numbers.
 
-By instructing the Librarian to treat as a single cluster all tracks that are tagged with the same city label, an attempt can be made to delineate an overall — although not the only — sound that can be comfortably identified with a location. Berlin, for instance, can be classified as follows:
+By instructing the Librarian to treat as a single cluster all tracks that are tagged with the same city label, an attempt can be made to delineate an overall — although not the only — sound that can be comfortably identified with a location. *Berlin*, for instance, can be classified as follows:
 
 {{< figure src="/img/bandcamp_librarian/berlin_classification.jpeg" title="Berlin Classification" numbered="true" >}}
 
@@ -68,7 +67,7 @@ Bandcamp links:
 - [https://flashrec.bandcamp.com/track/anml-mthr-alarm](https://flashrec.bandcamp.com/track/anml-mthr-alarm)
 - [https://ostgut.bandcamp.com/track/scenario](https://ostgut.bandcamp.com/track/scenario)
 
-The UK is another noteworthy example:
+The *United Kingdom* is another noteworthy example:
 
 {{< figure src="/img/bandcamp_librarian/uk_classification.jpeg" title="United Kingdom Classification" numbered="true" >}}
 
@@ -86,7 +85,7 @@ As expected, the detected subgenres are concentrated on the various flavours of 
 
 {{< figure src="/img/bandcamp_librarian/tag_frequencies.jpeg" title="Tag Frequencies" numbered="true" >}}
 
-As the word cloud also suggests, the tracks cover a variety of genres. Accordingly, our classifier should be more general in scope than in the case of the techno labels. A suitable option is the MSD-MusiCNN TensorFlow auto-tagging model supplied with the Essentia library [https://mtg.github.io/essentia-labs/news/tensorflow/2020/01/16/tensorflow-models-released/](https://mtg.github.io/essentia-labs/news/tensorflow/2020/01/16/tensorflow-models-released/), which predicts LastFm’s top-50 music classification tags (a selection of 24 tags referring to music genres or styles were predicted for the purposes of this demonstration).
+As the word cloud also suggests, the tracks cover a variety of genres. Accordingly, our classifier should be more general in scope than in the case of the techno labels. A suitable option is the MSD-MusiCNN TensorFlow auto-tagging model supplied with the  [Essentia library](https://mtg.github.io/essentia-labs/news/tensorflow/2020/01/16/tensorflow-models-released/), which predicts LastFm’s top-50 music classification tags (a selection of 24 tags referring to music genres or styles were predicted for the purposes of this demonstration).
 
 One can get a first feel of the stylistic tendencies within the sample by looking at the classification tags with the highest mean probability values:
 
@@ -102,7 +101,7 @@ One can get a first feel of the stylistic tendencies within the sample by lookin
 
 Accordingly, the five most representative genres or styles in our collection are rock, hip-hop, electronic, alternative and pop.
 
-A more refined perspective is gained after clustering the tracks based on their tag probability values. The algorithm proposes three clusters by default, crystallized around the rock (alternative/pop), hip-hop, and electronic (ambient/dance) genres:
+A more refined perspective is gained after clustering the tracks based on their tag probability values. The algorithm proposes three clusters by default, crystallized around the `rock (alternative/pop)`, `hip-hop`, and `electronic (ambient/dance)` genres:
 
 {{< figure src="/img/bandcamp_librarian/Listen_Local_Clusters.jpeg" title="Listen Local Clusters" numbered="true" >}}
 
@@ -136,7 +135,7 @@ Bandcamp links:
 
 - [https://noreligionlabel.bandcamp.com/track/go-outside-outro](https://noreligionlabel.bandcamp.com/track/go-outside-outro)
 
-The track examples provide the closest matches with the identified subgenres, and the complete clusters are not restricted to these styles. However, by increasing the cluster number it is possible to further refine the results. By increasing it to five groups, for example, a rock/electronic/pop fusion group is also identified, and metal appears as a new determining genre:
+The track examples provide the closest matches with the identified subgenres, and the complete clusters are not restricted to these styles. However, by increasing the cluster number it is possible to further refine the results. By increasing it to five groups, for example, a `rock/electronic/pop fusion` group is also identified, and `metal` appears as a new determining genre:
 
 {{< figure src="/img/bandcamp_librarian/rock_electronic_pop_fusion_group.jpeg" title="Rock/Electronic/Pop fusion group Cluster" numbered="true" >}}
 
