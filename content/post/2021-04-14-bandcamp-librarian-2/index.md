@@ -35,7 +35,7 @@ Bandcamp is a reputable publishing platform aimed towards independent musicians 
 
 Bandcamp link: [https://homemadeweapons.bandcamp.com/track/hawkeye](https://homemadeweapons.bandcamp.com/track/hawkeye)
 
-A few more (technical) details about the project: The classifier is based on the methodology of Caparrini et al. (2020), using 92 audio features extracted from electronic dance music tracks within Beatport’s Top-100 lists in various subgenres. Bandcamp offers freely available full-length (low-bitrate) streams as track previews, which are suitable for musical feature extraction and analysis. Complete Bandcamp libraries are processed, and each track’s class (subgenre) probabilities are determined by the classifier, which forms the basis for the clustering algorithm. The number of clusters can be set in advance or calculated automatically. Results are provided in a PDF file with links to up to three representative Bandcamp tracks (if possible, from different artists) in each group and their attached tags (folksonomies).
+> A few more (technical) details about the project: The classifier is based on the methodology of Caparrini et al. (2020), using 92 audio features extracted from electronic dance music tracks within Beatport’s Top-100 lists in various subgenres. Bandcamp offers freely available full-length (low-bitrate) streams as track previews, which are suitable for musical feature extraction and analysis. Complete Bandcamp libraries are processed, and each track’s class (subgenre) probabilities are determined by the classifier, which forms the basis for the clustering algorithm. The number of clusters can be set in advance or calculated automatically. Results are provided in a PDF file with links to up to three representative Bandcamp tracks (if possible, from different artists) in each group and their attached tags (folksonomies).
 
 The remainder of this post presents two use cases focused on localities and location tags (signifying cities, countries and sometimes nationalities). Such tags help putting local music scenes on the map; in the case of particularly prolific or creative cities they can be connected to specific genres too. Most commonly, they identify the city or country where the music label or the artist is based. Electronic music production requires relatively accessible tools and is usually carried out entirely by the producer; prominent artists are often running record labels that are integral to promoting music and structuring scenes. These aspects contribute to the burgeoning of independent music communities across the globe.
 
@@ -81,7 +81,11 @@ Bandcamp links:
 
 Of course, defining a single cluster will not account for the sonic variety of such influential cities.
 
-As expected, the detected subgenres are concentrated on the various flavours of techno. For more stylistic variety, we can use the Librarian with different music styles and datasets. The following example concerns artists that could be affiliated with the [Listen Local initiative](http://listenlocal.community/). Our goal was to focus on Slovakian artists on Spotify that have Bandcamp presence too, and use the Librarian as support for the recommendations. A sample of 82 such artists was selected; their Bandcamp libraries included 2379 tracks. In total, 17.881 tags were attached to these tracks, among which 550 were unique. The tag frequencies are illustrated below:
+As expected, the detected subgenres are concentrated on the various flavours of techno. For more stylistic variety, we can use the Librarian with different music styles and datasets. 
+
+## Slovakia Case Study
+
+The following example concerns artists that are somehow appear to be connected with Slovkakia. Our goal was to focus on Slovakian artists on Spotify that have Bandcamp presence too, and use the Librarian as support for the recommendations. A sample of 82 such artists was selected; their Bandcamp libraries included 2379 tracks. In total, 17.881 tags were attached to these tracks, among which 550 were unique. The tag frequencies are illustrated below:
 
 {{< figure src="/img/bandcamp_librarian/tag_frequencies.jpeg" title="Tag Frequencies" numbered="true" >}}
 
@@ -158,7 +162,6 @@ Bandcamp links:
 
 - [Zoči Voči - Nitriansky kraj, Slovakia](https://hudba.zocivoci.sk/track/prehra-a-zmizn)
 
-If you’d like to have a look at these and other stylistic groups (or search based on location tags), a working demo of the Librarian loaded with the Listen Local dataset is available at: [bitly.com/bandcamp-librarian](https://bitly.com/bandcamp-librarian). Happy discoveries!
 
 ## References
 
