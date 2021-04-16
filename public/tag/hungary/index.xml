@@ -17,27 +17,194 @@
       <link>/post/2021-03-31-google-translate/</link>
       <pubDate>Wed, 31 Mar 2021 09:00:00 +0200</pubDate>
       <guid>/post/2021-03-31-google-translate/</guid>
-      <description>&lt;h2 id=&#34;how-to-help-promote-local-music&#34;&gt;How to help promote local music?&lt;/h2&gt;
-&lt;p&gt;The new study opens the question of the local music promotion within the digital environment.
-The Slovak Performing and Mechanical Rights Society (SOZA), the State51 music group in the United Kingdom, and the Slovak Arts Council commissioned Reprex to created a feasibility study which provides recommendations for better use of quotas for Slovak radio stations and which also maps the share and promotion of Slovak music within large streaming and media platforms such as Spotify.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;google_translate_EN.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;An interesting meme is going around on social media that shows the gender specific translations created by Google Translate from a source text typed in a genderless language, Hungarian.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/2021-03-31-google-translate/google_translate_EN_hu761d93f4ef11e82c3d831bb9af321310_95647_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;/post/2021-03-31-google-translate/google_translate_EN_hu761d93f4ef11e82c3d831bb9af321310_95647_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1348&#34; height=&#34;424&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
 &lt;p&gt;I was able to replicate this problem in several languages — English, Dutch, French, and German — and I am quite certain that the list could grow. What is going on here?&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;google_translate_DE.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Sie sieht sehr gut aus. Und er siet dumm aus.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;google_translate_FR.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Elle est belle. Il est intelligent.
-I treat Data Feminism, the magnum opus of Catherine D’Ignazio and Lauren F. Klein as a guidebook to all sorts of power-related problems in big data, not only those specifically pertaining to womxn. The reason why Slovak artists of any gender are less likely to be recommended by a music streaming platform are similar to why Google Translate assumes “the professor” is a “he” every time. In this case, of course, the problems of data and power that we see so clearly represented here do specifically deal with gender and sexism.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;google_translate_NL.png&#34; alt=&#34;&#34;&gt;
-Ze is aan het winkelen. Hij gaat naar huis.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-sie-sieht-sehr-gut-aus-und-er-siet-dumm-aus&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/2021-03-31-google-translate/google_translate_DE_hu0d40e28f54131a88e6d7d2a34dc4998e_93765_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Sie sieht sehr gut aus. Und er siet dumm aus.&#34;&gt;
+
+
+  &lt;img data-src=&#34;/post/2021-03-31-google-translate/google_translate_DE_hu0d40e28f54131a88e6d7d2a34dc4998e_93765_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1348&#34; height=&#34;418&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Sie sieht sehr gut aus. Und er siet dumm aus.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-elle-est-belle-il-est-intelligent&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/2021-03-31-google-translate/google_translate_FR_hu25136464cec3111d69faf7a1580e1bbe_91314_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Elle est belle. Il est intelligent.&#34;&gt;
+
+
+  &lt;img data-src=&#34;/post/2021-03-31-google-translate/google_translate_FR_hu25136464cec3111d69faf7a1580e1bbe_91314_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1348&#34; height=&#34;426&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Elle est belle. Il est intelligent.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;I treat Data Feminism, the magnum opus of Catherine D’Ignazio and Lauren F. Klein as a guidebook to all sorts of power-related problems in big data, not only those specifically pertaining to womxn. The reason why Slovak artists of any gender are less likely to be recommended by a music streaming platform are similar to why Google Translate assumes “the professor” is a “he” every time. In this case, of course, the problems of data and power that we see so clearly represented here do specifically deal with gender and sexism.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-ze-is-aan-het-winkelen-hij-gaat-naar-huis&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/2021-03-31-google-translate/google_translate_NL_huc92726e020625790e157beb91f2fbdea_93090_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Ze is aan het winkelen. Hij gaat naar huis&#34;&gt;
+
+
+  &lt;img data-src=&#34;/post/2021-03-31-google-translate/google_translate_NL_huc92726e020625790e157beb91f2fbdea_93090_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1342&#34; height=&#34;422&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Ze is aan het winkelen. Hij gaat naar huis
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
 &lt;blockquote&gt;
 &lt;p&gt;[T]he past data in question (like segregated housing patterns or single parentage) are products of structurally unequal conditions. These unequal conditions are true across large social groups, and yet the technology uses those data as predictive elements that will influence one person’s future. […] This is one of the challenges of using data about people as an input into a system: the data are never “raw.” Data are always the product of unequal social relations — relations affected by centuries of history. As computer scientist Ben Green states, “Although most people talk about machine learning’s ability to predict the future, what it really does is predict the past.” — 
 &lt;a href=&#34;https://mitsap.medium.com/data-feminism-ad4263858321&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introduction to Data Feminism&lt;/a&gt; by Catherine D’Ignazio and Lauren F. Klein&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;The problem here is that Google has “read” all books, translations, dictionaries and whatever it can get its proverbial hands on, as well as recording for years how people use and correct its translation tool. In a patriarchal society, more men drive buses then women, and women are more often considered and described as beautiful than they are strong. Google considers the most used translation in the past the one that is most likely to be correct in future cases.
-(To Google’s credit, if you enter only a single term, not an entire text, it explains the problem. The Hungarian language does not use gendered nouns and pronouns — even though Hungarian society is quite patriarchal in other ways!)&lt;/p&gt;
+&lt;p&gt;The problem here is that Google has “read” all books, translations, dictionaries and whatever it can get its proverbial hands on, as well as recording for years how people use and correct its translation tool. In a patriarchal society, more men drive buses then women, and women are more often considered and described as beautiful than they are strong. Google considers the most used translation in the past the one that is most likely to be correct in future cases.&lt;/p&gt;
+&lt;p&gt;(To Google’s credit, if you enter only a single term, not an entire text, it explains the problem. The Hungarian language does not use gendered nouns and pronouns — even though Hungarian society is quite patriarchal in other ways!)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;busdriver.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Big data reenforces existing power imbalances because it projects the past into the present and the future, through numbers and language. As a study published by the 
 &lt;a href=&#34;https://fra.europa.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;European Union Agency For Fundamental Rights&lt;/a&gt;, 
-&lt;a href=&#34;https://fra.europa.eu/en/publication/2020/artificial-intelligence-and-fundamental-rights&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Getting the future right — Artificial intelligence and fundamental rights argues, justice and equality are fundamental rights&lt;/a&gt;. Accordingly, everyone must have the right to challenge an algorithm that discriminates against them, in music streaming, recruitment processes, or other contexts, in court.&lt;/p&gt;
+&lt;a href=&#34;https://fra.europa.eu/en/publication/2020/artificial-intelligence-and-fundamental-rights&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Getting the future right — Artificial intelligence and fundamental rights argues, justice and equality are fundamental rights&lt;/a&gt; argues, justice and equality are fundamental rights. Accordingly, everyone must have the right to challenge an algorithm that discriminates against them, in music streaming, recruitment processes, or other contexts, in court.&lt;/p&gt;
+&lt;p&gt;Therefore, a transparent, accountable, trustworthy AI is one that constantly checks for biases and changes them. This is the reason why black-box, proprietary algorithms can do more harm than good. If you want to correct injustices in music streaming, in everyday language use, or in a recruitment process, you must be able to verify the training dataset of an algorithm, its working principles, and its outcome as unbiased.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Our startup has initiated several collaborations open for citizen scientists, individual artists, universities and corporations as well to create validated, trustworthy datasets to train accountable algorithms. We are currently focusing on music and climate change, and will start new data programs in other cultural and environmental areas.&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;update&#34;&gt;Update&lt;/h2&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Here&amp;#39;s our discussion one of the potential methods of combating bias &lt;a href=&#34;https://t.co/F2rUCbATpI&#34;&gt;https://t.co/F2rUCbATpI&lt;/a&gt;&lt;/p&gt;&amp;mdash; Davit Soselia (@SoseliaDavit) &lt;a href=&#34;https://twitter.com/SoseliaDavit/status/1377928893257166850?ref_src=twsrc%5Etfw&#34;&gt;April 2, 2021&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://blog.finsentim.com/how-deep-neural-networks-learn-gender-bias-4ac64ca07915?gi=71046f8251e0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Davit Soselia &amp;amp; Shota Amashukeli: How Deep Neural Networks Learn Gender Bias&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Problem of Gender Bias In Machine Translation</title>
+      <link>/post/2021-04-01-catalyctic/</link>
+      <pubDate>Wed, 31 Mar 2021 09:00:00 +0200</pubDate>
+      <guid>/post/2021-04-01-catalyctic/</guid>
+      <description>&lt;p&gt;An interesting meme is going around on social media that shows the gender specific translations created by Google Translate from a source text typed in a genderless language, Hungarian.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;google_translate_EN.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;I was able to replicate this problem in several languages — English, Dutch, French, and German — and I am quite certain that the list could grow. What is going on here?&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;google_translate_DE.png&#34; alt=&#34;Sie sieht sehr gut aus. Und er siet dumm aus.&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;google_translate_FR.png&#34; alt=&#34;Elle est belle. Il est intelligent.&#34;&gt;&lt;/p&gt;
+&lt;p&gt;I treat Data Feminism, the magnum opus of Catherine D’Ignazio and Lauren F. Klein as a guidebook to all sorts of power-related problems in big data, not only those specifically pertaining to womxn. The reason why Slovak artists of any gender are less likely to be recommended by a music streaming platform are similar to why Google Translate assumes “the professor” is a “he” every time. In this case, of course, the problems of data and power that we see so clearly represented here do specifically deal with gender and sexism.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;google_translate_NL.png&#34; alt=&#34;Ze is aan het winkelen. Hij gaat naar huis.&#34;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[T]he past data in question (like segregated housing patterns or single parentage) are products of structurally unequal conditions. These unequal conditions are true across large social groups, and yet the technology uses those data as predictive elements that will influence one person’s future. […] This is one of the challenges of using data about people as an input into a system: the data are never “raw.” Data are always the product of unequal social relations — relations affected by centuries of history. As computer scientist Ben Green states, “Although most people talk about machine learning’s ability to predict the future, what it really does is predict the past.” — 
+&lt;a href=&#34;https://mitsap.medium.com/data-feminism-ad4263858321&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introduction to Data Feminism&lt;/a&gt; by Catherine D’Ignazio and Lauren F. Klein&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The problem here is that Google has “read” all books, translations, dictionaries and whatever it can get its proverbial hands on, as well as recording for years how people use and correct its translation tool. In a patriarchal society, more men drive buses then women, and women are more often considered and described as beautiful than they are strong. Google considers the most used translation in the past the one that is most likely to be correct in future cases.&lt;/p&gt;
+&lt;p&gt;(To Google’s credit, if you enter only a single term, not an entire text, it explains the problem. The Hungarian language does not use gendered nouns and pronouns — even though Hungarian society is quite patriarchal in other ways!)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;busdriver.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Big data reenforces existing power imbalances because it projects the past into the present and the future, through numbers and language. As a study published by the 
+&lt;a href=&#34;https://fra.europa.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;European Union Agency For Fundamental Rights&lt;/a&gt;, 
+&lt;a href=&#34;https://fra.europa.eu/en/publication/2020/artificial-intelligence-and-fundamental-rights&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Getting the future right — Artificial intelligence and fundamental rights argues, justice and equality are fundamental rights&lt;/a&gt; argues, justice and equality are fundamental rights. Accordingly, everyone must have the right to challenge an algorithm that discriminates against them, in music streaming, recruitment processes, or other contexts, in court.&lt;/p&gt;
 &lt;p&gt;Therefore, a transparent, accountable, trustworthy AI is one that constantly checks for biases and changes them. This is the reason why black-box, proprietary algorithms can do more harm than good. If you want to correct injustices in music streaming, in everyday language use, or in a recruitment process, you must be able to verify the training dataset of an algorithm, its working principles, and its outcome as unbiased.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Our startup has initiated several collaborations open for citizen scientists, individual artists, universities and corporations as well to create validated, trustworthy datasets to train accountable algorithms. We are currently focusing on music and climate change, and will start new data programs in other cultural and environmental areas.&lt;/em&gt;&lt;/p&gt;
 </description>

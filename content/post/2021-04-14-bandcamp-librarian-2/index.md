@@ -159,7 +159,7 @@ Bandcamp links:
 
 - [https://hudba.zocivoci.sk/track/prehra-a-zmizn](https://hudba.zocivoci.sk/track/prehra-a-zmizn)
 
-If you’d like to have a look at these and other stylistic groups (or search based on location tags), a working demo of the Librarian loaded with the Listen Local dataset is available at: [bitly.com/bandcamp-librarian](https://medium.com/data-lyrics/bitly.com/bandcamp-librarian) . Happy discoveries!
+If you’d like to have a look at these and other stylistic groups (or search based on location tags), a working demo of the Librarian loaded with the Listen Local dataset is available at: [bitly.com/bandcamp-librarian](https://bitly.com/bandcamp-librarian). Happy discoveries!
 
 ## References
 

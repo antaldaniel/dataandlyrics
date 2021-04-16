@@ -2,14 +2,98 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/authors/</loc>
-    <lastmod>2021-03-31T09:00:00+02:00</lastmod>
+    <loc>/tag/algorithms/</loc>
+    <lastmod>2021-04-14T08:10:00+02:00</lastmod>
   </url><url>
-    <loc>/author/daniel-antal/</loc>
-    <lastmod>2021-03-31T09:00:00+02:00</lastmod>
+    <loc>/authors/</loc>
+    <lastmod>2021-04-16T09:10:00+02:00</lastmod>
+  </url><url>
+    <loc>/author/daniel-antal-cfa/</loc>
+    <lastmod>2021-04-14T08:10:00+02:00</lastmod>
   </url><url>
     <loc>/</loc>
-    <lastmod>2021-03-31T09:00:00+02:00</lastmod>
+    <lastmod>2021-04-16T09:10:00+02:00</lastmod>
+  </url><url>
+    <loc>/talk/2021_04_30_harness_algorithm/</loc>
+    <lastmod>2021-04-14T08:10:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/listen-local/</loc>
+    <lastmod>2021-04-14T08:10:00+02:00</lastmod>
+  </url><url>
+    <loc>/talk/</loc>
+    <lastmod>2021-04-14T08:10:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/slovakia/</loc>
+    <lastmod>2021-04-14T08:10:00+02:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2021-04-16T09:10:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/trustworthy-ai/</loc>
+    <lastmod>2021-04-14T08:10:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/bandcamp/</loc>
+    <lastmod>2021-04-16T09:10:00+02:00</lastmod>
+  </url><url>
+    <loc>/author/botond-vitos/</loc>
+    <lastmod>2021-04-16T09:10:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/genres/</loc>
+    <lastmod>2021-04-16T09:10:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/mapping/</loc>
+    <lastmod>2021-04-16T09:10:00+02:00</lastmod>
+  </url><url>
+    <loc>/post/</loc>
+    <lastmod>2021-04-16T09:10:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/scenes/</loc>
+    <lastmod>2021-04-16T09:10:00+02:00</lastmod>
+  </url><url>
+    <loc>/post/2021-04-14-bandcamp-librarian-2/</loc>
+    <lastmod>2021-04-16T09:10:00+02:00</lastmod>
+  </url><url>
+    <loc>/post/2021-04-09-avantgarde-improvisers/</loc>
+    <lastmod>2021-04-10T09:10:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/alternatives/</loc>
+    <lastmod>2021-04-10T09:10:00+02:00</lastmod>
+  </url><url>
+    <loc>/author/andres-garcia-molina/</loc>
+    <lastmod>2021-04-10T09:10:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/business-models/</loc>
+    <lastmod>2021-04-10T09:10:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/contemporary-music/</loc>
+    <lastmod>2021-04-10T09:10:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/music-streaming/</loc>
+    <lastmod>2021-04-10T09:10:00+02:00</lastmod>
+  </url><url>
+    <loc>/post/2021-04-04-wdekrey/</loc>
+    <lastmod>2021-04-04T09:00:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/antwerpen/</loc>
+    <lastmod>2021-04-04T09:00:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/belgium/</loc>
+    <lastmod>2021-04-04T09:00:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/career/</loc>
+    <lastmod>2021-04-04T09:00:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/cello/</loc>
+    <lastmod>2021-04-04T09:00:00+02:00</lastmod>
+  </url><url>
+    <loc>/author/daniel-antal/</loc>
+    <lastmod>2021-04-04T09:00:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/music/</loc>
+    <lastmod>2021-04-04T09:00:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/painting/</loc>
+    <lastmod>2021-04-04T09:00:00+02:00</lastmod>
   </url><url>
     <loc>/tag/google/</loc>
     <lastmod>2021-03-31T09:00:00+02:00</lastmod>
@@ -17,22 +101,16 @@
     <loc>/tag/hungary/</loc>
     <lastmod>2021-03-31T09:00:00+02:00</lastmod>
   </url><url>
-    <loc>/post/</loc>
-    <lastmod>2021-03-31T09:00:00+02:00</lastmod>
-  </url><url>
     <loc>/tag/sexism/</loc>
-    <lastmod>2021-03-31T09:00:00+02:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2021-03-31T09:00:00+02:00</lastmod>
   </url><url>
     <loc>/post/2021-03-31-google-translate/</loc>
     <lastmod>2021-03-31T09:00:00+02:00</lastmod>
   </url><url>
-    <loc>/tag/translation/</loc>
+    <loc>/post/2021-04-01-catalyctic/</loc>
     <lastmod>2021-03-31T09:00:00+02:00</lastmod>
   </url><url>
-    <loc>/tag/trustworthy-ai/</loc>
+    <loc>/tag/translation/</loc>
     <lastmod>2021-03-31T09:00:00+02:00</lastmod>
   </url><url>
     <loc>/publication-type/4/</loc>
@@ -60,9 +138,6 @@
     <lastmod>2021-03-25T11:00:00+01:00</lastmod>
   </url><url>
     <loc>/tag/recommendations/</loc>
-    <lastmod>2021-03-25T11:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/tag/slovakia/</loc>
     <lastmod>2021-03-25T11:00:00+01:00</lastmod>
   </url><url>
     <loc>/tag/amersfoort/</loc>
@@ -149,12 +224,6 @@
     <loc>/tag/robots/</loc>
     <lastmod>2021-03-07T09:19:00+02:00</lastmod>
   </url><url>
-    <loc>/tag/bandcamp/</loc>
-    <lastmod>2021-03-05T15:00:00+02:00</lastmod>
-  </url><url>
-    <loc>/author/botond-vitos/</loc>
-    <lastmod>2021-03-05T15:00:00+02:00</lastmod>
-  </url><url>
     <loc>/tag/clustering/</loc>
     <lastmod>2021-03-05T15:00:00+02:00</lastmod>
   </url><url>
@@ -162,9 +231,6 @@
     <lastmod>2021-03-05T15:00:00+02:00</lastmod>
   </url><url>
     <loc>/tag/library/</loc>
-    <lastmod>2021-03-05T15:00:00+02:00</lastmod>
-  </url><url>
-    <loc>/tag/listen-local/</loc>
     <lastmod>2021-03-05T15:00:00+02:00</lastmod>
   </url><url>
     <loc>/tag/music-observatory/</loc>
@@ -200,9 +266,6 @@
     <loc>/post/2021-03-01-major-vs-independent/</loc>
     <lastmod>2021-03-02T07:23:00+02:00</lastmod>
   </url><url>
-    <loc>/tag/music-streaming/</loc>
-    <lastmod>2021-03-02T07:23:00+02:00</lastmod>
-  </url><url>
     <loc>/tag/ucps/</loc>
     <lastmod>2021-03-02T07:23:00+02:00</lastmod>
   </url><url>
@@ -214,9 +277,6 @@
   </url><url>
     <loc>/author/peter-ormosi/</loc>
     <lastmod>2021-02-24T21:23:00+02:00</lastmod>
-  </url><url>
-    <loc>/tag/algorithms/</loc>
-    <lastmod>2021-02-23T11:00:00+01:00</lastmod>
   </url><url>
     <loc>/tag/deezer/</loc>
     <lastmod>2021-02-23T11:00:00+01:00</lastmod>
@@ -299,9 +359,6 @@
     <loc>/author/thomas-margoni/</loc>
     <lastmod>2021-02-13T11:00:00+01:00</lastmod>
   </url><url>
-    <loc>/tag/mapping/</loc>
-    <lastmod>2021-02-03T09:16:00+02:00</lastmod>
-  </url><url>
     <loc>/tag/ood2021/</loc>
     <lastmod>2021-02-03T09:16:00+02:00</lastmod>
   </url><url>
@@ -314,13 +371,10 @@
     <loc>/tag/sustainability/</loc>
     <lastmod>2021-03-02T19:10:00+01:00</lastmod>
   </url><url>
-    <loc>/author/daniel-antal-cfa/</loc>
-    <lastmod>2021-03-02T19:10:00+01:00</lastmod>
-  </url><url>
     <loc>/talk/2021_03_06_ood/</loc>
     <lastmod>2021-03-02T19:10:00+01:00</lastmod>
   </url><url>
-    <loc>/talk/</loc>
+    <loc>/talk/2021_04_09_ivirtual/</loc>
     <lastmod>2021-03-02T19:10:00+01:00</lastmod>
   </url><url>
     <loc>/tag/big-data/</loc>
@@ -530,9 +584,6 @@
     <loc>/tag/playlist/</loc>
     <lastmod>2020-10-24T18:00:00+02:00</lastmod>
   </url><url>
-    <loc>/tag/belgium/</loc>
-    <lastmod>2020-10-18T18:00:00+02:00</lastmod>
-  </url><url>
     <loc>/post/2020-10-19-listen-local/</loc>
     <lastmod>2020-10-18T18:00:00+02:00</lastmod>
   </url><url>
@@ -585,9 +636,6 @@
     <lastmod>2020-09-25T15:31:39+02:00</lastmod>
   </url><url>
     <loc>/post/2020-09-15-music-observatory-launch/</loc>
-    <lastmod>2020-09-15T08:00:39+02:00</lastmod>
-  </url><url>
-    <loc>/tag/music/</loc>
     <lastmod>2020-09-15T08:00:39+02:00</lastmod>
   </url><url>
     <loc>/tag/observatory/</loc>
@@ -785,9 +833,6 @@
     <loc>/post/2019-09-23_cross-border_europe/</loc>
     <lastmod>2019-09-23T18:30:00+02:00</lastmod>
   </url><url>
-    <loc>/tag/career/</loc>
-    <lastmod>2019-07-21T19:45:00+02:00</lastmod>
-  </url><url>
     <loc>/tag/living-standards/</loc>
     <lastmod>2019-07-21T19:45:00+02:00</lastmod>
   </url><url>
@@ -871,7 +916,7 @@
   </url><url>
     <loc>/author/</loc>
   </url><url>
-    <loc>/author/andres/</loc>
+    <loc>/author/andres-garcia-molina/</loc>
   </url><url>
     <loc>/author/daniel/</loc>
   </url><url>
