@@ -31,7 +31,7 @@ My [previous blogpost ](https://medium.com/data-lyrics/how-to-speak-about-music-
 
 Bandcamp is a reputable publishing platform aimed towards independent musicians that encourages the use of tags (folksonomies) by its users — accordingly, the Librarian takes into account the artist/label tags added to the Bandcamp pages. It is therefore possible to compare the industry taxonomy of Beatport with artist folksonomies, as long as such tags are provided on Bandcamp or further investigation around particular folksonomies is performed. For instance, a representative track from the cluster identified above is described, among others, as “homemade weaponry” by the eponymous artist:
 
-{{< figure src="/img/bandcamp_librarian/homemade_weaponry.jpg" title="homemade weaponry" numbered="true" >}}
+{{< figure src="/img/bandcamp_librarian/homemade_weaponry.jpeg" title="homemade weaponry" numbered="true" >}}
 
 Bandcamp link: [https://homemadeweapons.bandcamp.com/track/hawkeye](https://homemadeweapons.bandcamp.com/track/hawkeye)
 
@@ -51,7 +51,7 @@ In total, 12000 tags refer to locations or nationalities. The majority of the lo
 
 The following table shows the total number of tags pertaining to each location (city), and the number of labels that tagged these cities at least once within their Bandcamp library:
 
-{{< figure src="/img/bandcamp_librarian/tags_per_city.jpg" title="Tags per city" numbered="true" >}}
+{{< figure src="/img/bandcamp_librarian/tags_per_city.jpeg" title="Tags per city" numbered="true" >}}
 
 
 (Note: United Kingdom has been conflated with London for the purposes of this illustration.)
@@ -60,7 +60,7 @@ In one way or another, the relative relevance of these cities within the global 
 
 By instructing the Librarian to treat as a single cluster all tracks that are tagged with the same city label, an attempt can be made to delineate an overall — although not the only — sound that can be comfortably identified with a location. Berlin, for instance, can be classified as follows:
 
-{{< figure src="/img/bandcamp_librarian/berlin_classification.jpg" title="Berlin Classification" numbered="true" >}}
+{{< figure src="/img/bandcamp_librarian/berlin_classification.jpeg" title="Berlin Classification" numbered="true" >}}
 
 Bandcamp links:
 
@@ -70,7 +70,7 @@ Bandcamp links:
 
 The UK is another noteworthy example:
 
-{{< figure src="/img/bandcamp_librarian/uk_classification.jpg" title="United Kingdom Classification" numbered="true" >}}
+{{< figure src="/img/bandcamp_librarian/uk_classification.jpeg" title="United Kingdom Classification" numbered="true" >}}
 
 Bandcamp links:
 
@@ -84,7 +84,7 @@ Of course, defining a single cluster will not account for the sonic variety of s
 
 As expected, the detected subgenres are concentrated on the various flavours of techno. For more stylistic variety, we can use the Librarian with different music styles and datasets. The following example concerns artists that could be affiliated with the [Listen Local initiative](http://listenlocal.community/). Our goal was to focus on Slovakian artists on Spotify that have Bandcamp presence too, and use the Librarian as support for the recommendations. A sample of 82 such artists was selected; their Bandcamp libraries included 2379 tracks. In total, 17.881 tags were attached to these tracks, among which 550 were unique. The tag frequencies are illustrated below:
 
-{{< figure src="/img/bandcamp_librarian/tag_frequencies.jpg" title="Tag Frequencies" numbered="true" >}}
+{{< figure src="/img/bandcamp_librarian/tag_frequencies.jpeg" title="Tag Frequencies" numbered="true" >}}
 
 As the word cloud also suggests, the tracks cover a variety of genres. Accordingly, our classifier should be more general in scope than in the case of the techno labels. A suitable option is the MSD-MusiCNN TensorFlow auto-tagging model supplied with the Essentia library [https://mtg.github.io/essentia-labs/news/tensorflow/2020/01/16/tensorflow-models-released/](https://mtg.github.io/essentia-labs/news/tensorflow/2020/01/16/tensorflow-models-released/), which predicts LastFm’s top-50 music classification tags (a selection of 24 tags referring to music genres or styles were predicted for the purposes of this demonstration).
 
@@ -104,7 +104,7 @@ Accordingly, the five most representative genres or styles in our collection are
 
 A more refined perspective is gained after clustering the tracks based on their tag probability values. The algorithm proposes three clusters by default, crystallized around the rock (alternative/pop), hip-hop, and electronic (ambient/dance) genres:
 
-{{< figure src="/img/bandcamp_librarian/Listen_Local_Clusters.jpg" title="Listen Local Clusters" numbered="true" >}}
+{{< figure src="/img/bandcamp_librarian/Listen_Local_Clusters.jpeg" title="Listen Local Clusters" numbered="true" >}}
 
 Bandcamp links:
 
@@ -115,7 +115,7 @@ Bandcamp links:
 - [https://theswanbride.bandcamp.com/track/styx-travel-inc](https://theswanbride.bandcamp.com/track/styx-travel-inc)
 
 
-{{< figure src="/img/bandcamp_librarian/sk_hiphop_cluster.jpg" title="Hip-hop Cluster" numbered="true" >}}
+{{< figure src="/img/bandcamp_librarian/sk_hiphop_cluster.jpeg" title="Hip-hop Cluster" numbered="true" >}}
 
 Bandcamp links:
 
@@ -126,7 +126,7 @@ Bandcamp links:
 - [https://everydays.bandcamp.com/track/mal-m-sto-feat-sinuz-prod-by-sinuz](https://everydays.bandcamp.com/track/mal-m-sto-feat-sinuz-prod-by-sinuz)
 
 
-{{< figure src="/img/bandcamp_librarian/sk_electronic_cluster.jpg" title="Electronic (ambient/dance) Cluster" numbered="true" >}}
+{{< figure src="/img/bandcamp_librarian/sk_electronic_cluster.jpeg" title="Electronic (ambient/dance) Cluster" numbered="true" >}}
 
 Bandcamp links:
 
@@ -138,7 +138,7 @@ Bandcamp links:
 
 The track examples provide the closest matches with the identified subgenres, and the complete clusters are not restricted to these styles. However, by increasing the cluster number it is possible to further refine the results. By increasing it to five groups, for example, a rock/electronic/pop fusion group is also identified, and metal appears as a new determining genre:
 
-{{< figure src="/img/bandcamp_librarian/rock_electronic_pop_fusion_group.jpg" title="Rock/Electronic/Pop fusion group Cluster" numbered="true" >}}
+{{< figure src="/img/bandcamp_librarian/rock_electronic_pop_fusion_group.jpeg" title="Rock/Electronic/Pop fusion group Cluster" numbered="true" >}}
 
 
 Bandcamp links:
@@ -149,7 +149,7 @@ Bandcamp links:
 
 - [https://denaftb.bandcamp.com/track/if-its-written-outro](https://denaftb.bandcamp.com/track/if-its-written-outro)
 
-{{< figure src="/img/bandcamp_librarian/metal_group.jpg" title="Metal Cluster" numbered="true" >}}
+{{< figure src="/img/bandcamp_librarian/metal_group.jpeg" title="Metal Cluster" numbered="true" >}}
 
 Bandcamp links:
 
