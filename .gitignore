@@ -3,7 +3,6 @@
 .RData
 .Ruserdata
 
-^public/
-^public
 public/
 
+resources/
