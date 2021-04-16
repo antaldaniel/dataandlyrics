@@ -107,33 +107,33 @@ A more refined perspective is gained after clustering the tracks based on their 
 
 Bandcamp links:
 
-- [https://papyllon.bandcamp.com/track/never-felt-so-pure](https://papyllon.bandcamp.com/track/never-felt-so-pure)
+- [Papyllon - Slovakia](https://papyllon.bandcamp.com/track/never-felt-so-pure)
 
-- [https://ills.bandcamp.com/track/laugh-will-tear-us-apart](https://ills.bandcamp.com/track/laugh-will-tear-us-apart)
+- [The Ills - Bratislavský kraj, Slovakia](https://ills.bandcamp.com/track/laugh-will-tear-us-apart)
 
-- [https://theswanbride.bandcamp.com/track/styx-travel-inc](https://theswanbride.bandcamp.com/track/styx-travel-inc)
+- [Swan Bride - Slovakia](https://theswanbride.bandcamp.com/track/styx-travel-inc)
 
 
 {{< figure src="/img/bandcamp_librarian/sk_hiphop_cluster.jpeg" title="Hip-hop Cluster" numbered="true" >}}
 
 Bandcamp links:
 
-- [https://piosquad.bandcamp.com/track/worldwide-feat-heltah-skeltah](https://piosquad.bandcamp.com/track/worldwide-feat-heltah-skeltah)
+- [Pio Squad - Vysočina, Czech Republic](https://piosquad.bandcamp.com/track/worldwide-feat-heltah-skeltah)
 
-- [https://nirobaits.bandcamp.com/track/awesome-ft-candy-mane-otecko-and-mr-sulo](https://nirobaits.bandcamp.com/track/awesome-ft-candy-mane-otecko-and-mr-sulo)
+- [Niro Nironic Baits - New York, New York](https://nirobaits.bandcamp.com/track/awesome-ft-candy-mane-otecko-and-mr-sulo)
 
-- [https://everydays.bandcamp.com/track/mal-m-sto-feat-sinuz-prod-by-sinuz](https://everydays.bandcamp.com/track/mal-m-sto-feat-sinuz-prod-by-sinuz)
+- [Everydays - Czech Republic](https://everydays.bandcamp.com/track/mal-m-sto-feat-sinuz-prod-by-sinuz)
 
 
 {{< figure src="/img/bandcamp_librarian/sk_electronic_cluster.jpeg" title="Electronic (ambient/dance) Cluster" numbered="true" >}}
 
 Bandcamp links:
 
-- [https://kurkus.bandcamp.com/track/interstellar](https://kurkus.bandcamp.com/track/interstellar)
+- [Kurkus - Košice, Slovakia](https://kurkus.bandcamp.com/track/interstellar)
 
-- [https://nightlines.bandcamp.com/track/udia-istoty](https://nightlines.bandcamp.com/track/udia-istoty)
+- [Nightlines - Bratislava, Slovakia](https://nightlines.bandcamp.com/track/udia-istoty)
 
-- [https://noreligionlabel.bandcamp.com/track/go-outside-outro](https://noreligionlabel.bandcamp.com/track/go-outside-outro)
+- [No Religion label, Slovakia](https://noreligionlabel.bandcamp.com/track/go-outside-outro)
 
 The track examples provide the closest matches with the identified subgenres, and the complete clusters are not restricted to these styles. However, by increasing the cluster number it is possible to further refine the results. By increasing it to five groups, for example, a `rock/electronic/pop fusion` group is also identified, and `metal` appears as a new determining genre:
 
@@ -142,21 +142,21 @@ The track examples provide the closest matches with the identified subgenres, an
 
 Bandcamp links:
 
-- [https://monikinokino.bandcamp.com/track/be-ky-radio-edit](https://monikinokino.bandcamp.com/track/be-ky-radio-edit)
+- [Monikino Kino - Prague, Czech Republic](https://monikinokino.bandcamp.com/track/be-ky-radio-edit)
 
-- [https://midilidi.bandcamp.com/track/koupali-t-tajemn](https://midilidi.bandcamp.com/track/koupali-t-tajemn)
+- [Midi Lidi - Czech Republic](https://midilidi.bandcamp.com/track/koupali-t-tajemn)
 
-- [https://denaftb.bandcamp.com/track/if-its-written-outro](https://denaftb.bandcamp.com/track/if-its-written-outro)
+- [DENA - Berlin, Germany](https://denaftb.bandcamp.com/track/if-its-written-outro)
 
 {{< figure src="/img/bandcamp_librarian/metal_group.jpeg" title="Metal Cluster" numbered="true" >}}
 
 Bandcamp links:
 
-- [https://triggerband.bandcamp.com/track/treachery](https://triggerband.bandcamp.com/track/treachery)
+- [Trigger - Nizhny Novgorod, Russia](https://triggerband.bandcamp.com/track/treachery)
 
-- [https://signumregis.bandcamp.com/track/unfold-the-mystery](https://signumregis.bandcamp.com/track/unfold-the-mystery)
+- [Signum Regis - Senec, Slovakia](https://signumregis.bandcamp.com/track/unfold-the-mystery)
 
-- [https://hudba.zocivoci.sk/track/prehra-a-zmizn](https://hudba.zocivoci.sk/track/prehra-a-zmizn)
+- [Zoči Voči - Nitriansky kraj, Slovakia](https://hudba.zocivoci.sk/track/prehra-a-zmizn)
 
 If you’d like to have a look at these and other stylistic groups (or search based on location tags), a working demo of the Librarian loaded with the Listen Local dataset is available at: [bitly.com/bandcamp-librarian](https://bitly.com/bandcamp-librarian). Happy discoveries!
 
