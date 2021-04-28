@@ -5,7 +5,7 @@ name:  Botond Vitos, PhD
 
 # Username (this should match the folder name)
 authors:
-- botond_vitos
+- botond
 
 # Is this the primary user of the site?
 superuser: false
@@ -19,14 +19,15 @@ organizations:
   url: "https://reprex.nl/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Botond is a data scientist and cultural studies scholar with an interest in digital humanities, music research and festival cultures
+bio: Experienced international researcher with interests that lie at the intersection between data science and the humanities.
 
 topics:
-- Data Science
 - Data Engineering
-- Electronic & Dance Music
+- Data Science
+- EDM
 
 education:
+  courses:
   - course: PhD in Cultural Studies
     institution: Monash University, Melbourne
     year: 2014
@@ -41,7 +42,7 @@ education:
 social:
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/botondvitos/
+  link: https://www.linkedin.com/in/botondvitos
 - icon: keybase
   icon_pack: fab
   link: https://keybase.io/bvitos

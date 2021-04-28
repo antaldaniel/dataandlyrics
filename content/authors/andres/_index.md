@@ -5,7 +5,7 @@ name:  Andrés García Molina, PhD
 
 # Username (this should match the folder name)
 authors:
-- line
+- andres
 
 # Is this the primary user of the site?
 superuser: false
@@ -19,7 +19,7 @@ organizations:
   url: "https://reprex.nl/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Eexperienced international researcher with interests that lie at the intersection between data science and the humanities.
+bio: Experienced international researcher with interests that lie at the intersection between data science and the humanities.
 
 topics:
 - Ethnomusicology

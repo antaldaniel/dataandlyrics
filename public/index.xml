@@ -5,12 +5,44 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Data &amp; Lyrics</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Wed, 14 Apr 2021 08:10:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Tue, 27 Apr 2021 19:00:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Data &amp; Lyrics</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Upgrading the Slovak Music Database: New Data API, New Features</title>
+      <link>/post/2021-04-27-smdb/</link>
+      <pubDate>Tue, 27 Apr 2021 19:00:00 +0200</pubDate>
+      <guid>/post/2021-04-27-smdb/</guid>
+      <description>&lt;p&gt;We use the database to monitor market developments in streaming and radio services, and to detect any problems that may lead to a disadvantageous position for Slovak artists.  We are constantly monitoring if Slovak artists, regardless of their age, genre, gender, or ethnicity enjoy equal opportunity on streaming and radio platforms, and we are devising ways to increase their visibility and earnings.&lt;/p&gt;
+&lt;p&gt;The SMDB database has opt-in, opt-out features, and a write-in process, where Slovak musicologists determine if an artist should be written into the database.  The database uses data only from public data sources, and any artists who do not feel Slovak, or do not agree with our approach, can be removed at any time.&lt;/p&gt;
+&lt;p&gt;Our Demo Music Database was created with the support of the Slovak Arts Council and Consolidated Independent, and in partnership and support with SOZA in 2020.  We are seeking new users and donors to make this database comprehensive and help all artists who feel Slovak to be heard at home and abroad.  With the help of volunteers and Reprex’s own resources, we have added some new features to the database in 2021.&lt;/p&gt;
+&lt;p&gt;Our database in its early demo form analysed only the Spotify presence of artists.  We have added 
+&lt;a href=&#34;http://3.221.117.58/listen-local/youtube-librarian&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YouTube&lt;/a&gt; fully to the database, thanks to the work of our new team member, 
+&lt;a href=&#34;&#34;&gt;Botond Vitos, PhD&lt;/a&gt;. We have also started to integrate his 
+&lt;a href=&#34;https://dataandlyrics.com/post/2021-04-14-bandcamp-librarian-2/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bandcamp analyzer tool&lt;/a&gt; with our 
+&lt;a href=&#34;https://dataobservatory.shinyapps.io/listen-local-app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Listen Local App&lt;/a&gt;. Soon we will be able to help on all three platforms.&lt;/p&gt;
+&lt;p&gt;We created a modern API to access the database for researchers, labels, and representative music organizations. The API works with standard SQL queries (see full documentation 
+&lt;a href=&#34;https://docs.datasette.io/en/latest/getting_started.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;), but also allows intuitive filters for manual use.&lt;/p&gt;
+&lt;p&gt;For example, our 
+&lt;a href=&#34;https://listenlocal.community/publication/listen_local_2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Feasibility Study&lt;/a&gt; contains a small case study with The Youniverse, and 
+&lt;a href=&#34;https://dataandlyrics.com/post/2020-11-30-youniverse/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tammy Nižňanska&lt;/a&gt; gave us an interview to form our ideas, together with 
+&lt;a href=&#34;https://dataandlyrics.com/post/2020-11-25-katarzia/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Katarzia&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;How much more danceble are The Youniverse than an average Slovak band?&lt;/strong&gt; 
+&lt;a href=&#34;http://3.221.117.58/listen-local?sql=select%28%0D%0A%28select&amp;#43;avg%28danceability%29&amp;#43;as&amp;#43;%5BThe&amp;#43;Youniverse&amp;#43;-&amp;#43;Danceability%5D&amp;#43;from&amp;#43;%22spotify-top-tracks%22&amp;#43;where&amp;#43;spotify_artist_name&amp;#43;%3D&amp;#43;%22The&amp;#43;Youniverse%22&amp;#43;%29&amp;#43;%2F%0D%0A%28select&amp;#43;avg%28danceability%29&amp;#43;as&amp;#43;%5BAverage&amp;#43;Danceability%5D&amp;#43;from&amp;#43;%22spotify-top-tracks%22%29&amp;#43;-&amp;#43;1%0D%0A%29*100&amp;#43;as&amp;#43;percent%0D%0A%0D%0A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;try it out&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://3.221.117.58/listen-local?sql=select%28%0D%0A%28select&amp;#43;avg%28danceability%29&amp;#43;as&amp;#43;%5BThe&amp;#43;Youniverse&amp;#43;-&amp;#43;Danceability%5D&amp;#43;from&amp;#43;%22spotify-top-tracks%22&amp;#43;where&amp;#43;spotify_artist_name&amp;#43;%3D&amp;#43;%22The&amp;#43;Youniverse%22&amp;#43;%29&amp;#43;%2F%0D%0A%28select&amp;#43;avg%28danceability%29&amp;#43;as&amp;#43;%5BAverage&amp;#43;Danceability%5D&amp;#43;from&amp;#43;%22spotify-top-tracks%22%29&amp;#43;-&amp;#43;1%0D%0A%29*100&amp;#43;as&amp;#43;percent%0D%0A%0D%0A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;youniverse_dancable.png&#34; alt=&#34;Dancable The Youniverse&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;What is Katarzia’s favorite key?&lt;/em&gt;* 
+&lt;a href=&#34;http://3.221.117.58/listen-local?sql=select&amp;#43;key&amp;#43;as&amp;#43;%5BKatarzia%27s&amp;#43;most&amp;#43;frequent&amp;#43;key%5D%2C&amp;#43;count%28key%29&amp;#43;Frequency%0D%0Afrom&amp;#43;%22spotify-top-tracks%22&amp;#43;where&amp;#43;spotify_artist_name&amp;#43;%3D&amp;#43;%22Katarzia%22%0D%0Agroup&amp;#43;by&amp;#43;key&amp;#43;order&amp;#43;by&amp;#43;count%28key%29&amp;#43;desc%0D%0A%0D%0A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;try it out&lt;/a&gt;
+
+&lt;a href=&#34;http://3.221.117.58/listen-local?sql=select&amp;#43;key&amp;#43;as&amp;#43;%5BKatarzia%27s&amp;#43;most&amp;#43;frequent&amp;#43;key%5D%2C&amp;#43;count%28key%29&amp;#43;Frequency%0D%0Afrom&amp;#43;%22spotify-top-tracks%22&amp;#43;where&amp;#43;spotify_artist_name&amp;#43;%3D&amp;#43;%22Katarzia%22%0D%0Agroup&amp;#43;by&amp;#43;key&amp;#43;order&amp;#43;by&amp;#43;count%28key%29&amp;#43;desc%0D%0A%0D%0A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;Katarzia_favorite_key.png&#34; alt=&#34;Katarzia&amp;rsquo;s favorite key&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Our database is not just a toy.  We have teamed up with the Slovak research institutes to understand how to best analyze and present the Slovak repertoire to the wider world.  We are developing an open-source system that recommends a predefined percentage of Slovak music to any user on Spotify.  We are giving marketing advice to artists like the Youniverse to pitch radios and tour destinations.  We try to identify who is likely to not receive payments from YouTube due to documentation problems. And we try to figure out why 15% of the artists seem to be never recommended 
+&lt;a href=&#34;https://dataandlyrics.com/post/2020-11-17-recommendation-analysis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;on Spotify&lt;/a&gt;.&lt;/p&gt;
+&lt;script src=&#34;https://gist.github.com/antaldaniel/d26ec95e2156fb41f80d8e5f0fdc102b.js&#34;&gt;&lt;/script&gt;</description>
+    </item>
     
     <item>
       <title>Harness the Algorithm</title>
@@ -35,25 +67,192 @@
       <pubDate>Tue, 13 Apr 2021 09:00:00 +0200</pubDate>
       <guid>/post/2021-04-14-bandcamp-librarian-2/</guid>
       <description>&lt;p&gt;My 
-&lt;a href=&#34;https://medium.com/data-lyrics/how-to-speak-about-music-in-the-digital-age-from-taxonomies-to-folksonomies-ac2d25ed29f7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;previous blogpost &lt;/a&gt; addressed two ways of classifying music in the digital age: on the one hand, subgenre taxonomies proposed by industry vendors; on the other hand, user-defined collaborative tagging systems or folksonomies, which are more suitable for exploring niche music genres and to delve into the intricacies of an ever-evolving musical landscape. The Bandcamp Dance Librarian project takes into account both classification systems, using the taxonomy of industry vendor Beatport to detect stylistic tendencies or repertoires within the Bandcamp libraries of grassroots electronic dance music labels. This is performed by identifying clusters within a Bandcamp library based on Beatport’s subgenre labels. For instance, a cluster from the library of Samurai Music is identifed as an amalgam of Drum&amp;amp;Bass, Leftfield Bass, and to a lesser extent Trap-Hip-Hop-R&amp;amp;B. The dimension of this cluster (i.e., the number of tracks) is then displayed on a timeline among other clusters.&lt;/p&gt;
-&lt;p&gt;Bandcamp is a reputable publishing platform aimed towards independent musicians that encourages the use of tags (folksonomies) by its users — accordingly, the Librarian takes into account the artist/label tags added to the Bandcamp pages. It is therefore possible to compare the industry taxonomy of Beatport with artist folksonomies, as long as such tags are provided on Bandcamp or further investigation around particular folksonomies is performed. For instance, a representative track from the cluster identified above is described, among others, as “homemade weaponry” by the eponymous artist:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;homemade_weaponry.jpg&#34; alt=&#34;homemade weaponry&#34; title=&#34;homemade weaponry&#34;&gt;&lt;/p&gt;
+&lt;a href=&#34;https://medium.com/data-lyrics/how-to-speak-about-music-in-the-digital-age-from-taxonomies-to-folksonomies-ac2d25ed29f7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;previous blogpost &lt;/a&gt; addressed two ways of classifying music in the digital age: on the one hand, subgenre taxonomies proposed by industry vendors; on the other hand, user-defined collaborative tagging systems or folksonomies, which are more suitable for exploring niche music genres and to delve into the intricacies of an ever-evolving musical landscape. The Bandcamp Dance Librarian project takes into account both classification systems, using the taxonomy of industry vendor Beatport to detect stylistic tendencies or repertoires within the Bandcamp libraries of grassroots electronic dance music labels. This is performed by identifying clusters within a Bandcamp library based on Beatport’s subgenre labels. For instance, a cluster from the library of &lt;em&gt;Samurai Music&lt;/em&gt; is identifed as an amalgam of &lt;code&gt;Drum&amp;amp;Bass&lt;/code&gt;, &lt;code&gt;Leftfield Bass&lt;/code&gt;, and to a lesser extent &lt;code&gt;Trap-Hip-Hop-R&amp;amp;B&lt;/code&gt;. The dimension of this cluster (i.e., the number of tracks) is then displayed on a timeline among other clusters.&lt;/p&gt;
+&lt;p&gt;Bandcamp is a reputable publishing platform aimed towards independent musicians that encourages the use of tags (folksonomies) by its users — accordingly, the Librarian takes into account the artist/label tags added to the Bandcamp pages. It is therefore possible to compare the industry taxonomy of Beatport with artist folksonomies, as long as such tags are provided on Bandcamp or further investigation around particular folksonomies is performed. For instance, a representative track from the cluster identified above is described, among others, as &lt;em&gt;homemade weaponry&lt;/em&gt; by the eponymous artist:&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-homemade-weaponry&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/bandcamp_librarian/homemade_weaponry.jpeg&#34; data-caption=&#34;homemade weaponry&#34;&gt;
+
+
+  &lt;img src=&#34;/img/bandcamp_librarian/homemade_weaponry.jpeg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    homemade weaponry
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
 &lt;p&gt;Bandcamp link: 
 &lt;a href=&#34;https://homemadeweapons.bandcamp.com/track/hawkeye&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://homemadeweapons.bandcamp.com/track/hawkeye&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
 &lt;p&gt;A few more (technical) details about the project: The classifier is based on the methodology of Caparrini et al. (2020), using 92 audio features extracted from electronic dance music tracks within Beatport’s Top-100 lists in various subgenres. Bandcamp offers freely available full-length (low-bitrate) streams as track previews, which are suitable for musical feature extraction and analysis. Complete Bandcamp libraries are processed, and each track’s class (subgenre) probabilities are determined by the classifier, which forms the basis for the clustering algorithm. The number of clusters can be set in advance or calculated automatically. Results are provided in a PDF file with links to up to three representative Bandcamp tracks (if possible, from different artists) in each group and their attached tags (folksonomies).&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;The remainder of this post presents two use cases focused on localities and location tags (signifying cities, countries and sometimes nationalities). Such tags help putting local music scenes on the map; in the case of particularly prolific or creative cities they can be connected to specific genres too. Most commonly, they identify the city or country where the music label or the artist is based. Electronic music production requires relatively accessible tools and is usually carried out entirely by the producer; prominent artists are often running record labels that are integral to promoting music and structuring scenes. These aspects contribute to the burgeoning of independent music communities across the globe.&lt;/p&gt;
 &lt;p&gt;Our first example draws on features extracted from 36 Bandcamp label libraries. The libraries are taken from a piece of music journalism (
 &lt;a href=&#34;https://cdm.link/2020/05/underground-techno-labels-a-bandcamp-guide/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://cdm.link/2020/05/underground-techno-labels-a-bandcamp-guide/&lt;/a&gt;) addressing some of Bandcamp’s “underground” techno labels that “have a sense of community, even [as] a small collective of a few friends unlikely to catch larger attention”. Such specialist music press is characterized by Canadian sociologist Sarah Thorton as &lt;em&gt;niche media&lt;/em&gt;, which is particularly efficient in categorizing social groups, classifying sounds, defining cultural distinctions and baptizing genres. The list of labels offered in the CDM article is suitable for our current aim: a blink into the sound of “underground” techno labels based on their Bandcamp location tags.&lt;/p&gt;
 &lt;p&gt;The collection includes 14.200 tracks analyzed by the Librarian. A total of 97.334 tags are attached to the tracks, as illustrated by the word cloud below:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;image_2_tags.png&#34; alt=&#34;A total of 97.334 tags are attached to the tracks&#34; title=&#34;A total of 97.334 tags are attached to the tracks&#34;&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-a-total-of-97334-tags-are-attached-to-the-tracks&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/bandcamp_librarian/image_2_tags.png&#34; data-caption=&#34;A total of 97.334 tags are attached to the tracks&#34;&gt;
+
+
+  &lt;img src=&#34;/img/bandcamp_librarian/image_2_tags.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    A total of 97.334 tags are attached to the tracks
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
 &lt;p&gt;In total, 12000 tags refer to locations or nationalities. The majority of the location tags designate cities — more often than not, these are where the labels are based:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;image3_location_tags.png&#34; alt=&#34;Location Tags&#34; title=&#34;Location Tags&#34;&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-location-tags&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/bandcamp_librarian/image3_location_tags.png&#34; data-caption=&#34;Location Tags&#34;&gt;
+
+
+  &lt;img src=&#34;/img/bandcamp_librarian/image3_location_tags.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Location Tags
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
 &lt;p&gt;The following table shows the total number of tags pertaining to each location (city), and the number of labels that tagged these cities at least once within their Bandcamp library:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;images/image6.jpg&#34; alt=&#34;alt_text&#34; title=&#34;Tags per city&#34;&gt;&lt;/p&gt;
-&lt;p&gt;(Note: United Kingdom has been conflated with London for the purposes of this illustration.)&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-tags-per-city&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/bandcamp_librarian/tags_per_city.jpeg&#34; data-caption=&#34;Tags per city&#34;&gt;
+
+
+  &lt;img src=&#34;/img/bandcamp_librarian/tags_per_city.jpeg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Tags per city
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;(&lt;em&gt;Note: United Kingdom has been conflated with London for the purposes of this illustration.&lt;/em&gt;)&lt;/p&gt;
 &lt;p&gt;In one way or another, the relative relevance of these cities within the global techno circuit can be inferred from these numbers.&lt;/p&gt;
-&lt;p&gt;By instructing the Librarian to treat as a single cluster all tracks that are tagged with the same city label, an attempt can be made to delineate an overall — although not the only — sound that can be comfortably identified with a location. Berlin, for instance, can be classified as follows:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;berlin_classification.jpg&#34; alt=&#34;Berlin, for instance, can be classified like this&#34; title=&#34;Berlin, for instance, can be classified like this.&#34;&gt;&lt;/p&gt;
+&lt;p&gt;By instructing the Librarian to treat as a single cluster all tracks that are tagged with the same city label, an attempt can be made to delineate an overall — although not the only — sound that can be comfortably identified with a location. &lt;em&gt;Berlin&lt;/em&gt;, for instance, can be classified as follows:&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-berlin-classification&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/bandcamp_librarian/berlin_classification.jpeg&#34; data-caption=&#34;Berlin Classification&#34;&gt;
+
+
+  &lt;img src=&#34;/img/bandcamp_librarian/berlin_classification.jpeg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Berlin Classification
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
 &lt;p&gt;Bandcamp links:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -63,80 +262,363 @@
 &lt;li&gt;
 &lt;a href=&#34;https://ostgut.bandcamp.com/track/scenario&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://ostgut.bandcamp.com/track/scenario&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;The UK is another noteworthy example:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;images/image10.jpg&#34; alt=&#34;alt_text&#34; title=&#34;image_tooltip&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;images/image11.jpg&#34; alt=&#34;alt_text&#34; title=&#34;image_tooltip&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The &lt;em&gt;United Kingdom&lt;/em&gt; is another noteworthy example:&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-united-kingdom-classification&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/bandcamp_librarian/uk_classification.jpeg&#34; data-caption=&#34;United Kingdom Classification&#34;&gt;
+
+
+  &lt;img src=&#34;/img/bandcamp_librarian/uk_classification.jpeg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    United Kingdom Classification
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
 &lt;p&gt;Bandcamp links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://perctrax.bandcamp.com/track/zelo-radial-remix&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://perctrax.bandcamp.com/track/zelo-radial-remix&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://perctrax.bandcamp.com/track/ganymede-perc-dub-mix&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://perctrax.bandcamp.com/track/ganymede-perc-dub-mix&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://planetaryassaultsystems.bandcamp.com/track/om-the-def&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://planetaryassaultsystems.bandcamp.com/track/om-the-def&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;Of course, defining a single cluster will not account for the sonic variety of such influential cities.&lt;/p&gt;
-&lt;p&gt;As expected, the detected subgenres are concentrated on the various flavours of techno. For more stylistic variety, we can use the Librarian with different music styles and datasets. The following example concerns artists that could be affiliated with the 
-&lt;a href=&#34;http://listenlocal.community/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Listen Local initiative&lt;/a&gt;. Our goal was to focus on Slovakian artists on Spotify that have Bandcamp presence too, and use the Librarian as support for the recommendations. A sample of 82 such artists was selected; their Bandcamp libraries included 2379 tracks. In total, 17.881 tags were attached to these tracks, among which 550 were unique. The tag frequencies are illustrated below:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;images/image12.png&#34; alt=&#34;alt_text&#34; title=&#34;image_tooltip&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;images/image13.png&#34; alt=&#34;alt_text&#34; title=&#34;image_tooltip&#34;&gt;&lt;/p&gt;
-&lt;p&gt;As the word cloud also suggests, the tracks cover a variety of genres. Accordingly, our classifier should be more general in scope than in the case of the techno labels. A suitable option is the MSD-MusiCNN TensorFlow auto-tagging model supplied with the Essentia library [
-&lt;a href=&#34;https://mtg.github.io/essentia-labs/news/tensorflow/2020/01/16/tensorflow-models-released/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://mtg.github.io/essentia-labs/news/tensorflow/2020/01/16/tensorflow-models-released/&lt;/a&gt;], which predicts LastFm’s top-50 music classification tags (a selection of 24 tags referring to music genres or styles were predicted for the purposes of this demonstration).&lt;/p&gt;
+&lt;p&gt;As expected, the detected subgenres are concentrated on the various flavours of techno. For more stylistic variety, we can use the Librarian with different music styles and datasets.&lt;/p&gt;
+&lt;h2 id=&#34;slovakia-case-study&#34;&gt;Slovakia Case Study&lt;/h2&gt;
+&lt;p&gt;The following example concerns artists that are somehow appear to be connected with Slovakia. Our goal was to focus on Slovakian artists on Spotify that have Bandcamp presence too, and use the Librarian as support for the recommendations. A sample of 82 such artists was selected; their Bandcamp libraries included 2379 tracks. In total, 17.881 tags were attached to these tracks, among which 550 were unique. The tag frequencies are illustrated below:&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-tag-frequencies&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/bandcamp_librarian/tag_frequencies.png&#34; data-caption=&#34;Tag Frequencies&#34;&gt;
+
+
+  &lt;img src=&#34;/img/bandcamp_librarian/tag_frequencies.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Tag Frequencies
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;As the word cloud also suggests, the tracks cover a variety of genres. Accordingly, our classifier should be more general in scope than in the case of the techno labels. A suitable option is the MSD-MusiCNN TensorFlow auto-tagging model supplied with the  
+&lt;a href=&#34;https://mtg.github.io/essentia-labs/news/tensorflow/2020/01/16/tensorflow-models-released/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Essentia library&lt;/a&gt;, which predicts LastFm’s top-50 music classification tags (a selection of 24 tags referring to music genres or styles were predicted for the purposes of this demonstration).&lt;/p&gt;
 &lt;p&gt;One can get a first feel of the stylistic tendencies within the sample by looking at the classification tags with the highest mean probability values:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
 &lt;p&gt;rock 0.169777&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;Hip-Hop 0.141943&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;electronic 0.136527&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;alternative 0.079971&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;pop 0.066009&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;Accordingly, the five most representative genres or styles in our collection are rock, hip-hop, electronic, alternative and pop.&lt;/p&gt;
-&lt;p&gt;A more refined perspective is gained after clustering the tracks based on their tag probability values. The algorithm proposes three clusters by default, crystallized around the rock (alternative/pop), hip-hop, and electronic (ambient/dance) genres:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;images/image14.jpg&#34; alt=&#34;alt_text&#34; title=&#34;image_tooltip&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;images/image15.jpg&#34; alt=&#34;alt_text&#34; title=&#34;image_tooltip&#34;&gt;&lt;/p&gt;
+&lt;p&gt;A more refined perspective is gained after clustering the tracks based on their tag probability values. The algorithm proposes three clusters by default, crystallized around the &lt;code&gt;rock (alternative/pop)&lt;/code&gt;, &lt;code&gt;hip-hop&lt;/code&gt;, and &lt;code&gt;electronic (ambient/dance)&lt;/code&gt; genres:&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-listen-local-clusters&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/bandcamp_librarian/Listen_Local_Clusters.jpeg&#34; data-caption=&#34;Listen Local Clusters&#34;&gt;
+
+
+  &lt;img src=&#34;/img/bandcamp_librarian/Listen_Local_Clusters.jpeg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Listen Local Clusters
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
 &lt;p&gt;Bandcamp links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://papyllon.bandcamp.com/track/never-felt-so-pure&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://papyllon.bandcamp.com/track/never-felt-so-pure&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://papyllon.bandcamp.com/track/never-felt-so-pure&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Papyllon - Slovakia&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://ills.bandcamp.com/track/laugh-will-tear-us-apart&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://ills.bandcamp.com/track/laugh-will-tear-us-apart&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://ills.bandcamp.com/track/laugh-will-tear-us-apart&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Ills - Bratislavský kraj, Slovakia&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://theswanbride.bandcamp.com/track/styx-travel-inc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://theswanbride.bandcamp.com/track/styx-travel-inc&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;images/image16.jpg&#34; alt=&#34;alt_text&#34; title=&#34;image_tooltip&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;images/image17.jpg&#34; alt=&#34;alt_text&#34; title=&#34;image_tooltip&#34;&gt;&lt;/p&gt;
+&lt;a href=&#34;https://theswanbride.bandcamp.com/track/styx-travel-inc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Swan Bride - Slovakia&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-hip-hop-cluster&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/bandcamp_librarian/sk_hiphop_cluster.jpeg&#34; data-caption=&#34;Hip-hop Cluster&#34;&gt;
+
+
+  &lt;img src=&#34;/img/bandcamp_librarian/sk_hiphop_cluster.jpeg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Hip-hop Cluster
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
 &lt;p&gt;Bandcamp links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://piosquad.bandcamp.com/track/worldwide-feat-heltah-skeltah&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://piosquad.bandcamp.com/track/worldwide-feat-heltah-skeltah&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://piosquad.bandcamp.com/track/worldwide-feat-heltah-skeltah&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pio Squad - Vysočina, Czech Republic&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://nirobaits.bandcamp.com/track/awesome-ft-candy-mane-otecko-and-mr-sulo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://nirobaits.bandcamp.com/track/awesome-ft-candy-mane-otecko-and-mr-sulo&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://nirobaits.bandcamp.com/track/awesome-ft-candy-mane-otecko-and-mr-sulo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Niro Nironic Baits - New York, New York&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://everydays.bandcamp.com/track/mal-m-sto-feat-sinuz-prod-by-sinuz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://everydays.bandcamp.com/track/mal-m-sto-feat-sinuz-prod-by-sinuz&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;images/image18.jpg&#34; alt=&#34;alt_text&#34; title=&#34;image_tooltip&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;images/image19.jpg&#34; alt=&#34;alt_text&#34; title=&#34;image_tooltip&#34;&gt;&lt;/p&gt;
+&lt;a href=&#34;https://everydays.bandcamp.com/track/mal-m-sto-feat-sinuz-prod-by-sinuz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Everydays - Czech Republic&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-electronic-ambientdance-cluster&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/bandcamp_librarian/sk_electronic_cluster.jpeg&#34; data-caption=&#34;Electronic (ambient/dance) Cluster&#34;&gt;
+
+
+  &lt;img src=&#34;/img/bandcamp_librarian/sk_electronic_cluster.jpeg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Electronic (ambient/dance) Cluster
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
 &lt;p&gt;Bandcamp links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://kurkus.bandcamp.com/track/interstellar&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://kurkus.bandcamp.com/track/interstellar&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://kurkus.bandcamp.com/track/interstellar&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kurkus - Košice, Slovakia&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://nightlines.bandcamp.com/track/udia-istoty&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://nightlines.bandcamp.com/track/udia-istoty&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://nightlines.bandcamp.com/track/udia-istoty&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nightlines - Bratislava, Slovakia&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://noreligionlabel.bandcamp.com/track/go-outside-outro&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://noreligionlabel.bandcamp.com/track/go-outside-outro&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The track examples provide the closest matches with the identified subgenres, and the complete clusters are not restricted to these styles. However, by increasing the cluster number it is possible to further refine the results. By increasing it to five groups, for example, a rock/electronic/pop fusion group is also identified, and metal appears as a new determining genre:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;images/image20.jpg&#34; alt=&#34;alt_text&#34; title=&#34;image_tooltip&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;images/image21.jpg&#34; alt=&#34;alt_text&#34; title=&#34;image_tooltip&#34;&gt;&lt;/p&gt;
+&lt;a href=&#34;https://noreligionlabel.bandcamp.com/track/go-outside-outro&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;No Religion label, Slovakia&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The track examples provide the closest matches with the identified subgenres, and the complete clusters are not restricted to these styles. However, by increasing the cluster number it is possible to further refine the results. By increasing it to five groups, for example, a &lt;code&gt;rock/electronic/pop fusion&lt;/code&gt; group is also identified, and &lt;code&gt;metal&lt;/code&gt; appears as a new determining genre:&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-rockelectronicpop-fusion-group-cluster&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/bandcamp_librarian/rock_electronic_pop_fusion_group.jpeg&#34; data-caption=&#34;Rock/Electronic/Pop fusion group Cluster&#34;&gt;
+
+
+  &lt;img src=&#34;/img/bandcamp_librarian/rock_electronic_pop_fusion_group.jpeg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Rock/Electronic/Pop fusion group Cluster
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
 &lt;p&gt;Bandcamp links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://monikinokino.bandcamp.com/track/be-ky-radio-edit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://monikinokino.bandcamp.com/track/be-ky-radio-edit&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://monikinokino.bandcamp.com/track/be-ky-radio-edit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Monikino Kino - Prague, Czech Republic&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://midilidi.bandcamp.com/track/koupali-t-tajemn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://midilidi.bandcamp.com/track/koupali-t-tajemn&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://midilidi.bandcamp.com/track/koupali-t-tajemn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Midi Lidi - Czech Republic&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://denaftb.bandcamp.com/track/if-its-written-outro&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://denaftb.bandcamp.com/track/if-its-written-outro&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;images/image22.jpg&#34; alt=&#34;alt_text&#34; title=&#34;image_tooltip&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;images/image23.jpg&#34; alt=&#34;alt_text&#34; title=&#34;image_tooltip&#34;&gt;&lt;/p&gt;
+&lt;a href=&#34;https://denaftb.bandcamp.com/track/if-its-written-outro&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DENA - Berlin, Germany&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-metal-cluster&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/bandcamp_librarian/metal_group.jpeg&#34; data-caption=&#34;Metal Cluster&#34;&gt;
+
+
+  &lt;img src=&#34;/img/bandcamp_librarian/metal_group.jpeg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Metal Cluster
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
 &lt;p&gt;Bandcamp links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://triggerband.bandcamp.com/track/treachery&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://triggerband.bandcamp.com/track/treachery&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://triggerband.bandcamp.com/track/treachery&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trigger - Nizhny Novgorod, Russia&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://signumregis.bandcamp.com/track/unfold-the-mystery&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://signumregis.bandcamp.com/track/unfold-the-mystery&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://signumregis.bandcamp.com/track/unfold-the-mystery&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Signum Regis - Senec, Slovakia&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://hudba.zocivoci.sk/track/prehra-a-zmizn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://hudba.zocivoci.sk/track/prehra-a-zmizn&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;If you’d like to have a look at these and other stylistic groups (or search based on location tags), a working demo of the Librarian loaded with the Listen Local dataset is available at: 
-&lt;a href=&#34;https://medium.com/data-lyrics/bitly.com/bandcamp-librarian&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;bitly.com/bandcamp-librarian&lt;/a&gt; . Happy discoveries!&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+&lt;a href=&#34;https://hudba.zocivoci.sk/track/prehra-a-zmizn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zoči Voči - Nitriansky kraj, Slovakia&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
 &lt;p&gt;Alonso-Jiménez, Pablo, Dmitry Bogdanov, Jordi Pons and Xavier Serra. 2020. TensorFlow Audio Models in Essentia. arXiv:2003.07393.&lt;/p&gt;
 &lt;p&gt;Besseny, Amelia. 2020. Lost in spotify: folksonomy and wayfinding functions in spotify’s interface and companion apps. &lt;em&gt;Popular Communication&lt;/em&gt;. no. 18 (1): 1–17.&lt;/p&gt;
 &lt;p&gt;Caparrini, Antonio, Javier Arroyo, Laura Pérez-Molina and Jaime Sánchez-Hernández. 2020. “Automatic subgenre classification in an electronic dance music taxonomy.” Journal of New Music Research 49(12):1–16.&lt;/p&gt;
@@ -1824,7 +2306,7 @@ researchers to work with us to find out how we can increase the visibility of Eu
       <pubDate>Tue, 02 Feb 2021 10:10:00 +0100</pubDate>
       <guid>/talk/2021_03_06_ood/</guid>
       <description>&lt;p&gt;Open Data Day is an annual celebration of open data all over the world. It is an opportunity to show the benefits of open data and encourage the adoption of open data policies in government, business, and civil society. Reprex is a start-up that utilizes open data with open-source reproducible research: please challenge us with your data requests and participate in our web events.&lt;/p&gt;
-&lt;p&gt;The &lt;code&gt;Reprex Open Data Day 2021&lt;/code&gt; will be two informal conversations based on a series of run up introductory blogposts centerred around two themes:&lt;/p&gt;
+&lt;p&gt;The &lt;code&gt;Reprex Open Data Day 2021&lt;/code&gt; will be two informal conversations based on a series of run up introductory blogposts centered around two themes:&lt;/p&gt;
 &lt;p&gt;We are preparing with a series of blogposts, i.e. short interviews, research introductions, tutorials and inspiring ideas for the 6th of March.   We want to create an informal, inclusive, collaborative online event on International Open Data Day 2021. Please, grab a tea, coffee, or even a beer, and join us for an informal conversation. We hope that we will finish the afternoon with ideas on new, open-data driven collaborations.&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;9.30 EST / 15.30 CET&lt;/code&gt;:  &lt;strong&gt;Open collaboration in business, policy and science.&lt;/strong&gt;   Creating evidence-based policy, business strategy or scientific research with small contributions with independent components with incentives.  Short introduction with examples:  joining environmental sensory data and public opinion data on maps; creating harmonized datasets across the Arab world.  Survey harmonization, mapping, data products.&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;11.00 EST / 17.00 CET&lt;/code&gt;:  &lt;strong&gt;Scaling up open collaboration: making small organizations competitive with big tech in the big data era.&lt;/strong&gt;  Data sharing, data pooling, data altruism and observatories. The new European trustworthy AI and data governance agenda.&lt;/p&gt;

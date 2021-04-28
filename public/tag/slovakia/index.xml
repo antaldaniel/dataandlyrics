@@ -5,12 +5,44 @@
     <link>/tag/slovakia/</link>
       <atom:link href="/tag/slovakia/index.xml" rel="self" type="application/rss+xml" />
     <description>Slovakia</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Wed, 14 Apr 2021 08:10:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Tue, 27 Apr 2021 19:00:00 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Slovakia</title>
       <link>/tag/slovakia/</link>
     </image>
+    
+    <item>
+      <title>Upgrading the Slovak Music Database: New Data API, New Features</title>
+      <link>/post/2021-04-27-smdb/</link>
+      <pubDate>Tue, 27 Apr 2021 19:00:00 +0200</pubDate>
+      <guid>/post/2021-04-27-smdb/</guid>
+      <description>&lt;p&gt;We use the database to monitor market developments in streaming and radio services, and to detect any problems that may lead to a disadvantageous position for Slovak artists.  We are constantly monitoring if Slovak artists, regardless of their age, genre, gender, or ethnicity enjoy equal opportunity on streaming and radio platforms, and we are devising ways to increase their visibility and earnings.&lt;/p&gt;
+&lt;p&gt;The SMDB database has opt-in, opt-out features, and a write-in process, where Slovak musicologists determine if an artist should be written into the database.  The database uses data only from public data sources, and any artists who do not feel Slovak, or do not agree with our approach, can be removed at any time.&lt;/p&gt;
+&lt;p&gt;Our Demo Music Database was created with the support of the Slovak Arts Council and Consolidated Independent, and in partnership and support with SOZA in 2020.  We are seeking new users and donors to make this database comprehensive and help all artists who feel Slovak to be heard at home and abroad.  With the help of volunteers and Reprex’s own resources, we have added some new features to the database in 2021.&lt;/p&gt;
+&lt;p&gt;Our database in its early demo form analysed only the Spotify presence of artists.  We have added 
+&lt;a href=&#34;http://3.221.117.58/listen-local/youtube-librarian&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YouTube&lt;/a&gt; fully to the database, thanks to the work of our new team member, 
+&lt;a href=&#34;&#34;&gt;Botond Vitos, PhD&lt;/a&gt;. We have also started to integrate his 
+&lt;a href=&#34;https://dataandlyrics.com/post/2021-04-14-bandcamp-librarian-2/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bandcamp analyzer tool&lt;/a&gt; with our 
+&lt;a href=&#34;https://dataobservatory.shinyapps.io/listen-local-app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Listen Local App&lt;/a&gt;. Soon we will be able to help on all three platforms.&lt;/p&gt;
+&lt;p&gt;We created a modern API to access the database for researchers, labels, and representative music organizations. The API works with standard SQL queries (see full documentation 
+&lt;a href=&#34;https://docs.datasette.io/en/latest/getting_started.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;), but also allows intuitive filters for manual use.&lt;/p&gt;
+&lt;p&gt;For example, our 
+&lt;a href=&#34;https://listenlocal.community/publication/listen_local_2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Feasibility Study&lt;/a&gt; contains a small case study with The Youniverse, and 
+&lt;a href=&#34;https://dataandlyrics.com/post/2020-11-30-youniverse/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tammy Nižňanska&lt;/a&gt; gave us an interview to form our ideas, together with 
+&lt;a href=&#34;https://dataandlyrics.com/post/2020-11-25-katarzia/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Katarzia&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;How much more danceble are The Youniverse than an average Slovak band?&lt;/strong&gt; 
+&lt;a href=&#34;http://3.221.117.58/listen-local?sql=select%28%0D%0A%28select&amp;#43;avg%28danceability%29&amp;#43;as&amp;#43;%5BThe&amp;#43;Youniverse&amp;#43;-&amp;#43;Danceability%5D&amp;#43;from&amp;#43;%22spotify-top-tracks%22&amp;#43;where&amp;#43;spotify_artist_name&amp;#43;%3D&amp;#43;%22The&amp;#43;Youniverse%22&amp;#43;%29&amp;#43;%2F%0D%0A%28select&amp;#43;avg%28danceability%29&amp;#43;as&amp;#43;%5BAverage&amp;#43;Danceability%5D&amp;#43;from&amp;#43;%22spotify-top-tracks%22%29&amp;#43;-&amp;#43;1%0D%0A%29*100&amp;#43;as&amp;#43;percent%0D%0A%0D%0A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;try it out&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://3.221.117.58/listen-local?sql=select%28%0D%0A%28select&amp;#43;avg%28danceability%29&amp;#43;as&amp;#43;%5BThe&amp;#43;Youniverse&amp;#43;-&amp;#43;Danceability%5D&amp;#43;from&amp;#43;%22spotify-top-tracks%22&amp;#43;where&amp;#43;spotify_artist_name&amp;#43;%3D&amp;#43;%22The&amp;#43;Youniverse%22&amp;#43;%29&amp;#43;%2F%0D%0A%28select&amp;#43;avg%28danceability%29&amp;#43;as&amp;#43;%5BAverage&amp;#43;Danceability%5D&amp;#43;from&amp;#43;%22spotify-top-tracks%22%29&amp;#43;-&amp;#43;1%0D%0A%29*100&amp;#43;as&amp;#43;percent%0D%0A%0D%0A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;youniverse_dancable.png&#34; alt=&#34;Dancable The Youniverse&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;What is Katarzia’s favorite key?&lt;/em&gt;* 
+&lt;a href=&#34;http://3.221.117.58/listen-local?sql=select&amp;#43;key&amp;#43;as&amp;#43;%5BKatarzia%27s&amp;#43;most&amp;#43;frequent&amp;#43;key%5D%2C&amp;#43;count%28key%29&amp;#43;Frequency%0D%0Afrom&amp;#43;%22spotify-top-tracks%22&amp;#43;where&amp;#43;spotify_artist_name&amp;#43;%3D&amp;#43;%22Katarzia%22%0D%0Agroup&amp;#43;by&amp;#43;key&amp;#43;order&amp;#43;by&amp;#43;count%28key%29&amp;#43;desc%0D%0A%0D%0A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;try it out&lt;/a&gt;
+
+&lt;a href=&#34;http://3.221.117.58/listen-local?sql=select&amp;#43;key&amp;#43;as&amp;#43;%5BKatarzia%27s&amp;#43;most&amp;#43;frequent&amp;#43;key%5D%2C&amp;#43;count%28key%29&amp;#43;Frequency%0D%0Afrom&amp;#43;%22spotify-top-tracks%22&amp;#43;where&amp;#43;spotify_artist_name&amp;#43;%3D&amp;#43;%22Katarzia%22%0D%0Agroup&amp;#43;by&amp;#43;key&amp;#43;order&amp;#43;by&amp;#43;count%28key%29&amp;#43;desc%0D%0A%0D%0A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;Katarzia_favorite_key.png&#34; alt=&#34;Katarzia&amp;rsquo;s favorite key&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Our database is not just a toy.  We have teamed up with the Slovak research institutes to understand how to best analyze and present the Slovak repertoire to the wider world.  We are developing an open-source system that recommends a predefined percentage of Slovak music to any user on Spotify.  We are giving marketing advice to artists like the Youniverse to pitch radios and tour destinations.  We try to identify who is likely to not receive payments from YouTube due to documentation problems. And we try to figure out why 15% of the artists seem to be never recommended 
+&lt;a href=&#34;https://dataandlyrics.com/post/2020-11-17-recommendation-analysis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;on Spotify&lt;/a&gt;.&lt;/p&gt;
+&lt;script src=&#34;https://gist.github.com/antaldaniel/d26ec95e2156fb41f80d8e5f0fdc102b.js&#34;&gt;&lt;/script&gt;</description>
+    </item>
     
     <item>
       <title>Harness the Algorithm</title>

@@ -2,17 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/authors/</loc>
+    <lastmod>2021-04-28T07:10:00+02:00</lastmod>
+  </url><url>
+    <loc>/author/daniel-antal/</loc>
+    <lastmod>2021-04-28T07:10:00+02:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2021-04-28T07:10:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/database/</loc>
+    <lastmod>2021-04-28T07:10:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/mapping/</loc>
+    <lastmod>2021-04-28T07:10:00+02:00</lastmod>
+  </url><url>
+    <loc>/post/</loc>
+    <lastmod>2021-04-28T07:10:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/slovakia/</loc>
+    <lastmod>2021-04-28T07:10:00+02:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2021-04-28T07:10:00+02:00</lastmod>
+  </url><url>
+    <loc>/post/2021-04-27-smdb/</loc>
+    <lastmod>2021-04-28T07:10:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/youtube/</loc>
+    <lastmod>2021-04-28T07:10:00+02:00</lastmod>
+  </url><url>
     <loc>/tag/algorithms/</loc>
     <lastmod>2021-04-14T08:10:00+02:00</lastmod>
   </url><url>
-    <loc>/authors/</loc>
-    <lastmod>2021-04-16T09:10:00+02:00</lastmod>
-  </url><url>
     <loc>/author/daniel-antal-cfa/</loc>
     <lastmod>2021-04-14T08:10:00+02:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2021-04-16T09:10:00+02:00</lastmod>
   </url><url>
     <loc>/talk/2021_04_30_harness_algorithm/</loc>
     <lastmod>2021-04-14T08:10:00+02:00</lastmod>
@@ -22,12 +46,6 @@
   </url><url>
     <loc>/talk/</loc>
     <lastmod>2021-04-14T08:10:00+02:00</lastmod>
-  </url><url>
-    <loc>/tag/slovakia/</loc>
-    <lastmod>2021-04-14T08:10:00+02:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2021-04-16T09:10:00+02:00</lastmod>
   </url><url>
     <loc>/tag/trustworthy-ai/</loc>
     <lastmod>2021-04-14T08:10:00+02:00</lastmod>
@@ -39,12 +57,6 @@
     <lastmod>2021-04-16T09:10:00+02:00</lastmod>
   </url><url>
     <loc>/tag/genres/</loc>
-    <lastmod>2021-04-16T09:10:00+02:00</lastmod>
-  </url><url>
-    <loc>/tag/mapping/</loc>
-    <lastmod>2021-04-16T09:10:00+02:00</lastmod>
-  </url><url>
-    <loc>/post/</loc>
     <lastmod>2021-04-16T09:10:00+02:00</lastmod>
   </url><url>
     <loc>/tag/scenes/</loc>
@@ -84,9 +96,6 @@
     <lastmod>2021-04-04T09:00:00+02:00</lastmod>
   </url><url>
     <loc>/tag/cello/</loc>
-    <lastmod>2021-04-04T09:00:00+02:00</lastmod>
-  </url><url>
-    <loc>/author/daniel-antal/</loc>
     <lastmod>2021-04-04T09:00:00+02:00</lastmod>
   </url><url>
     <loc>/tag/music/</loc>
@@ -291,9 +300,6 @@
     <lastmod>2021-02-23T11:00:00+01:00</lastmod>
   </url><url>
     <loc>/tag/spotify/</loc>
-    <lastmod>2021-02-23T11:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/tag/youtube/</loc>
     <lastmod>2021-02-23T11:00:00+01:00</lastmod>
   </url><url>
     <loc>/post/2021-02-22-jump/</loc>
@@ -917,6 +923,8 @@
     <loc>/author/</loc>
   </url><url>
     <loc>/author/andres-garcia-molina/</loc>
+  </url><url>
+    <loc>/author/botond-vitos/</loc>
   </url><url>
     <loc>/author/daniel/</loc>
   </url><url>
