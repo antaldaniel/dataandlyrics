@@ -85,7 +85,7 @@ As expected, the detected subgenres are concentrated on the various flavours of 
 
 ## Slovakia Case Study
 
-The following example concerns artists that are somehow appear to be connected with Slovkakia. Our goal was to focus on Slovakian artists on Spotify that have Bandcamp presence too, and use the Librarian as support for the recommendations. A sample of 82 such artists was selected; their Bandcamp libraries included 2379 tracks. In total, 17.881 tags were attached to these tracks, among which 550 were unique. The tag frequencies are illustrated below:
+The following example concerns artists that are somehow appear to be connected with Slovakia. Our goal was to focus on Slovakian artists on Spotify that have Bandcamp presence too, and use the Librarian as support for the recommendations. A sample of 82 such artists was selected; their Bandcamp libraries included 2379 tracks. In total, 17.881 tags were attached to these tracks, among which 550 were unique. The tag frequencies are illustrated below:
 
 {{< figure src="/img/bandcamp_librarian/tag_frequencies.png" title="Tag Frequencies" numbered="true" >}}
 
