@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Botond Vitos
-name:  Botond, PhD
+name:  Botond Vitos, PhD
 
 # Username (this should match the folder name)
 authors:
@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Data Scientist & Ethnomusicologist
+role: Data Scientist
 
 # Organizations/Affiliations
 organizations:

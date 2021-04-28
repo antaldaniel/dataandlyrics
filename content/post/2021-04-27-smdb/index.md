@@ -4,7 +4,7 @@ date = 2021-04-27T19:00:00
 lastmod = 2021-04-28T07:10:00
 draft = false
 
-authors = ["Daniel Antal", "Botond Vitos"]
+authors = ["Daniel Antal"]
 
 project = ["listen-local"]
 
