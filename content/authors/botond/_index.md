@@ -5,7 +5,7 @@ name:  Botond Vitos, PhD
 
 # Username (this should match the folder name)
 authors:
-- line
+- botond_vitos
 
 # Is this the primary user of the site?
 superuser: false
@@ -27,10 +27,10 @@ topics:
 - Electronic & Dance Music
 
 education:
-  - course: PhD in Cultural Studies, 2014
+  - course: PhD in Cultural Studies
     institution: Monash University, Melbourne
     year: 2014
-  - course: MA in Cultural Anthropology, 2009
+  - course: MA in Cultural Anthropology
     institution: ELTE University, Budapest
     year: 2009
     
