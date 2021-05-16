@@ -2,14 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/tag/algorithms/</loc>
+    <lastmod>2021-05-16T07:10:00+02:00</lastmod>
+  </url><url>
     <loc>/authors/</loc>
-    <lastmod>2021-04-28T07:10:00+02:00</lastmod>
+    <lastmod>2021-05-16T07:10:00+02:00</lastmod>
   </url><url>
     <loc>/author/daniel-antal/</loc>
-    <lastmod>2021-04-28T07:10:00+02:00</lastmod>
+    <lastmod>2021-05-16T07:10:00+02:00</lastmod>
   </url><url>
     <loc>/</loc>
-    <lastmod>2021-04-28T07:10:00+02:00</lastmod>
+    <lastmod>2021-05-16T07:10:00+02:00</lastmod>
+  </url><url>
+    <loc>/post/</loc>
+    <lastmod>2021-05-16T07:10:00+02:00</lastmod>
+  </url><url>
+    <loc>/post/2021-05-16-recommendation-outcomes/</loc>
+    <lastmod>2021-05-16T07:10:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/recommendations/</loc>
+    <lastmod>2021-05-16T07:10:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/slovakia/</loc>
+    <lastmod>2021-05-16T07:10:00+02:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2021-05-16T07:10:00+02:00</lastmod>
+  </url><url>
+    <loc>/tag/trustworthy-ai/</loc>
+    <lastmod>2021-05-16T07:10:00+02:00</lastmod>
   </url><url>
     <loc>/tag/database/</loc>
     <lastmod>2021-04-28T07:10:00+02:00</lastmod>
@@ -17,23 +38,11 @@
     <loc>/tag/mapping/</loc>
     <lastmod>2021-04-28T07:10:00+02:00</lastmod>
   </url><url>
-    <loc>/post/</loc>
-    <lastmod>2021-04-28T07:10:00+02:00</lastmod>
-  </url><url>
-    <loc>/tag/slovakia/</loc>
-    <lastmod>2021-04-28T07:10:00+02:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2021-04-28T07:10:00+02:00</lastmod>
-  </url><url>
     <loc>/post/2021-04-27-smdb/</loc>
     <lastmod>2021-04-28T07:10:00+02:00</lastmod>
   </url><url>
     <loc>/tag/youtube/</loc>
     <lastmod>2021-04-28T07:10:00+02:00</lastmod>
-  </url><url>
-    <loc>/tag/algorithms/</loc>
-    <lastmod>2021-04-14T08:10:00+02:00</lastmod>
   </url><url>
     <loc>/author/daniel-antal-cfa/</loc>
     <lastmod>2021-04-14T08:10:00+02:00</lastmod>
@@ -45,9 +54,6 @@
     <lastmod>2021-04-14T08:10:00+02:00</lastmod>
   </url><url>
     <loc>/talk/</loc>
-    <lastmod>2021-04-14T08:10:00+02:00</lastmod>
-  </url><url>
-    <loc>/tag/trustworthy-ai/</loc>
     <lastmod>2021-04-14T08:10:00+02:00</lastmod>
   </url><url>
     <loc>/tag/bandcamp/</loc>
@@ -144,9 +150,6 @@
     <lastmod>2021-03-25T11:00:00+01:00</lastmod>
   </url><url>
     <loc>/publication/</loc>
-    <lastmod>2021-03-25T11:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/tag/recommendations/</loc>
     <lastmod>2021-03-25T11:00:00+01:00</lastmod>
   </url><url>
     <loc>/tag/amersfoort/</loc>
