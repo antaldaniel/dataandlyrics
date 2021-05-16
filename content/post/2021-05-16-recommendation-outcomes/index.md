@@ -16,8 +16,7 @@ summary = "In complex systems there are hardly ever singular causes that explain
 # Featured image
 [image]
   # Caption (optional)
-  caption = "My presentation on Copyright Data Improvement in the EU – Towards Better Visibility of European
-Content and Broader Licensing Opportunities in the Light of New Technologies"
+  caption = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
