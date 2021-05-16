@@ -16,14 +16,14 @@ summary = "In complex systems there are hardly ever singular causes that explain
 # Featured image
 [image]
   # Caption (optional)
-  caption = ""
+  caption = "Copyright Data Improvement in the EU – Towards Better Visibility of European Content"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Top"
 
   # Show image only in page previews?
-  preview_only = true
+  preview_only = false
 +++
 
 Traitors in a war used to be executed by firing squad, and it was a psychologically burdensome task for soldiers to have to shoot former comrades. When a 10-marksman squad fired 8 blank and 2 live ammunition, the traitor would be 100% dead, and the soldiers firing would walk away with a semblance of consolation in the fact they had an 80% chance of not having been the one that killed a former comrade. This is a textbook example of assigning responsibility and blame in systems. AI-driven systems such as the YouTube or Spotify recommendation systems, the shelf organization of Amazon books, or the workings of a stock photo agency come together through complex processes, and when they produce undesirable results, or, on the contrary, they improve life, it is difficult to assign blame or credit.
