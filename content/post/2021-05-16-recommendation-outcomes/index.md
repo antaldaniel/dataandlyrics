@@ -1,5 +1,5 @@
 +++
-title = "Recommendation Systems What can Go with the Algorithm?"
+title = "Recommendation Systems: What can Go Wrong with the Algorithm?"
 subtitle = "Effects on equitable remuneration, fair value, cultural and media policy goals"
 date = 2021-05-06T07:10:00
 lastmod = 2021-05-16T07:10:00
