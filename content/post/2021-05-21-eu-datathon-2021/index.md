@@ -102,7 +102,7 @@ As open science principles gain increased acceptance, scientific researchers are
 
 The EU, the OECD, and UN institutions run around 100 data collection programs, so-called ‘data observatories’ that more or less avoid touching this data, and buy proprietary data instead. Annually, each observatory spends between 50 thousand and 3 million EUR on collecting untidy and proprietary data of inconsistent quality, while never even considering open data.
 
-{{< figure src="/media/img/observatory_screenshots/observatory_collage_16x9_800.png" caption="Our automated data observatories are modern reimaginations of the existing observatories that do not use open data and research automation." numbered="true" >}}
+{{< figure src="/img/observatory_screenshots/observatory_collage_16x9_800.png" caption="Our automated data observatories are modern reimaginations of the existing observatories that do not use open data and research automation." numbered="true" >}}
 
 The problem with the current EU data strategy is that while it produces enormous quantities of valuable open data, in the absence of common basic data science and documentation principles, it seems often cheaper to create new data than to put the existing open data into shape.
 
