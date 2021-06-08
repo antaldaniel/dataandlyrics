@@ -50,7 +50,7 @@ These undesirable outcomes are sometimes illegal as they may go against non-disc
 
 The first step is to open and understand these autonomous systems, and this is our mission with the [Digital Music Observatory](https://music.dataobservatory.eu/): it is a fully automated, open source, open data observatory that links public datasets in order to provide a comprehensive view of the European music industry. It produces key business and policy indicators, and research experiment data following the data pillars laid out in the [Feasibility study for the establishment of a European Music Observatory](https://music.dataobservatory.eu/post/2020-11-16-european-music-observatory-feasibility/).
 
-{{< figure src="/imb/observatory_screenshots/dmo_opening_screen.png" caption="Join our [Digital Music Observatory](https://music.dataobservatory.eu/) as a user, curator, developer or help building our business case." numbered="true" >}}
+{{< figure src="/img/observatory_screenshots/dmo_opening_screen.png" caption="Join our [Digital Music Observatory](https://music.dataobservatory.eu/) as a user, curator, developer or help building our business case." numbered="true" >}}
 
 *Join our open collaboration Music Data Observatory team as a [data curator](/authors/curator), [developer](/authors/developer) or [business developer](/authors/team). More interested in antitrust, innovation policy or economic impact analysis? Try our [Economy Data Observatory](https://economy.dataobservatory.eu/#contributors) team! Or your interest lies more in climate change, mitigation or climate action? Check out our [Green Deal Data Observatory](https://greendeal.dataobservatory.eu/#contributors) team!*
 
