@@ -1,6 +1,6 @@
 +++
 title = "Trustworthy AI: Check Where the Machine Learning Algorithm is Learning From"
-subtitle = "We do care what our children learn, but we do not care yet about what our robots learn from."
+subtitle = "We do care what our children learn, but we do not care yet about what our robots learn from"
 date = 2021-06-08T12:10:00
 lastmod = 2021-06-08T12:10:00
 draft = false
@@ -29,7 +29,7 @@ summary = "We do care what our children learn, but we do not care yet about what
 
 We do care what our children learn, but we do not care yet about what our robots learn from.  One key idea behind trustworthy AI is that you verify what data sources your machine learning algorithms can learn from.  As we have emphasised in our forthcoming academic paper and in our experiments, one key problem that goes wrong when you see too few small country artists, or too few womxn in the charts is that the big tech recommendation systems and other autonomous systems are learning from historically biased or patchy data.
 
-{{< figure src="/imb/listen_local_screenshots/Youniverse_energy.png" caption="This is precisely the type of work we are doing with the continued support of the Slovak national rightsholder organizations.  In our [work in Slovakia](https://dataandlyrics.com/publication/listen_local_2020/), we reverse engineered some of these undesirable outcomes. Our Slovak musicologist data curator, [Dominika Semaňáková](https://music.dataobservatory.eu/author/dominika-semanakova/) explains how  [we want to teach machine learning algorithms to learn more about Slovak music](https://music.dataobservatory.eu/post/2021-06-08-introducing-dominika-semanakova/) in her introductory interview." numbered="true" >}}
+{{< figure src="/img/listen_local_screenshots/Youniverse_energy.png" caption="This is precisely the type of work we are doing with the continued support of the Slovak national rightsholder organizations.  In our [work in Slovakia](https://dataandlyrics.com/publication/listen_local_2020/), we reverse engineered some of these undesirable outcomes. Our Slovak musicologist data curator, [Dominika Semaňáková](https://music.dataobservatory.eu/author/dominika-semanakova/) explains how  [we want to teach machine learning algorithms to learn more about Slovak music](https://music.dataobservatory.eu/post/2021-06-08-introducing-dominika-semanakova/) in her introductory interview." numbered="true" >}}
 
 A key mission of our [Digital Music Observatory](https://music.dataobservatory.eu/), which is our modern, subjective approach on how the future European Music Observatory should look like, is to not only to provide high-quality data on the music economy, the diversity of music, and the audience of music, but also on metadata.  The quality and availability, interoperability of metadata (information about how the data should be used) is key to build trustworthy AI systems. 
 
@@ -40,11 +40,9 @@ A key mission of our [Digital Music Observatory](https://music.dataobservatory.e
 
 This is precisely the type of work we are doing with the continued support of the Slovak national rightsholder organizations.  In our [work in Slovakia](https://dataandlyrics.com/publication/listen_local_2020/), we reverse engineered some of these undesirable outcomes. Popular video and music streaming recommendation systems have at least three major components based on machine learning. The problem is usually not that an algorithm is nasty and malicious; algorithms are often trained through “machine learning” techniques, and often, machines “learn” from biased, faulty, or low-quality information. Our Slovak musicologist data curator, [Dominika Semaňáková](https://music.dataobservatory.eu/author/dominika-semanakova/) explains how  [we want to teach machine learning algorithms to learn more about Slovak music](https://music.dataobservatory.eu/post/2021-06-08-introducing-dominika-semanakova/) in her introductory interview. 
 
-{{< figure src="/presentations/D_Antal_IVIR_Webinar_2021-05-06/Slide3.PNG" caption="Read more about our Slovak music use case [here](https://dataandlyrics.com/publication/listen_local_2020/)." numbered="true" >}}
+{{< figure src="/presentations/D_Antal_IVIR_Webinar_2021-05-06/Slide4.PNG" caption="Read more about our Slovak music use case [here](https://dataandlyrics.com/publication/listen_local_2020/)." numbered="true" >}}
 
 These undesirable outcomes are sometimes illegal as they may go against non-discrimination or competition law. (See our ideas on what can go wrong -- [Music Streaming: Is It a Level Playing Field?](https://dataandlyrics.com/publication/music_level_playing_field_2021/)) They may undermine national or EU-level cultural policy goals, media regulation, child protection rules, and fundamental rights protection against discrimination without basis. They may make Slovak artists earn significantly less than American artists.
-
-{{< figure src="/presentations/D_Antal_IVIR_Webinar_2021-05-06/Slide4.PNG" caption="Metadata problems: no single bullet theory" numbered="true" >}}
 
 [In our academic (pre-print) paper](https://dataandlyrics.com/publication/european_visibilitiy_2021/) we argue for new regulatory considerations to create a better, and more accountable playing field for deploying algorithms in a quasi-autonomous system, and we suggest further research to align economic incentives with the creation of higher quality and less biased metadata. The need for further research on how these large systems affect various fundamental rights, consumer or competition rights, or cultural and media policy goals cannot be overstated. 
 
