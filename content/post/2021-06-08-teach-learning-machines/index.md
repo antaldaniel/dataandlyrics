@@ -1,8 +1,8 @@
 +++
 title = "Trustworthy AI: Check Where the Machine Learning Algorithm is Learning From"
 subtitle = "We do care what our children learn, but we do not care yet about what our robots learn from."
-date = 2021-05-06T07:10:00
-lastmod = 2021-05-16T07:10:00
+date = 2021-06-08T12:10:00
+lastmod = 2021-06-08T12:10:00
 draft = false
 
 authors = ["Daniel Antal"]
