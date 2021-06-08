@@ -52,7 +52,7 @@ The first step is to open and understand these autonomous systems, and this is o
 
 {{< figure src="/img/observatory_screenshots/dmo_opening_screen.png" caption="Join our [Digital Music Observatory](https://music.dataobservatory.eu/) as a user, curator, developer or help building our business case." numbered="true" >}}
 
-*Join our open collaboration Music Data Observatory team as a [data curator](/authors/curator), [developer](/authors/developer) or [business developer](/authors/team). More interested in antitrust, innovation policy or economic impact analysis? Try our [Economy Data Observatory](https://economy.dataobservatory.eu/#contributors) team! Or your interest lies more in climate change, mitigation or climate action? Check out our [Green Deal Data Observatory](https://greendeal.dataobservatory.eu/#contributors) team!*
+*Join our open collaboration Music Data Observatory team as a [data curator](https://music.dataobservatory.eu/authors/curator), [developer](https://music.dataobservatory.eu/authors/developer) or [business developer](https://music.dataobservatory.eu/authors/team). More interested in antitrust, innovation policy or economic impact analysis? Try our [Economy Data Observatory](https://economy.dataobservatory.eu/#contributors) team! Or your interest lies more in climate change, mitigation or climate action? Check out our [Green Deal Data Observatory](https://greendeal.dataobservatory.eu/#contributors) team!*
 
 ## Read More on Data & Lyrics
 
