@@ -23,7 +23,7 @@ summary = "After a very thorough modernization of the package’s exception hand
   focal_point = "Right"
 
   # Show image only in page previews?
-  preview_only = false
+  preview_only = true
 +++
 
 {{< figure src="/img/package_screenshots/spotifyr_221.png" caption="The package is an excellent starting to point for R newbies to try their hands on musicology analysis with a few keystrokes. And of course, it is an essential part of the research infrastructure of musicology worldwide in far more advanced applications." numbered="true" >}}
