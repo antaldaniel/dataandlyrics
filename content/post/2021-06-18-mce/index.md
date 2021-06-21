@@ -29,7 +29,7 @@ projects = ["eu-datathon_2021"]
 
 {{< figure src="/media/img/blogposts_20121/dcms_economics_music_streaming.png" numbered="false">}}
 
-The idea of our Digital Music Observatory was brought to the UK policy debate on music streaming by the _Written evidence submitted by The state51 Music Group_ to the _Economics of music streaming review_ of the UK Parliaments' DCMS Committee[^1].
+The idea of our [Digital Music Observatory](https://music.dataobservatory.eu/) was brought to the UK policy debate on music streaming by the _Written evidence submitted by The state51 Music Group_ to the _Economics of music streaming review_ of the UK Parliaments' DCMS Committee[^1].
 
 [^1]: state51 Music Group. 2020. “Written Evidence Submitted by The state51 Music Group. Economics of Music Streaming Review. Response to Call for Evidence.” UK Parliament website. [https://committees.parliament.uk/writtenevidence/15422/html/](https://committees.parliament.uk/writtenevidence/15422/html/).
 
@@ -105,6 +105,6 @@ The current streaming licensing model in Europe is a mix of mechanical and publi
 
 ## Join us
 
-*Join our open collaboration Economy Data Observatory team as a [data curator](/authors/curator), [developer](/authors/developer) or [business developer](/authors/team). More interested in environmental impact analysis? Try our [Green Deal Data Observatory](https://greendeal.dataobservatory.eu/#contributors) team! Or your interest lies more in data governance, trustworthy AI and other digital market problems? Check out our [Digital Music Observatory](https://music.dataobservatory.eu/#contributors) team!*
+*Join our open collaboration Music Data Observatory team as a [data curator](https://music.dataobservatory.eu/author/new-curators/), [developer](https://music.dataobservatory.eu/author/new-developers/) or [business developer](https://music.dataobservatory.eu/author/observatory-business-associate/). More interested in antitrust, innovation policy or economic impact analysis? Try our [Economy Data Observatory](https://economy.dataobservatory.eu/#contributors) team! Or your interest lies more in climate change, mitigation or climate action? Check out our [Green Deal Data Observatory](https://greendeal.dataobservatory.eu/#contributors) team!*
 
 ## Footnote References
