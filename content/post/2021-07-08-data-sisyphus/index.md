@@ -75,4 +75,4 @@ In most cases, the reason why [there is no gold rush for open data](https://data
 
 If the data source is cheap or has a low quality, you do not even get it.  If you do not have it, it will show up as a human resource cost in research (when your analysist or junior researcher are spending countless hours to find out the missing metadata information on the correct use of the data) or in sales costs (when you try to reuse a research, consulting or legal product and you have comb through your archive and retest elements again and again.)
 
-- [x] The data, together with the descriptive and administrative metadata, and links to the use license and the authoritative copy can be found in our API. Try it out!
+- [x] The data, together with the descriptive and administrative metadata, and links to the use license and the authoritative copy can be found in our API. Try it out! (Currently only the Green Deal Data Observatory has our [latest API version](https://api.greendeal.dataobservatory.eu/).)
