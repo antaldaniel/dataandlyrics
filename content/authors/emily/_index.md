@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Editor
+role: Musicologist
 
 # Organizations/Affiliations
 organizations:
@@ -63,7 +63,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Editors
+- Authors
 ---
 
-Emily Hansell Clark is a researcher of ethnomusicology, and she is interested in ethnicity, migration, memory, governance, difference, and selfhood. Her ongoing research project follows Javanese musicians in Suriname and the Netherlands. She helps editing our blog and build bridges between quantitative and qualitative research areas in music.
+Emily Hansell Clark is a researcher of ethnomusicology, and she is interested in ethnicity, migration, memory, governance, difference, and selfhood. Her ongoing research project follows Javanese musicians in Suriname and the Netherlands. She helps editing our blog and build bridges between quantitative and qualitative research areas in music. She was the editor of Data&Lyrics between November 2020 and May 2021.
