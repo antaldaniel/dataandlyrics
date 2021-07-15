@@ -1,5 +1,6 @@
 +++
-title = "'In this Age Everyone Has to be Her Own Businesswoman, I Find this Somewhat Ridiculous'"
+title = "'I lived in the mountains for six years, and I loved it because it was a place where you needed to rely on yourself to survive.'"
+subtitle = "Listen Local interview"
 date = 2021-07-15T09:00:00
 lastmod = 2021-07-15T09:00:00
 draft = false
