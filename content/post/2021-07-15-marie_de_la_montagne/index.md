@@ -26,9 +26,12 @@ summary = "Marie de la Montagne is a performing musician and a music publisher. 
 
 +++
 
-*Willemijn graduated from art academy ArtEZ in Enschede in 2011. At her final exhibition she was one of ten talented upcoming artists across the graduates of the three ArtEZ art academies selected to show their work at Oostenwind 11 in the Delta Lloyd building in Amsterdam. She moved to Antwerp to work in solitude and to find her creative environment. Besides making her own art, Willemijn also works as a painter on commission, as a production manager at Picoux Productions, and has been a vocalist and cellist with Verlin. She is looking for both audiences and collaborators.*
+<!-- HERE I WOULD INCLUDE A BREIF INTRODUCTION ABOUT WHO MARIE IS AND WHY WE'RE INTERVIEWING HER
+Please go ahead and extend it
 
-{{< figure src="willemijn.jpg" caption="Willemijn de Krey, photo by E. Dierckx" >}}
+-->
+
+*Marie works in Prague, and helps musicians' careers, particularly in TV and feature film synchronization.  She is also a performing artists, whose music is connected to different parts of Europe. We interviewed her because of our shared interest in how music crosses borders.*
 
 **So, you're currently living in Prague, after spending several years located in France, London, and Berlin. What was this journey like for you?**
  
@@ -45,8 +48,7 @@ That’s a great question, one that is hard to answer in my case since I am loca
 I consider myself a storyteller. My music is a space to communicate emotions about experiences we might not always talk about. I love performing live and I can see myself doing this anywhere, but mostly in Europe. I feel very close to all the countries I’ve lived in, so France and even the UK. I always build a small fanbase where I live, and then uproot again.
 
 <!--  This is the script to include a jpg or png file.  If it is large, it will be ready for zooming in. -->
-{{< figure src="/media/img/gems/Marie_de_la_Montagne_with_band.jpg" caption="Marie on stage" >}}
-
+{{< figure src="/media/img/listen_local_interviews/Marie_de_la_Montagne_with_band.jpg" caption="Marie on stage" >}}
 
 
 I would like to spend more time in Central and Eastern Europe too. I feel like I neglected these countries and quite unfairly so. This has been a challenge as touring is always an expense, and since I collaborate with a pianist who has two children, there are practical aspects that I have to consider. 
@@ -69,7 +71,17 @@ My other source of inspiration in music is in America. A lot of people might jud
 
 **Can you recommend some music from the region of France where you feel at home? Or some music from the US that inspired you much recently? We are interested in how musical inspiration comes to our artists, physically. We want to understand how music travels via word of mouth, algorithms, etc.**  
 
-I can point you to a few artists that I met and find so inspiring. Definitely Amistat, a twin duo who have Czech roots, lived in Australia, and now live in Germany. We worked together for about two years, and I could listen to their song Love & Light on repeat. I also love Dirt Miller and Lauren Ruth Ward, both of whom I met in LA, and think are genius. Their songwriting, their social media artistry, and their vocals are mad! There are many artists in Prague who have their own approach to songwriting and I am a huge fan of Aiko’s. I love Bookie Baker, especially when they play live. Karel Havlíček who just released a neoclassical album Spoken is someone who inspires me so much with his understanding of being an artist. Out of the artists I met whilst I was in France - check out Jake Morley, Nyna Loren, Fionnuala McKenna, Rob Longstaff, The Pedestrians... so many great artists! Many of these artists came with us on tour which we filmed, so you can check out the videos we made online as well! 
+I can point you to a few artists that I met and find so inspiring. Definitely Amistat, a twin duo who have Czech roots, lived in Australia, and now live in Germany. We worked together for about two years, and I could listen to their song Love & Light on repeat. 
+
+<!--  This code is copy pasted from YouTube.  You can adjust the height to look better.  -->
+
+<iframe width="700" height="395" src="https://www.youtube.com/embed/JcaOd1mSPYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+I also love [Dirt Miller](https://www.youtube.com/channel/UC0pylMlxf_0jE256FLv9ZMg) and [Lauren Ruth Ward](https://www.youtube.com/channel/UC8dfUJJ-3op3B5wF5uono0w), both of whom I met in Los Angeles, and I think that they are geniuses. Their songwriting, their social media artistry, and their vocals are mad! 
+
+<!--  Please add links similarly  -->
+
+There are many artists in Prague who have their own approach to songwriting and I am a huge fan of [Aiko’s](https://www.youtube.com/channel/UCqMfd-lCgyHkd2EYbjwaxDA). I love Bookie Baker, especially when they play live. Karel Havlíček who just released a neoclassical album Spoken is someone who inspires me so much with his understanding of being an artist. Out of the artists I met whilst I was in France - check out Jake Morley, Nyna Loren, Fionnuala McKenna, Rob Longstaff, The Pedestrians... so many great artists! Many of these artists came with us on tour which we filmed, so you can check out the videos we made online as well! 
 
 <!--  This code is copy pasted from YouTube.  You can adjust the height to look better.  -->
 
@@ -87,7 +99,13 @@ Oh yes! Data are my daily companion. But the challenges are everywhere, starting
 
 We really would need more time to talk :)! 
 
-Find more of about Marie and her work on [instagram](https://www.instagram.com/mariedelamontagne/?hl=en) or her [website](https://mariedelamontagne.com/)
+## More about Marie de la Montagne
+
+Find more of about Marie and her work on [instagram](https://www.instagram.com/mariedelamontagne/?hl=en) or her [website](https://mariedelamontagne.com/) and make sure to check out her music:
 
 <!--  This code is copy pasted from Spotify.  You can adjust the height to look better.  -->
 <iframe src="https://open.spotify.com/embed?uri=spotify%3Aartist%3A0AGWpc8nl5NQNkvsz75rkF" width="700" height="433" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+## More about Listen Local
+
+*[Listen Local](https://dataandlyrics.com/tag/listen-local/) is developing transparent algorithms and open source solutions to find new audiences for independent music. We want to correct the injustice and inherent bias of market leading big data algorithms. If you want* `your music and audience` *to be analysed in Listen Local, fill* [this form](https://www.surveymonkey.com/r/ll_collector_2020) *in. We will include you in our demo application for local music recommendations..*
