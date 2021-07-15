@@ -62,3 +62,15 @@ A longer interview in Dutch: [Robin Kester: ‘Ik ben niet dat meisje met die gi
 [Robin Kester official website](https://showcase.fm/robinkester)
 
 *This is not a democracy* is a line from the closing song *Empty Head*.
+
+## Other artists 
+
+- [Youniverse](https://dataandlyrics.com/post/2020-11-30-youniverse/)
+- [Duka Base](https://dataandlyrics.com/post/2020-10-28-duka-mission/)
+- [Katarzia](https://dataandlyrics.com/post/2020-11-25-katarzia/)
+- [Twentees](https://dataandlyrics.com/post/2020-11-18-where-they-understand-us/)
+- [Willemijn de Krey](https://dataandlyrics.com/post/2021-04-04-wdekrey/)
+- [Marie de la Montagne](https://dataandlyrics.com/post/2021-07-15-marie_de_la_montagne/)
+
+And a label:
+- [Tiny Rooms](https://dataandlyrics.com/post/2020-12-14-tinyrooms/)

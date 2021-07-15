@@ -108,7 +108,18 @@ We really would need more time to talk :)!
 Find more of about Marie and her work on [instagram](https://www.instagram.com/mariedelamontagne/?hl=en) or her [website](https://mariedelamontagne.com/) and make sure to check out her music!
 
 
-
 ## More about Listen Local
 
-*[Listen Local](https://dataandlyrics.com/tag/listen-local/) is developing transparent algorithms and open source solutions to find new audiences for independent music. We want to correct the injustice and inherent bias of market leading big data algorithms. If you want* `your music and audience` *to be analysed in Listen Local, fill* [this form](https://www.surveymonkey.com/r/ll_collector_2020) *in. We will include you in our demo application for local music recommendations..*
+*[Listen Local](https://dataandlyrics.com/tag/listen-local/) is developing transparent algorithms and open source solutions to find new audiences for independent music. We want to correct the injustice and inherent bias of market leading big data algorithms. If you want* `your music and audience` *to be analysed in Listen Local, fill* [this form](https://www.surveymonkey.com/r/ll_collector_2020) *in. We will include you in our demo application for local music recommendations.*
+
+Other artists:
+
+- [Robin Kestner](https://dataandlyrics.com/post/2020-11-11-listen-local-robin-kester/)
+- [Duka Base](https://dataandlyrics.com/post/2020-10-28-duka-mission/)
+- [Katarzia](https://dataandlyrics.com/post/2020-11-25-katarzia/)
+- [Twentees](https://dataandlyrics.com/post/2020-11-18-where-they-understand-us/)
+- [Youniverse](https://dataandlyrics.com/post/2020-11-30-youniverse/)
+- [Willemijn de Krey](https://dataandlyrics.com/post/2021-04-04-wdekrey/)
+
+And a label:
+- [Tiny Rooms](https://dataandlyrics.com/post/2020-12-14-tinyrooms/)

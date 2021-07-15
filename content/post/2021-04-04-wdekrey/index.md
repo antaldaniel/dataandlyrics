@@ -100,3 +100,16 @@ Sure! Bring it on.
 {{< figure src="mio_cuore.jpg" caption="Willemijn de Krey: Mio Cuore">}}
 
 *If you read Medium, you can read [this](https://medium.com/data-lyrics/in-this-age-everyone-has-to-be-her-own-businesswoman-i-find-this-somewhat-ridiculous-1cfaa743ec73) and all our other stories on the premium blogging platform, too.*
+
+
+Other artists:
+
+- [Robin Kestner](https://dataandlyrics.com/post/2020-11-11-listen-local-robin-kester/)
+- [Duka Base](https://dataandlyrics.com/post/2020-10-28-duka-mission/)
+- [Katarzia](https://dataandlyrics.com/post/2020-11-25-katarzia/)
+- [Twentees](https://dataandlyrics.com/post/2020-11-18-where-they-understand-us/)
+- [Youniverse](https://dataandlyrics.com/post/2020-11-30-youniverse/)
+- [Marie de la Montagne](https://dataandlyrics.com/post/2021-07-15-marie_de_la_montagne/)
+
+And a label:
+- [Tiny Rooms](https://dataandlyrics.com/post/2020-12-14-tinyrooms/)

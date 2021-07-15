@@ -1,6 +1,6 @@
 +++
 title = "Duka’s Mission: Collaborate With Musicians From Every Country On Earth"
-
+subtitle = "Listen Local interviews"
 date = 2020-10-28T08:10:00+02:00
 lastmod = 2020-10-28T08:10:00+02:00
 draft = false
@@ -49,3 +49,17 @@ In spite of the global ambition, Duka does not make a living from creating music
 <iframe src="https://open.spotify.com/embed/album/1YX2VxJe0ecWwVvvdY19Jg" width="740" height="410" frameborder="0" allowtransparency="true" allow="encrypted-media">
 </iframe>
 </p>
+
+
+## Other artists
+
+- [Robin Kestner](https://dataandlyrics.com/post/2020-11-11-listen-local-robin-kester/)
+- [Katarzia](https://dataandlyrics.com/post/2020-11-25-katarzia/)
+- [Duka Base](https://dataandlyrics.com/post/2020-10-28-duka-mission/)
+- [Twentees](https://dataandlyrics.com/post/2020-11-18-where-they-understand-us/)
+- [Willemijn de Krey](https://dataandlyrics.com/post/2021-04-04-wdekrey/)
+- [Youniverse](https://dataandlyrics.com/post/2020-11-30-youniverse/)
+- [Marie de la Montagne](https://dataandlyrics.com/post/2021-07-15-marie_de_la_montagne/)
+
+And a label:
+- [Tiny Rooms](https://dataandlyrics.com/post/2020-12-14-tinyrooms/)

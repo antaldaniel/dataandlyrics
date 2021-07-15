@@ -54,3 +54,15 @@ Previous albums:
 
 
 *[Listen Local](https://dataandlyrics.com/tag/listen-local/) is developing transparent algorithms and open source solutions to find new audiences for independent music. We want to correct the injustice and inherent bias of market leading big data algorithms. If you want* `your music and audience` *to be analysed in Listen Local, fill* [this form](https://www.surveymonkey.com/r/ll_collector_2020) *in. We will include you in our demo application for local music recommendations and our analysis to be revealed in December.*
+
+
+## Other artists
+
+- [Robin Kestner](https://dataandlyrics.com/post/2020-11-11-listen-local-robin-kester/)
+- [Twentees](https://dataandlyrics.com/post/2020-11-18-where-they-understand-us/)
+- [Willemijn de Krey](https://dataandlyrics.com/post/2021-04-04-wdekrey/)
+- [Youniverse](https://dataandlyrics.com/post/2020-11-30-youniverse/)
+- [Marie de la Montagne](https://dataandlyrics.com/post/2021-07-15-marie_de_la_montagne/)
+
+And a label:
+- [Tiny Rooms](https://dataandlyrics.com/post/2020-12-14-tinyrooms/)
