@@ -44,6 +44,7 @@ That’s a great question, one that is hard to answer in my case since I am loca
 
 I consider myself a storyteller. My music is a space to communicate emotions about experiences we might not always talk about. I love performing live and I can see myself doing this anywhere, but mostly in Europe. I feel very close to all the countries I’ve lived in, so France and even the UK. I always build a small fanbase where I live, and then uproot again.
 
+<!--  This is the script to include a jpg or png file.  If it is large, it will be ready for zooming in. -->
 {{< figure src="/media/img/gems/Marie_de_la_Montagne_with_band.jpg" caption="Marie on stage" >}}
 
 
@@ -70,6 +71,8 @@ My other source of inspiration in music is in America. A lot of people might jud
 
 I can point you to a few artists that I met and find so inspiring. Definitely Amistat, a twin duo who have Czech roots, lived in Australia, and now live in Germany. We worked together for about two years, and I could listen to their song Love & Light on repeat. I also love Dirt Miller and Lauren Ruth Ward, both of whom I met in LA, and think are genius. Their songwriting, their social media artistry, and their vocals are mad! There are many artists in Prague who have their own approach to songwriting and I am a huge fan of Aiko’s. I love Bookie Baker, especially when they play live. Karel Havlíček who just released a neoclassical album Spoken is someone who inspires me so much with his understanding of being an artist. Out of the artists I met whilst I was in France - check out Jake Morley, Nyna Loren, Fionnuala McKenna, Rob Longstaff, The Pedestrians... so many great artists! Many of these artists came with us on tour which we filmed, so you can check out the videos we made online as well! 
 
+<!--  This code is copy pasted from YouTube.  You can adjust the height to look better.  -->
+
 <iframe width="700" height="395" src="https://www.youtube.com/embed/yATAUcdvLHY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
  
@@ -86,5 +89,5 @@ We really would need more time to talk :)!
 
 Find more of about Marie and her work on [instagram](https://www.instagram.com/mariedelamontagne/?hl=en) or her [website](https://mariedelamontagne.com/)
 
-
+<!--  This code is copy pasted from Spotify.  You can adjust the height to look better.  -->
 <iframe src="https://open.spotify.com/embed?uri=spotify%3Aartist%3A0AGWpc8nl5NQNkvsz75rkF" width="700" height="433" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
