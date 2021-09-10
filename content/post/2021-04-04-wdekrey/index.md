@@ -31,6 +31,12 @@ summary = "Willemijn de Krey is a Dutch painter, musician, and occasional filmma
 
 {{< figure src="willemijn.jpg" caption="Willemijn de Krey, photo by E. Dierckx" >}}
 
+*An update on on September 10, 2021. Willemijn's debute solo single was released today:*
+*Sing for Your Lover, Matt Watts: [Retrace.Yr Company.Shit](https://open.spotify.com/track/2aiqsH6ScCXmCSsnr8GD08?si=6af7cf4720814a86)*
+
+{{< figure src="sing_for_your_lover_debut.png" caption="Follow her on [instagram](https://www.instagram.com/singforyourlover/?hl=en) and [spotify](https://open.spotify.com/artist/1e2Pcs8Lj1fQe01ruhqzyD?si=yfAd3L99QD6xovz8gIAEfg&dl_branch=1)">}}
+
+
 **Our initiative, Listen Local, is trying to connect local audiences with locally relevant musicians. Where do you feel at home as a musician?**
 
 Feeling at home for me is not linked to a place, feeling at home for me has to do with connecting with people. That’s also what art is about, right? Touching people with what you do or make.
@@ -102,15 +108,6 @@ Sure! Bring it on.
 *If you read Medium, you can read [this](https://medium.com/data-lyrics/in-this-age-everyone-has-to-be-her-own-businesswoman-i-find-this-somewhat-ridiculous-1cfaa743ec73) and all our other stories on the premium blogging platform, too.*
 
 
-## Update
-
-Willemijn's debut solo single was released on September 10, 2021. 
-
-* Sing for Your Lover, Matt Watts: [Retrace.Yr Company.Shit](https://open.spotify.com/track/2aiqsH6ScCXmCSsnr8GD08?si=6af7cf4720814a86)
-
-{{< figure src="sing_for_your_lover_debut.png" caption="Follow her on [instagram](https://www.instagram.com/singforyourlover/?hl=en)">}}
-
-
 Other artists:
 
 - [Robin Kestner](https://dataandlyrics.com/post/2020-11-11-listen-local-robin-kester/)
@@ -122,3 +119,4 @@ Other artists:
 
 And a label:
 - [Tiny Rooms](https://dataandlyrics.com/post/2020-12-14-tinyrooms/)
+
