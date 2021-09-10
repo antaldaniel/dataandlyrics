@@ -102,7 +102,7 @@ Sure! Bring it on.
 *If you read Medium, you can read [this](https://medium.com/data-lyrics/in-this-age-everyone-has-to-be-her-own-businesswoman-i-find-this-somewhat-ridiculous-1cfaa743ec73) and all our other stories on the premium blogging platform, too.*
 
 
-**Update**
+## Update
 
 Willemijn's debut solo single was released on September 10, 2021. 
 
