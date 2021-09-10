@@ -31,8 +31,7 @@ summary = "Willemijn de Krey is a Dutch painter, musician, and occasional filmma
 
 {{< figure src="willemijn.jpg" caption="Willemijn de Krey, photo by E. Dierckx" >}}
 
-*An update on on September 10, 2021. Willemijn's debute solo single was released today:*
-*Sing for Your Lover, Matt Watts: [Retrace.Yr Company.Shit](https://open.spotify.com/track/2aiqsH6ScCXmCSsnr8GD08?si=6af7cf4720814a86)*
+*An update on on September 10, 2021. Willemijn's debute solo single was released today:* Sing for Your Lover, Matt Watts--*[Retrace.Yr Company.Shit](https://open.spotify.com/track/2aiqsH6ScCXmCSsnr8GD08?si=6af7cf4720814a86)*
 
 {{< figure src="sing_for_your_lover_debut.png" caption="Follow her on [instagram](https://www.instagram.com/singforyourlover/?hl=en) and [spotify](https://open.spotify.com/artist/1e2Pcs8Lj1fQe01ruhqzyD?si=yfAd3L99QD6xovz8gIAEfg&dl_branch=1)">}}
 
