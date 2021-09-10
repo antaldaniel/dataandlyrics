@@ -2,7 +2,7 @@
 title = "'In this Age Everyone Has to be Her Own Businesswoman, I Find this Somewhat Ridiculous'"
 subtitle = "Listen Local interview"
 date = 2021-04-04T09:00:00
-lastmod = 2021-04-04T09:00:00
+lastmod = 2021-09-10T13:52:00
 draft = false
 
 authors = ["Daniel Antal"]
@@ -100,6 +100,15 @@ Sure! Bring it on.
 {{< figure src="mio_cuore.jpg" caption="Willemijn de Krey: Mio Cuore">}}
 
 *If you read Medium, you can read [this](https://medium.com/data-lyrics/in-this-age-everyone-has-to-be-her-own-businesswoman-i-find-this-somewhat-ridiculous-1cfaa743ec73) and all our other stories on the premium blogging platform, too.*
+
+
+**Update**
+
+Willemijn's debut solo single was released on September 10, 2021. 
+
+* Sing for Your Lover, Matt Watts: [Retrace.Yr Company.Shit](https://open.spotify.com/track/2aiqsH6ScCXmCSsnr8GD08?si=6af7cf4720814a86)
+
+{{< figure src="sing_for_your_lover_debut.png" caption="Follow her on [instagram](https://www.instagram.com/singforyourlover/?hl=en)">}}
 
 
 Other artists:
