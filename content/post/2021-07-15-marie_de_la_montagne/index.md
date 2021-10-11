@@ -61,7 +61,7 @@ However, I am not performing much these days. I channeled all my passion for it 
 Yes, you could say this is the territory where I would like people to listen to my music. I released my songs which were recorded eight years after we wrote them. Spotify became more dominant in release strategy and I had very little understanding of how it worked, what to pay attention to and how much time goes into release planning. I just decided to put the songs up, and let them live their own life. Now that I know much more about digital, I want to be more intentional about the songs I put out and how I do it. I love visual expression, I love collaboration, and I feel that the spaces I choose to live in -- which I choose because they are beautiful -- play an important role in this. I want to tell the story of how everything lead to where I am now. I always figured it was important to highlight small artist locally and where they performed so that audiences could connect with them and follow them long after, so what you are doing is great. 
 
 <!--  This code is copy pasted from Spotify.  You can adjust the height to look better.  -->
-<iframe src="https://open.spotify.com/embed?uri=spotify%3Aartist%3A0AGWpc8nl5NQNkvsz75rkF" width="700" height="433" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/artist/7qkfyK1GehyVxF42lDhO5V" width="700" height="433" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 
 **Having moved around, what do you consider home, in a spiritual or physical sense?**
@@ -106,11 +106,6 @@ We really would need more time to talk :)!
 ## More about Marie de la Montagne
 
 Find more of about Marie and her work on [instagram](https://www.instagram.com/mariedelamontagne/?hl=en) or her [website](https://mariedelamontagne.com/) and make sure to check out her music!
-
-
-## More about Listen Local
-
-*[Listen Local](https://dataandlyrics.com/tag/listen-local/) is developing transparent algorithms and open source solutions to find new audiences for independent music. We want to correct the injustice and inherent bias of market leading big data algorithms. If you want* `your music and audience` *to be analysed in Listen Local, fill* [this form](https://www.surveymonkey.com/r/ll_collector_2020) *in. We will include you in our demo application for local music recommendations.*
 
 Other artists:
 
