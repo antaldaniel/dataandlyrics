@@ -1,8 +1,8 @@
 +++
 title = "We Are Looking for Partners in France"
 subtitle = "The Digital Music Observatory on the MaMA Festival & Convention"
-date = 2021-10-16T08:00:00
-lastmod = 2021-10-16T09:00:00
+date = 2021-10-14T08:00:00
+lastmod = 2021-10-14T09:00:00
 draft = false
 
 authors = ["daniel_antal"]
@@ -16,7 +16,7 @@ projects = [""]
 # Featured image
 [image]
   # Caption (optional)
-  caption = ""
+  caption = "Daniel's pitch - see excerpts below"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
