@@ -7,11 +7,11 @@ draft = false
 
 authors = ["Daniel Antal, CFA"]
 
-tags = ["Wales", "United-Kingdom", "Covid-19", "live-music", "music-industry"]
+tags = ["Wales", "United-Kingdom", "Covid-19", "live-music", "music industry"]
 
 summary = "In July 2020, Professor Paul Carr of University of South Wales was commissioned by the Welsh Parliament to create a report examining the music industries in Wales hit by Covid-19 in Wales. Many of his findings may be very interesting starting points for a discussion in other small nations."
 
-projects = ["music-observatory"]
+projects = ["Digital Music Observatory"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

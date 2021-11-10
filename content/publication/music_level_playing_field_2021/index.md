@@ -19,7 +19,7 @@ abstract_short = "Urgent consideration should be given to a user-centric payment
 featured = true
 
 # Projects (optional).
-projects = ["music-observatory"]
+projects = ["Digital Music Observatory"]
 
 # Slides (optional).
 #   `content/slides/example-slides.md`.
@@ -27,7 +27,7 @@ projects = ["music-observatory"]
 slides = ""
 
 # Tags (optional).
-tags = ["market-report", "music-streaming", "justice", "algorithms", "Spotify", "YouTube", "Deezer"]
+tags = ["market report", "music-streaming", "justice", "algorithms", "Spotify", "YouTube", "Deezer"]
 
 # Links (optional).
 url_pdf = ""

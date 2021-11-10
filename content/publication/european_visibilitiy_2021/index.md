@@ -19,7 +19,7 @@ abstract_short = "The lacking strategy to organize data and metadata in a multil
 featured = true
 
 # Projects (optional).
-projects = ["market-report"]
+projects = ["market report"]
 
 # Slides (optional).
 #   `content/slides/example-slides.md`.
@@ -27,7 +27,7 @@ projects = ["market-report"]
 slides = ""
 
 # Tags (optional).
-tags = ["market-report", "books", "libraries", "shadow libraries"]
+tags = ["market report", "books", "libraries", "shadow libraries"]
 
 # Links (optional).
 url_pdf = ""

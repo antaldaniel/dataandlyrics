@@ -11,7 +11,7 @@ tags = ["living standards", "musicinan", "career"]
 
 summary = "Career in music can lead to higher life satisfaction than other similarly paid jobs in Europe.  However, music market stakeholders should focus on increasing the level of music professional earnings and reducing its variance within the year and over the years, because the material living conditions of musicians is significantly worse than the conditions of the general population."
 
-projects = ["music-observatory"]
+projects = ["Digital Music Observatory"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

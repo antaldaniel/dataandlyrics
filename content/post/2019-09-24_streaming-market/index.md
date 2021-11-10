@@ -7,12 +7,12 @@ draft = false
 
 authors = ["Daniel Antal"]
 
-tags = ["hitlists", "Spotify","music-industry", "data-animation"]
+tags = ["hitlists", "Spotify","music industry", "data-animation"]
 
 summary = "Total national sales reflect the growing number of subscribers, the price, the exchange rate, and many factors that are not important for an artists or music label. Instead we design indexes that show the real growth for a typical domestic or foreign rightsholder in a country.  The aim is to provide useful sales and performance guidance for smaller countries, genres and exporting destinations."
 
 # Projects (optional).
-projects = ["market-report", "royalties"]
+projects = ["market report", "royalties"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

@@ -26,7 +26,7 @@ abstract_short = "Az első átfogó magyar zeneipari jelentés.  A három jöved
 selected = true
 
 # Projects (optional).
-projects = ["music-observatory"]
+projects = ["Digital Music Observatory"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -38,7 +38,7 @@ slides = ""
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["market-report", "Hungary", "music-industry"]
+tags = ["market report", "Hungary", "music industry"]
 
 # Links (optional).
 url_pdf = "http://www.zeneipar.info/letoltes/proart-zeneipari-jelentes-2015.pdf"

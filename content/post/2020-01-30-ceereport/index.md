@@ -7,11 +7,11 @@ draft = false
 
 authors = ["Daniel Antal, CFA"]
 
-tags = ["market-report", "music-industry", "CCI", "CEEMID", "opendata", "Armenia", "Austria", "Bulgaria", "Czechia", "Lithuania", "Hungary", "Slovakia", "Serbia", "music-observatory"]
+tags = ["market report", "music industry", "CCI", "CEEMID", "opendata", "Armenia", "Austria", "Bulgaria", "Czechia", "Lithuania", "Hungary", "Slovakia", "Serbia", "Digital Music Observatory"]
 
 summary = "The Central & Eastern European Music Industry Report 2020 was presented as a case-study on national and comparative evidence-based policymaking in the cultural and creative sector."
 
-projects = ["market-report", "music-export", "opendata"]
+projects = ["market report", "music-export", "opendata"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

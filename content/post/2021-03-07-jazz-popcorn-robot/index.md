@@ -11,7 +11,7 @@ tags = ["robots", "copyright", "future"]
 
 summary = "The Jazz Popcorn Robot is a performance without a performer, without composer and audience, but still music."
 
-projects = ["music-observatory"]
+projects = ["Digital Music Observatory"]
 
 # Featured image
 [image]

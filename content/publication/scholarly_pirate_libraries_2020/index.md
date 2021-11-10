@@ -19,7 +19,7 @@ abstract_short = "The paper analyzes a set of weblogs of one of the book piracy 
 featured = true
 
 # Projects (optional).
-projects = ["market-report"]
+projects = ["market report"]
 
 # Slides (optional).
 #   `content/slides/example-slides.md`.
@@ -27,7 +27,7 @@ projects = ["market-report"]
 slides = ""
 
 # Tags (optional).
-tags = ["market-report", "books", "libraries", "shadow libraries"]
+tags = ["market report", "books", "libraries", "shadow libraries"]
 
 # Links (optional).
 url_pdf = "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0242509&type=printable"

@@ -7,9 +7,9 @@ draft = false
 
 authors = ["Daniel Antal, CFA"]
 
-tags = ["music-industry", "CEEMID", "Czechia", "CEE", "value-gap", "market-report"]
+tags = ["music industry", "CEEMID", "Czechia", "CEE", "value-gap", "market report"]
 
-projects = ["grants", "music-observatory", "music-export"]
+projects = ["grants", "Digital Music Observatory", "music-export"]
 
 summary = "A Progress Report on the Czech Music Development Program and problems in an international context. We would like to invite any Czech stakeholders, or even individuals to join our Research Consortium, because in the music sector, all organization are microenterprise or small enterprise sized, they usually have no significant market research, innovation and strategic HR management capacities. We hope to give them in each country useful tools."
 
@@ -19,7 +19,7 @@ summary = "A Progress Report on the Czech Music Development Program and problems
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-# projects = ["market-report"]
+# projects = ["market report"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

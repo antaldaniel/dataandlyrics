@@ -7,11 +7,11 @@ draft = false
 
 authors = ["Daniel Antal"]
 
-tags = ["pricing", "emerging-markets", "cee", "music-industry"]
+tags = ["pricing", "emerging-markets", "cee", "music industry"]
 
 summary = "I presented my market view and experience with distinguished colleagues from the Baltic states, Central Europe and the Balkan, representatives of WIN and IFPI and the international indie distributor State 51. We had a lively discussion on why emerging markets are emerging so slowly in the new digital music business."
 
-# projects = ["market-report", "royalties", "pricing"]
+# projects = ["market report", "royalties", "pricing"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

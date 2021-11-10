@@ -10,7 +10,7 @@ tags = ["cisac", "pricing", "private-copying", "pcr", "restaurants", "hedonic-pr
 
 summary = "My short presentation highlighted the fact that the CEE region’s is much richer in terms of household cultural and recreational spending than music publishers believe."
 
-projects = ["music-observatory"]
+projects = ["Digital Music Observatory"]
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

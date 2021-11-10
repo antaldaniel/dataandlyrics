@@ -7,14 +7,14 @@ draft = false
 
 authors = ["Daniel Antal"]
 
-tags = ["hitlists", "Spotify", "music-export", "data-animation", "music-observatory", "listen-local"]
+tags = ["hitlists", "Spotify", "music-export", "data-animation", "Digital Music Observatory", "listen-local"]
 
-projects = ["listen-local", "music-observatory", "music-export"]
+projects = ["listen-local", "Digital Music Observatory", "music-export"]
 
 summary = "Which are the European countries that can successfully export songs on a streaming platform? What are the differences in cross-border hits from the UK, France, Germany, the Netherlands and Sweden?"
 
 # Projects (optional).
-# projects = ["market-report", "royalties"]
+# projects = ["market report", "royalties"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

@@ -9,14 +9,14 @@ draft = false
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Daniel Antal"]
 
-tags = ["music-industry", "CEEMID", "market-report", "software", "audiovisual"]
+tags = ["music industry", "CEEMID", "market report", "software", "audiovisual"]
 
 summary = "In Europe, there is a big difference between the use of electronic entertainment devices in richer and poorer countries. Nevertheless, the real difference is between the number of people who sometimes and who never pay for downloaded music, films and software."
 
 
 # Projects (optional).
 
-projects = ["market-report", "ceemid"]
+projects = ["market report", "CEEMID"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

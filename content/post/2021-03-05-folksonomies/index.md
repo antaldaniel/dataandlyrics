@@ -7,7 +7,7 @@ draft = false
 
 authors = ["Botond Vitos"]
 
-tags = ["listen-local", "music-observatory", "library", "Bandcamp", "clustering", "musicology"]
+tags = ["listen-local", "Digital Music Observatory", "library", "Bandcamp", "clustering", "musicology"]
 
 summary = "As a cultural anthropologist, I have been involved in the study of alternative electronic dance music communities and event-based cultures. The Bandcamp Dance Librarian project grew out of this work. It uses the industry taxonomy of Beatport in an attempt to detect stylistic tendencies or repertoires within the Bandcamp libraries of (mainly) grasroots labels. The project output also show the tags (folksonomies) added by the artists/labels to the Bandcamp pages. It is therefore possible to compare the industry taxonomy of Beatport with artist folksonomies, as long as such tags are provided on Bandcamp, and eventually create a searchable system in this kaleidoscopic musical landscape, which can be especially useful for newcomer researchers, promoters, music exporters."
 

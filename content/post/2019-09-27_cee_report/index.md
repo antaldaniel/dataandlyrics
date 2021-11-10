@@ -7,12 +7,12 @@ draft = false
 
 authors = ["Daniel Antal, CFA"]
 
-tags = ["CEE", "CEEMID", "music-industry"]
+tags = ["CEE", "CEEMID", "music industry"]
 
 summary = "We had the first public and panel discussion of the forthcoming Central European Music Industry Report.  After mapping and analysing in depth the music industries of several CEE countries, I put together with the help of Consolidated Independent and state51 a regional report in previously unseen detail."
 
 # Projects (optional).
-projects = ["grants", "music-observatory", "music-export"]
+projects = ["grants", "Digital Music Observatory", "music-export"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

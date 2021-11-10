@@ -7,9 +7,9 @@ draft = false
 
 authors = ["Daniel Antal"]
 
-tags = ["reproducible-science", "reproducible-research", "music-observatory"]
+tags = ["reproducible-science", "reproducible research", "Digital Music Observatory"]
 
-projects = ["music-observatory"]
+projects = ["Digital Music Observatory"]
 
 summary = "The article utilizes the our reproducible datasets created with our regions package that provides to provides high quality indicators for the creative industries on provincial, state, regional and metropolitan area level, and builds on many years of expertise in empirical research on the field of music and audiovisual piracy, home copying and private copying compensation."
 

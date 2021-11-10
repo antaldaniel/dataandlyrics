@@ -12,7 +12,7 @@ tags = ["reprex", "justice", "algorithms", "big-data",
 
 summary = "At last, Reprex has its own company website, leaving the two flagship project sites, the Demo Music Observatory and the Listen Local separate.   We are back to blogging after a particularly difficult lockdown period."
 
-projects = ["listen-local", "music-observatory"]
+projects = ["listen-local", "Digital Music Observatory"]
 
 # Featured image
 [image]

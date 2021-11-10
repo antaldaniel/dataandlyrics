@@ -11,7 +11,7 @@ tags = ["music-economy", "royalties", "value-gap", "recommendations", "machine-l
 
 summary = "The problem of the music industry is not too little, but too much data. Music is drowning in numbers, and it has too little resources to turn much data into valuable information. We have shown that we open collaboration is the key to success."
 
-projects = ["music-observatory"]
+projects = ["Digital Music Observatory"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

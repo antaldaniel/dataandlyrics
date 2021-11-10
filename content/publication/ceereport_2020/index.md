@@ -19,9 +19,9 @@ abstract_short = "The results of the first Hungarian, Slovak, Croatian and Czech
 featured = true
 
 # Projects (optional).
-projects = ["music-observatory"]
+projects = ["Digital Music Observatory"]
 
-tags = ["market-report", "music-industry", "Armenia", "Austria", "Bulgaria", "Czechia", "Lithuania", "Hungary", "Slovakia", "Serbia"]
+tags = ["market report", "music industry", "Armenia", "Austria", "Bulgaria", "Czechia", "Lithuania", "Hungary", "Slovakia", "Serbia"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

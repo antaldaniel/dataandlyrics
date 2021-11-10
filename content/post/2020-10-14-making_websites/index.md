@@ -11,7 +11,7 @@ tags = ["royalties", "collective-management", "web-technology", "Netherlands"]
 
 summary = "I often find myself in a crossfire between artists and managers who want more transparency and innovation and collective management societies that see themselves as the last stable pillar for music composers, producers and performers to collect their royalties."
 
-projects = ["listen-local", "music-observatory"]
+projects = ["listen-local", "Digital Music Observatory"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

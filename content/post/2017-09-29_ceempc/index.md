@@ -8,7 +8,7 @@ draft = false
 
 authors = ["Daniel Antal"]
 
-tags = ["value-gap", "market-report", "ceemid", "music-publishing"]
+tags = ["value-gap", "market report", "CEEMID", "music-publishing"]
 
 summary = "CEEMID had the honor to participate in the third panel of CEEMP in Warsaw together with Ben McEwen from ICE; Jules Parker from Spotify and Dominic Houston from Netflix, and Chris Butler from Music Sales, who is also the chairperson of ICMP. Our panel was moderated by Nigel Elderton from peermusic, who is also the new chairperson of PRS in the UK."
 
@@ -18,7 +18,7 @@ summary = "CEEMID had the honor to participate in the third panel of CEEMP in Wa
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-# projects = ["market-report"]
+# projects = ["market report"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

@@ -7,9 +7,9 @@ draft = false
 
 authors = ["Daniel Antal, CFA"]
 
-tags = ["CEEMID", "open-data", "music-demand", "music-observatory"]
+tags = ["CEEMID", "open-data", "music-demand", "Digital Music Observatory"]
 
-projects = ["music-observatory"]
+projects = ["Digital Music Observatory"]
 
 categories = ["rbloggers"]
 

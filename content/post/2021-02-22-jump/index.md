@@ -7,7 +7,7 @@ draft = false
 
 authors = ["Daniel Antal"]
 
-tags = ["listen-local", "music-observatory", "JUMP", "EU"]
+tags = ["listen-local", "Digital Music Observatory", "JUMP", "EU"]
 
 summary = "Daniel Antal, co-founder of Reprex, was selected into 2021 Fellowship program of JUMP, the European Music Market Accelerator. Jump provides a framework for music professionals to develop innovative business models, encouraging the music sector to work on a transnational level.  The European Music Market Accelerator composed of MaMA Festival and Convention, UnConvention, MIL, Athens Music Week, Nouvelle Prague and Linecheck support him in the development of our two, interrelated projects over the next nine months."
 

@@ -11,7 +11,7 @@ tags = ["musicology", "recommendations", "machine-learning", "playlist", "listen
 
 summary = "Forgetify is an application that is “recommending” you songs that have never been played on Spotify - not even by their families, friends or foes. When you design a recommendation engine for an artist or a label, you want to avoid that their songs ever arrive to Forgetify."
 
-projects = ["listen-local", "music-observatory"]
+projects = ["listen-local", "Digital Music Observatory"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

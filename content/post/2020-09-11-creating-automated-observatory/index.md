@@ -7,7 +7,7 @@ draft = false
 
 authors = ["Daniel Antal", "Sandor Budai", "Line Matson", "Moon Moon Moon"]
 
-tags = ["R", "open-data", "reproducible", "music-observatory"]
+tags = ["R", "open-data", "reproducible", "Digital Music Observatory"]
 
 summary = "The making of an automated and reproducible data tool for the music industry. A short video and a brief explanation."
 

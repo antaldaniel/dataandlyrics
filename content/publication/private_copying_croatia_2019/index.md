@@ -19,7 +19,7 @@ abstract_short = "The first measurement of licensed use of music, audiovisual co
 featured = true
 
 # Projects (optional).
-projects = ["music-observatory"]
+projects = ["Digital Music Observatory"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -30,7 +30,7 @@ projects = ["music-observatory"]
 slides = ""
 
 # Tags (optional).
-tags = ["market-report", "Croatia", "private-copying", "PCR", "value-gap"]
+tags = ["market report", "Croatia", "private-copying", "PCR", "value-gap"]
 
 # Links (optional).
 url_pdf = "https://www.zamp.hr/uploads/documents/Studija_privatno_kopiranje_u_Hrvatskoj_DA_CEEMID.pdf"

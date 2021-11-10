@@ -7,11 +7,11 @@ draft = false
 
 authors = ["Daniel Antal"]
 
-tags = ["Wales", "United-Kingdom", "music-industry", "music-report"]
+tags = ["Wales", "United-Kingdom", "music industry", "music-report"]
 
 summary = "Next week we will introduce a music industry report from Wales. The country is a sub-national part of the United Kingdom from a statistical point view. Making evidence-based policy or market analysis is as challenging as in emerging markets where government statistical services are weak. And the parallels do not stop here."
 
-projects = ["music-observatory"]
+projects = ["Digital Music Observatory"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

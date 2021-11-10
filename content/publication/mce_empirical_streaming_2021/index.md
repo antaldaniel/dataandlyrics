@@ -21,7 +21,7 @@ featured = true
 # Projects (optional).
 projects = ["music-reports"]
 
-tags = ["market-report", "music-industry", "United Kingdom", "music-streaming", "equitable remuneration"]
+tags = ["market report", "music industry", "United Kingdom", "music-streaming", "equitable remuneration"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

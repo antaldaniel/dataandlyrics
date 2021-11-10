@@ -7,11 +7,11 @@ draft = false
 
 authors = ["Daniel Antal"]
 
-tags = ["listen-local", "music-observatory", "competition", "music-streaming", "UCPS"]
+tags = ["listen-local", "Digital Music Observatory", "competition", "music-streaming", "UCPS"]
 
 summary = "According to the written evidence submitted by Dr. Franco Mariuzzo and Dr. Peter Ormosi to the Economics of music streaming inquiry of the UK Parliament, Digital, Culture, Media, and Sports Committee, the answer is no."
 
-projects = ["listen-local", "music-observatory"]
+projects = ["listen-local", "Digital Music Observatory"]
 
 # Featured image
 [image]

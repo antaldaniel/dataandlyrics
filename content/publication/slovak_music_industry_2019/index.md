@@ -19,7 +19,7 @@ abstract_short = "Slovakia's first music industry report. Following the three in
 featured = true
 
 # Projects (optional).
-projects = ["music-observatory"]
+projects = ["Digital Music Observatory"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -30,7 +30,7 @@ projects = ["music-observatory"]
 slides = ""
 
 # Tags (optional).
-tags = ["market-report", "Slovakia", "music-industry", "VAT", "advocacy", "regulation", "CCS"]
+tags = ["market report", "Slovakia", "music industry", "VAT", "advocacy", "regulation", "CCS"]
 
 # Links (optional).
 url_pdf = "http://www.soza.sk/cms/content/files/Sprava_o_slovenskom_hudobnom_priemysle_marec2019.pdf"

@@ -7,14 +7,14 @@ draft = false
 
 authors = ["Daniel Antal"]
 
-tags = ["market-report", "surveys", "CEEMID", "music-industry"]
+tags = ["market report", "surveys", "CEEMID", "music industry"]
 
 summary = "In our survey, we ask musicians about the most important milestones of their career and their achievement in the past 12 month. So far we have surveyed more than 2000 music professionals and 900 film production professionals in Croatia, Hungary and Slovakia."
 
 # Projects (optional).
 #   Otherwise, set `projects = []`.
 
-projects = ["music-observatory", "grants"]
+projects = ["Digital Music Observatory", "grants"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

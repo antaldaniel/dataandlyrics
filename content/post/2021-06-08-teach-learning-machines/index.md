@@ -7,9 +7,9 @@ draft = false
 
 authors = ["Daniel Antal"]
 
-project = ["listen-local", "music-observatory"]
+project = ["listen-local", "Digital Music Observatory"]
 
-tags = ["algorithms", "music-observatory", "trustworthy-ai", "recommendations", "listen-local"]
+tags = ["algorithms", "Digital Music Observatory", "trustworthy-ai", "recommendations", "listen-local"]
 
 summary = "We do care what our children learn, but we do not care yet about what our robots learn from.  One key idea behind trustworthy AI is that you verify what data sources your machine learning algorithms can learn from.  As we have emphasised in our forthcoming academic paper and in our experiments, one key problem that goes wrong when you see too few small country artists, or too few womxn in the charts is that the big tech recommendation systems and other autonomous systems are learning from historically biased or patchy data."
 

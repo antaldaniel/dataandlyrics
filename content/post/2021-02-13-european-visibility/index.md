@@ -7,9 +7,9 @@ draft = false
 
 authors = ["Daniel Antal"]
 
-tags = ["listen-local", "trustworthy-ai", "music-observatory", "metadata", "copyright"]
+tags = ["listen-local", "trustworthy-ai", "Digital Music Observatory", "metadata", "copyright"]
 
-projects = ["music-observatory", "listen-local"]
+projects = ["Digital Music Observatory", "listen-local"]
 
 summary = "While the US have already taken steps to provide an integrated data space for music as of 1 January 2021, the EU is facing major obstacles not only in the field of music but also in other creative industry sectors. Weighing costs and benefits, there can be little doubt that new data improvement initiatives and sufficient investment in a better copyright data infrastructure should play a central role in EU copyright policy. Preprint of our article with copyright researchers."
 

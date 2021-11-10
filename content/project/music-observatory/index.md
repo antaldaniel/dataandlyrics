@@ -9,7 +9,7 @@ date = 2020-08-26T08:00:00
 summary = "Collaborative reproducible research in the music industry"
 
 # Tags: can be used for filtering projects.
-tags = ["ceemid", "surveys", "music-industry", "music-observatory", "reproducible-research"]
+tags = ["CEEMID", "surveys", "music industry", "Digital Music Observatory", "reproducible research"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

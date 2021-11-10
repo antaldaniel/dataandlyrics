@@ -7,11 +7,11 @@ draft = false
 
 authors = ["Daniel Antal, CFA"]
 
-tags = ["recommendations", "charts", "Spotify", "datasets", "music-observatory"]
+tags = ["recommendations", "charts", "Spotify", "datasets", "Digital Music Observatory"]
 
 summary = "Our Demo Music Observatory started the release of the national markets shares on Spotify’s National Top 50 years with 15 months of history in a few select European countries. In some countries, the market share of locally produced music remains critically low, or decreasing, but there are notable exceptions.  Getting on the top of the US market is becoming more difficult from the rest of the world."
 
-projects = ["music-observatory", "listen-local", "music-export"]
+projects = ["Digital Music Observatory", "listen-local", "music-export"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

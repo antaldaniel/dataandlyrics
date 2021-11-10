@@ -7,9 +7,9 @@ draft = false
 
 authors = ["Daniel Antal"]
 
-project = ["listen-local", "music-observatory"]
+project = ["listen-local", "Digital Music Observatory"]
 
-tags = ["algorithms", "music-observatory", "trustworthy-ai", "recommendations", "listen-local", "Spotify", "R"]
+tags = ["algorithms", "Digital Music Observatory", "trustworthy-ai", "recommendations", "listen-local", "Spotify", "R"]
 
 summary = "After a very thorough modernization of the package’s exception handling, documentation, and code dependencies that I did in the last week, the spotifyr package has passed again the peer-review standards and it is back on CRAN. The package is an excellent starting to point for R newbies to try their hands on musicology analysis with a few keystrokes. And of course, it is an essential part of the research infrastructure of musicology worldwide in far more advanced applications."
 
