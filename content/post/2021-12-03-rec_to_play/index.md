@@ -55,9 +55,10 @@ I would to. I'm currently working on the first Open Studio Session Tour in Franc
 
 ## Links
 
-[Jeremy Dunne - JUMP Fellow 2021](https://www.jumpmusic.eu/fellow2021/from-play-to-rec/)
-[Facebook: From Play to Rec](https://www.facebook.com/fromplaytorec/)
-[JUMP European Music Market Accelerator](https://www.jumpmusic.eu/)
-[YouTube Channel for From Play to Rec](https://www.youtube.com/channel/UCXfVktlh39wCfXmD6qwfZIQ)
-[Suzanne Belaubre](https://www.suzannebelaubre.com/)
+- [Suzanne Belaubre](https://www.suzannebelaubre.com/)
+- [Jeremy Dunne - JUMP Fellow 2021](https://www.jumpmusic.eu/fellow2021/from-play-to-rec/)
+- [Facebook: From Play to Rec](https://www.facebook.com/fromplaytorec/)
+- [YouTube Channel for From Play to Rec](https://www.youtube.com/channel/UCXfVktlh39wCfXmD6qwfZIQ)
+- [JUMP European Music Market Accelerator](https://www.jumpmusic.eu/)
+
 
