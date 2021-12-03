@@ -29,7 +29,7 @@ summary = "Jeremy Dunne is the founder of the French Open Studio Sessions, which
 
 It's actually the first time we made an *Open Studio Session* in a record shop. And it felt very natural. Record shops are a very important place for me I'm trying to build one, dedicated to independent artists and record labels, in Toulouse, where I live. So, it means a lot to me, that we made this Open Studio Session with *Suzanne Belaubre* in *The Walrus Record* shop. The most inspiring record shop I have seen are in London. The one from Erased Tapes, is very small but very special to me. 
 
-<iframe width="660" height="315" src="https://www.youtube.com/embed/AVLMiUscHDc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="770" height="394" src="https://www.youtube.com/embed/AVLMiUscHDc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *The other thing I liked a lot about your project is that it brings the attention to the importance of localities, that music ecosystems are usually small geographies. Not all artists have a global fanbase, or can go on an international tour, even if there is no pandemic. How do your project fit into local ecosystems?*
 
