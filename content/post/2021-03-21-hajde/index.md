@@ -7,7 +7,7 @@ draft = false
 
 authors = ["Daniel Antal"]
 
-tags = ["Hajde", "France", "Skopje", "North-Macedonia", "festivals"]
+tags = ["Hajde", "France", "Skopje", "North Macedonia", "festivals", "JUMP Europen Music Market Accelerator"]
 
 summary = "HAJDE is a digital platform specializing in eco-responsible and cultural tourism in Eastern Europe. Its founder, Thibaut Boudaud, is developing his project alongside our music observatory in the JUMP European Music Market Accelerator."
 

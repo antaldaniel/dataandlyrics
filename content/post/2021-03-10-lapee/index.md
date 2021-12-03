@@ -7,7 +7,7 @@ draft = false
 
 authors = ["Daniel Antal"]
 
-tags = ["feminism", "live-music", "future", "JUMP", "Denmark", "Copenhagen", "startup"]
+tags = ["feminism", "live music", "future", "JUMP Europen Music Market Accelerator", "Denmark", "Copenhagen", "startup"]
 
 summary = "Gina Périer is a fellow in the JUMP European Music Market Accelerator. She is an architect trying to solve a serious problem before music festivals reopen after the pandemic: many, many women, all in one place… who need to pee."
 

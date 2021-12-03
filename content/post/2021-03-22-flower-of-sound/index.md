@@ -7,7 +7,7 @@ draft = false
 
 authors = ["Daniel Antal", "Emily Hansell Clark"]
 
-tags = ["Amersfoort", "Milano", "music-therapy", "sound-design", "startup", "JUMP"]
+tags = ["Amersfoort", "Milano", "music therapy", "sound design", "startup", "JUMP Europen Music Market Accelerator"]
 
 summary = "Flower of Sound invites you to become more calm, inspired, energized or focused. Let the stress flow away and elevate your own frequency. Claudio is a fellow in the JUMP European Music Accelerator Program with a particularly interesting Milano and Amersfoort based startup, Flower of Sound."
 
