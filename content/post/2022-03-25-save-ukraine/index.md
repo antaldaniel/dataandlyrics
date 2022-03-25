@@ -25,7 +25,7 @@ summary = "An international charity concert-marathon in support of Ukraine Save 
 
 +++
 
-<td style="text-align: center;">{{< figure src="/img/blogposts_2022/save_ukraine_2022_03_27.png" caption="" numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/img/blogposts_2022/save_ukraine_2022_03_27.png" caption="Please follow our Music Export Ukraine colleauges on [Instagram](https://www.instagram.com/musicexportukraine/) and on [Facebook](https://www.facebook.com/fromplaytorec/)." numbered="false" >}}</td>
 
 An international charity concert-marathon in support of Ukraine Save Ukraine - #StopWar takes place on Sunday, March 27, in Warsaw at 5:30 p.m. CET (6:30 p.m. Kyiv).
 
@@ -39,7 +39,7 @@ Such international stars as FatboySlim, Within Temptation, Bastille, Submotion O
 
 Ukraine will be presented by more than 20 artists, such as Monatik, Tina Karol, The HARDKISS, Okean Elzy, Jamala, Go_A, DakhaBrakha, Odyn v kanoe, alyona alyona, Melovin, Artem Pivovarov, Alina Pash, Antytila, Piano??????, Kadnay, Latexfauna, Dakh Daughters, TVORCHI, NK and others.
 
-Please follow our Ukrainian colleauges on [Music Export Ukraine on Instagram](https://www.instagram.com/musicexportukraine/) and on [Music Export Ukraine on Facebook](https://www.facebook.com/fromplaytorec/).
+Please follow our Music Export Ukraine colleauges on [Instagram](https://www.instagram.com/musicexportukraine/) and on [Facebook](https://www.facebook.com/fromplaytorec/).
 
 
 ## Links
