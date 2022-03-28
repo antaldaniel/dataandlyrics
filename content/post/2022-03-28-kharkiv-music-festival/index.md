@@ -1,8 +1,8 @@
 +++
 title = "KharkivMusicFest in 2022: Concert Between Explosions"
 subtitle = "The Russian military invasion and the siege changed the program of the KharkivMusicFest in 2022 but did not cancel the festival."
-date = 2022-03-28T11:00:00
-lastmod = 2022-03-28T11:00:00
+date = 2022-03-28T12:00:00+01:00
+lastmod = 2022-03-28T12:00:00+01:00
 draft = false
 
 authors = ["Daniel Antal"]
@@ -41,7 +41,7 @@ The KharkivMusicFest in 2022 takes place on the metro station _Historical Museum
 
 <td style="text-align: center;">{{< figure src="/img/blogposts_2022/kharkivmusicfest_ensemble_20220326.jpg" caption="Olga Pyshchyta (violin), Stanislav Kucherenko (violin), Tetyana Zhuk (viola),  Denis Karachevtsev (cello)  and Serhiy Dikarev (double bass) --- please check out the pictures of the uplifiting concert on the [KharkivMusicFest](https://www.instagram.com/p/Cbmm7YftKiY/?utm_source=ig_web_copy_link) Instagram gallery." numbered="false" >}}</td>
 
-"In spite of the difficult times for our city, under the explosions and the roar of cannonade, KharkivMusicFest remains with the people of Kharkiv. The war has been going on for a month and all possible words of support for Kharkiv residents have been said many times. But the language of music is multifaceted, it will surely find its way to the heart of each of us--- to support, motivate, inspire or soothe. And the main thing is that in spite of everything in the destroyed by bombs and shells, but unconquered Kharkiv, classical music will still be heard, “ says Maria Gorbonos, executive director of the festival.
+"In spite of the difficult times for our city, under the explosions and the roar of cannonade, KharkivMusicFest remains with the people of Kharkiv. The war has been going on for a month and all possible words of support for Kharkiv residents have been said many times. But the language of music is multifaceted, it will surely find its way to the heart of each of us--- to support, motivate, inspire or soothe. And the main thing is that in spite of everything in the destroyed by bombs and shells, but unconquered Kharkiv, classical music will still be heard," --- says Maria Gorbonos, executive director of the festival.
 
 <!--  This code is copy pasted from YouTube.  You can adjust the height to look better.  -->
 
@@ -54,6 +54,5 @@ The festival [will continue](https://kharkivmusicfest.com/programa/) with 5 more
 - [KharkivMusicFest on Facebook](https://www.facebook.com/kharkivmusicfest/)
 
 - [KharkivMusicFest on YouTube](https://www.youtube.com/channel/UCSq0ste-jQquA6eMdFKuMjQ/)
-
 
 Please also follow our Music Export Ukraine colleauges on [Instagram](https://www.instagram.com/musicexportukraine/) and on [Facebook](https://www.facebook.com/fromplaytorec/).
