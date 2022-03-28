@@ -1,8 +1,8 @@
 +++
 title = "KharkivMusicFest in 2022: Concert Between Explosions"
 subtitle = "The Russian military invasion and the siege changed the program of the KharkivMusicFest in 2022 but did not cancel the festival."
-date = 2022-03-28T12:00:00+01:00
-lastmod = 2022-03-28T12:00:00+01:00
+date = 2022-03-28T11:00:00+01:00
+lastmod = 2022-03-28T11:00:00+01:00
 draft = false
 
 authors = ["Daniel Antal"]
