@@ -16,7 +16,7 @@ summary = "The Russian military invasion and the siege changed the program of th
 # Featured image
 [image]
   # Caption (optional)
-  caption = "Marie de la Montagne"
+  caption = "[KharkívMusicFest](https://kharkivmusicfest.com/en/)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
@@ -33,7 +33,7 @@ Please go ahead and extend it
 -->
 
 
-After the sieges of the World War II, Sarajevo, Europe has another horrible siege.  The Russian invading forces have surrounded Kharkiv, Ukraineâ€™s second largest city, the home in peacetime of 1.4 million people. In the city, KharkivMusicFest planned to present the 5th music festival. Concerts were to take place with the participation of a world-famous classical musicians who had had never given a concert in Ukraine before.  The Russian military invasion changed the program but did not cancel the festival.
+After the sieges of the World War II, Sarajevo, Europe has another horrible siege.  The Russian invading forces have surrounded Kharkiv, Ukraine's second largest city, the home in peacetime of 1.4 million people. In the city, KharkivMusicFest planned to present the 5th music festival. Concerts were to take place with the participation of a world-famous classical musicians who had had never given a concert in Ukraine before.  The Russian military invasion changed the program but did not cancel the festival.
 
 <iframe width="700" height="395" src="https://www.youtube.com/embed/6JN3yWqiyuk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -41,7 +41,7 @@ The KharkivMusicFest in 2022 takes place on the metro station _Historical Museum
 
 <td style="text-align: center;">{{< figure src="/img/blogposts_2022/kharkivmusicfest_ensemble_20220326.jpg" caption="Olga Pyshchyta (violin), Stanislav Kucherenko (violin), Tetyana Zhuk (viola),  Denis Karachevtsev (cello)  and Serhiy Dikarev (double bass) --- please check out the pictures of the uplifiting concert on the [KharkivMusicFest](https://www.instagram.com/p/Cbmm7YftKiY/?utm_source=ig_web_copy_link) Instagram gallery." numbered="false" >}}</td>
 
-"In spite of the difficult times for our city, under the explosions and the roar of cannonade, KharkivMusicFest remains with the people of Kharkiv. The war has been going on for a month and all possible words of support for Kharkiv residents have been said many times. But the language of music is multifaceted, it will surely find its way to the heart of each of us--- to support, motivate, inspire or soothe. And the main thing is that in spite of everything in the destroyed by bombs and shells, but unconquered Kharkiv, classical music will still be heard," --- says Maria Gorbonos, executive director of the festival.
+"In spite of the difficult times for our city, under the explosions and the roar of cannonade, KharkivMusicFest remains with the people of Kharkiv. The war has been going on for a month and all possible words of support for Kharkiv residents have been said many times. But the language of music is multifaceted, it will surely find its way to the heart of each of us---to support, motivate, inspire or soothe. And the main thing is that in spite of everything in the destroyed by bombs and shells, but unconquered Kharkiv, classical music will still be heard,"---says Maria Gorbonos, executive director of the festival.
 
 <!--  This code is copy pasted from YouTube.  You can adjust the height to look better.  -->
 
