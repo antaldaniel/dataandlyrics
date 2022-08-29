@@ -2,53 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>pcr | Data &amp; Lyrics</title>
-    <link>/tag/pcr/</link>
-      <atom:link href="/tag/pcr/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dataandlyrics.com/tag/pcr/</link>
+      <atom:link href="https://dataandlyrics.com/tag/pcr/index.xml" rel="self" type="application/rss+xml" />
     <description>pcr</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Thu, 31 Oct 2019 12:00:00 +0100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 31 Oct 2019 12:00:00 +0000</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>https://dataandlyrics.com/media/icon_hu5bfde8608118b47b475864b70fd224b4_21674_512x512_fill_lanczos_center_3.png</url>
       <title>pcr</title>
-      <link>/tag/pcr/</link>
+      <link>https://dataandlyrics.com/tag/pcr/</link>
     </image>
     
     <item>
       <title>Private Copying in Croatia</title>
-      <link>/post/2019-10-31-croatia_pcr/</link>
-      <pubDate>Thu, 31 Oct 2019 12:00:00 +0100</pubDate>
-      <guid>/post/2019-10-31-croatia_pcr/</guid>
+      <link>https://dataandlyrics.com/post/2019-10-31-croatia_pcr/</link>
+      <pubDate>Thu, 31 Oct 2019 12:00:00 +0000</pubDate>
+      <guid>https://dataandlyrics.com/post/2019-10-31-croatia_pcr/</guid>
       <description>&lt;p&gt;After much delay, the first measurement of licensed use of music, audiovisual content, home copying and value transfer to media platforms in Croatia for a practical update of the private copying remuneration in the country.&lt;/p&gt;
-&lt;p&gt;You can find the whole study in English, a Croatian language summary and a press release in the 
-&lt;a href=&#34;https://danielantal.eu/publication/private_copying_croatia_2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Publications&lt;/a&gt; section.&lt;/p&gt;
+&lt;p&gt;You can find the whole study in English, a Croatian language summary and a press release in the &lt;a href=&#34;https://danielantal.eu/publication/private_copying_croatia_2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Publications&lt;/a&gt; section.&lt;/p&gt;
 &lt;p&gt;The models presented are simplified models of the Hungarian and Slovak models, with less detailed data. However, they show clearly that in less developed markets, compensation for unlicensed use remains a key issue. Only a very small fraction of households pay for music and film, and creators, performers, film writers are massively undercompensated in the Croatia, Bulgaria, Romania, Poland or the Baltic states of the EU.&lt;/p&gt;
 &lt;p&gt;My study, Private Copying in Croatia, argues that the cultural and welfare benefits of this private copying regime are enormous and important to create a good quality of life in Croatia for all age groups, but especially for young people, and it must be maintained. Furthermore, it is very advantageous for the tech sector, because their products are mainly used with unlicensed music and film copies, given that only a very small portion of the population pays for downloads, or subscribes to services like Spotify, Deezer or Netflix.&lt;/p&gt;
 &lt;p&gt;Even for those who are not interested in royalties, the first 3 chapters offer a very interesting introduction on how people listen to music, how musicians make music and how people copy it in the 21st century.&lt;/p&gt;
-&lt;p&gt;This project was a continuation of the 
-&lt;a href=&#34;https://danielantal.eu/post/2016-04-20_makk15/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;mapping of the Croatian music sector&lt;/a&gt;. I have created more detailed valuation and use studies of private copying and YouTube in Hungary (2015, 2017, 2018, 2019) and currently preparing similar studies in other countries, including Slovakia, as a continuation of the work started with the 
-&lt;a href=&#34;https://danielantal.eu/publication/slovak_music_industry_2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slovak Music Industry Report&lt;/a&gt; and generally my home copying work started in 2012 with 
-&lt;a href=&#34;https://danielantal.eu/post/cisac_goodg_13/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Value added by music in public performance and home copying: economic theory and empirical applications for tariff setting&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This project was a continuation of the &lt;a href=&#34;https://danielantal.eu/post/2016-04-20_makk15/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;mapping of the Croatian music sector&lt;/a&gt;. I have created more detailed valuation and use studies of private copying and YouTube in Hungary (2015, 2017, 2018, 2019) and currently preparing similar studies in other countries, including Slovakia, as a continuation of the work started with the &lt;a href=&#34;https://danielantal.eu/publication/slovak_music_industry_2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slovak Music Industry Report&lt;/a&gt; and generally my home copying work started in 2012 with &lt;a href=&#34;https://danielantal.eu/post/cisac_goodg_13/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Value added by music in public performance and home copying: economic theory and empirical applications for tariff setting&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Private Copying in Croatia</title>
-      <link>/publication/private_copying_croatia_2019/</link>
-      <pubDate>Thu, 31 Oct 2019 12:00:00 +0100</pubDate>
-      <guid>/publication/private_copying_croatia_2019/</guid>
-      <description>&lt;p&gt;Press release: 
-&lt;a href=&#34;https://www.zamp.hr/clanak/pregled/2197/studija-naknade-za-privatno-kopiranje-btl-u-hrvatskoj-drasticno-ispod-prosjeka-eu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Studija: Naknade za privatno kopiranje (BTL) u Hrvatskoj drastično ispod prosjeka EU&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Short summary in Croatian: 
-&lt;a href=&#34;https://www.zamp.hr/uploads/documents/Saetak_studije_na_hrvatskom_jeziku.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Privatno kopiranje u Hrvatskoj&lt;/a&gt;
-Full text in English: 
-&lt;a href=&#34;https://www.zamp.hr/uploads/documents/Studija_privatno_kopiranje_u_Hrvatskoj_DA_CEEMID.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Private Copying in Croatia&lt;/a&gt;&lt;/p&gt;
+      <link>https://dataandlyrics.com/publication/private_copying_croatia_2019/</link>
+      <pubDate>Thu, 31 Oct 2019 12:00:00 +0000</pubDate>
+      <guid>https://dataandlyrics.com/publication/private_copying_croatia_2019/</guid>
+      <description>&lt;p&gt;Press release: &lt;a href=&#34;https://www.zamp.hr/clanak/pregled/2197/studija-naknade-za-privatno-kopiranje-btl-u-hrvatskoj-drasticno-ispod-prosjeka-eu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Studija: Naknade za privatno kopiranje (BTL) u Hrvatskoj drastično ispod prosjeka EU&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Short summary in Croatian: &lt;a href=&#34;https://www.zamp.hr/uploads/documents/Saetak_studije_na_hrvatskom_jeziku.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Privatno kopiranje u Hrvatskoj&lt;/a&gt;
+Full text in English: &lt;a href=&#34;https://www.zamp.hr/uploads/documents/Studija_privatno_kopiranje_u_Hrvatskoj_DA_CEEMID.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Private Copying in Croatia&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Value added by music in public performance and home copying: economic theory and empirical applications for tariff setting</title>
-      <link>/post/2013-11-18-cisac_good_governance/</link>
-      <pubDate>Mon, 18 Nov 2013 00:00:00 +0100</pubDate>
-      <guid>/post/2013-11-18-cisac_good_governance/</guid>
+      <link>https://dataandlyrics.com/post/2013-11-18-cisac_good_governance/</link>
+      <pubDate>Mon, 18 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>https://dataandlyrics.com/post/2013-11-18-cisac_good_governance/</guid>
       <description>&lt;p&gt;You can review the slides below.&lt;/p&gt;
 &lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/MPGDNcEefEU04I&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/antaldaniel/sgeur13-1037-dantal&#34; title=&#34;Value added by music in public performance and home copying: economic theory and empirical applications in tariff setting&#34; target=&#34;_blank&#34;&gt;Value added by music in public performance and home copying: economic theory and empirical applications in tariff setting&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;//www.slideshare.net/antaldaniel&#34; target=&#34;_blank&#34;&gt;Dániel Antal&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
 &lt;p&gt;&lt;strong&gt;Contents&lt;/strong&gt;:
@@ -77,8 +70,7 @@ Full text in English:
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;There is a lot more information on the slides.&lt;/p&gt;
-&lt;p&gt;Read more in the 
-&lt;a href=&#34;./usecase/&#34;&gt;Use cases&lt;/a&gt; of this website.&lt;/p&gt;
+&lt;p&gt;Read more in the &lt;a href=&#34;./usecase/&#34;&gt;Use cases&lt;/a&gt; of this website.&lt;/p&gt;
 </description>
     </item>
     

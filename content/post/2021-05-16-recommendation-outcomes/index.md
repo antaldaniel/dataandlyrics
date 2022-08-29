@@ -1,30 +1,30 @@
-+++
-title = "Recommendation Systems: What can Go Wrong with the Algorithm?"
-subtitle = "Effects on equitable remuneration, fair value, cultural and media policy goals"
-date = 2021-05-06T07:10:00
-lastmod = 2021-05-16T07:10:00
-draft = false
+---
+title: "Recommendation Systems: What can Go Wrong with the Algorithm?"
+subtitle: "Effects on equitable remuneration, fair value, cultural and media policy goals"
+date: 2021-05-06T07:10:00
+lastmod: 2021-05-16T07:10:00
+draft: false
 
-authors = ["Daniel Antal"]
+authors: ["Daniel Antal"]
 
-project = ["listen-local"]
+project: ["Listen local"]
 
-tags = ["algorithms", "Slovakia", "trustworthy-ai", "recommendations"]
+tags: ["algorithms", "Slovakia", "Trustworthy AI", "recommendations"]
 
-summary = "In complex systems there are hardly ever singular causes that explain undesired outcomes; in the case of algorithmic bias in music streaming, there is no single bullet that eliminates women from charts or makes Slovak or Estonian language content less valuable than that in English."
+summary: "In complex systems there are hardly ever singular causes that explain undesired outcomes; in the case of algorithmic bias in music streaming, there is no single bullet that eliminates women from charts or makes Slovak or Estonian language content less valuable than that in English."
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = "Copyright Data Improvement in the EU – Towards Better Visibility of European Content"
+  caption: "Copyright Data Improvement in the EU – Towards Better Visibility of European Content"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Top"
+  focal_point: "Top"
 
   # Show image only in page previews?
-  preview_only = false
-+++
+  preview_only: false
+---
 
 Traitors in a war used to be executed by firing squad, and it was a psychologically burdensome task for soldiers to have to shoot former comrades. When a 10-marksman squad fired 8 blank and 2 live ammunition, the traitor would be 100% dead, and the soldiers firing would walk away with a semblance of consolation in the fact they had an 80% chance of not having been the one that killed a former comrade. This is a textbook example of assigning responsibility and blame in systems. AI-driven systems such as the YouTube or Spotify recommendation systems, the shelf organization of Amazon books, or the workings of a stock photo agency come together through complex processes, and when they produce undesirable results, or, on the contrary, they improve life, it is difficult to assign blame or credit.
 

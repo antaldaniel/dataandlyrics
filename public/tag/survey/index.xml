@@ -2,28 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>survey | Data &amp; Lyrics</title>
-    <link>/tag/survey/</link>
-      <atom:link href="/tag/survey/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dataandlyrics.com/tag/survey/</link>
+      <atom:link href="https://dataandlyrics.com/tag/survey/index.xml" rel="self" type="application/rss+xml" />
     <description>survey</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Thu, 30 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>https://dataandlyrics.com/media/icon_hu5bfde8608118b47b475864b70fd224b4_21674_512x512_fill_lanczos_center_3.png</url>
       <title>survey</title>
-      <link>/tag/survey/</link>
+      <link>https://dataandlyrics.com/tag/survey/</link>
     </image>
     
     <item>
       <title>2020 Music Professionals Survey Wave</title>
-      <link>/post/2020-music-professional-survey-wave/</link>
+      <link>https://dataandlyrics.com/post/2020-music-professional-survey-wave/</link>
       <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/post/2020-music-professional-survey-wave/</guid>
+      <guid>https://dataandlyrics.com/post/2020-music-professional-survey-wave/</guid>
       <description>&lt;p&gt;CEEMID is conducing its 8th survey programme this among musicians, music professionals, and music managers. This is the largest empirical research program in the world about how people work and earn their living in the music industry.&lt;/p&gt;
 &lt;h2 id=&#34;why&#34;&gt;Why?&lt;/h2&gt;
 &lt;p&gt;We are teaming up with some music organizations and research universities to form a Music Observatory, which will support all participant countries musicians with free data for royalty calculation, advocacy at government, tour scheduling and tour planning.  This year we particularly focus on effective COVID19 relief measures, too.&lt;/p&gt;
-&lt;p&gt;See the results of last years&#39; results:
-
+&lt;p&gt;See the results of last years&amp;rsquo; results:
 &lt;a href=&#34;http://ceereport2020.ceemid.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Central European Music Industry Report 2020&lt;/a&gt; - free download in PDF, epub, or browse the html version.
-
 &lt;a href=&#34;post/2020-01-30-ceereport/&#34;&gt;CCS Ecosystems: Evidence-Driven CCI Policy &amp;amp; The Central &amp;amp; Eastern European Music Industry Report&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;what&#34;&gt;What?&lt;/h2&gt;
 &lt;p&gt;We are asking music organizations to send out our questionnaires to their members, and we ask musicians to forward our questionnaires to music technicians and managers, too. After the fieldwork is done, we are sending back statistically analysed data, reports to the participating countries, and assist local music organizations to make the best use of the data.&lt;/p&gt;

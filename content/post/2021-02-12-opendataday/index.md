@@ -1,26 +1,26 @@
-+++
-title = "Save The Date: Open Data Day 2021 on 6th March"
+---
+title: "Save The Date: Open Data Day 2021 on 6th March"
 
-date = 2021-02-03T09:16:00+02:00
-lastmod = 2021-02-03T09:16:00+02:00
-draft = false
+date: 2021-02-03T09:16:00+02:00
+lastmod: 2021-02-03T09:16:00+02:00
+draft: false
 
-authors = ["Daniel Antal"]
+authors: ["Daniel Antal"]
 
-tags = ["open-data", "OOD2021", "mapping", "sustainability"]
+tags: ["Open data", "OOD2021", "mapping", "Sustainability"]
 
-summary = "Open Data Day is an annual celebration of open data all over the world. It is an opportunity to show how open data can be used to connect different sources of information to generate new forms of knowledge. The availability of such data depends on encouraging the adoption of open data policies in government, business, and civil society. Reprex is a start-up that utilizes open data with open-source reproducible research. Please challenge us with your data requests and participate in our web events to show what open data can do for you."
+summary: "Open Data Day is an annual celebration of open data all over the world. It is an opportunity to show how open data can be used to connect different sources of information to generate new forms of knowledge. The availability of such data depends on encouraging the adoption of open data policies in government, business, and civil society. Reprex is a start-up that utilizes open data with open-source reproducible research. Please challenge us with your data requests and participate in our web events to show what open data can do for you."
 
-projects = ["Digital Music Observatory"]
+projects: ["Digital Music Observatory"]
 
-category = ["rbloggers"]
+category: ["rbloggers"]
 
 # Featured image
-[image]
-  caption = "Save the date: Open Data Day 2021 on 6th March"
-  focal_point = "Center"
-  preview_only = false
-+++
+image:
+  caption: "Save the date: Open Data Day 2021 on 6th March"
+  focal_point: "Center"
+  preview_only: false
+---
 
 Open data is not only a cheap resource for scientists or NGOs, but a serious business opportunity for the business sector, too. The European Union has been promoting the business reuse of data collected at the taxpayer’s expense since 2003 – and our team members have been involved since the beginning. This is a particularly good deal opportunity for small businesses and organizations that do not have a big data infrastructure or budget.
 
@@ -32,4 +32,4 @@ Who would think that you can use "raw inflation data components" to create *cult
 
 **Links**:
 - [Open Data Day](https://opendataday.org/)
-- [Our Event Page](https://reprex.nl/talk/open-data-day-2021/)  -- with more details about guests and topics every day
+- [Our Event Page](https://reprex.nl/talk/Open data-day-2021/)  -- with more details about guests and topics every day

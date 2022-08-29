@@ -1,33 +1,33 @@
-+++
-title = "Streaming Market Growth on European Markets"
+---
+title: "Streaming Market Growth on European Markets"
 
-date = 2019-09-23T19:00:00
-lastmod = 2019-09-23T19:00:00
-draft = false
+date: 2019-09-23T19:00:00
+lastmod: 2019-09-23T19:00:00
+draft: false
 
-authors = ["Daniel Antal"]
+authors: ["Daniel Antal"]
 
-tags = ["hitlists", "Spotify","music industry", "data-animation"]
+tags: ["hitlists", "Spotify","music industry", "data-animation"]
 
-summary = "Total national sales reflect the growing number of subscribers, the price, the exchange rate, and many factors that are not important for an artists or music label. Instead we design indexes that show the real growth for a typical domestic or foreign rightsholder in a country.  The aim is to provide useful sales and performance guidance for smaller countries, genres and exporting destinations."
+summary: "Total national sales reflect the growing number of subscribers, the price, the exchange rate, and many factors that are not important for an artists or music label. Instead we design indexes that show the real growth for a typical domestic or foreign rightsholder in a country.  The aim is to provide useful sales and performance guidance for smaller countries, genres and exporting destinations."
 
 # Projects (optional).
-projects = ["market report", "royalties"]
+projects: ["market report", "royalties"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
-[image]
+image:
   # Caption (optional)
-  caption = ""
+  caption: ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
+  focal_point: ""
 
   # Show image only in page previews?
-  preview_only = false
+  preview_only: false
 
-+++
+---
 I have never been a great fan of the headline figures reported by the recording industry about streaming growth.  I always felt that however dynamic are those charts, artists keep complaining that they do not feel these developments.  So I started to decompose those growth figures.
 
 The Global Music Report quotes national streaming revenues on a dollar basis, which contains a lot of currency exchange noise.  And behind the national total there are too many factors: subscriber base growth and repertoire growth and the subscription fee.  The interplay of these forces is unpredictable. Whenever a local artist or producers sees a 10% reported national growth, they can never be sure if this will likely cause their sale to grow or shrink.

@@ -1,31 +1,31 @@
-+++
-title = "'I lived in the mountains for six years, and I loved it because it was a place where you needed to rely on yourself to survive.'"
-subtitle = "Listen Local interview"
-date = 2021-07-15T09:00:00
-lastmod = 2021-07-15T09:00:00
-draft = false
+---
+title: "'I lived in the mountains for six years, and I loved it because it was a place where you needed to rely on yourself to survive.'"
+subtitle: "Listen Local interview"
+date: 2021-07-15T09:00:00
+lastmod: 2021-07-15T09:00:00
+draft: false
 
-authors = ["Daniel Antal", "Katie Long"]
+authors: ["Daniel Antal", "Katie Long"]
 
-project = ["listen-local"]
+project: ["Listen local"]
 
-tags = ["Prague", "Czechia", "France", "listen-local"]
+tags: ["Prague", "Czechia", "France", "Listen local"]
 
-summary = "Marie de la Montagne is a performing musician and a music publisher. She currently lives in Prague."
+summary: "Marie de la Montagne is a performing musician and a music publisher. She currently lives in Prague."
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = "Marie de la Montagne"
+  caption: "Marie de la Montagne"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Top"
+  focal_point: "Top"
 
   # Show image only in page previews?
-  preview_only = false
+  preview_only: false
 
-+++
+---
 
 <!-- HERE I WOULD INCLUDE A BREIF INTRODUCTION ABOUT WHO MARIE IS AND WHY WE'RE INTERVIEWING HER
 Please go ahead and extend it

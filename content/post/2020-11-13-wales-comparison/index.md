@@ -1,32 +1,32 @@
-+++
-title = "The Welsh Music Industry In International Comparison"
+---
+title: "The Welsh Music Industry In International Comparison"
 
-date = 2020-11-13T07:10:00+02:00
-lastmod = 2020-11-13T07:10:00+02:00
-draft = false
+date: 2020-11-13T07:10:00+02:00
+lastmod: 2020-11-13T07:10:00+02:00
+draft: false
 
-authors = ["Daniel Antal"]
+authors: ["Daniel Antal"]
 
-tags = ["Wales", "United-Kingdom", "music industry", "music-report"]
+tags: ["Wales", "United-Kingdom", "music industry", "music-report"]
 
-summary = "Next week we will introduce a music industry report from Wales. The country is a sub-national part of the United Kingdom from a statistical point view. Making evidence-based policy or market analysis is as challenging as in emerging markets where government statistical services are weak. And the parallels do not stop here."
+summary: "Next week we will introduce a music industry report from Wales. The country is a sub-national part of the United Kingdom from a statistical point view. Making evidence-based policy or market analysis is as challenging as in emerging markets where government statistical services are weak. And the parallels do not stop here."
 
-projects = ["Digital Music Observatory"]
+projects: ["Digital Music Observatory"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
-[image]
+image:
   # Caption (optional)
-  caption = ""
+  caption: ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "TopLeft"
+  focal_point: "TopLeft"
 
   # Show image only in page previews?
-  preview_only = false
+  preview_only: false
 
-+++
+---
 
 Next week we will introduce a music industry report from Wales. The country is a sub-national part of the United Kingdom from a statistical point view. Making evidence-based policy or market analysis is as challenging as in emerging markets where government statistical services are weak. And the parallels do not stop here. 
 

@@ -1,31 +1,31 @@
-+++
-title = "Listen Local: The Youniverse from East to Southwest"
-subtitle = "Listen Local interview"
-date = 2020-11-30T08:10:00+02:00
-lastmod = 2020-11-30T08:10:00+02:00
-draft = false
+---
+title: "Listen Local: The Youniverse from East to Southwest"
+subtitle: "Listen Local interview"
+date: 2020-11-30T08:10:00+02:00
+lastmod: 2020-11-30T08:10:00+02:00
+draft: false
 
-authors = ["Daniel Antal"]
+authors: ["Daniel Antal"]
 
-tags = ["listen-local", "Slovakia", "California", "Texas", "Japan", "music-export"]
+tags: ["Listen local", "Slovakia", "California", "Texas", "Japan", "music-export"]
 
-summary = "Tammy is a bilingual Slovak, who is more at home singing and dreaming in the English language than in the country’s language, and she thinks this is not what the local audience expects from her. No wonder that she is looking for ways to expand their universe beyond the country borders."
+summary: "Tammy is a bilingual Slovak, who is more at home singing and dreaming in the English language than in the country’s language, and she thinks this is not what the local audience expects from her. No wonder that she is looking for ways to expand their universe beyond the country borders."
 
-projects = ["listen-local"]
+projects: ["Listen local"]
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = "Jerguš Oravec and Tammy Nižňanska"
+  caption: "Jerguš Oravec and Tammy Nižňanska"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point: "Center"
 
   # Show image only in page previews?
-  preview_only = true
+  preview_only: true
 
-+++
+---
 
 {{< figure src="Youniverse_bw.png" title="Guitarist Jerguš Oravec and singer Tammy Nižňanska" >}}
  

@@ -1,31 +1,31 @@
-+++
-title = "Music Creators’ Earnings in the Streaming Era"
-subtitle = "United Kingdom Research Cooperation With the Digital Music Observatory"
-date = 2021-06-18T08:00:00
-lastmod = 2021-06-18T18:00:00
-draft = false
+---
+title: "Music Creators’ Earnings in the Streaming Era"
+subtitle: "United Kingdom Research Cooperation With the Digital Music Observatory"
+date: 2021-06-18T08:00:00
+lastmod: 2021-06-18T18:00:00
+draft: false
 
-authors = ["daniel_antal"]
+authors: ["daniel_antal"]
 
-tags = ["open-data", "open-science", "regional data","valuation", "United Kingdom"]
+tags: ["Open data", "Open science", "Regional data","Valuation", "United Kingdom"]
 
-summary = "Our Digital Music Observatory contributes to the Music Creators’ Earnings in the Streaming Era project with understanding the level of justified and unjustified differences in rightsholder earnings, and putting them into a broader music economy context."
+summary: "Our Digital Music Observatory contributes to the Music Creators’ Earnings in the Streaming Era project with understanding the level of justified and unjustified differences in rightsholder earnings, and putting them into a broader music economy context."
 
-projects = ["eu-datathon_2021"]
+projects: [""]
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = ""
+  caption: ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point: "Center"
 
   # Show image only in page previews?
-  preview_only = true
+  preview_only: true
 
-+++
+---
 
 {{< figure src="/media/img/blogposts_20121/dcms_economics_music_streaming.png" numbered="false">}}
 

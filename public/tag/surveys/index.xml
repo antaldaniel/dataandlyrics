@@ -2,62 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>surveys | Data &amp; Lyrics</title>
-    <link>/tag/surveys/</link>
-      <atom:link href="/tag/surveys/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dataandlyrics.com/tag/surveys/</link>
+      <atom:link href="https://dataandlyrics.com/tag/surveys/index.xml" rel="self" type="application/rss+xml" />
     <description>surveys</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Wed, 26 Aug 2020 08:00:00 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 05 Jul 2021 08:00:00 +0000</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>https://dataandlyrics.com/media/icon_hu5bfde8608118b47b475864b70fd224b4_21674_512x512_fill_lanczos_center_3.png</url>
       <title>surveys</title>
-      <link>/tag/surveys/</link>
+      <link>https://dataandlyrics.com/tag/surveys/</link>
     </image>
     
     <item>
-      <title>Music Observatory</title>
-      <link>/project/music-observatory/</link>
-      <pubDate>Wed, 26 Aug 2020 08:00:00 +0200</pubDate>
-      <guid>/project/music-observatory/</guid>
-      <description>&lt;p&gt;We are developing our 
-&lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo Music Observatory&lt;/a&gt; in the world&amp;rsquo;s 2nd ranked university-backed incubator program, the 
-&lt;a href=&#34;post/2020-09-25-yesdelft-validation/&#34;&gt;Yes!Delft AI Validation Lab&lt;/a&gt;. Our aim is to show a better organizational model, examples of research automation and other data integration innovation that can reduce the budgetary needs of the European Music Observatory by 80-90% and provide far more timely, accurate, and relevant service than most data observatories in Europe.&lt;/p&gt;
+      <title>Survey Harmonization</title>
+      <link>https://dataandlyrics.com/data/surveys/</link>
+      <pubDate>Mon, 05 Jul 2021 08:00:00 +0000</pubDate>
+      <guid>https://dataandlyrics.com/data/surveys/</guid>
+      <description>&lt;p&gt;We provide retrospecitve, &lt;em&gt;ex post&lt;/em&gt;, and &lt;em&gt;ex ante&lt;/em&gt; survey harmonization to our partners.&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;
-&lt;a href=&#34;#background&#34;&gt;Background&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;#data-gaps&#34;&gt;Data gaps&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;#organization&#34;&gt;Organization and institutional model&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;#quality&#34;&gt;Quality Control&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;#budget&#34;&gt;Value For Money, Budget&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;#use-cases&#34;&gt;Use Cases&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The aim of retrospective survey harmonization is to pool data from pre-existing surveys made with a similar methodology in different points in time and different countries or territories.  Ex post survey harmonization is in a way a passive form of pooling research funding because you can utilize information from surveying that were made on somebody else’s expense.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
-&lt;p&gt;Data is power, and &lt;code&gt;big data creates injustice&lt;/code&gt;.  Organizations that control large amounts of data, for example, the entire listening history of hundreds of millions of people in all major countries of the world, can train algorithms and robots that drive most of the music in the world.  They can make your investment into a sound recording successful or doomed. They can circumvent or help a local content regulation, reinforce, or disable a national cultural policy goal.  A country may introduce national artist quotas on radio, if all the youth will be personally recommended foreign songs in their music discovery age in the very same country.&lt;/p&gt;
-&lt;p&gt;We believe that answer of the EU and UNESCO with the creation of permanent data collection points, so-called 
-&lt;a href=&#34;https://dataobservatory.eu/faq/observatories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data observatories&lt;/a&gt; is correct. However, after reviewing 62 data observatories, we are convinced that many data observatories are doomed to fail.&lt;/p&gt;
-&lt;p&gt;Our private observatory, CEEMID was consulted in the creation of the 
-&lt;a href=&#34;https://op.europa.eu/en/publication-detail/-/publication/a756542a-249d-11eb-9d7e-01aa75ed71a1/language-en/format-PDF/source-171307257&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Feasibility study for the establishment of a European Music Observatory&lt;/a&gt;, and some of our recommendations found way into the consultant’s document. We created a Demo Music Observatory to provide a practical guidance on the decisions facing the European stakeholders, and to answer the questions that were left open in the Feasibility Study &amp;mdash; particularly on  
-&lt;a href=&#34;#data-gaps&#34;&gt;data integration&lt;/a&gt; and the 
-&lt;a href=&#34;#organization&#34;&gt;institutional model&lt;/a&gt;, where a wrong choice can lead to very long delivery time, 
-&lt;a href=&#34;#quality&#34;&gt;quality control&lt;/a&gt; and 
-&lt;a href=&#34;#budget&#34;&gt;budgeting&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;data-gaps&#34;&gt;Data Gaps&lt;/h2&gt;
-&lt;p&gt;According to the feasibility study, 11% of the stakeholders consulted found that sufficient data was available for their work, 30% said that there could be more data but that does not affect their work, and 59% found that the lack of data affects their work.&lt;/p&gt;
-&lt;p&gt;We have shown in the 
-&lt;a href=&#34;publication/ceereport_2020/&#34;&gt;Central &amp;amp; Eastern European Music Industry Report 2020&lt;/a&gt;, featured in the 
-&lt;a href=&#34;post/2020-01-30-ceereport/&#34;&gt;CCS Ecosystems: FLIPPING THE ODDS Conference&lt;/a&gt; – a two-day high-level stakeholder event jointly organized by Geothe-Institute and the DG Education and Culture of the European Commission with the Creative FLIP project.that much of the data gap is 
-&lt;a href=&#34;post/2020-01-30-ceereport/#invisibility&#34;&gt;illusory&lt;/a&gt;: the fragmented nature of the music industry, the lack of in-house data expertise create bottlenecks in the use of the data. However, the data is present, and as it is stated in 148-149, we are willing to transfer thousands of indicators in all pillars to the future European Music Observatory.&lt;/p&gt;
-&lt;p&gt;Our Demo Music Observatory is based on the accepted music industry concept in the US and the EU (the three-income stream model) and its data maps that we could apply to emerging markets &amp;ndash; for example, in 
-&lt;a href=&#34;post/2016-04-20_makk15/&#34;&gt;the case of Croatia&lt;/a&gt;. A clear map of the industry and a clear map of the data reveals that much of the perceived gap is illusory.  We would like to challenge the European music stakeholders to test us, request seemingly missing data that we will try to publish.&lt;/p&gt;
 
 
 
 
 
-  
 
 
 
@@ -69,190 +37,163 @@
 
 
 
-&lt;figure id=&#34;figure-illustration-our-map-to-find-to-locate-data-in-the-croatian-music-industry-our-demo-music-observatory-is-based-on-the-accepted-music-industry-concept-in-the-us-and-the-eu-the-three-income-stream-model-and-its-data-maps&#34;&gt;
+&lt;figure  id=&#34;figure-the-arab-barometer-surveys-do-not-have-a-consolidated-codebook-but-our-retroharmonize-software-created-one-and-put-together-data-from-three-years-and-collected-in-many-countries-about-various-public-policy-issues&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://dataandlyrics.com/media/img/surveys/arabb-comparison-select-country-chart.png&#34; alt=&#34;The Arab Barometer surveys do not have a consolidated codebook, but our retroharmonize software created one, and put together data from three years and collected in many countries about various public policy issues.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      The Arab Barometer surveys do not have a consolidated codebook, but our retroharmonize software created one, and put together data from three years and collected in many countries about various public policy issues.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;The aim of ex ante survey harmonization is to maximize the value from future retrospective harmonization; in a way, it is an active form of pooling research funding, because you benefit from money spent on related open governmental and open science survey programs.&lt;/li&gt;
+&lt;/ol&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/methodology/three_income_streams_croatia.png&#34; data-caption=&#34;Illustration: our map to find to locate data in the Croatian music industry. Our Demo Music Observatory is based on the accepted music industry concept in the US and the EU (the three-income stream model) and its data maps.&#34;&gt;
 
 
-  &lt;img src=&#34;/img/methodology/three_income_streams_croatia.png&#34; alt=&#34;&#34;  &gt;
-&lt;/a&gt;
 
 
-  
-  
-  &lt;figcaption&gt;
-    Illustration: our map to find to locate data in the Croatian music industry. Our Demo Music Observatory is based on the accepted music industry concept in the US and the EU (the three-income stream model) and its data maps.
-  &lt;/figcaption&gt;
 
 
-&lt;/figure&gt;
 
-&lt;p&gt;This remains a problem with the Summary of Data Gaps on pages 128-131 that enumerate the perceived lack of data for the three pillars.  We believe that these data gaps are in most cases illusory, and the remedies offered in the study are often misplaced.&lt;/p&gt;
-&lt;h2 id=&#34;circulation-of-repertoire--cultural-diversity&#34;&gt;Circulation of Repertoire &amp;amp; Cultural Diversity&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Streaming activity: the Feasibility Study offers Nielsen’s Global Charts as a potential solution, even though we have shown that this is not the right approach.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;The problem with Nielsen’s charts, or any chart provider’s chart, is that it covers less than 0.01% of the European repertoire, and it depicts a completely irrelevant picture for the 99.99% of the European stakeholders.&lt;/p&gt;
 
 
 
 
 
-  
 
 
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-illustration-our-map-to-find-to-locate-data-in-the-croatian-music-industry-our-demo-music-observatory-is-based-on-the-accepted-music-industry-concept-in-the-us-and-the-eu-the-three-income-stream-model-and-its-data-maps&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/reports/medianvalue-1.png&#34; data-caption=&#34;Illustration: our map to find to locate data in the Croatian music industry. Our Demo Music Observatory is based on the accepted music industry concept in the US and the EU (the three-income stream model) and its data maps.&#34;&gt;
-
-
-  &lt;img src=&#34;/img/reports/medianvalue-1.png&#34; alt=&#34;&#34;  &gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Illustration: our map to find to locate data in the Croatian music industry. Our Demo Music Observatory is based on the accepted music industry concept in the US and the EU (the three-income stream model) and its data maps.
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-
-&lt;p&gt;We believe that the right approach, followed by our Demo Music Observatory, is a reconciliation with the work on 
-&lt;a href=&#34;https://ec.europa.eu/eurostat/cros/content/big-data_en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Big Data&lt;/a&gt; the  European Statistical System (i.e. the partnership of Eurostat and the national statistical authorities.) (See 
-&lt;a href=&#34;https://ceereport2020.ceemid.eu/market.html#recmarket&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;our analysis&lt;/a&gt; of 20 advanced, emerging and future markets in Europe.)&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;Challenge Our Demo Observatory&lt;/code&gt;: &lt;em&gt;Check out the&lt;/em&gt; 
-&lt;a href=&#34;https://demoobservatory.dataobservatory.eu/music-diversity-circulation.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Music Diversity &amp;amp; Circulation Pillar&lt;/a&gt; &lt;em&gt;of our Demo Music Observatory.  If you do not find what you are looking for,&lt;/em&gt; 
-&lt;a href=&#34;https://reprex.nl/#contact&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;contact us&lt;/a&gt; &amp;mdash; &lt;em&gt;we will try to put the data there from our repositories.&lt;/em&gt;&lt;/p&gt;
-&lt;h3 id=&#34;people--diversity&#34;&gt;People &amp;amp; Diversity&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;The &lt;em&gt;Feasibility Study&lt;/em&gt; claims that “there is no real EU wide data on diversity in the music sector.  Diversity should include the study of ethnic minorities, gender and vulnerable groups&amp;hellip;”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-illusory-data-gap-active-and-music-participation-is-available-on-eu-level-both-for-gender-groups-or-four-ethnic-minorities--this-is-regularly-featured-in-various-european-cap-surveys-and-in-our-national-cap-surveys-too&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/comparative/music_activity_playing_an_instrument_by_gender.png&#34; data-caption=&#34;Illusory data gap: active and music participation is available on EU level both for gender groups or four ethnic minorities – this is regularly featured in various European CAP surveys and in our national CAP surveys, too.&#34;&gt;
-
-
-  &lt;img src=&#34;/img/comparative/music_activity_playing_an_instrument_by_gender.png&#34; alt=&#34;&#34;  &gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Illusory data gap: active and music participation is available on EU level both for gender groups or four ethnic minorities – this is regularly featured in various European CAP surveys and in our national CAP surveys, too.
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-
-&lt;p&gt;However, active and music participation is available on EU level both for gender groups (see our chart) or four ethnic minorities – this is regularly featured in various European CAP surveys and in our national CAP surveys, too.  Our peer-reviewed, open-source 
-&lt;a href=&#34;https://retroharmonize.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;retroharmonize&lt;/a&gt; statistical software was developed exactly to create these data products.&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;Challenge Our Demo Observatory&lt;/code&gt;: &lt;em&gt;Check out the&lt;/em&gt; 
-&lt;a href=&#34;https://data.music.dataobservatory.eu/music-society.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Music, Society and Citizenship Pillar&lt;/a&gt; &lt;em&gt;of our Demo Music Observatory.  If you do not find what you are looking for,&lt;/em&gt; 
-&lt;a href=&#34;https://dataobservatory.eu/#contact&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;contact us&lt;/a&gt; &amp;mdash; &lt;em&gt;we will try to put the data there from our repositories.&lt;/em&gt;&lt;/p&gt;
-&lt;h3 id=&#34;music-economy&#34;&gt;Music Economy&lt;/h3&gt;
-&lt;p&gt;Because music is mainly a market activity, apart from the mainly publicly funded classical (arts) music sector, and a part of the music (stage) infrastructure, a wide variety of data is available on the music economy in a consistent manner.&lt;/p&gt;
-&lt;p&gt;We are calling on all partners to challenge us, either on Music Economy or the other pillars of the music observatory. We will try to provide the requested data on a weekly, monthly, quarterly or annually refreshing basis in the highest possible quality – for the first 50 request for free. We would like to demonstrate that most of the data gap is illusory, and a collaborative, bottom-up approach can deliver a European Music Observatory faster, cheaper in a much higher quality.&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;Challenge Our Demo Observatory&lt;/code&gt;: &lt;em&gt;Check out the&lt;/em&gt; 
-&lt;a href=&#34;https://data.music.dataobservatory.eu/music-economy.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Music Economy Pillar&lt;/a&gt; &lt;em&gt;of our Demo Music Observatory.  If you do not find what you are looking for,&lt;/em&gt; 
-&lt;a href=&#34;https://dataobservatory.eu/#contact&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;contact us&lt;/a&gt; &amp;mdash; &lt;em&gt;we will try to put the data there from our repositories.&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&#34;organization&#34;&gt;Organization and institutional model&lt;/h2&gt;
-&lt;p&gt;We believe that the biggest shortcoming of the Feasibility Study is a systematic overview of a wide range of organizational possibilities.  The Feasibility Study is illustrated by examples from European Audiovisual Observatory as a good practice, investigates the possibility of integrating the music observatory into the EUIPO Observatory, and as an alternative, it considers the 
-&lt;a href=&#34;https://ec.europa.eu/info/food-farming-fisheries/farming/facts-and-figures/markets/overviews/market-observatories_en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;six product observatories&lt;/a&gt; of DG Agriculture &amp;amp; Rural Development.  This approach provides a too narrow range of potential organizational alternatives.&lt;/p&gt;
-&lt;p&gt;We have reviewed a further 59 observatories, including ones that were not successful and ceased to exist, to understand why some observatories can increase their service level and why others fail. It is unclear what criteria make the European Audiovisual Observatory a good example, so it is impossible to say from this Feasibility Study if there are better examples – and we believe that there are.  The EAO is one of the oldest, if not the oldest observatories. It was created before the EU was founded before the commercial internet launched, when far different legal, governance and data collection needs had to be addressed. We believe that this may be the costliest and most time-consuming model to replicate.&lt;/p&gt;
-&lt;h3 id=&#34;bottom-up-versus-top-down&#34;&gt;Bottom-up versus top-down&lt;/h3&gt;
-&lt;p&gt;The Feasibility Study only considers hierarchical and centralized observatories, that operate on a top-down data integration, or rather, simple data collection strategy.  We have created a large observatory  with a very limited budget (which has a public layer, the Demo Music Observatory, and privately funded, much larger version, CEEMID) when we realized that the centralized, hierarchical, top-down approach is not suitable for a fragmented industry like the music industry. The example of CEEMID shows that a bottom-up and collaborative approach requires far less time, budget than a hierarchical approach, and can yield superior data quality. It is not surprising that most of the 62 observatories that we have studied are not hierarchical, and not operated by a centralized body but by a Consortium of various scientific, policy and industry stakeholders.&lt;/p&gt;
+&lt;figure  id=&#34;figure-in-this-example-we-designed-a-survey-representative-among-music-professionals-that-it-can-be-compared-with-large-sample-national-surveys-on-living-conditions-and-attitudes-and-with-occupational-groups--nationally-representative-surveys-do-not-question-enough-musicians-to-allow-such-specific-use-musician-only-surveys-do-not-allow-comparison&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://dataandlyrics.com/media/img/surveys/difficulty_bills_levels.jpg&#34; alt=&#34;In this example we designed a survey representative among music professionals that it can be compared with large-sample, national surveys on living conditions and attitudes, and with occupational groups.  Nationally representative surveys do not question enough musicians to allow such specific use; musician only surveys do not allow comparison.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      In this example we designed a survey representative among music professionals that it can be compared with large-sample, national surveys on living conditions and attitudes, and with occupational groups.  Nationally representative surveys do not question enough musicians to allow such specific use; musician only surveys do not allow comparison.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;a href=&#34;https://retroharmonize.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;retorhamonize&lt;/a&gt; is a peer-reviewed, scientfic statistcal software that allows the programmatic retrospective harmonization of surveys, such as the last 35 years of all Eurobarometer microdata, or all Afrobarometer microdata. Eurobarometer grew out of certain CEE member states’ need for comparable data about their music and audiovisual sectors. We commissioned surveys following ESSNet-Culture guidelines and combined our survey data with open access European microdata-level surveys.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://regions.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;regions&lt;/a&gt; solves the problems caused by Europe’s shifting regional boundaries, which have undergone changes in several thousand places over the last twenty years, meaning  member states’ and Eurostat’s regional statistics are not comparable over more than two to three years. This software validates and, where possible, changes the regional coding from NUTS1999 until the not yet used NUTS2021, opening up vast, valuable, untapped data sources that can be used for longitudinal analysis or for panel analysis far more precise than what  national data alone would allow. It was originally designed in a research project at IVIR in the University of Amsterdam to understand the geographical dynamics of book piracy. Because of the needs this software fills, it had 700 users in the first month after publication. It is particularly useful to re-code old surveys, as regional boundaries are changing in each decade several hundred times in Europe.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>retroharmonize R package for survey harmonization</title>
+      <link>https://dataandlyrics.com/software/retroharmonize/</link>
+      <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://dataandlyrics.com/software/retroharmonize/</guid>
+      <description>&lt;h2 id=&#34;retrospective-data-harmonization&#34;&gt;Retrospective data harmonization&lt;/h2&gt;
+&lt;p&gt;The aim of &lt;code&gt;retroharmonize&lt;/code&gt; is to provide tools for reproducible
+retrospective (ex-post) harmonization of datasets that contain variables
+measuring the same concepts but coded in different ways. Ex-post data
+harmonization enables better use of existing data and creates new
+research opportunities. For example, harmonizing data from different
+countries enables cross-national comparisons, while merging data from
+different time points makes it possible to track changes over time.&lt;/p&gt;
+&lt;p&gt;Retrospective data harmonization is associated with challenges including
+conceptual issues with establishing equivalence and comparability,
+practical complications of having to standardize the naming and coding
+of variables, technical difficulties with merging data stored in
+different formats, and the need to document a large number of data
+transformations. The &lt;code&gt;retroharmonize&lt;/code&gt; package assists with the latter
+three components, freeing up the capacity of researchers to focus on the
+first.&lt;/p&gt;
+&lt;p&gt;Specifically, the &lt;code&gt;retroharmonize&lt;/code&gt; package proposes a reproducible
+workflow, including a new class for storing data together with the
+harmonized and original metadata, as well as functions for importing
+data from different formats, harmonizing data and metadata, documenting
+the harmonization process, and converting between data types. See
+&lt;a href=&#34;https://retroharmonize.dataobservatory.eu/reference/retrohamonize.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
+for an overview of the functionalities.&lt;/p&gt;
+&lt;p&gt;The new &lt;code&gt;labelled_spss_survey()&lt;/code&gt; class is an extension of &lt;a href=&#34;https://haven.tidyverse.org/reference/labelled_spss.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;haven’s labelled_spss class&lt;/a&gt;. It not
+only preserves variable and value labels and the user-defined missing
+range, but also gives an identifier, for example, the filename or the
+wave number, to the vector. Additionally, it enables the preservation –
+as metadata attributes – of the original variable names, labels, and
+value codes and labels, from the source data, in addition to the
+harmonized variable names, labels, and value codes and labels. This way,
+the harmonized data also contain the pre-harmonization record. The
+stored original metadata can be used for validation and documentation
+purposes.&lt;/p&gt;
+&lt;p&gt;The vignette &lt;a href=&#34;https://retroharmonize.dataobservatory.eu/articles/labelled_spss_survey.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Working With The labelled_spss_survey Class&lt;/a&gt;
+provides more information about the &lt;code&gt;labelled_spss_survey()&lt;/code&gt; class.&lt;/p&gt;
+&lt;p&gt;In &lt;a href=&#34;https://retroharmonize.dataobservatory.eu/articles/harmonize_labels.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Harmonize Value Labels&lt;/a&gt;
+we discuss the characteristics of the &lt;code&gt;labelled_spss_survey()&lt;/code&gt; class and
+demonstrates the problems that using this class solves.&lt;/p&gt;
+&lt;p&gt;We also provide three extensive case studies illustrating how the
+&lt;code&gt;retroharmonize&lt;/code&gt; package can be used for ex-post harmonization of data
+from cross-national surveys:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; The &lt;code&gt;European Music Observatory&lt;/code&gt; should fully exploit the EU&amp;rsquo;s &lt;strong&gt;open data&lt;/strong&gt; regime. (See our examples: 
-&lt;a href=&#34;https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;our first open data release&lt;/a&gt;) Our proposal about this were quoted in the &lt;em&gt;Feasibility Study&lt;/em&gt;.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; It should not re-collect data that already exists. Instead it should create policies, synergies and incentives that bring that data to light. The &lt;em&gt;Feasibility Study&lt;/em&gt; partly embraces this idea.&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://retroharmonize.dataobservatory.eu/articles/afrobarometer.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Afrobarometer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://retroharmonize.dataobservatory.eu/articles/arabbarometer.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Arab
+Barometer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://retroharmonize.dataobservatory.eu/articles/eurobarometer.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eurobarometer&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;decentralization&#34;&gt;Hierarchical versus decentralized observatory&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;We want big data to work for small venues, independent labels, startups, great and undiscovered artists.&lt;/code&gt; We believe that you cannot make a successful album launch, a market entry or introduce a successful cultural policy without large amounts of well processed and correctly analysed data. We want to create a 
-&lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Music Observatory&lt;/a&gt; that integrates the small data of many small bands, small labels, small venues, small countries, and mount correct the injustice. Make algorithms transparent and the competition fair.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; It should not re-collect data that already exists. Instead it should create policies, synergies and incentives that bring that data to light. The &lt;em&gt;Feasibility Study&lt;/em&gt; partly embraces this idea.&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; The observatory must allow a seamless 
-&lt;a href=&#34;https://music.dataobservatory.eu/approach.html#dataintegration&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data integration&lt;/a&gt; between open data, and highly confidential proprietary data. The &lt;em&gt;Feasiblity Study&lt;/em&gt; wants to own and buy data, instead getting access to industry data.&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; The open collaboration principle must allow an easy opt-in and opt-out for small and larger, public and private organizations, and offer for full transparency for all users. The &lt;em&gt;Feasibility Study&lt;/em&gt; offers a closed observatory without opt-in.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;budget&#34;&gt;Value For Money, Budget&lt;/h2&gt;
-&lt;p&gt;We believe that a bottom-up, collaborative approach of the industry stakeholders offers a much faster approach to growth, because it can mange conflicts of interests, build upon existing and trusted data assets.  The 
-&lt;a href=&#34;https://rm.coe.int/budget-19-information-income-and-expenses-of-the-european-audiovisual-/1680952994&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;annual budget&lt;/a&gt; of the European Audiovisual Observatory is about 3.7 million euros.  Most of the European data observatories that we surveyed have an annual budget of 20,000-200,000 euros. In our view, a very comprehensive data observatory can be built from 1-3 million euros and maintained with a collaborative use of existing data assets and a subsidy of up to 200,000 euros a year.&lt;/p&gt;
-&lt;h2 id=&#34;quality&#34;&gt;Quality Control&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; It should be transparent, the indicator design should be based on open-source statistical software. Our proposal about this were quoted in the &lt;em&gt;Feasibility Study&lt;/em&gt;.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; The European Music Observatory must embrace evidence-based 
-&lt;a href=&#34;https://music.dataobservatory.eu/approach.html#opa&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;open Policy Analysis&lt;/a&gt;. This topic is not considered in the &lt;em&gt;Feasibility Study&lt;/em&gt;.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;use-cases&#34;&gt;Use Cases&lt;/h2&gt;
-&lt;p&gt;We want to support the European music industry and our friends in North America, Australia, and all over the world to turn the tables with @ref(innovation) 
-&lt;a href=&#34;https://music.dataobservatory.eu/innovation.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;innovation&lt;/a&gt; coming from the open source community.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;We want to help you to create alternative recommendation engines that actually recommend songs from your country, and we want to give you very clear export market targets with the help of 
-&lt;a href=&#34;https://music.dataobservatory.eu/innovation.html#ai&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AI&lt;/a&gt;. Our 
-&lt;a href=&#34;https://dataandlyrics.com/project/listen-local/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Listen Local Initiative&lt;/a&gt; is aiming to create recommendation engines for cities and regions, and make sure that local bands are recommended to local audiences and audiences in the regions where they will be touring after the Covid-19 pandemic.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;We want your evidence to stand a fighting chance against large teams of professional legal and economics teams on the other side with 
-&lt;a href=&#34;https://music.dataobservatory.eu/innovation.html#valuation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;proper valuations and damage claims&lt;/a&gt;.  And we want to present all those hundreds and thousands of pages automatically, going through dozens and dozens of automated &amp;ldquo;unit-tests&amp;rdquo; until nobody can find errors.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;We want you to be able to prove to your fans, the press, your economy minister that music in many countries has not been at the mercy of the taxpayer, but has been carrying far heavier tax burdens than manufacturers.  We want to make your case that the music industry plays a vital role in the European economic recovery and job creation, because we can create 
-&lt;a href=&#34;https://music.dataobservatory.eu/innovation.html#valuation#eia&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;economic impact assessments&lt;/a&gt; on GDP, employment, tax, import and export effects automatically.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Because music and culture are often managed at the level of cities, regions and communities, we want to give you all the data on sub-national levels, whether for regions, metropolitan areas or smaller divisions.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;The creators of &lt;code&gt;retroharmonize&lt;/code&gt; are not affiliated with either
+Afrobarometer, Arab Barometer, Eurobarometer, or the organizations that
+designs, produces or archives their surveys.&lt;/p&gt;
+&lt;p&gt;We started building an experimental APIs data is running retroharmonize
+regularly and improving known statistical data sources. See: &lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Digital Music Observatory&lt;/a&gt;, &lt;a href=&#34;https://greendeal.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Green Deal Data Observatory&lt;/a&gt;, &lt;a href=&#34;https://economy.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Economy Data Observatory&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;citations-and-related-work&#34;&gt;Citations and related work&lt;/h2&gt;
+&lt;h3 id=&#34;citing-the-data-sources&#34;&gt;Citing the data sources&lt;/h3&gt;
+&lt;p&gt;Our package has been tested on three harmonized survey’s microdata.
+Because &lt;a href=&#34;https://retroharmonize.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;retroharmonize&lt;/a&gt; is
+not affiliated with any of these data sources, to replicate our
+tutorials or work with the data, you have download the data files from
+these sources, and you have to cite those sources in your work.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Afrobarometer&lt;/strong&gt; data: Cite
+&lt;a href=&#34;https://afrobarometer.org/data/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Afrobarometer&lt;/a&gt; &lt;strong&gt;Arab Barometer&lt;/strong&gt;
+data: cite &lt;a href=&#34;https://www.arabbarometer.org/survey-data/data-downloads/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Arab
+Barometer&lt;/a&gt;.
+&lt;strong&gt;Eurobarometer&lt;/strong&gt; data: The
+&lt;a href=&#34;https://ec.europa.eu/commfrontoffice/publicopinion/index.cfm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eurobarometer&lt;/a&gt;
+data
+&lt;a href=&#34;https://ec.europa.eu/commfrontoffice/publicopinion/index.cfm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eurobarometer&lt;/a&gt;
+raw data and related documentation (questionnaires, codebooks, etc.) are
+made available by &lt;em&gt;GESIS&lt;/em&gt;, &lt;em&gt;ICPSR&lt;/em&gt; and through the &lt;em&gt;Social Science Data
+Archive&lt;/em&gt; networks. You should cite your source, in our examples, we rely
+on the
+&lt;a href=&#34;https://www.gesis.org/en/eurobarometer-data-service/search-data-access/data-access&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GESIS&lt;/a&gt;
+data files.&lt;/p&gt;
+&lt;h3 id=&#34;citing-the-retroharmonize-r-package&#34;&gt;Citing the retroharmonize R package&lt;/h3&gt;
+&lt;p&gt;For main developer and contributors, see the
+&lt;a href=&#34;https://retroharmonize.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;package&lt;/a&gt; homepage.&lt;/p&gt;
+&lt;p&gt;This work can be freely used, modified and distributed under the GPL-3
+license:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;citation&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;retroharmonize&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;#&amp;gt; &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;#&amp;gt; To cite package &amp;#39;retroharmonize&amp;#39; in publications use:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;#&amp;gt; &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;#&amp;gt;   Daniel Antal (2021). retroharmonize: Ex Post Survey Data&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;#&amp;gt;   Harmonization. R package version 0.1.17.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;#&amp;gt;   https://retroharmonize.dataobservatory.eu/&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;#&amp;gt; &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;#&amp;gt; A BibTeX entry for LaTeX users is&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;#&amp;gt; &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;#&amp;gt;   @Manual{,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;#&amp;gt;     title: {retroharmonize: Ex Post Survey Data Harmonization},&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;#&amp;gt;     author: {Daniel Antal},&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;#&amp;gt;     year: {2021},&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;#&amp;gt;     doi: {10.5281/zenodo.5006056},&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;#&amp;gt;     note: {R package version 0.1.17},&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;#&amp;gt;     url: {https://retroharmonize.dataobservatory.eu/},&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;#&amp;gt;   }&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;contact&#34;&gt;Contact&lt;/h3&gt;
+&lt;p&gt;For contact information, contributors, see the
+&lt;a href=&#34;https://retroharmonize.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;package&lt;/a&gt; homepage.&lt;/p&gt;
+&lt;h3 id=&#34;code-of-conduct&#34;&gt;Code of Conduct&lt;/h3&gt;
+&lt;p&gt;Please note that the &lt;code&gt;retroharmonize&lt;/code&gt; project is released with a
+&lt;a href=&#34;https://www.contributor-covenant.org/version/2/0/code_of_conduct/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Contributor Code of Conduct&lt;/a&gt;.
+By contributing to this project, you agree to abide by its terms.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
 </description>
     </item>
     
     <item>
       <title>Changing Musician Career Paths</title>
-      <link>/post/2017-02-03-music_career_path/</link>
-      <pubDate>Fri, 03 Feb 2017 19:00:00 +0100</pubDate>
-      <guid>/post/2017-02-03-music_career_path/</guid>
+      <link>https://dataandlyrics.com/post/2017-02-03-music_career_path/</link>
+      <pubDate>Fri, 03 Feb 2017 19:00:00 +0000</pubDate>
+      <guid>https://dataandlyrics.com/post/2017-02-03-music_career_path/</guid>
       <description>&lt;p&gt;In the 20th century the first career step was to get on stage and create a credible live performance. After several years on the stage musician’s got a recording contract, and usually even later they registered their first composition. The recording stream was the most important revenue source. The making of a record was expensive and offered considerable royalties or advances.&lt;/p&gt;
 &lt;p&gt;In the 21st century the live music stream is far more important than the recordings. Creating recordings is much cheaper and stage performances are expensive. Musicians usually create their music, also register it as a music work and offer it to the public on an online portfolio of mp3 downloads, YouTube and music streams.  Often they are booked for their first live performance after publishing a recording.&lt;/p&gt;
 &lt;p&gt;What does it mean for the musician and the manager?  First and foremost that traditional career development strategies do not work anymore. A convincing stage performance is mandatory with a good touring strategy.  Recordings are often not profitable, but equally important in building the audience. Making the recording stream a revenue stream instead of the cost stream requires a very good understanding of the costs and benefits of the different digital channels. CEEMID also contains market information on these issues.&lt;/p&gt;

@@ -1,30 +1,30 @@
-+++
-title = "New spotifyr R Package Release"
-subtitle = "2.2.1: Thoroughly modernized exception handling, documentation, and some bug fixes"
-date = 2021-06-17T08:10:00
-lastmod = 2021-06-17T08:10:00
-draft = false
+---
+title: "New spotifyr R Package Release"
+subtitle: "2.2.1: Thoroughly modernized exception handling, documentation, and some bug fixes"
+date: 2021-06-17T08:10:00
+lastmod: 2021-06-17T08:10:00
+draft: false
 
-authors = ["Daniel Antal"]
+authors: ["Daniel Antal"]
 
-project = ["listen-local", "Digital Music Observatory"]
+project: ["Listen local", "Digital Music Observatory"]
 
-tags = ["algorithms", "Digital Music Observatory", "trustworthy-ai", "recommendations", "listen-local", "Spotify", "R"]
+tags: ["algorithms", "Digital Music Observatory", "Trustworthy AI", "recommendations", "Listen local", "Spotify", "R"]
 
-summary = "After a very thorough modernization of the package’s exception handling, documentation, and code dependencies that I did in the last week, the spotifyr package has passed again the peer-review standards and it is back on CRAN. The package is an excellent starting to point for R newbies to try their hands on musicology analysis with a few keystrokes. And of course, it is an essential part of the research infrastructure of musicology worldwide in far more advanced applications."
+summary: "After a very thorough modernization of the package’s exception handling, documentation, and code dependencies that I did in the last week, the spotifyr package has passed again the peer-review standards and it is back on CRAN. The package is an excellent starting to point for R newbies to try their hands on musicology analysis with a few keystrokes. And of course, it is an essential part of the research infrastructure of musicology worldwide in far more advanced applications."
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = ""
+  caption: ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Right"
+  focal_point: "Right"
 
   # Show image only in page previews?
-  preview_only = true
-+++
+  preview_only: true
+---
 
 {{< figure src="/img/package_screenshots/spotifyr_221.png" caption="The package is an excellent starting to point for R newbies to try their hands on musicology analysis with a few keystrokes. And of course, it is an essential part of the research infrastructure of musicology worldwide in far more advanced applications." numbered="true" >}}
 
@@ -52,7 +52,7 @@ library(purrr)
 library(knitr)
 
 beatles %>% 
-    count(key_mode, sort = TRUE) %>% 
+    count(key_mode, sort: TRUE) %>% 
     head(5) %>% 
     kable()
 ```
@@ -70,10 +70,10 @@ beatles %>%
 ``` r
 library(lubridate)
 
-get_my_recently_played(limit = 5) %>% 
+get_my_recently_played(limit: 5) %>% 
     mutate(
-        artist.name = map_chr(track.artists, function(x) x$name[1]),
-        played_at = as_datetime(played_at)
+        artist.name: map_chr(track.artists, function(x) x$name[1]),
+        played_at: as_datetime(played_at)
         ) %>% 
     select(
       all_of(c("track.name", "artist.name", "track.album.name", "played_at"))
@@ -94,12 +94,12 @@ That's about right...
 ### Find Your All Time Favorite Artists
 
 ``` r
-get_my_top_artists_or_tracks(type = 'artists', 
-                             time_range = 'long_term', 
-                             limit = 5) %>% 
+get_my_top_artists_or_tracks(type: 'artists', 
+                             time_range: 'long_term', 
+                             limit: 5) %>% 
     select(.data$name, .data$genres) %>% 
     rowwise %>% 
-    mutate(genres = paste(.data$genres, collapse = ', ')) %>% 
+    mutate(genres: paste(.data$genres, collapse: ', ')) %>% 
     ungroup %>% 
     kable()
 ```
@@ -117,11 +117,11 @@ What could I say?  I travelled Australia listening only to Angus & Julia Stone, 
 ### Find your favorite tracks at the moment
 
 ``` r
-get_my_top_artists_or_tracks(type = 'tracks', 
-                             time_range = 'short_term', 
-                             limit = 5) %>% 
+get_my_top_artists_or_tracks(type: 'tracks', 
+                             time_range: 'short_term', 
+                             limit: 5) %>% 
     mutate(
-        artist.name = map_chr(artists, function(x) x$name[1])
+        artist.name: map_chr(artists, function(x) x$name[1])
         ) %>% 
     select(name, artist.name, album.name) %>% 
     kable()

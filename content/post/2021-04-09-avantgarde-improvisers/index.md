@@ -1,30 +1,30 @@
-+++
-title = "A New Streaming Model Built by Avant-Garde Improvisers"
-date = 2021-04-09T09:00:00
-lastmod = 2021-04-10T09:10:00
-draft = false
+---
+title: "A New Streaming Model Built by Avant-Garde Improvisers"
+date: 2021-04-09T09:00:00
+lastmod: 2021-04-10T09:10:00
+draft: false
 
-authors = ["Andrés García Molina"]
+authors: ["Andrés García Molina"]
 
-project = ["listen-local"]
+project: ["Listen Local"]
 
-tags = ["music-streaming", "alternatives", "contemporary-music", "business-models"]
+tags: ["Music streaming", "Alternatives", "Contemporary music", "Business innovation"]
 
-summary = "Catalytic Sound, a cooperative organization comprising 30 avant-garde instrumentalists and composers, is attempting to actualize this dream — and hoping to help other similarly minded musicians do the same for themselves. In January, the co-op’s partners launched Catalytic Soundstream, a small-scale streaming platform that charges listeners $10 per month for access to a rotating library of albums from the fringes of improvised music."
+summary: "Catalytic Sound, a cooperative organization comprising 30 avant-garde instrumentalists and composers, is attempting to actualize this dream — and hoping to help other similarly minded musicians do the same for themselves. In January, the co-op’s partners launched Catalytic Soundstream, a small-scale streaming platform that charges listeners $10 per month for access to a rotating library of albums from the fringes of improvised music."
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = ""
+  caption: ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Top"
+  focal_point: "Top"
 
   # Show image only in page previews?
-  preview_only = false
+  preview_only: false
 
-+++
+---
 
 Andy Crush on Pitchfork recently wrote about Catalytic Sound ([Meet the Experimental Musicians Who Built Their Own Streaming Service](https://pitchfork.com/thepitch/meet-the-experimental-musicians-who-built-their-own-streaming-service/)), a collaborative platform in which experimental musicians built their own streaming service out of dissatisfaction with the status quo in digital audio streaming and the music industry, more in general.
 

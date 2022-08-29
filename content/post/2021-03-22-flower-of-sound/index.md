@@ -1,29 +1,29 @@
-+++
-title = "The Healing Effect of Sound and Music"
+---
+title: "The Healing Effect of Sound and Music"
 
-date = 2021-03-22T19:19:00+02:00
-lastmod = 2021-03-22T19:19:00+02:00
-draft = false
+date: 2021-03-22T19:19:00+02:00
+lastmod: 2021-03-22T19:19:00+02:00
+draft: false
 
-authors = ["Daniel Antal", "Emily Hansell Clark"]
+authors: ["Daniel Antal", "Emily Hansell Clark"]
 
-tags = ["Amersfoort", "Milano", "music therapy", "sound design", "startup", "JUMP Europen Music Market Accelerator"]
+tags: ["Amersfoort", "Milano", "Music therapy", "Sound design", "Startup", "JUMP Europen Music Market Accelerator"]
 
-summary = "Flower of Sound invites you to become more calm, inspired, energized or focused. Let the stress flow away and elevate your own frequency. Claudio is a fellow in the JUMP European Music Accelerator Program with a particularly interesting Milano and Amersfoort based startup, Flower of Sound."
+summary: "Flower of Sound invites you to become more calm, inspired, energized or focused. Let the stress flow away and elevate your own frequency. Claudio is a fellow in the JUMP European Music Accelerator Program with a particularly interesting Milano and Amersfoort based startup, Flower of Sound."
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = "Flower of Sound [elevate your frequency](https://vimeo.com/307457833)"
+  caption: "Flower of Sound [elevate your frequency](https://vimeo.com/307457833)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Top"
+  focal_point: "Top"
 
   # Show image only in page previews?
-  preview_only = false
+  preview_only: false
 
-+++
+---
 
 *Flower of Sound invites you to become more calm, inspired, energized or focused. Let the stress flow away and elevate your own frequency. Claudio is a fellow in the JUMP European Music Accelerator Program with a particularly interesting Milano and Amersfoort based startup, Flower of Sound. I visited him and his co-founder, Elise,in Seats2meet Amersfoort CS. I found their approach particularly interesting because the model of music streaming is already being overtaken by informative radio-style programming in the form of podcasts and, next to that, all sorts of functional sounds that help people to meditate, drown out noise in a co-working space, or just simply fall asleep. They made me realize that the boundary between the music market and something larger is becoming very thin, maybe disappearing.*
 

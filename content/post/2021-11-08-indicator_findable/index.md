@@ -1,31 +1,31 @@
-+++
-title = "How Can We Add Value to Public Data With Better Curation And Documentation?"
-subtitle = "Putting the data in context, making it understandable and connect it to other information."
-date = 2021-11-08T09:00:00
-lastmod = 2021-11-08T09:00:21+10:00
-draft = false
+---
+title: "How Can We Add Value to Public Data With Better Curation And Documentation?"
+subtitle: "Putting the data in context, making it understandable and connect it to other information."
+date: 2021-11-08T09:00:00
+lastmod: 2021-11-08T09:00:21+10:00
+draft: false
 
-authors = ["daniel_antal"]
+authors: ["daniel_antal"]
 
-tags = ["Digital Music Observatory","data-as-service", "API", "metadata", "FAIR principle", "data interoperability", "better documentation", "data curation"]
+tags: ["Digital Music Observatory","data-as-service", "API", "metadata", "FAIR principle", "data interoperability", "better documentation", "data curation"]
 
-summary = "Many people ask if we can really add value to free data that can be downloaded from the Internet by anybody. Public data usually requires a lot of work to become really valuable. To start with, it is not always easy to find."
+summary: "Many people ask if we can really add value to free data that can be downloaded from the Internet by anybody. Public data usually requires a lot of work to become really valuable. To start with, it is not always easy to find."
 
-project = "horizon"
+project: "horizon"
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = "Photo: [Jack Sloop](https://unsplash.com/photos/eYwn81sPkJ8)"
+  caption: "Photo: [Jack Sloop](https://unsplash.com/photos/eYwn81sPkJ8)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point: "Center"
 
   # Show image only in page previews?
-  preview_only = false
+  preview_only: false
 
-+++
+---
 
 In this example, we show a simple indicator: the *Turnover in Radio Broadcasting Enterprises* in many European countries. This is an important demand driver in the [Music economy pillar](https://music.dataobservatory.eu/#pillars) of our Digital Music Observatory, and important indicator in our more general [Cultural & Creative Sectors and Industries Observatory](https://ccsi.dataobservatory.eu/). We show a very similar example in our *Green Deal Data Observatory* with [environmental R&D public spending in Europe](https://greendeal.dataobservatory.eu/post/2021-11-08-indicator_findable/).
 

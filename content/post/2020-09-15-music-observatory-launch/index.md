@@ -1,29 +1,27 @@
-+++
-title = "Launching Our Demo Music Observatory"
+---
+title: "Launching Our Demo Music Observatory"
 
-date = 2020-09-15T08:00:39
-lastmod = 2020-09-15T08:00:39
-draft = false
+date: 2020-09-15T08:00:39
+lastmod: 2020-09-15T08:00:39
+draft: false
 
-authors = ["Daniel Antal", "Réka Szentirmay"]
+authors: ["Daniel Antal", "Réka Szentirmay"]
 
-tags = ["R", "open-data", "reproducible", "music", "observatory"]
+tags: ["R", "Open data", "Reproducible research", "Digital Music Observatory"]
 
-summary = "We would like to validate our open source, open data, open collaboration based reproducible observatory concept with the Demo Music Observatory. All feedback is welcome."
+summary: "We would like to validate our open source, open data, open collaboration based reproducible observatory concept with the Demo Music Observatory. All feedback is welcome."
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = ""
-
-  # Focal point (optional)
+  caption: ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point: "Center"
 
   # Show image only in page previews?
-  preview_only = false
+  preview_only: false
 
-+++
+---
 
 Today, on 15 September 2020, we officially launched our `minimal viable product` as we promised to partners back in February. This was a particularly difficult period for everybody. We aspired to deliver by September in a very different environment, our hopes for commissioned work went up in flames with the pandemic, and our targeted users, musicians and music entrepreneurs, talent managers, music venues lost most of their income. The organizations helping them, granting authorities, export offices and collective management societies are overwhelmed with the problem. During these troublesome times, our team expanded, attracted great new talent, and kept working.
 

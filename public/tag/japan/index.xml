@@ -2,28 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Japan | Data &amp; Lyrics</title>
-    <link>/tag/japan/</link>
-      <atom:link href="/tag/japan/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dataandlyrics.com/tag/japan/</link>
+      <atom:link href="https://dataandlyrics.com/tag/japan/index.xml" rel="self" type="application/rss+xml" />
     <description>Japan</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Mon, 30 Nov 2020 08:10:00 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 30 Nov 2020 08:10:00 +0200</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>https://dataandlyrics.com/media/icon_hu5bfde8608118b47b475864b70fd224b4_21674_512x512_fill_lanczos_center_3.png</url>
       <title>Japan</title>
-      <link>/tag/japan/</link>
+      <link>https://dataandlyrics.com/tag/japan/</link>
     </image>
     
     <item>
       <title>Listen Local: The Youniverse from East to Southwest</title>
-      <link>/post/2020-11-30-youniverse/</link>
+      <link>https://dataandlyrics.com/post/2020-11-30-youniverse/</link>
       <pubDate>Mon, 30 Nov 2020 08:10:00 +0200</pubDate>
-      <guid>/post/2020-11-30-youniverse/</guid>
+      <guid>https://dataandlyrics.com/post/2020-11-30-youniverse/</guid>
       <description>
 
 
 
 
-  
-  
 
 
 
@@ -35,33 +33,38 @@
 
 
 
-&lt;figure id=&#34;figure-guitarist-jerguš-oravec-and-singer-tammy-nižňanska&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/2020-11-30-youniverse/Youniverse_bw_hu058abfd6177ddd8e71df0e608d9f6cd1_975961_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Guitarist Jerguš Oravec and singer Tammy Nižňanska&#34;&gt;
-
-
-  &lt;img data-src=&#34;/post/2020-11-30-youniverse/Youniverse_bw_hu058abfd6177ddd8e71df0e608d9f6cd1_975961_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1440&#34; height=&#34;810&#34;&gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Guitarist Jerguš Oravec and singer Tammy Nižňanska
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-
+&lt;figure  id=&#34;figure-guitarist-jerguš-oravec-and-singer-tammy-nižňanska&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Guitarist Jerguš Oravec and singer Tammy Nižňanska&#34; srcset=&#34;
+               /post/2020-11-30-youniverse/Youniverse_bw_hu058abfd6177ddd8e71df0e608d9f6cd1_975961_336438933badeb8a76910cd0b748680c.webp 400w,
+               /post/2020-11-30-youniverse/Youniverse_bw_hu058abfd6177ddd8e71df0e608d9f6cd1_975961_915c0f074ad0a8c16b04b6f0a8a776c9.webp 760w,
+               /post/2020-11-30-youniverse/Youniverse_bw_hu058abfd6177ddd8e71df0e608d9f6cd1_975961_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://dataandlyrics.com/post/2020-11-30-youniverse/Youniverse_bw_hu058abfd6177ddd8e71df0e608d9f6cd1_975961_336438933badeb8a76910cd0b748680c.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Guitarist Jerguš Oravec and singer Tammy Nižňanska
+    &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;p&gt;The Youniverse as a band and creator collective was formed in 2015 around guitarist Jerguš Oravec and singer Tammy Nižňanska. Changing genres and forms, creating musical and visual worlds spiced up with BDSM attire they have been playing shows in Slovakia and releasing a full-length album in 2018.  Tammy is a bilingual Slovak, who is more comfortable in the English language due to her upbringing than in the country’s language, and against what she feels to be the expectation of the local audience, she sings in English.  No wonder that she is also looking for ways to expand their universe beyond the country borders.&lt;/p&gt;
 &lt;iframe width=&#34;740&#34; height=&#34;410&#34; src=&#34;https://www.youtube.com/embed/bYsOnmUeLHE&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;Tammy believes that The Youniverse it at a crossroads.  To be more successful at home, they would have to switch to their native Slovak language, and to be more successful in English they would have to connect better to foreign audiences.  She believes that the local audiences often seek a different quality than what she offers – the purity of her voice instead of auto-tune, or the native language instead of the language of rock and roll. Therefore, their main targets are the Southwestern part of the United States, particularly Los Angeles in California and Austin in Texas, and they believe that their eccentric show would probably create interest in Japan, too.&lt;/p&gt;
 &lt;p&gt;What do they know or think of big data algorithms? The Youniverse hired a Google Analytics manager and they try to figure out how they could reach out to fans in far away places, or to understand how their songs occasionally find their ways to people in different countries.  Tammy knows that Spotify employs playlist curators who are helped with computer-based algorithms to find new music, but she is not familiar with the process – that is why she volunteered to participate in our Listen Local project and our Feasibility Study for the creation of a Slovakian music promotion service.&lt;/p&gt;
 &lt;iframe src=&#34;https://open.spotify.com/embed/artist/1TIOHaY7eRJ6jZVA1NLYrk&#34; width=&#34;740&#34; height=&#34;410&#34; frameborder=&#34;0&#34; allowtransparency=&#34;true&#34; allow=&#34;encrypted-media&#34;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;em&gt;
-&lt;a href=&#34;https://dataandlyrics.com/tag/listen-local/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Listen Local&lt;/a&gt; is developing transparent algorithms and open source solutions to find new audiences for independent music. We want to correct the injustice and inherent bias of market leading big data algorithms. If you want&lt;/em&gt; &lt;code&gt;your music and audience&lt;/code&gt; &lt;em&gt;to be analysed in Listen Local, fill&lt;/em&gt; 
-&lt;a href=&#34;https://www.surveymonkey.com/r/ll_collector_2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this form&lt;/a&gt; &lt;em&gt;in. We will include you in our demo application for local music recommendations and our analysis to be revealed in December.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;a href=&#34;https://dataandlyrics.com/tag/listen-local/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Listen Local&lt;/a&gt; is developing transparent algorithms and open source solutions to find new audiences for independent music. We want to correct the injustice and inherent bias of market leading big data algorithms. If you want&lt;/em&gt; &lt;code&gt;your music and audience&lt;/code&gt; &lt;em&gt;to be analysed in Listen Local, fill&lt;/em&gt; &lt;a href=&#34;https://www.surveymonkey.com/r/ll_collector_2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this form&lt;/a&gt; &lt;em&gt;in. We will include you in our demo application for local music recommendations and our analysis to be revealed in December.&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;other-artists&#34;&gt;Other artists:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://dataandlyrics.com/post/2020-11-11-listen-local-robin-kester/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Robin Kestner&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dataandlyrics.com/post/2020-10-28-duka-mission/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Duka Base&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dataandlyrics.com/post/2020-11-25-katarzia/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Katarzia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dataandlyrics.com/post/2020-11-18-where-they-understand-us/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Twentees&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dataandlyrics.com/post/2021-04-04-wdekrey/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Willemijn de Krey&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dataandlyrics.com/post/2021-07-15-marie_de_la_montagne/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Marie de la Montagne&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;And a label:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://dataandlyrics.com/post/2020-12-14-tinyrooms/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tiny Rooms&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

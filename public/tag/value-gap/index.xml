@@ -1,55 +1,71 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>value-gap | Data &amp; Lyrics</title>
-    <link>/tag/value-gap/</link>
-      <atom:link href="/tag/value-gap/index.xml" rel="self" type="application/rss+xml" />
-    <description>value-gap</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Tue, 27 Oct 2020 10:00:00 +0200</lastBuildDate>
+    <title>Value gap | Data &amp; Lyrics</title>
+    <link>https://dataandlyrics.com/tag/value-gap/</link>
+      <atom:link href="https://dataandlyrics.com/tag/value-gap/index.xml" rel="self" type="application/rss+xml" />
+    <description>Value gap</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 27 Oct 2020 10:00:00 +0200</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>value-gap</title>
-      <link>/tag/value-gap/</link>
+      <url>https://dataandlyrics.com/media/icon_hu5bfde8608118b47b475864b70fd224b4_21674_512x512_fill_lanczos_center_3.png</url>
+      <title>Value gap</title>
+      <link>https://dataandlyrics.com/tag/value-gap/</link>
     </image>
     
     <item>
       <title>Why Did We Start The Demo Music Observatory?</title>
-      <link>/post/2020-10-27-why-start-music-observatory/</link>
+      <link>https://dataandlyrics.com/post/2020-10-27-why-start-music-observatory/</link>
       <pubDate>Tue, 27 Oct 2020 10:00:00 +0200</pubDate>
-      <guid>/post/2020-10-27-why-start-music-observatory/</guid>
+      <guid>https://dataandlyrics.com/post/2020-10-27-why-start-music-observatory/</guid>
       <description>&lt;p&gt;I was contacted during the consultation period of the Feasibility Study of the European Music Observatory. That led to an uneasy series of conversations with the consultants of this project, and a very enlightening series of conversations with European civil servants, music industry organizations, music managers and artists.  My main pitch was that every single assumption of this project is wrong.&lt;/p&gt;
-&lt;p&gt;They started from the assumption that there is hardly any data available on the European music scene &amp;ndash; whereas we found while building up CEEMID, errr, a pan-European music data observatory, is that music is one of the most data-driven industries in the world, it is choking in numbers, and the reason why this data is not visible is very different. They were talking about lack of data in fields where we already had about 2000 pan-European indicators ready. (See 
-&lt;a href=&#34;https://danielantal.eu/presentation/ceemid-observatory.html#/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introducing the CEEMID Observatory, 9/28/2019&lt;/a&gt; &lt;em&gt;large self-contained html file, takes time to load into browser&lt;/em&gt;)&lt;/p&gt;
+&lt;p&gt;They started from the assumption that there is hardly any data available on the European music scene &amp;ndash; whereas we found while building up CEEMID, errr, a pan-European music data observatory, is that music is one of the most data-driven industries in the world, it is choking in numbers, and the reason why this data is not visible is very different. They were talking about lack of data in fields where we already had about 2000 pan-European indicators ready. (See &lt;a href=&#34;https://danielantal.eu/presentation/ceemid-observatory.html#/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introducing the CEEMID Observatory, 9/28/2019&lt;/a&gt; &lt;em&gt;large self-contained html file, takes time to load into browser&lt;/em&gt;)&lt;/p&gt;
 &lt;h2 id=&#34;big-data-creates-injustice&#34;&gt;Big data creates injustice&lt;/h2&gt;
 &lt;p&gt;The music industry is scattered: it has the author’s or publishing side, the recording side, a large live music business and usually a very environment for classical (art) music. Within these segments there are hundreds of organizations in each EU country, and each have their own small or large datasets. The music industry has plenty of data, but it is not integrated, and it is often hidden from organizations that may have a conflicting agenda.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dataandlyrics.com/post/2020-10-27-why-start-music-observatory/three_income_streams_croatia.png&#34; alt=&#34;Fragmentation: Three income streams in Croatia&#34; title=&#34;Fragmentation: Three income streams in Croatia&#34;&gt;&lt;/p&gt;
-&lt;p&gt;The fragmentation of data makes these players easy prey in the era of big data. Companies who monopolise big datasets first and create 
-&lt;a href=&#34;https://blogs.scientificamerican.com/roots-of-unity/review-weapons-of-math-destruction/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;weapons of math destruction&lt;/a&gt; in the forms of algorithms that work for them, can take an unusually large share of the money created throughout the value chain. Proprietary, uncontrolled, big data trained algorithms reinforce inequality &amp;mdash; this makes Google’s YouTube, Spotify, but also Netflix in films or Amazon in books so powerful against its competitors, but also against competition regulators or suppliers &amp;mdash; in this case songwriters, video producers, filmmakers, book publishers and authors.  If their algorithm works against a creator, the creator is doomed, because half of the global sales are driven by secret algorithms.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-fragmentation-three-income-streams-in-croatia&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://dataandlyrics.com/post/2020-10-27-why-start-music-observatory/three_income_streams_croatia.png&#34; alt=&#34;Fragmentation: Three income streams in Croatia&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Fragmentation: Three income streams in Croatia
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;The fragmentation of data makes these players easy prey in the era of big data. Companies who monopolise big datasets first and create &lt;a href=&#34;https://blogs.scientificamerican.com/roots-of-unity/review-weapons-of-math-destruction/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;weapons of math destruction&lt;/a&gt; in the forms of algorithms that work for them, can take an unusually large share of the money created throughout the value chain. Proprietary, uncontrolled, big data trained algorithms reinforce inequality &amp;mdash; this makes Google’s YouTube, Spotify, but also Netflix in films or Amazon in books so powerful against its competitors, but also against competition regulators or suppliers &amp;mdash; in this case songwriters, video producers, filmmakers, book publishers and authors.  If their algorithm works against a creator, the creator is doomed, because half of the global sales are driven by secret algorithms.&lt;/p&gt;
 &lt;h2 id=&#34;big-data-vs-small-datasets-research-automation&#34;&gt;Big Data vs Small Datasets, Research Automation&lt;/h2&gt;
 &lt;p&gt;The problem of the music industry is not too little, but too much data. Music is drowning in numbers, and it has too little resources to turn much data into valuable information.&lt;/p&gt;
 &lt;p&gt;Our concept of the European Music Observatory is to pool enough resources to create value for rightsholders, talent managers, venues, festivals and the entire music ecosystem. Most music organization employ 1-5 people, and even the largest national organization, like collective management organizations, fall under the EU definition of &lt;em&gt;small- and medium sized enterprises&lt;/em&gt;. They do not have data scientists, market researchers, forecasters.  They are small organizations with small research budgets and very little time for researching. Nevertheless, with more than 60 partners in 12 countries we have shown that this is possible:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;we turned 700 million royalty statements into meaningful indicators about 
-&lt;a href=&#34;https://ceereport2020.ceemid.eu/market.html#recmarket&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the price and volume growth&lt;/a&gt; in 20 European streaming markets;&lt;/p&gt;
+&lt;p&gt;we turned 700 million royalty statements into meaningful indicators about &lt;a href=&#34;https://ceereport2020.ceemid.eu/market.html#recmarket&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the price and volume growth&lt;/a&gt; in 20 European streaming markets;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;calculated the value gap and the value of private copying in Hungary and 
-&lt;a href=&#34;https://dataandlyrics.com/publication/private_copying_croatia_2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Croatia&lt;/a&gt;;&lt;/p&gt;
+&lt;p&gt;calculated the value gap and the value of private copying in Hungary and &lt;a href=&#34;https://dataandlyrics.com/publication/private_copying_croatia_2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Croatia&lt;/a&gt;;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;helped closing the royalty gap in Hungary and Slovakia by helping collective management to significantly increase their royalty collection;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;digital_gap_2018.jpg&#34; width=&#34;90%&#34; alt=&#34;Difference between potential market (household cultural spending) and actual digital music revenues&#34; title=&#34;Closing the royalty gap in Europe&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;digital_gap_2018.jpg&#34; width=&#34;90%&#34; alt=&#34;Difference between potential market (household cultural spending) and actual digital music revenues&#34; title=&#34;Closing the royalty gap in Europe&#34; /&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;helped granting agencies to make more relevant 
-&lt;a href=&#34;https://dataandlyrics.com/project/grants/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;grant calls&lt;/a&gt; and designed indicators to measure the impact of their grants;&lt;/p&gt;
+&lt;p&gt;helped granting agencies to make more relevant &lt;a href=&#34;https://dataandlyrics.com/project/grants/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;grant calls&lt;/a&gt; and designed indicators to measure the impact of their grants;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;started the creation of 
-&lt;a href=&#34;https://dataandlyrics.com/project/listen-local/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;local recommendation engines&lt;/a&gt; that help the circulation of the small nation repertoires or city scenes in Europe or beyond.&lt;/p&gt;
+&lt;p&gt;started the creation of &lt;a href=&#34;https://dataandlyrics.com/project/listen-local/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;local recommendation engines&lt;/a&gt; that help the circulation of the small nation repertoires or city scenes in Europe or beyond.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;music-has-data-but-you-need-a-map&#34;&gt;Music Has Data, But You Need A Map&lt;/h2&gt;
@@ -57,12 +73,10 @@
 &lt;p&gt;We were able to collect at least 70% of the information content of the planned European Music Observatory, and far more, than most of the 50 data observatories we examined in Europe, because we took an approach inspired in open source software development: continuous opt-in, opt-out data integration, focusing on the synergies that partners can achieve, instead of aiming at endless discussions and compromises on sharing data. We never take away proprietary data from anybody, we just connect data among partners, and enrich it with open data. We would like to guide the industry from hierarchical database planning to the philosophy of open collaboration.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;We 
-&lt;a href=&#34;https://dataandlyrics.com/post/2020-09-11-creating-automated-observatory/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;automated&lt;/a&gt; most of the research tasks, to make it less costly, less error-prone, and require less labour input.  We can automate most of the data collection, data processing, imputation, validation, documentation, reporting, even some modelling.&lt;/p&gt;
+&lt;p&gt;We &lt;a href=&#34;https://dataandlyrics.com/post/2020-09-11-creating-automated-observatory/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;automated&lt;/a&gt; most of the research tasks, to make it less costly, less error-prone, and require less labour input.  We can automate most of the data collection, data processing, imputation, validation, documentation, reporting, even some modelling.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;We invested into harvesting the vast 
-&lt;a href=&#34;https://dataobservatory.eu/project/open_data/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;open data&lt;/a&gt; of the European Union and its member states.  In the EU, most taxpayer funded research data is freely available, but at a cost of significant data reprocessing cost. If the data was originally collected to calculate to inflation or monitor tax revenues, it needs to be significantly altered for the music industry to be useful.&lt;/p&gt;
+&lt;p&gt;We invested into harvesting the vast &lt;a href=&#34;https://dataobservatory.eu/project/open_data/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;open data&lt;/a&gt; of the European Union and its member states.  In the EU, most taxpayer funded research data is freely available, but at a cost of significant data reprocessing cost. If the data was originally collected to calculate to inflation or monitor tax revenues, it needs to be significantly altered for the music industry to be useful.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;We have found a way to connect many small data sources and open data. We can create big data from much small data, and deploy analytics, algorithms on collective datasets.&lt;/p&gt;
@@ -73,14 +87,11 @@
     
     <item>
       <title>Czech Music Development Program &amp; Comparative Market Research</title>
-      <link>/post/2019-11-09-nouvelle-prague/</link>
-      <pubDate>Sat, 09 Nov 2019 11:00:00 +0100</pubDate>
-      <guid>/post/2019-11-09-nouvelle-prague/</guid>
-      <description>&lt;p&gt;I was presenting some highlights from the work we started with in the organization of SoundCzech with 25 music professionals representing more than 20 stakeholders in the 
-&lt;a href=&#34;https://danielantal.eu/talk/2019_10_09_praha/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How We Would Like To Work in the Czech Music Industry in 2020&lt;/a&gt; &lt;em&gt;ex ante&lt;/em&gt; evaluation workshop in the context of the comparative 
-&lt;a href=&#34;https://danielantal.eu/post/2019-09-27_cee_report/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Central European Music Industry Report&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;You can find the full presentation, including slides not shown in the workshop 
-&lt;a href=&#34;https://danielantal.eu/presentation/nouvelle-prague&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;. The presentation is a self-contained big file of 20Mb, takes time to load.&lt;/em&gt;&lt;/p&gt;
+      <link>https://dataandlyrics.com/post/2019-11-09-nouvelle-prague/</link>
+      <pubDate>Sat, 09 Nov 2019 11:00:00 +0000</pubDate>
+      <guid>https://dataandlyrics.com/post/2019-11-09-nouvelle-prague/</guid>
+      <description>&lt;p&gt;I was presenting some highlights from the work we started with in the organization of SoundCzech with 25 music professionals representing more than 20 stakeholders in the &lt;a href=&#34;https://danielantal.eu/talk/2019_10_09_praha/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How We Would Like To Work in the Czech Music Industry in 2020&lt;/a&gt; &lt;em&gt;ex ante&lt;/em&gt; evaluation workshop in the context of the comparative &lt;a href=&#34;https://danielantal.eu/post/2019-09-27_cee_report/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Central European Music Industry Report&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;You can find the full presentation, including slides not shown in the workshop &lt;a href=&#34;https://danielantal.eu/presentation/nouvelle-prague&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;. The presentation is a self-contained big file of 20Mb, takes time to load.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;The work is done in a collaborative manner with the open Research Consortium started by SoundCzech, CEEMID &amp;amp; Consolidated Independent.  We would like to invite any Czech stakeholders, or even individuals to join our efforts.  Because in the music sector, all organization are microenterprise or small enterprise sized, they usually have no significant market research, innovation and strategic HR management capacities. We hope to give them in each country useful tools.&lt;/p&gt;
 &lt;p&gt;A very interesting part of the discussion in the morning was around transparency and potential conflict between stronger and weaker markets. Thank you for all colleagues who came on a Saturday morning after great showcase concerts the night before, and let&amp;rsquo;s stay in touch!&lt;/p&gt;
 </description>
@@ -88,41 +99,34 @@
     
     <item>
       <title>Private Copying in Croatia</title>
-      <link>/post/2019-10-31-croatia_pcr/</link>
-      <pubDate>Thu, 31 Oct 2019 12:00:00 +0100</pubDate>
-      <guid>/post/2019-10-31-croatia_pcr/</guid>
+      <link>https://dataandlyrics.com/post/2019-10-31-croatia_pcr/</link>
+      <pubDate>Thu, 31 Oct 2019 12:00:00 +0000</pubDate>
+      <guid>https://dataandlyrics.com/post/2019-10-31-croatia_pcr/</guid>
       <description>&lt;p&gt;After much delay, the first measurement of licensed use of music, audiovisual content, home copying and value transfer to media platforms in Croatia for a practical update of the private copying remuneration in the country.&lt;/p&gt;
-&lt;p&gt;You can find the whole study in English, a Croatian language summary and a press release in the 
-&lt;a href=&#34;https://danielantal.eu/publication/private_copying_croatia_2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Publications&lt;/a&gt; section.&lt;/p&gt;
+&lt;p&gt;You can find the whole study in English, a Croatian language summary and a press release in the &lt;a href=&#34;https://danielantal.eu/publication/private_copying_croatia_2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Publications&lt;/a&gt; section.&lt;/p&gt;
 &lt;p&gt;The models presented are simplified models of the Hungarian and Slovak models, with less detailed data. However, they show clearly that in less developed markets, compensation for unlicensed use remains a key issue. Only a very small fraction of households pay for music and film, and creators, performers, film writers are massively undercompensated in the Croatia, Bulgaria, Romania, Poland or the Baltic states of the EU.&lt;/p&gt;
 &lt;p&gt;My study, Private Copying in Croatia, argues that the cultural and welfare benefits of this private copying regime are enormous and important to create a good quality of life in Croatia for all age groups, but especially for young people, and it must be maintained. Furthermore, it is very advantageous for the tech sector, because their products are mainly used with unlicensed music and film copies, given that only a very small portion of the population pays for downloads, or subscribes to services like Spotify, Deezer or Netflix.&lt;/p&gt;
 &lt;p&gt;Even for those who are not interested in royalties, the first 3 chapters offer a very interesting introduction on how people listen to music, how musicians make music and how people copy it in the 21st century.&lt;/p&gt;
-&lt;p&gt;This project was a continuation of the 
-&lt;a href=&#34;https://danielantal.eu/post/2016-04-20_makk15/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;mapping of the Croatian music sector&lt;/a&gt;. I have created more detailed valuation and use studies of private copying and YouTube in Hungary (2015, 2017, 2018, 2019) and currently preparing similar studies in other countries, including Slovakia, as a continuation of the work started with the 
-&lt;a href=&#34;https://danielantal.eu/publication/slovak_music_industry_2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slovak Music Industry Report&lt;/a&gt; and generally my home copying work started in 2012 with 
-&lt;a href=&#34;https://danielantal.eu/post/cisac_goodg_13/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Value added by music in public performance and home copying: economic theory and empirical applications for tariff setting&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This project was a continuation of the &lt;a href=&#34;https://danielantal.eu/post/2016-04-20_makk15/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;mapping of the Croatian music sector&lt;/a&gt;. I have created more detailed valuation and use studies of private copying and YouTube in Hungary (2015, 2017, 2018, 2019) and currently preparing similar studies in other countries, including Slovakia, as a continuation of the work started with the &lt;a href=&#34;https://danielantal.eu/publication/slovak_music_industry_2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slovak Music Industry Report&lt;/a&gt; and generally my home copying work started in 2012 with &lt;a href=&#34;https://danielantal.eu/post/cisac_goodg_13/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Value added by music in public performance and home copying: economic theory and empirical applications for tariff setting&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Private Copying in Croatia</title>
-      <link>/publication/private_copying_croatia_2019/</link>
-      <pubDate>Thu, 31 Oct 2019 12:00:00 +0100</pubDate>
-      <guid>/publication/private_copying_croatia_2019/</guid>
-      <description>&lt;p&gt;Press release: 
-&lt;a href=&#34;https://www.zamp.hr/clanak/pregled/2197/studija-naknade-za-privatno-kopiranje-btl-u-hrvatskoj-drasticno-ispod-prosjeka-eu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Studija: Naknade za privatno kopiranje (BTL) u Hrvatskoj drastično ispod prosjeka EU&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Short summary in Croatian: 
-&lt;a href=&#34;https://www.zamp.hr/uploads/documents/Saetak_studije_na_hrvatskom_jeziku.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Privatno kopiranje u Hrvatskoj&lt;/a&gt;
-Full text in English: 
-&lt;a href=&#34;https://www.zamp.hr/uploads/documents/Studija_privatno_kopiranje_u_Hrvatskoj_DA_CEEMID.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Private Copying in Croatia&lt;/a&gt;&lt;/p&gt;
+      <link>https://dataandlyrics.com/publication/private_copying_croatia_2019/</link>
+      <pubDate>Thu, 31 Oct 2019 12:00:00 +0000</pubDate>
+      <guid>https://dataandlyrics.com/publication/private_copying_croatia_2019/</guid>
+      <description>&lt;p&gt;Press release: &lt;a href=&#34;https://www.zamp.hr/clanak/pregled/2197/studija-naknade-za-privatno-kopiranje-btl-u-hrvatskoj-drasticno-ispod-prosjeka-eu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Studija: Naknade za privatno kopiranje (BTL) u Hrvatskoj drastično ispod prosjeka EU&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Short summary in Croatian: &lt;a href=&#34;https://www.zamp.hr/uploads/documents/Saetak_studije_na_hrvatskom_jeziku.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Privatno kopiranje u Hrvatskoj&lt;/a&gt;
+Full text in English: &lt;a href=&#34;https://www.zamp.hr/uploads/documents/Studija_privatno_kopiranje_u_Hrvatskoj_DA_CEEMID.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Private Copying in Croatia&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>CEEMP Session: Licensing, How To Tackle The Value Gap And A Discussion on Licensing Initiatives</title>
-      <link>/post/2017-09-29_ceempc/</link>
-      <pubDate>Fri, 29 Sep 2017 00:00:00 +0200</pubDate>
-      <guid>/post/2017-09-29_ceempc/</guid>
+      <link>https://dataandlyrics.com/post/2017-09-29_ceempc/</link>
+      <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://dataandlyrics.com/post/2017-09-29_ceempc/</guid>
       <description>&lt;p&gt;CEEMID had the honor to participate in the third panel of CEEMP in Warsaw together with Ben McEwen from ICE; Jules Parker from Spotify and Dominic Houston from Netflix, and Chris Butler from Music Sales, who is also the chairperson of ICMP. Our panel was moderated by Nigel Elderton from peermusic, who is also the new chairperson of PRS in the UK.&lt;/p&gt;
 &lt;p&gt;Jules from Spotify spoke about their new initiative, Spotify for Publishers.  Spotify pays out about 20% of its royalties to publishers.  Because the labels are the bigger stakeholders, they often do not provide the necessary information for work identification in the case of publishers.&lt;/p&gt;
 &lt;p&gt;Dominic from Netflix is already one of the biggest buyers of music, and I believe that his company’s footprint will just continue growing.  His time buys licenses only 10% of their music from publishers. They mainly use original film music, and to a significant degree, catalogs.&lt;/p&gt;

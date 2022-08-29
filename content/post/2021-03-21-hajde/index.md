@@ -1,29 +1,29 @@
-+++
-title = "From France: Destination East"
+---
+title: "From France: Destination East"
 
-date = 2021-03-21T19:19:00+02:00
-lastmod = 2021-03-21T19:19:00+02:00
-draft = false
+date: 2021-03-21T19:19:00+02:00
+lastmod: 2021-03-21T19:19:00+02:00
+draft: false
 
-authors = ["Daniel Antal"]
+authors: ["Daniel Antal"]
 
-tags = ["Hajde", "France", "Skopje", "North Macedonia", "festivals", "JUMP Europen Music Market Accelerator"]
+tags: ["Hajde", "France", "Skopje", "North Macedonia", "festivals", "JUMP Europen Music Market Accelerator"]
 
-summary = "HAJDE is a digital platform specializing in eco-responsible and cultural tourism in Eastern Europe. Its founder, Thibaut Boudaud, is developing his project alongside our music observatory in the JUMP European Music Market Accelerator."
+summary: "HAJDE is a digital platform specializing in eco-responsible and cultural tourism in Eastern Europe. Its founder, Thibaut Boudaud, is developing his project alongside our music observatory in the JUMP European Music Market Accelerator."
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = "Thibaut Boudaud, JUMP fellow in 2021"
+  caption: "Thibaut Boudaud, JUMP fellow in 2021"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Top"
+  focal_point: "Top"
 
   # Show image only in page previews?
-  preview_only = false
+  preview_only: false
 
-+++
+---
 
 HAJDE is a digital platform specializing in eco-responsible and cultural tourism in Eastern Europe. Its founder, Thibaut Boudaud, is developing his project alongside our music observatory in the JUMP European Music Market Accelerator. I spoke with him on a video platform.
 

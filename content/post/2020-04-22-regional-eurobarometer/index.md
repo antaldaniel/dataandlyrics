@@ -1,31 +1,31 @@
-+++
-title = "Regionalized Cultural Access and Participation (Books And Libraries) And Science Attitudes Variables"
+---
+title: "Regionalized Cultural Access and Participation (Books And Libraries) And Science Attitudes Variables"
 
-date = 2020-04-22T17:00:00
-lastmod = 2020-04-22T17:30:00
-draft = false
+date: 2020-04-22T17:00:00
+lastmod: 2020-04-22T17:30:00
+draft: false
 
-authors = ["Daniel Antal, CFA"]
+authors: ["Daniel Antal, CFA"]
 
-tags = ["CEEMID", "open-data", "regional", "Eurobarometer" ]
+tags: ["CEEMID", "Open data", "Regional ata", "Eurobarometer" ]
 
-projects = ["Digital Music Observatory", "listen-local"]
+projects: ["Digital Music Observatory", "Listen local"]
 
-summary = "Our new R package, Eurobarometer, helps the creation of data panels and regionalized statistics from the Pan-European survey’s microdata. This allows the creation of many new statistical indicators for the CEEMID Music Observatory and for many market and policy research tasks."
+summary: "Our new R package, Eurobarometer, helps the creation of data panels and regionalized statistics from the Pan-European survey’s microdata. This allows the creation of many new statistical indicators for the CEEMID Music Observatory and for many market and policy research tasks."
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = "Regionalized Eurobarometer Survey Data"
+  caption: "Regionalized Eurobarometer Survey Data"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point: "Center"
 
   # Show image only in page previews?
-  preview_only = false
+  preview_only: false
 
-+++
+---
 
 My new R package, Eurobarometer, helps the creation of data panels and regionalized statistics from the Pan-European survey’s microdata. This allows the creation of many new statistical indicators for the CEEMID Music Observatory and for many market and policy research tasks.
 

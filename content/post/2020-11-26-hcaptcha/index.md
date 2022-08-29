@@ -1,30 +1,30 @@
-+++
-title = "Turning Tide: hCaptcha Competes With Big Tech On Privacy And Market Share"
+---
+title: "Turning Tide: hCaptcha Competes With Big Tech On Privacy And Market Share"
 
-date = 2020-11-26T15:10:00+02:00
-lastmod = 2020-11-26T15:55:00+02:00
-draft = false
+date: 2020-11-26T15:10:00+02:00
+lastmod: 2020-11-26T15:55:00+02:00
+draft: false
 
-authors = ["Daniel Antal"]
+authors: ["Daniel Antal"]
 
-tags = ["turning-tide", "ethics", "AI"]
+tags: ["turning-tide", "ethics", "AI"]
 
-summary = "How can you compete with Big Tech and their monopolistic market power, platform effects and army of highly paid developers? hCaptcha shows that with privacy, higher ethical standards and a different business model it is possible."
+summary: "How can you compete with Big Tech and their monopolistic market power, platform effects and army of highly paid developers? hCaptcha shows that with privacy, higher ethical standards and a different business model it is possible."
 
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = "hCapthca"
+  caption: "hCapthca"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point: "Center"
 
   # Show image only in page previews?
-  preview_only = false
+  preview_only: false
 
-+++
+---
 
 {{< figure src="featured.png" title="hCaptcha" >}}
 

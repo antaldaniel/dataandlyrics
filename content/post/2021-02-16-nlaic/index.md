@@ -1,31 +1,31 @@
-+++
-title = "Reprex Joins The Dutch AI Coalition"
+---
+title: "Reprex Joins The Dutch AI Coalition"
 
-date = 2021-02-16T17:10:00+02:00
-lastmod = 2021-02-16T17:10:00+02:00
-draft = false
+date: 2021-02-16T17:10:00+02:00
+lastmod: 2021-02-16T17:10:00+02:00
+draft: false
 
-authors = ["Daniel Antal"]
+authors: ["Daniel Antal"]
 
-tags = ["listen-local", "AI", "Netherlands", "algorithms", "NLAIC"]
+tags: ["Listen local", "AI", "Netherlands", "algorithms", "NLAIC"]
 
-summary = "Reprex is committed to develop its data platforms, or automated data observatories, and its Listen Local system in a trustworthy manner. Our startup participates in various scientific collaborations that are researching ideas on future regulation of copyright and fair competition with respect to AI algorithms, and joined the Dutch AI Coalition to position the company and the Netherlands at the forefront of knowledge and application of AI for prosperity and well-being, respecting Dutch and European values."
+summary: "Reprex is committed to develop its data platforms, or automated data observatories, and its Listen Local system in a trustworthy manner. Our startup participates in various scientific collaborations that are researching ideas on future regulation of copyright and fair competition with respect to AI algorithms, and joined the Dutch AI Coalition to position the company and the Netherlands at the forefront of knowledge and application of AI for prosperity and well-being, respecting Dutch and European values."
 
-projects = ["listen-local"]
+projects: ["Listen local"]
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = "Dutch AI Coalition - Nederlandse AI Coalitie"
+  caption: "Dutch AI Coalition - Nederlandse AI Coalitie"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Right"
+  focal_point: "Right"
 
   # Show image only in page previews?
-  preview_only = true
+  preview_only: true
 
-+++
+---
 
 Reprex, our start-up, is based in the Netherlands and the United States that validated its early products in the [Yes!Delft AI+Blockchain Lab](post/2020-09-25-yesdelft-validation/) in the Hague. In 2021, we decided to join the Dutch AI Coalition -- [NL AIC](https://nlaic.com/en/about-nl-aic/).
 

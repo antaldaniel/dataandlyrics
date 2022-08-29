@@ -1,45 +1,42 @@
-+++
-title = "National Market Shares on Spotify Hitlists"
+---
+title: "National Market Shares on Spotify Hitlists"
 
-date = 2019-09-20T10:30:00
-lastmod = 2019-09-23T18:30:00
-draft = false
+date: 2019-09-20T10:30:00
+lastmod: 2019-09-23T18:30:00
+draft: false
 
-authors = ["Daniel Antal"]
+authors: ["Daniel Antal"]
 
-tags = ["hitlists", "Spotify", "music-export", "data-animation", "Digital Music Observatory", "listen-local"]
+tags: ["hitlists", "Spotify", "music-export", "data-animation", "Digital Music Observatory", "Listen local"]
 
-projects = ["listen-local", "Digital Music Observatory", "music-export"]
-
-summary = "Which are the European countries that can successfully export songs on a streaming platform? What are the differences in cross-border hits from the UK, France, Germany, the Netherlands and Sweden?"
-
-# Projects (optional).
-# projects = ["market report", "royalties"]
+projects: 
+ - Listen Local
+ - Digital Music Observatory
+ 
+summary: "Which are the European countries that can successfully export songs on a streaming platform? What are the differences in cross-border hits from the UK, France, Germany, the Netherlands and Sweden?"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
-[image]
-  # Caption (optional)
-  caption = ""
+image:
+  caption: ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
+  focal_point: ""
+  preview_only: false
+---
 
-  # Show image only in page previews?
-  preview_only = false
+<!---
+[[gallery_item]]
+album: "gallery"
+image: "spotify_chart_mkt_share_20190915.png"
+caption: "National repertoire market shares on national Spotify hitlists, 15 September 2019."
 
 [[gallery_item]]
-album = "gallery"
-image = "spotify_chart_mkt_share_20190915.png"
-caption = "National repertoire market shares on national Spotify hitlists, 15 September 2019."
-
-[[gallery_item]]
-album = "gallery"
-image = "eu_cross_border_hits_20190915.png"
-caption = "European hits on an other European country's Spotify hitlist, 15 September 2019."
-+++
-
+album: "gallery"
+image: "eu_cross_border_hits_20190915.png"
+caption: "European hits on an other European country's Spotify hitlist, 15 September 2019."
+--->
 If we take a look at the streaming charts of the region, we usually find that the vast majority of the streamed songs are foreign songs - except for Austria, U.S. songs.  For comparison, we added a similar, middle-income emerging market (Argentina) and a rich, small-population English-speaking country, Australia to the chart. These countries seem to be in a similar position to the CEE countries.
 
 ![Market shares August-September 2019](/img/dataanimation/domestic_market_share_animation.gif)
@@ -64,6 +61,7 @@ The traditional sales channels protected CEE markets in several ways.  After EU 
 
 The broadcasting channel, which used the be the most important promotion channel, too, was protected in many European countries by national content quotas, or supported with generously funded national, regional, local public broadcasters who gave a preference to national composers, producers and performers. These market barriers are not present in the streaming markets, which poses many questions. Our research is aiming to answer these questions, but it took several years to build a data infrastructure that can help producing an accurate market overview.
 
-{{< gallery >}} 
+{{< gallery album="2019-09-23_cross-border-europe" >}}
+
 
 _These findings will be open to discussion on_ [Waves Music Showcase Festival and Conference](https://danielantal.eu/talk/waves_2019/) [click for details] _on 27 September 2019._

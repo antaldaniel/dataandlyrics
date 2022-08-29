@@ -2,92 +2,233 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>live-music | Data &amp; Lyrics</title>
-    <link>/tag/live-music/</link>
-      <atom:link href="/tag/live-music/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dataandlyrics.com/tag/live-music/</link>
+      <atom:link href="https://dataandlyrics.com/tag/live-music/index.xml" rel="self" type="application/rss+xml" />
     <description>live-music</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Wed, 10 Mar 2021 19:19:00 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 10 Mar 2021 19:19:00 +0200</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>https://dataandlyrics.com/media/icon_hu5bfde8608118b47b475864b70fd224b4_21674_512x512_fill_lanczos_center_3.png</url>
       <title>live-music</title>
-      <link>/tag/live-music/</link>
+      <link>https://dataandlyrics.com/tag/live-music/</link>
     </image>
     
     <item>
       <title>Lapee: Making Festivals More Accessible For Women</title>
-      <link>/post/2021-03-10-lapee/</link>
+      <link>https://dataandlyrics.com/post/2021-03-10-lapee/</link>
       <pubDate>Wed, 10 Mar 2021 19:19:00 +0200</pubDate>
-      <guid>/post/2021-03-10-lapee/</guid>
+      <guid>https://dataandlyrics.com/post/2021-03-10-lapee/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Gina Périer is a fellow in the JUMP European Music Market Accelerator. She is an architect trying to solve a serious problem before music festivals reopen after the pandemic: many, many women, all in one place… who need to pee.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;What is your personal connection to music and festivals?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;First of all, I like going to festivals, partying and listening to the concerts. Then, I used to work as an architect for Roskilde Festival in Denmark, together with my co-founder Alexander. For us, it was a great opportunity to observe the impact of our design on the festival and on the crowd behavior. We started then observing issues around and trying to find simple solutions to improve the festival environment.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;lapee_efficiency.png&#34; alt=&#34;Efficiency of urinals&#34;&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Efficiency of urinals&#34; srcset=&#34;
+               /post/2021-03-10-lapee/lapee_efficiency_hu4fa62e1f5db4d64229de598110d054bc_302402_2ae3b0d41cd593a70ffb9e4e9112cc3b.webp 400w,
+               /post/2021-03-10-lapee/lapee_efficiency_hu4fa62e1f5db4d64229de598110d054bc_302402_066aec223e1650a96fa2a400ec73b820.webp 760w,
+               /post/2021-03-10-lapee/lapee_efficiency_hu4fa62e1f5db4d64229de598110d054bc_302402_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://dataandlyrics.com/post/2021-03-10-lapee/lapee_efficiency_hu4fa62e1f5db4d64229de598110d054bc_302402_2ae3b0d41cd593a70ffb9e4e9112cc3b.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Lapee gives womxn the ability to pee in a secure and clean environment without waiting in line. Apart from personal experience, what sort of research did you do to understand the scope of the problem and the potential market? How do you feed back user experience to the design process?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;While being at the festival that I was working for, I was extremely concerned about how difficult it was to just pee as a womxn. No matter how much fun I was having, when it comes to pee, everything turns into a nightmare because we know we’re on to a good struggle. We’ll probably lose our friends, miss half of the concert, stay in an endless line to finally lock ourselves into a sticky cabin. Many times we would go for the “other option,” commonly known as the bushes, which is quite unpleasant.&lt;/p&gt;
 &lt;p&gt;Walking around the festival populated with male urinals, it was quite hard to understand why there wasn’t a proper industrialized solution for womxn yet.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;lapee_design.png&#34; alt=&#34;Urinal designed for women&#34;&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Urinal designed for women&#34; srcset=&#34;
+               /post/2021-03-10-lapee/lapee_design_hu4fa62e1f5db4d64229de598110d054bc_249970_4461785ab118aa423bf0c7dbd2ce1947.webp 400w,
+               /post/2021-03-10-lapee/lapee_design_hu4fa62e1f5db4d64229de598110d054bc_249970_d3757fc5ee06554c62d2fb4f97714993.webp 760w,
+               /post/2021-03-10-lapee/lapee_design_hu4fa62e1f5db4d64229de598110d054bc_249970_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://dataandlyrics.com/post/2021-03-10-lapee/lapee_design_hu4fa62e1f5db4d64229de598110d054bc_249970_4461785ab118aa423bf0c7dbd2ce1947.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;When we started drawing Lapee, we made some 1/1 cardboard models and we invited different womxn to check it out.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Can you name another product or service that help womxn to participate more in music, either as members of the audience, or as creators, or technicians that you like?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://www.instagram.com/clubmafia99/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;clubmafia99.png&#34; alt=&#34;clubmafia99&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.instagram.com/clubmafia99/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;clubmafia99&#34; srcset=&#34;
+               /post/2021-03-10-lapee/clubmafia99_hu15dd8c001fea07a9c713ca066b09bd9b_471538_dbbdac6c94920d7be92f7e65de085388.webp 400w,
+               /post/2021-03-10-lapee/clubmafia99_hu15dd8c001fea07a9c713ca066b09bd9b_471538_ad234816c8fa334214f6d6cf8e37034e.webp 760w,
+               /post/2021-03-10-lapee/clubmafia99_hu15dd8c001fea07a9c713ca066b09bd9b_471538_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://dataandlyrics.com/post/2021-03-10-lapee/clubmafia99_hu15dd8c001fea07a9c713ca066b09bd9b_471538_dbbdac6c94920d7be92f7e65de085388.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;I think that safety is still quite an issue within the music industry. I have a friend who created an organisation, Club Mafia, which consists of having a community of people that can educate and help people in trouble or making trouble. Basically they are people in between safety guards and participants that are easier to reach out to and that are more understanding and value minded. They will listen to you if you feel uncomfortable and will go and explain to the person how not to make someone uncomfortable. I think it’s a great initiative!&lt;/p&gt;
 &lt;p&gt;I would say that the major problems I can observe in music are sexism, queerphobia and racism, and some ideas can help fighting against them.&lt;/p&gt;
 &lt;p&gt;So I hope for more ideas that can improve equality. I also really hope for music organisations to speak up, be inclusive, promote better equality and not tolerate sexism, queerphobia and racism. The audience should educate themselves and organisations should use their power and influence to speak and educate their audience.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;You were selected to JUMP along with us. What do you expect to gain from this European Music Accelerator?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://www.jumpmusic.eu/fellow2021/lapee/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;JUMP_Gina_P%C3%A9rier.png&#34; alt=&#34;JUMP Fellow Gina Périer&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;I hope to develop a great relevant network and make Lapee a normality in festivals :)&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;In our 
-&lt;a href=&#34;https://dataandlyrics.com/project/listen-local/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Listen Local&lt;/a&gt; project, we try to bypass recommendation and gatekeeper biases and make sure that local music scenes are connected to local people, and not colonized by the global music industry. Can you recommend any bands, labels, or local festivals from the area where you live?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Check out this:&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://www.instagram.com/ved_siden_af/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;ved_siden_af.png&#34; alt=&#34;ved_siden_af&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;… and this:
+&lt;p&gt;&lt;a href=&#34;https://www.jumpmusic.eu/fellow2021/lapee/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
 
-&lt;a href=&#34;https://www.instagram.com/endurance.cph/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;endurance_cph.png&#34; alt=&#34;endurance.chp&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;JUMP Fellow Gina Périer&#34; srcset=&#34;
+               /post/2021-03-10-lapee/JUMP_Gina_P%C3%A9rier_hu4fa62e1f5db4d64229de598110d054bc_672690_530177843e578d0f2a76162374b47684.webp 400w,
+               /post/2021-03-10-lapee/JUMP_Gina_P%C3%A9rier_hu4fa62e1f5db4d64229de598110d054bc_672690_92e65fef725f67ef6ff2d8af109ee47c.webp 760w,
+               /post/2021-03-10-lapee/JUMP_Gina_P%C3%A9rier_hu4fa62e1f5db4d64229de598110d054bc_672690_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://dataandlyrics.com/post/2021-03-10-lapee/JUMP_Gina_P%C3%A9rier_hu4fa62e1f5db4d64229de598110d054bc_672690_530177843e578d0f2a76162374b47684.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I hope to develop a great relevant network and make Lapee a normality in festivals :)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;In our &lt;a href=&#34;https://dataandlyrics.com/project/listen-local/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Listen Local&lt;/a&gt; project, we try to bypass recommendation and gatekeeper biases and make sure that local music scenes are connected to local people, and not colonized by the global music industry. Can you recommend any bands, labels, or local festivals from the area where you live?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Check out this:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.instagram.com/ved_siden_af/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;ved_siden_af&#34; srcset=&#34;
+               /post/2021-03-10-lapee/ved_siden_af_hu4fa62e1f5db4d64229de598110d054bc_789487_16de2b64228fd686303b479b5e1ec1a8.webp 400w,
+               /post/2021-03-10-lapee/ved_siden_af_hu4fa62e1f5db4d64229de598110d054bc_789487_2cacf3ceacc64dbf22e1bf24b7a0d020.webp 760w,
+               /post/2021-03-10-lapee/ved_siden_af_hu4fa62e1f5db4d64229de598110d054bc_789487_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://dataandlyrics.com/post/2021-03-10-lapee/ved_siden_af_hu4fa62e1f5db4d64229de598110d054bc_789487_16de2b64228fd686303b479b5e1ec1a8.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;… and this:
+&lt;a href=&#34;https://www.instagram.com/endurance.cph/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;endurance.chp&#34; srcset=&#34;
+               /post/2021-03-10-lapee/endurance_cph_hu4fa62e1f5db4d64229de598110d054bc_793009_2573f1794ef941d09134ee2f0b5f4707.webp 400w,
+               /post/2021-03-10-lapee/endurance_cph_hu4fa62e1f5db4d64229de598110d054bc_793009_7046e5dea00724e0d6ea50042efeff67.webp 760w,
+               /post/2021-03-10-lapee/endurance_cph_hu4fa62e1f5db4d64229de598110d054bc_793009_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://dataandlyrics.com/post/2021-03-10-lapee/endurance_cph_hu4fa62e1f5db4d64229de598110d054bc_793009_2573f1794ef941d09134ee2f0b5f4707.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;how-many-awards-has-lapee-won&#34;&gt;How many awards has Lapee won?&lt;/h2&gt;
 &lt;p&gt;Shortlisted for the Danish Design Award in DK — Shortlisted in the Best Toilet Provider in UK — Shortlisted in the Best Green Supplier of the year in UK — 2nd prize Green Supplier and Innovation Award in the UK — 1st prize in Global Creative Business Cup 2019 — 1st prize in Creative Business Cup DK — 2019 Gina Périer as rising star of the year from Women Tech Summit DK — 2019 Golden metal of concours Lépine in FR 2019 Best Danish-French startup in DK — 2019 Best startup at the She conference in NO — 2019 Finalists of the Danish tech challenge in DK 2018&lt;/p&gt;
 &lt;h2 id=&#34;further-lapee-details&#34;&gt;Further Lapee details&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;All product photos and infographics are taken from 
-&lt;a href=&#34;https://www.lapee.dk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;lapee.dk&lt;/a&gt;. Gina is very vocal that the product is meant to be a safe, quick, comfortable choice for everybody who identifies as a woman, but it should not be viewed as a unisex solution. “Who ever identifies as women or femme, and feels safer squatting, is more than welcome to use Lapee. Boys you pee literally e-v-e-r-y-w-h-e-r-e, leave some space for the girls please. Thanks!”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;All product photos and infographics are taken from &lt;a href=&#34;https://www.lapee.dk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;lapee.dk&lt;/a&gt;. Gina is very vocal that the product is meant to be a safe, quick, comfortable choice for everybody who identifies as a woman, but it should not be viewed as a unisex solution. “Who ever identifies as women or femme, and feels safer squatting, is more than welcome to use Lapee. Boys you pee literally e-v-e-r-y-w-h-e-r-e, leave some space for the girls please. Thanks!”&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://www.lapee.dk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lapee&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://www.jumpmusic.eu/fellow2021/lapee/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gina Périer JUMP fellow 2021&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://www.instagram.com/clubmafia99/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;clubmafia99&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://www.instagram.com/ved_siden_af/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ved_siden_af&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://www.instagram.com/endurance.cph/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;endurance.cph&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://dataandlyrics.com/project/listen-local/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Listen Local&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://www.jumpmusic.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JUMP European Music Accelerator&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.lapee.dk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lapee&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jumpmusic.eu/fellow2021/lapee/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gina Périer JUMP fellow 2021&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.instagram.com/clubmafia99/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;clubmafia99&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.instagram.com/ved_siden_af/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ved_siden_af&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.instagram.com/endurance.cph/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;endurance.cph&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dataandlyrics.com/project/listen-local/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Listen Local&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jumpmusic.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JUMP European Music Accelerator&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>Inquiry Into The Live Music Industry In Wales</title>
-      <link>/post/2020-11-06-welsh-covid-response/</link>
+      <link>https://dataandlyrics.com/post/2020-11-06-welsh-covid-response/</link>
       <pubDate>Fri, 06 Nov 2020 08:10:00 +0200</pubDate>
-      <guid>/post/2020-11-06-welsh-covid-response/</guid>
-      <description>&lt;p&gt;In July 2020, Professor Paul Carr of 
-&lt;a href=&#34;http://staff.southwales.ac.uk/users/381-pcarr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of South Wales&lt;/a&gt; was commissioned by 
-&lt;a href=&#34;https://senedd.wales/en/Pages/Home.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Senedd Cymru – the Welsh Parliament&lt;/a&gt; to create a report examining the ‘&lt;em&gt;state of play&lt;/em&gt;’ in the post Covid-19 music industries in Wales.&lt;/p&gt;
+      <guid>https://dataandlyrics.com/post/2020-11-06-welsh-covid-response/</guid>
+      <description>&lt;p&gt;In July 2020, Professor Paul Carr of &lt;a href=&#34;http://staff.southwales.ac.uk/users/381-pcarr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of South Wales&lt;/a&gt; was commissioned by &lt;a href=&#34;https://senedd.wales/en/Pages/Home.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Senedd Cymru – the Welsh Parliament&lt;/a&gt; to create a report examining the ‘&lt;em&gt;state of play&lt;/em&gt;’ in the post Covid-19 music industries in Wales.&lt;/p&gt;
 &lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;WATCH: &lt;a href=&#34;https://twitter.com/pcarr?ref_src=twsrc%5Etfw&#34;&gt;@pcarr&lt;/a&gt; came to give evidence to &lt;a href=&#34;https://twitter.com/SeneddCWLC?ref_src=twsrc%5Etfw&#34;&gt;@SeneddCWLC&lt;/a&gt;&lt;br&gt; for our inquiry into Live Music Industry in Wales 🎵 &lt;a href=&#34;https://t.co/GtrYPOg8iW&#34;&gt;pic.twitter.com/GtrYPOg8iW&lt;/a&gt;&lt;/p&gt;&amp;mdash; Senedd CWLC (@SeneddCWLC) &lt;a href=&#34;https://twitter.com/SeneddCWLC/status/1185216516201111555?ref_src=twsrc%5Etfw&#34;&gt;October 18, 2019&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;
-&lt;a href=&#34;https://twitter.com/SeneddCWLC/status/1185216516201111555?ref_src=twsrc%5Etfw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Click through&lt;/a&gt; to see a short interview with Prof. Paul Carr&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;The music industries in Wales consist of both part-time and full-time stakeholders and  although dominated by live and recording sectors, also comprise of other sub-sectors, and like in other countries that we surveyed in Central and Eastern Europe, many stakeholders in the music industries are freelancers, following 
-&lt;a href=&#34;https://ceereport2020.ceemid.eu/supply.html#creators-of-music&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;multi-track careers&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Prof. Carr&amp;rsquo;s report is particularly interesting for our 
-&lt;a href=&#34;https://dataandlyrics.com/project/music-observatory/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Music Observatory&lt;/a&gt; project because the Welsh nation is a part of a larger entity, the United Kingdom, and many important statistical products may need to be recreated for this sub-national level &amp;mdash; something we have been doing with 
-&lt;a href=&#34;https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;our survey retroharmonization&lt;/a&gt; and 
-&lt;a href=&#34;https://regions.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;regional statistical tools&lt;/a&gt; for some time.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;The Welsh Music Industries in a Post-Covid World&lt;/em&gt; will be presented to the 
-&lt;a href=&#34;https://senedd.wales/en/bus-home/committees/Pages/Committee-Profile.aspx?cid=445&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Culture, Welsh Language and Communications Committee&lt;/a&gt; later this month, and we will publish the entire report in English and start a discussion around it, too.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;a href=&#34;https://twitter.com/SeneddCWLC/status/1185216516201111555?ref_src=twsrc%5Etfw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Click through&lt;/a&gt; to see a short interview with Prof. Paul Carr&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The music industries in Wales consist of both part-time and full-time stakeholders and  although dominated by live and recording sectors, also comprise of other sub-sectors, and like in other countries that we surveyed in Central and Eastern Europe, many stakeholders in the music industries are freelancers, following &lt;a href=&#34;https://ceereport2020.ceemid.eu/supply.html#creators-of-music&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;multi-track careers&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Prof. Carr&amp;rsquo;s report is particularly interesting for our &lt;a href=&#34;https://dataandlyrics.com/project/music-observatory/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Music Observatory&lt;/a&gt; project because the Welsh nation is a part of a larger entity, the United Kingdom, and many important statistical products may need to be recreated for this sub-national level &amp;mdash; something we have been doing with &lt;a href=&#34;https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;our survey retroharmonization&lt;/a&gt; and &lt;a href=&#34;https://regions.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;regional statistical tools&lt;/a&gt; for some time.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The Welsh Music Industries in a Post-Covid World&lt;/em&gt; will be presented to the &lt;a href=&#34;https://senedd.wales/en/bus-home/committees/Pages/Committee-Profile.aspx?cid=445&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Culture, Welsh Language and Communications Committee&lt;/a&gt; later this month, and we will publish the entire report in English and start a discussion around it, too.&lt;/p&gt;
 </description>
     </item>
     

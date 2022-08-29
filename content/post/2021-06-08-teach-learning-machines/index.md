@@ -1,30 +1,30 @@
-+++
-title = "Trustworthy AI: Check Where the Machine Learning Algorithm is Learning From"
-subtitle = "We do care what our children learn, but we do not care yet about what our robots learn from"
-date = 2021-06-08T12:10:00
-lastmod = 2021-06-08T12:10:00
-draft = false
+---
+title: "Trustworthy AI: Check Where the Machine Learning Algorithm is Learning From"
+subtitle: "We do care what our children learn, but we do not care yet about what our robots learn from"
+date: 2021-06-08T12:10:00
+lastmod: 2021-06-08T12:10:00
+draft: false
 
-authors = ["Daniel Antal"]
+authors: ["Daniel Antal"]
 
-project = ["listen-local", "Digital Music Observatory"]
+project: ["Listen local", "Digital Music Observatory"]
 
-tags = ["algorithms", "Digital Music Observatory", "trustworthy-ai", "recommendations", "listen-local"]
+tags: ["algorithms", "Digital Music Observatory", "Trustworthy AI", "recommendations", "Listen local"]
 
-summary = "We do care what our children learn, but we do not care yet about what our robots learn from.  One key idea behind trustworthy AI is that you verify what data sources your machine learning algorithms can learn from.  As we have emphasised in our forthcoming academic paper and in our experiments, one key problem that goes wrong when you see too few small country artists, or too few womxn in the charts is that the big tech recommendation systems and other autonomous systems are learning from historically biased or patchy data."
+summary: "We do care what our children learn, but we do not care yet about what our robots learn from.  One key idea behind trustworthy AI is that you verify what data sources your machine learning algorithms can learn from.  As we have emphasised in our forthcoming academic paper and in our experiments, one key problem that goes wrong when you see too few small country artists, or too few womxn in the charts is that the big tech recommendation systems and other autonomous systems are learning from historically biased or patchy data."
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = "Join our [Digital Music Observatory](https://music.dataobservatory.eu/) as a user, curator, developer or help building our business case"
+  caption: "Join our [Digital Music Observatory](https://music.dataobservatory.eu/) as a user, curator, developer or help building our business case"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point: "Center"
 
   # Show image only in page previews?
-  preview_only = false
-+++
+  preview_only: false
+---
 
 
 We do care what our children learn, but we do not care yet about what our robots learn from.  One key idea behind trustworthy AI is that you verify what data sources your machine learning algorithms can learn from.  As we have emphasised in our forthcoming academic paper and in our experiments, one key problem that goes wrong when you see too few small country artists, or too few womxn in the charts is that the big tech recommendation systems and other autonomous systems are learning from historically biased or patchy data.

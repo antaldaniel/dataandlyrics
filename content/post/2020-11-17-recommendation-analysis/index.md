@@ -1,32 +1,31 @@
-+++
-title = "Who Is Not Recommended On Spotify?"
+---
+title: "Who Is Not Recommended On Spotify?"
 
-date = 2020-11-17T11:03:00+02:00
-lastmod = 2020-11-17T11:03:00+02:00
-draft = false
+date: 2020-11-17T11:03:00+02:00
+lastmod: 2020-11-17T11:03:00+02:00
+draft: false
 
-authors = ["Daniel Antal"]
+authors: ["Daniel Antal"]
 
-tags = ["listen-local", "big-data", "recommendations", "streaming", "spotify"]
+tags: ["Listen local", "Big data", "recommendations", "streaming", "Spotify"]
 
-summary = "You need to have 1000x more followers to double the routes leading to your artist profile and recordings with the current algorithms. We need new recommendation engines to dig out the local artists buried under a pile of international hits."
+summary: "You need to have 1000x more followers to double the routes leading to your artist profile and recordings with the current algorithms. We need new recommendation engines to dig out the local artists buried under a pile of international hits."
 
-projects = ["listen-local"]
+projects: ["Listen local"]
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your project's folder. 
-[image]
+image:
   # Caption (optional)
-  caption = ""
+  caption: ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Left"
+  focal_point: "Left"
 
   # Show image only in page previews?
-  preview_only = false
+  preview_only: false
 
-+++
+---
 
 *We are analysing how recommendations work for the artists involved in our [Listen Local](https://dataandlyrics.com/project/listen-local/) experiment. We created a testing database with their music and other artists from their cities, regions and countries. We need new recommendation engines to dig out from a pile of international hits the local artists.*
 

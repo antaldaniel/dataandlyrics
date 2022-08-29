@@ -1,35 +1,56 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>living standards | Data &amp; Lyrics</title>
-    <link>/tag/living-standards/</link>
-      <atom:link href="/tag/living-standards/index.xml" rel="self" type="application/rss+xml" />
-    <description>living standards</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Sun, 21 Jul 2019 18:00:00 +0200</lastBuildDate>
+    <title>Living standards | Data &amp; Lyrics</title>
+    <link>https://dataandlyrics.com/tag/living-standards/</link>
+      <atom:link href="https://dataandlyrics.com/tag/living-standards/index.xml" rel="self" type="application/rss+xml" />
+    <description>Living standards</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 21 Jul 2019 18:00:00 +0000</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>living standards</title>
-      <link>/tag/living-standards/</link>
+      <url>https://dataandlyrics.com/media/icon_hu5bfde8608118b47b475864b70fd224b4_21674_512x512_fill_lanczos_center_3.png</url>
+      <title>Living standards</title>
+      <link>https://dataandlyrics.com/tag/living-standards/</link>
     </image>
     
     <item>
       <title>Musicians’ Living Standards And Life Satisfaction In The CEE Region</title>
-      <link>/post/2019-07-21_life_satisfaction/</link>
-      <pubDate>Sun, 21 Jul 2019 18:00:00 +0200</pubDate>
-      <guid>/post/2019-07-21_life_satisfaction/</guid>
+      <link>https://dataandlyrics.com/post/2019-07-21_life_satisfaction/</link>
+      <pubDate>Sun, 21 Jul 2019 18:00:00 +0000</pubDate>
+      <guid>https://dataandlyrics.com/post/2019-07-21_life_satisfaction/</guid>
       <description>&lt;p&gt;In order to get a high-level comparison among the living standards of musicians, we use the standard survey question used in Eurobarometer surveys for decades: how often have had the respondent difficulties with paying bills in the past year?   This is a very good starting point because it makes comparable the rough material standards of musicians and other professional groups in the EU, irrespective of local earnings and living costs.&lt;/p&gt;
 &lt;p&gt;Musicians everywhere, including rich countries like Germany, Austria and Slovenia have more problems with paying their bills than the general population in their countries.  The only seemingly different country is Bulgaria, but in this case, the self-reported difference is small, and generally Bulgarian musicians and other Bulgarian people have similarly frequent difficulties with paying their bills.&lt;/p&gt;
-&lt;p&gt;Working in an emerging economy is more stressful than in a mature economy – making ends is more difficult, risks are greater and usually rules change faster. No wonder that people generally report higher level of life satisfaction in countries where the living standards are also higher: average life satisfaction in a country is 
-&lt;a href=&#34;https://ourworldindata.org/happiness-and-life-satisfaction&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;greatly influenced&lt;/a&gt; by national income and general health level, measured by life expectancy.  However, it is also recorded since the 1970s that after reaching a certain level of living standards, life satisfaction does not increase further with economic conditions. Other factors, such as vocation, work-life balance and political factors play a role, too. Working in an emerging economy is more stressful than in a mature economy – making ends is more difficult, risks are greater and usually rules change faster.&lt;/p&gt;
+&lt;p&gt;Working in an emerging economy is more stressful than in a mature economy – making ends is more difficult, risks are greater and usually rules change faster. No wonder that people generally report higher level of life satisfaction in countries where the living standards are also higher: average life satisfaction in a country is &lt;a href=&#34;https://ourworldindata.org/happiness-and-life-satisfaction&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;greatly influenced&lt;/a&gt; by national income and general health level, measured by life expectancy.  However, it is also recorded since the 1970s that after reaching a certain level of living standards, life satisfaction does not increase further with economic conditions. Other factors, such as vocation, work-life balance and political factors play a role, too. Working in an emerging economy is more stressful than in a mature economy – making ends is more difficult, risks are greater and usually rules change faster.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-lifesatisfaction&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Comparing the life satisfaction levels of musicians with the general public, 2018-2019.&#34; srcset=&#34;
+               /media/img/blogposts_2019/conversion_to_payer_hu3bfcbb8e8c282e78115e5d3c1cd8abb7_49772_1187067d0a5d4dbdce114338b29fd32a.webp 400w,
+               /media/img/blogposts_2019/conversion_to_payer_hu3bfcbb8e8c282e78115e5d3c1cd8abb7_49772_4b0e8131a995bf6dcc102e48321d45ba.webp 760w,
+               /media/img/blogposts_2019/conversion_to_payer_hu3bfcbb8e8c282e78115e5d3c1cd8abb7_49772_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://dataandlyrics.com/media/img/blogposts_2019/conversion_to_payer_hu3bfcbb8e8c282e78115e5d3c1cd8abb7_49772_1187067d0a5d4dbdce114338b29fd32a.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;543&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Comparing the life satisfaction levels of musicians with the general public, 2018-2019.
+    &lt;/figcaption&gt;&lt;/figure&gt;.&lt;/p&gt;
 &lt;p&gt;In the emerging music business countries, it is very important to see that the musicians not only earn little money, but as freelancers their income is mainly based on live performances, peaking in the festival season and in December. This income is usually taxed at far higher rates in the CEE region than in Western Europe or in non-creative industries.  Royalties, which should balance variable live performance earnings are far lower both as a percentage of total musician income and in euro terms than in advanced markets. This is often coupled with higher taxation, too.&lt;/p&gt;
-&lt;p&gt;To avoid the bias of higher satisfaction levels in richer environments, we measure musician’s self-reported life satisfaction levels against the national averages from the 
-&lt;a href=&#34;https://dbk.gesis.org/dbksearch/sdesc2.asp?no=7489&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2018/11 Eurobarometer sample&lt;/a&gt;, scaled between the numerical values of -2 (not at all satisfied) to 2 (very satisfied).&lt;/p&gt;
-
-
-
-
-
-  
+&lt;p&gt;To avoid the bias of higher satisfaction levels in richer environments, we measure musician’s self-reported life satisfaction levels against the national averages from the &lt;a href=&#34;https://dbk.gesis.org/dbksearch/sdesc2.asp?no=7489&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2018/11 Eurobarometer sample&lt;/a&gt;, scaled between the numerical values of -2 (not at all satisfied) to 2 (very satisfied).&lt;/p&gt;
 
 
 
@@ -41,32 +62,23 @@
 
 
 
-&lt;figure id=&#34;figure-comparing-the-life-satisfaction-levels-of-musicians-with-the-general-public-2018-2019&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/musician_charts/life_satisfaction_levels.jpg&#34; data-caption=&#34;Comparing the life satisfaction levels of musicians with the general public, 2018-2019.&#34;&gt;
 
 
-  &lt;img src=&#34;/img/musician_charts/life_satisfaction_levels.jpg&#34; alt=&#34;&#34;  &gt;
-&lt;/a&gt;
 
-
-  
-  
-  &lt;figcaption&gt;
-    Comparing the life satisfaction levels of musicians with the general public, 2018-2019.
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-
+&lt;figure  id=&#34;figure-comparing-the-life-satisfaction-levels-of-musicians-with-the-general-public-2018-2019&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;musician_charts/life_satisfaction_levels.jpg&#34; alt=&#34;Comparing the life satisfaction levels of musicians with the general public, 2018-2019.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Comparing the life satisfaction levels of musicians with the general public, 2018-2019.
+    &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;p&gt;Our comparison shows that in most of our surveyed countries, musicians are more satisfied with their lives than the average person, despite having more material difficulties.  Of course, age, and other factors can contribute to this, but a vocational calling is certainly an important aspect, too.  The exceptions are, interestingly, Austria and Slovenia, where the general population has a very high level of life satisfaction, and where both musicians and the general public are generally more satisfied with their lives than in the other countries. In these cases, compared to the general population, music professional are less satisfied with their lives. In Serbia our sample is too small to draw real conclusions.&lt;/p&gt;
 
 
 
 
 
-  
 
 
 
@@ -78,28 +90,14 @@
 
 
 
-&lt;figure id=&#34;figure-comparing-the-difficulties-of-paying-bills-among-musicians-and-the-general-public-2018-2019&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/musician_charts/difficulty_bills_levels.jpg&#34; data-caption=&#34;Comparing the difficulties of paying bills among musicians and the general public, 2018-2019.&#34;&gt;
-
-
-  &lt;img src=&#34;/img/musician_charts/difficulty_bills_levels.jpg&#34; alt=&#34;&#34;  &gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Comparing the difficulties of paying bills among musicians and the general public, 2018-2019.
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-
+&lt;figure  id=&#34;figure-comparing-the-difficulties-of-paying-bills-among-musicians-and-the-general-public-2018-2019&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;musician_charts/difficulty_bills_levels.jpg&#34; alt=&#34;Comparing the difficulties of paying bills among musicians and the general public, 2018-2019.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Comparing the difficulties of paying bills among musicians and the general public, 2018-2019.
+    &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;p&gt;Career in music can lead to higher life satisfaction than other similarly paid jobs in Europe.  However, music market stakeholders should focus on increasing the level of music professional earnings and reducing its variance within the year and over the years, because the material living conditions of musicians is significantly worse than the conditions of the general population.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;You can read a lot more about this research 
-&lt;a href=&#34;http://survey2019.ceemid.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;You can read a lot more about this research &lt;a href=&#34;http://survey2019.ceemid.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     

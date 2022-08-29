@@ -1,32 +1,32 @@
-+++
-title = "Robin Kester: This Is Not Democracy"
-subtitle = "Listen Local interview"
-date = 2020-11-11T11:10:00+02:00
-lastmod = 2020-11-11T11:10:00+02:00
-draft = false
+---
+title: "Robin Kester: This Is Not Democracy"
+subtitle: "Listen Local interview"
+date: 2020-11-11T11:10:00+02:00
+lastmod: 2020-11-11T11:10:00+02:00
+draft: false
 
-authors = ["Stef Koenis"]
+authors: ["Stef Koenis"]
 
-tags = ["listen-local", "Netherlands", "Utrecht"]
+tags: ["Listen local", "Netherlands", "Utrecht"]
 
-summary = "I’d like to tour internationally with my music. But who doesn’t? I find it very difficult to pinpoint one exact place to start building a fan base."
+summary: "I’d like to tour internationally with my music. But who doesn’t? I find it very difficult to pinpoint one exact place to start building a fan base."
 
-projects = ["listen-local"]
+projects: ["Listen local"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
-[image]
+image:
   # Caption (optional)
-  caption = "Photographer: Lisa Brammer"
+  caption: "Photographer: Lisa Brammer"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "TopLeft"
+  focal_point: "TopLeft"
 
   # Show image only in page previews?
-  preview_only = false
+  preview_only: false
 
-+++
+---
 
 Robin Kester is a rising star of the Dutch music scene. She released her first mini-album [This is Not a Democracy](https://robinkester.bandcamp.com/album/this-is-not-a-democracy) on 11 September 2020 and received many positive reviews from the press. Despite the pandemic she managed to play several concerts throughout the country, although concerts abroad were cancelled. 
 

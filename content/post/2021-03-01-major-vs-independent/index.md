@@ -1,31 +1,31 @@
-+++
-title = "Do Independent Labels and Major Record Labels Compete on a Level Playing Field When It Comes to Streaming?"
+---
+title: "Do Independent Labels and Major Record Labels Compete on a Level Playing Field When It Comes to Streaming?"
 
-date = 2021-03-02T07:23:00+02:00
-lastmod = 2021-03-02T07:23:00+02:00
-draft = false
+date: 2021-03-02T07:23:00+02:00
+lastmod: 2021-03-02T07:23:00+02:00
+draft: false
 
-authors = ["Daniel Antal"]
+authors: ["Daniel Antal"]
 
-tags = ["listen-local", "Digital Music Observatory", "competition", "music-streaming", "UCPS"]
+tags: ["Listen local", "Digital Music Observatory", "Competition", "Music streaming", "UCPS"]
 
-summary = "According to the written evidence submitted by Dr. Franco Mariuzzo and Dr. Peter Ormosi to the Economics of music streaming inquiry of the UK Parliament, Digital, Culture, Media, and Sports Committee, the answer is no."
+summary: "According to the written evidence submitted by Dr. Franco Mariuzzo and Dr. Peter Ormosi to the Economics of music streaming inquiry of the UK Parliament, Digital, Culture, Media, and Sports Committee, the answer is no."
 
-projects = ["listen-local", "Digital Music Observatory"]
+projects: ["Listen local", "Digital Music Observatory"]
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = ""
+  caption: ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Left"
+  focal_point: "Left"
 
   # Show image only in page previews?
-  preview_only = true
+  preview_only: true
 
-+++
+---
 
 Do Independent Labels and Major Record Labels Compete on a Level Playing Field When It Comes to Streaming? According to the written evidence submitted by Dr. Franco Mariuzzo and Dr. Peter Ormosi to the Economics of music streaming inquiry of the [UK Parliament, Digital, Culture, Media, and Sports Committee](https://committees.parliament.uk/writtenevidence/15122/html/), the answer is no.
 

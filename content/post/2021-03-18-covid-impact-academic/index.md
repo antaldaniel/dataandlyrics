@@ -1,29 +1,29 @@
-+++
-title = "The Impacts of Covid-19 on the Live Music Industries: A Sample of Academic Projects Taking Place Across Europe"
+---
+title: "The Impacts of Covid-19 on the Live Music Industries: A Sample of Academic Projects Taking Place Across Europe"
 
-date = 2021-03-18T19:19:00+02:00
-lastmod = 2021-03-18T19:19:00+02:00
-draft = false
+date: 2021-03-18T19:19:00+02:00
+lastmod: 2021-03-18T19:19:00+02:00
+draft: false
 
-authors = ["Paul Carr"]
+authors: ["Paul Carr"]
 
-tags = ["Covid-19", "academic", "impact-assessment"]
+tags: ["Covid-19", "academic", "impact-assessment"]
 
-summary = "After a couple of months on planing, the IASPM event I organised on the impacts of Covid-19 on the European Music Industries took place yesterday. The event featured six speakers, from Wales, England, Germany, Norway and the Netherlands."
+summary: "After a couple of months on planing, the IASPM event I organised on the impacts of Covid-19 on the European Music Industries took place yesterday. The event featured six speakers, from Wales, England, Germany, Norway and the Netherlands."
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = ""
+  caption: ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Right"
+  focal_point: "Right"
 
   # Show image only in page previews?
-  preview_only = false
+  preview_only: false
 
-+++
+---
 
 After a couple of months on planing, the IASPM event I organised on the impacts of Covid-19 on the European Music Industries took place yesterday. The event featured six speakers, from Wales, England, Germany, Norway and the Netherlands. This work builds on the previous work I have posted concerning the situation in Wales – which you can access [here](https://paulcarr.org/2020/11/21/live-music-in-wales-a-report-for-the-culture-welsh-language-and-communications-commitee/) and [here](https://paulcarr.org/2020/12/03/paul-carr-presentation-to-culture-welsh-language-and-communications-committee-the-live-music-industry-in-wales-post-pandemic/).
 

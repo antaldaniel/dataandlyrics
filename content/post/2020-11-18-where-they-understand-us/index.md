@@ -1,32 +1,32 @@
-+++
-title = "Twentees: The Mountains Are Higher Next Door And They Understand Our Lyrics"
-subtitle = "Listen Local interview"
-date = 2020-11-18T08:15:00+02:00
-lastmod = 2020-11-18T08:15:00+02:00
-draft = false
+---
+title: "Twentees: The Mountains Are Higher Next Door And They Understand Our Lyrics"
+subtitle: "Listen Local interview"
+date: 2020-11-18T08:15:00+02:00
+lastmod: 2020-11-18T08:15:00+02:00
+draft: false
 
-authors = ["Kátya Nagy"]
+authors: ["Kátya Nagy"]
 
-tags = ["listen-local", "Hungary", "Romania", "Slovakia", "Serbia"]
+tags: ["Listen local", "Hungary", "Romania", "Slovakia", "Serbia"]
 
-summary = "There’s Serbia, too, with towns like Senta, Subotica and Novi Sad, where the local audience is the most grateful. As we sing in Hungarian, we try to target regions where our songs can be understood."
+summary: "There’s Serbia, too, with towns like Senta, Subotica and Novi Sad, where the local audience is the most grateful. As we sing in Hungarian, we try to target regions where our songs can be understood."
 
-projects = ["listen-local"]
+projects: ["Listen local"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
-[image]
+image:
   # Caption (optional)
-  caption = "Photo: Gábor Lénárt"
+  caption: "Photo: Gábor Lénárt"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Left"
+  focal_point: "Left"
 
   # Show image only in page previews?
-  preview_only = false
+  preview_only: false
 
-+++
+---
 
 Living in their mid-twenties, just got out from the university to the life with the capital L. Having crisis in their workplace, try to find their identity, falling in love or getting heartbroken and anyway, just trying to be happy in this chaotic world. The [twentees](https://twentees.bandcamp.com/) writes their indie-pop songs about the typical issues and problems of the Y-generation, so it is easy to understand when you are in the same shoes, what are they singing about. 
 

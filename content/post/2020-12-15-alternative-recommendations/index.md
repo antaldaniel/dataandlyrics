@@ -1,32 +1,32 @@
-+++
-title = "Listen Local: Why We Need Alternative Recommendation Systems"
+---
+title: "Listen Local: Why We Need Alternative Recommendation Systems"
 
-date = 2020-12-14T17:10:00+02:00
-lastmod = 2020-12-14T17:10:00+02:00
-draft = false
+date: 2020-12-14T17:10:00+02:00
+lastmod: 2020-12-14T17:10:00+02:00
+draft: false
 
-authors = ["Daniel Antal"]
+authors: ["Daniel Antal"]
 
-tags = ["listen-local", "Slovakia", "justice", "algorithms", "big-data", 
-"recommendations", "local-content-requirements"]
+tags: ["Listen local", "Slovakia", "justice", "algorithms", "Big data", 
+"recommendations", "Local content requirements"]
 
-summary = "Regulating black box, private algorithms and data monopolies is only a first step to damage control. Deploying white, transparent algorithms and building collaborative or open data pools can only guarantee fairness in the digital platforms, in recommendations, and generally in the use of AI."
+summary: "Regulating black box, private algorithms and data monopolies is only a first step to damage control. Deploying white, transparent algorithms and building collaborative or open data pools can only guarantee fairness in the digital platforms, in recommendations, and generally in the use of AI."
 
-projects = ["listen-local"]
+projects: ["Listen local"]
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = "Our Demo Application"
+  caption: "Our Demo Application"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point: "Center"
 
   # Show image only in page previews?
-  preview_only = true
+  preview_only: true
 
-+++
+---
 
 {{< figure src="03_app_recommend.png" title="The first version of our demo application" >}}
  

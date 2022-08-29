@@ -2,28 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Utrecht | Data &amp; Lyrics</title>
-    <link>/tag/utrecht/</link>
-      <atom:link href="/tag/utrecht/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dataandlyrics.com/tag/utrecht/</link>
+      <atom:link href="https://dataandlyrics.com/tag/utrecht/index.xml" rel="self" type="application/rss+xml" />
     <description>Utrecht</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Mon, 14 Dec 2020 08:10:00 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 14 Dec 2020 08:10:00 +0200</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>https://dataandlyrics.com/media/icon_hu5bfde8608118b47b475864b70fd224b4_21674_512x512_fill_lanczos_center_3.png</url>
       <title>Utrecht</title>
-      <link>/tag/utrecht/</link>
+      <link>https://dataandlyrics.com/tag/utrecht/</link>
     </image>
     
     <item>
       <title>Tiny Rooms: A Label That Connects DIY Scenes</title>
-      <link>/post/2020-12-14-tinyrooms/</link>
+      <link>https://dataandlyrics.com/post/2020-12-14-tinyrooms/</link>
       <pubDate>Mon, 14 Dec 2020 08:10:00 +0200</pubDate>
-      <guid>/post/2020-12-14-tinyrooms/</guid>
+      <guid>https://dataandlyrics.com/post/2020-12-14-tinyrooms/</guid>
       <description>
 
 
 
 
-  
-  
 
 
 
@@ -35,35 +33,22 @@
 
 
 
-&lt;figure id=&#34;figure-wwwtinyroomnl&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/2020-12-14-tinyrooms/tiny_rooms_banner_hu0af4357b4903bf8e7dfce6d118dc51d7_803354_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;www.tinyroom.nl&#34;&gt;
-
-
-  &lt;img data-src=&#34;/post/2020-12-14-tinyrooms/tiny_rooms_banner_hu0af4357b4903bf8e7dfce6d118dc51d7_803354_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;800&#34; height=&#34;326&#34;&gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    &lt;a href=&#34;http://www.tinyroom.nl&#34;&gt;www.tinyroom.nl&lt;/a&gt;
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-
-&lt;p&gt;An interview with Utrecht recording artist, performer, composer, and producer Stefan Breuer, manager of 
-&lt;a href=&#34;https://www.tinyroom.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tiny Room Records&lt;/a&gt;.&lt;/p&gt;
+&lt;figure  id=&#34;figure-wwwtinyroomnl&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;www.tinyroom.nl&#34; srcset=&#34;
+               /post/2020-12-14-tinyrooms/tiny_rooms_banner_hu0af4357b4903bf8e7dfce6d118dc51d7_803354_0183175c414d020480bf7baef9063450.webp 400w,
+               /post/2020-12-14-tinyrooms/tiny_rooms_banner_hu0af4357b4903bf8e7dfce6d118dc51d7_803354_4678d1a54fc2b471405e07a36be6de1f.webp 760w,
+               /post/2020-12-14-tinyrooms/tiny_rooms_banner_hu0af4357b4903bf8e7dfce6d118dc51d7_803354_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://dataandlyrics.com/post/2020-12-14-tinyrooms/tiny_rooms_banner_hu0af4357b4903bf8e7dfce6d118dc51d7_803354_0183175c414d020480bf7baef9063450.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;310&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;a href=&#34;https://www.tinyroom.nl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.tinyroom.nl&lt;/a&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;An interview with Utrecht recording artist, performer, composer, and producer Stefan Breuer, manager of &lt;a href=&#34;https://www.tinyroom.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tiny Room Records&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;For fans browsing the city after a given show, what do artists in Utrecht recommend as far as things to see, do, listen to, or other advice for visitors?&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;For anyone checking out one of my shows in Utrecht, I definitely recommend a walk around the city if they have some down time. Nearby our space, one can stop at 
-&lt;a href=&#34;https://www.deklub.nl/menu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;De Klub&lt;/a&gt; for a bite to eat, the local brewery 
-&lt;a href=&#34;https://www.dekrommeharing.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;De Kromme Haring&lt;/a&gt; for a beer, or the record store / coffee bar Koffie Leute around the corner. For those with more time during the day, I also recommend a few local record stores like Dig It or Plato or maybe a walk around Utrecht centre. For the full Utrecht experience, I recommend a dive into the postrock, slowcore, indiefolk vibes of this friendly city with bands if you can catch bands like 
-&lt;a href=&#34;http://www.thefireharvest.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Fire Harvest&lt;/a&gt;, 
-&lt;a href=&#34;https://www.iamoak.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;I am Oak&lt;/a&gt;, 
-&lt;a href=&#34;https://homemadeempire.bandcamp.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Homemade Empire&lt;/a&gt;, or 
-&lt;a href=&#34;https://www.tinyroom.nl/artists/this-leo-sunrise/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;This Leo Sunrise&lt;/a&gt;, among others. And of course there’s the Nijntje Museum, the Dom tower, and the canals.&lt;/p&gt;
+&lt;p&gt;For anyone checking out one of my shows in Utrecht, I definitely recommend a walk around the city if they have some down time. Nearby our space, one can stop at &lt;a href=&#34;https://www.deklub.nl/menu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;De Klub&lt;/a&gt; for a bite to eat, the local brewery &lt;a href=&#34;https://www.dekrommeharing.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;De Kromme Haring&lt;/a&gt; for a beer, or the record store / coffee bar Koffie Leute around the corner. For those with more time during the day, I also recommend a few local record stores like Dig It or Plato or maybe a walk around Utrecht centre. For the full Utrecht experience, I recommend a dive into the postrock, slowcore, indiefolk vibes of this friendly city with bands if you can catch bands like &lt;a href=&#34;http://www.thefireharvest.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Fire Harvest&lt;/a&gt;, &lt;a href=&#34;https://www.iamoak.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;I am Oak&lt;/a&gt;, &lt;a href=&#34;https://homemadeempire.bandcamp.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Homemade Empire&lt;/a&gt;, or &lt;a href=&#34;https://www.tinyroom.nl/artists/this-leo-sunrise/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;This Leo Sunrise&lt;/a&gt;, among others. And of course there’s the Nijntje Museum, the Dom tower, and the canals.&lt;/p&gt;
 &lt;iframe src=&#34;https://open.spotify.com/embed/playlist/2H9SBcpNrUg8Ymbf3hR88C&#34; width=&#34;710&#34; height=&#34;240&#34; frameborder=&#34;0&#34; allowtransparency=&#34;true&#34; allow=&#34;encrypted-media&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;em&gt;Where do your artists hope to play next year? Where do they hope to find new fans?&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Personally, I’d like to play in any city with a vibrant DIY scene. In the Netherlands, I’d like to rebook all the shows in Haarlem, Amsterdam, Eindhoven and in Liège (BE) that were cancelled due to COVID. I’d also like to add some shows in Groningen, Nijmegen, Enschede, Maastricht and Arnhem because I know they also have some small DIY scenes there, too.&lt;/p&gt;
@@ -72,8 +57,6 @@
 
 
 
-  
-  
 
 
 
@@ -85,25 +68,19 @@
 
 
 
-&lt;figure id=&#34;figure-stefan-breuer--tiny-rooms&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/2020-12-14-tinyrooms/Stefan_Breuer_hud1f10558df68ad54f84cb64478a39875_1317232_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Stefan Breuer / Tiny Rooms.&#34;&gt;
-
-
-  &lt;img data-src=&#34;/post/2020-12-14-tinyrooms/Stefan_Breuer_hud1f10558df68ad54f84cb64478a39875_1317232_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1279&#34; height=&#34;853&#34;&gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Stefan Breuer / Tiny Rooms.
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-
+&lt;figure  id=&#34;figure-stefan-breuer--tiny-rooms&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Stefan Breuer / Tiny Rooms.&#34; srcset=&#34;
+               /post/2020-12-14-tinyrooms/Stefan_Breuer_hud1f10558df68ad54f84cb64478a39875_1317232_de6aecc8c7508f462fcf21a9014e454b.webp 400w,
+               /post/2020-12-14-tinyrooms/Stefan_Breuer_hud1f10558df68ad54f84cb64478a39875_1317232_cd168815c484fa8641746b0a487a0ab2.webp 760w,
+               /post/2020-12-14-tinyrooms/Stefan_Breuer_hud1f10558df68ad54f84cb64478a39875_1317232_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://dataandlyrics.com/post/2020-12-14-tinyrooms/Stefan_Breuer_hud1f10558df68ad54f84cb64478a39875_1317232_de6aecc8c7508f462fcf21a9014e454b.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Stefan Breuer / Tiny Rooms.
+    &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;p&gt;I&amp;rsquo;d like to play in any city with a vivid DIY scene. In the Netherlands, I&amp;rsquo;d like to re-book our shows that were all cancelled in Haarlem, Amsterdam, Eindhoven, and Liège. I&amp;rsquo;d like to add some shows in Groningen, Nijmegen, Enschede, Maastricht and Arnhem because I know they have small DIY scenes there too.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;How do you and your artists see the role of YouTube, Spotify, Facebook, algorithms, big data?&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;We try to make sure all our bands are present on all of these platforms and actively engage with content as much as possible, but there’s not really enough time to get the most out of YouTube, for example, when you are also trying to write and record music, book shows, not to mention that artists involved with my label all have other work and families to be with. I’d say we all know the potential of the internet and big data, but the best we can do right now is just let as much happen with that as we can. We don’t really feel like we have any control over what happens in that area or our overall “success” on social media.&lt;/p&gt;
@@ -112,9 +89,7 @@
 &lt;p&gt;&lt;em&gt;How important is touring for your label’s roster? How do artists select touring locations? Where do you think your label’s strongest potential for finding a new audience would be?&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Our rehearsal space and venue Studio Patrick generates a DIY scene which is unique for Utrecht but not necessarily Europe. In the NL, we’ve always had a strong connection with Subblicious in Leiden, Lepel Concerts in Groningen, Roodkapje in Rotterdam, Vondelbunker in Amsterdam, Katzwijm Studio in Voorhout, De Ruimte in Amsterdam, the art scene around Danielle Papenborg in Nijmegen, and the Van Onderen festival. We’re also connected to labels like Subroutine, Moving Furniture, Snowstar, Coaster, Narrowminded, Geertruida and so on.&lt;/p&gt;
 &lt;iframe src=&#34;https://open.spotify.com/embed/playlist/64MRjQF17SHJPX17Zsx42d&#34; width=&#34;710&#34; height=&#34;380&#34; frameborder=&#34;0&#34; allowtransparency=&#34;true&#34; allow=&#34;encrypted-media&#34;&gt;&lt;/iframe&gt;
-&lt;p&gt;We use these contacts to set up tours and other possibilities long the way. Sometimes it doesn’t work out wen you have a Canadian artist playing for two people in Heerhugowaard, but you don’t know until you try. That’s how I stumbled upon the scene around 
-&lt;a href=&#34;https://www.facebook.com/honesthousemusic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Honest House&lt;/a&gt;, a label and booking agency in Liège, Belgium a couple years ago. It turned out to be perfect for all our bands and we still maintain a good partnership with them in order to regularly produce a few nights of live music. We will start working with them again around live music, of course, when we are post-COVID. Same goes for 
-&lt;a href=&#34;https://lousymoon.bandcamp.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lousy Moon Records&lt;/a&gt; in Köln. I think there are a lot more places like this and it would be great to have more insight about where the super DIY/indie/arty/folk/postpunk/kraut/experimental songwriting stuff is happening. I know it’s there in a lot of cities in its own form, but the audience is so small that it’s hard to get to know all the cool places. I’d like to focus on NL, Belgium, Germany, and France since these areas are the most doable for a weekend or week long tour.&lt;/p&gt;
+&lt;p&gt;We use these contacts to set up tours and other possibilities long the way. Sometimes it doesn’t work out wen you have a Canadian artist playing for two people in Heerhugowaard, but you don’t know until you try. That’s how I stumbled upon the scene around &lt;a href=&#34;https://www.facebook.com/honesthousemusic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Honest House&lt;/a&gt;, a label and booking agency in Liège, Belgium a couple years ago. It turned out to be perfect for all our bands and we still maintain a good partnership with them in order to regularly produce a few nights of live music. We will start working with them again around live music, of course, when we are post-COVID. Same goes for &lt;a href=&#34;https://lousymoon.bandcamp.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lousy Moon Records&lt;/a&gt; in Köln. I think there are a lot more places like this and it would be great to have more insight about where the super DIY/indie/arty/folk/postpunk/kraut/experimental songwriting stuff is happening. I know it’s there in a lot of cities in its own form, but the audience is so small that it’s hard to get to know all the cool places. I’d like to focus on NL, Belgium, Germany, and France since these areas are the most doable for a weekend or week long tour.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;What’s more important? Belonging to a scene, a genre, a subculture, or a location? How are these connected?&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;For me, it’s important to belong to a scene. These are the people here in Utrecht that care about what we do, our shows, and our releases. They come to support the bands, have a great time, and we all know each other, have the same values, and we’re good friends, too. Maybe some call that a “subculture” too, but no one I know calls it by a particular name.&lt;/p&gt;
 &lt;p&gt;You need a location to get together, but you can build a scene anywhere, I guess. My dad even built a vibrant music scene in the middle of nowhere in France in a village of 200 people. About genre, I don’t want to focus on one thing. For the label, I have a specific thing in mind — music that I really love — which is based on my own taste. Most people at the shows we host are most interested in music that’s more experimental, unique, even a bit raw and unusual. I can be ambient, indie rock, punk, sloppy folk, doom songwriters, slowcore, noise, etc. If it’s too catchy or a “normal” radio friendly singer/songwriter, the audience scratches their heads and I won’t have a good time either.&lt;/p&gt;
@@ -126,11 +101,10 @@
     
     <item>
       <title>Robin Kester: This Is Not Democracy</title>
-      <link>/post/2020-11-11-listen-local-robin-kester/</link>
+      <link>https://dataandlyrics.com/post/2020-11-11-listen-local-robin-kester/</link>
       <pubDate>Wed, 11 Nov 2020 11:10:00 +0200</pubDate>
-      <guid>/post/2020-11-11-listen-local-robin-kester/</guid>
-      <description>&lt;p&gt;Robin Kester is a rising star of the Dutch music scene. She released her first mini-album 
-&lt;a href=&#34;https://robinkester.bandcamp.com/album/this-is-not-a-democracy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;This is Not a Democracy&lt;/a&gt; on 11 September 2020 and received many positive reviews from the press. Despite the pandemic she managed to play several concerts throughout the country, although concerts abroad were cancelled.&lt;/p&gt;
+      <guid>https://dataandlyrics.com/post/2020-11-11-listen-local-robin-kester/</guid>
+      <description>&lt;p&gt;Robin Kester is a rising star of the Dutch music scene. She released her first mini-album &lt;a href=&#34;https://robinkester.bandcamp.com/album/this-is-not-a-democracy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;This is Not a Democracy&lt;/a&gt; on 11 September 2020 and received many positive reviews from the press. Despite the pandemic she managed to play several concerts throughout the country, although concerts abroad were cancelled.&lt;/p&gt;
 &lt;p&gt;The Utrecht-based musician is planning her first full-length album to be released next year. How is a newly recorded artist handling the Covid-crisis? How is she palnning hear career?&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Where are you heading to?  What would be a city or city-based scene where you would like to play after COVID and start building your local fan base, e.g. Vienna, Antwerpen, Zürich, or other cities. Why? What attracts you there professionally or personally?&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Not sure where I’m heading. I’d like to tour internationally with my music. (But who doesn’t?) I find it very difficult to pinpoint one exact place to start building a fan base. I have always loved travelling in the UK and Ireland and I admire a lot of artists from those countries, but I can’t narrow it down to one specific location.&lt;/p&gt;
@@ -143,15 +117,10 @@
   &lt;iframe src=&#34;https://www.youtube.com/embed/yF5qFuFsK0E&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-
 &lt;a href=&#34;https://www.youtube.com/watch?v=yF5qFuFsK0E&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Robin Kester - Live at 3voor12 Radio&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;A longer interview in Dutch: 
-&lt;a href=&#34;https://www.parool.nl/kunst-media/robin-kester-ik-ben-niet-dat-meisje-met-die-gitaar~b278dd59/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Robin Kester: ‘Ik ben niet dat meisje met die gitaar’&lt;/a&gt; &lt;em&gt;I am not that girl with that guitar&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;The idea of our 
-&lt;a href=&#34;https://dataandlyrics.com/project/listen-local/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Listen Local Initiative&lt;/a&gt; to create transparent, well-documented recommendations in various apps, music education games, and to make new personal and radio  that work differently from the current streaming algorithms. We do not try to find yet another similar song to user, but we would like to find audience to a song. We want to avoid that new artists are ending up on the 
-&lt;a href=&#34;https://dataandlyrics.com/post/2020-10-24-forgetify_pop_october/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Forgetify&lt;/a&gt; list, or among hundreds of thousands of artists that the streaming platform algorithms recommend to no-one.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;If you are an independent artist, band, label, or publisher, we encourage you to add your very short bio into our database (form 
-&lt;a href=&#34;https://www.surveymonkey.com/r/ll_collector_2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;, if you want to add several bands/artists, get in touch with us and we&amp;rsquo;ll provide you a spreadsheet), and try out our demo application. Our system will be transparent: we try to make big data algorithms work for you, not against you. We want to help you find your audience in the UK or Ireland, like for Robin, or anywhere you want to go after the pandemic.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;A longer interview in Dutch: &lt;a href=&#34;https://www.parool.nl/kunst-media/robin-kester-ik-ben-niet-dat-meisje-met-die-gitaar~b278dd59/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Robin Kester: ‘Ik ben niet dat meisje met die gitaar’&lt;/a&gt; &lt;em&gt;I am not that girl with that guitar&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The idea of our &lt;a href=&#34;https://dataandlyrics.com/project/listen-local/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Listen Local Initiative&lt;/a&gt; to create transparent, well-documented recommendations in various apps, music education games, and to make new personal and radio  that work differently from the current streaming algorithms. We do not try to find yet another similar song to user, but we would like to find audience to a song. We want to avoid that new artists are ending up on the &lt;a href=&#34;https://dataandlyrics.com/post/2020-10-24-forgetify_pop_october/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Forgetify&lt;/a&gt; list, or among hundreds of thousands of artists that the streaming platform algorithms recommend to no-one.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;If you are an independent artist, band, label, or publisher, we encourage you to add your very short bio into our database (form &lt;a href=&#34;https://www.surveymonkey.com/r/ll_collector_2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;, if you want to add several bands/artists, get in touch with us and we&amp;rsquo;ll provide you a spreadsheet), and try out our demo application. Our system will be transparent: we try to make big data algorithms work for you, not against you. We want to help you find your audience in the UK or Ireland, like for Robin, or anywhere you want to go after the pandemic.&lt;/em&gt;&lt;/p&gt;
 &lt;br/&gt;
 &lt;p align=&#34;center&#34;&gt;
 &lt;iframe src=&#34;https://open.spotify.com/embed/album/4l5igewpicaDDBdcZlyV90&#34; width=&#34;740&#34; height=&#34;410&#34; frameborder=&#34;0&#34; allowtransparency=&#34;true&#34; allow=&#34;encrypted-media&#34;&gt;&lt;/iframe&gt;
@@ -159,6 +128,19 @@
 &lt;/p&gt;
 [Robin Kester official website](https://showcase.fm/robinkester)
 &lt;p&gt;&lt;em&gt;This is not a democracy&lt;/em&gt; is a line from the closing song &lt;em&gt;Empty Head&lt;/em&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;other-artists&#34;&gt;Other artists&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://dataandlyrics.com/post/2020-11-30-youniverse/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Youniverse&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dataandlyrics.com/post/2020-10-28-duka-mission/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Duka Base&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dataandlyrics.com/post/2020-11-25-katarzia/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Katarzia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dataandlyrics.com/post/2020-11-18-where-they-understand-us/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Twentees&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dataandlyrics.com/post/2021-04-04-wdekrey/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Willemijn de Krey&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dataandlyrics.com/post/2021-07-15-marie_de_la_montagne/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Marie de la Montagne&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;And a label:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://dataandlyrics.com/post/2020-12-14-tinyrooms/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tiny Rooms&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

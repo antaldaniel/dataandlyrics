@@ -1,32 +1,32 @@
-+++
-title = "Making Websites Is Not Easy"
+---
+title: "Making Websites Is Not Easy"
 
-date = 2020-10-14T10:00:00+02:00
-lastmod = 2020-10-14T10:00:00+02:00
-draft = false
+date: 2020-10-14T10:00:00+02:00
+lastmod: 2020-10-14T10:00:00+02:00
+draft: false
 
-authors = ["Daniel Antal, CFA"]
+authors: ["Daniel Antal, CFA"]
 
-tags = ["royalties", "collective-management", "web-technology", "Netherlands"]
+tags: ["royalties", "collective-management", "web-technology", "Netherlands"]
 
-summary = "I often find myself in a crossfire between artists and managers who want more transparency and innovation and collective management societies that see themselves as the last stable pillar for music composers, producers and performers to collect their royalties."
+summary: "I often find myself in a crossfire between artists and managers who want more transparency and innovation and collective management societies that see themselves as the last stable pillar for music composers, producers and performers to collect their royalties."
 
-projects = ["listen-local", "Digital Music Observatory"]
+projects: ["Listen local", "Digital Music Observatory"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
-[image]
+image:
   # Caption (optional)
-  caption = "Moon Moon Moon: Journal Entry 10"
+  caption: "Moon Moon Moon: Journal Entry 10"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Left"
+  focal_point: "Left"
 
   # Show image only in page previews?
-  preview_only = false
+  preview_only: false
 
-+++
+---
 
 I often find myself in a crossfire between artists and managers who want more transparency and innovation and collective management societies that see themselves as the last stable pillar for music composers, producers and performers to collect their royalties. I was in Bratislava preparing a project with the Slovak societies when a Belgian music professional, Suzanne Verschueren working in the Slovak music industry showed my Moon Moon Moon’s Journal Entry 10. A letter of complaint to the Dutch collective management societies, Buma and Stemra. In a song.  With video animation!
 

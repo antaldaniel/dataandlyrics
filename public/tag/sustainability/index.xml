@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>sustainability | Data &amp; Lyrics</title>
-    <link>/tag/sustainability/</link>
-      <atom:link href="/tag/sustainability/index.xml" rel="self" type="application/rss+xml" />
-    <description>sustainability</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Wed, 03 Feb 2021 09:16:00 +0200</lastBuildDate>
+    <title>Sustainability | Data &amp; Lyrics</title>
+    <link>https://dataandlyrics.com/tag/sustainability/</link>
+      <atom:link href="https://dataandlyrics.com/tag/sustainability/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sustainability</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 03 Feb 2021 09:16:00 +0200</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>sustainability</title>
-      <link>/tag/sustainability/</link>
+      <url>https://dataandlyrics.com/media/icon_hu5bfde8608118b47b475864b70fd224b4_21674_512x512_fill_lanczos_center_3.png</url>
+      <title>Sustainability</title>
+      <link>https://dataandlyrics.com/tag/sustainability/</link>
     </image>
     
     <item>
       <title>Save The Date: Open Data Day 2021 on 6th March</title>
-      <link>/post/2021-02-03-save-the-date-odd/</link>
+      <link>https://dataandlyrics.com/post/2021-02-03-save-the-date-odd/</link>
       <pubDate>Wed, 03 Feb 2021 09:16:00 +0200</pubDate>
-      <guid>/post/2021-02-03-save-the-date-odd/</guid>
+      <guid>https://dataandlyrics.com/post/2021-02-03-save-the-date-odd/</guid>
       <description>&lt;p&gt;Open data is not only a cheap resource for scientists or NGOs, but a serious business opportunity for the business sector, too. The European Union has been promoting the business reuse of data collected at the taxpayer’s expense since 2003 – and our team members have been involved since the beginning. This is a particularly good deal opportunity for small businesses and organizations that do not have a big data infrastructure or budget.&lt;/p&gt;
 &lt;p&gt;At &lt;strong&gt;Open Data Day 2021&lt;/strong&gt;, our goal is to demonstrate how our open-source software can connect different sources and types of data to generate new knowledge about environmental sustainability by combining several perspectives: from air pollution sensors, public perceptions and opinions, and government policies. We will show how to connect environmental sensory data, environmental spending, and opinion polling data about the environment together with open-source software from open data sources, to follow the four highlighted topics of #ODD21. We’ll offer tutorials, webinars, and Q&amp;amp;A based around these topics.&lt;/p&gt;
 
@@ -24,7 +24,6 @@
 
 
 
-  
 
 
 
@@ -36,41 +35,26 @@
 
 
 
-&lt;figure id=&#34;figure-we-will-show-how-to-use-open-access-survey-data-and-how-to-plot-results-on-a-map-this-dataset-was-used-in-an-empirical-study-on-the-structural-conditions-of-book-piracy-in-global-and-european-academiahttpsreprexnlpublicationscholarly_pirate_libraries_2020-published-in-plos-one&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/Eurobarometer_79_2_files/limitedlibrary-1.png&#34; data-caption=&#34;We will show how to use open access survey data, and how to plot results on a map. This dataset was used in an empirical study on the structural conditions of book piracy in global and European academia published in PLOS One.&#34;&gt;
-
-
-  &lt;img src=&#34;/img/Eurobarometer_79_2_files/limitedlibrary-1.png&#34; alt=&#34;&#34;  &gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    We will show how to use open access survey data, and how to plot results on a map. This dataset was used in an &lt;a href=&#34;https://reprex.nl/publication/scholarly_pirate_libraries_2020/&#34;&gt;empirical study on the structural conditions of book piracy in global and European academia&lt;/a&gt; published in PLOS One.
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-
+&lt;figure  id=&#34;figure-we-will-show-how-to-use-open-access-survey-data-and-how-to-plot-results-on-a-map-this-dataset-was-used-in-an-empirical-study-on-the-structural-conditions-of-book-piracy-in-global-and-european-academiahttpsreprexnlpublicationscholarly_pirate_libraries_2020-published-in-plos-one&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;Eurobarometer_79_2_files/limitedlibrary-1.png&#34; alt=&#34;We will show how to use open access survey data, and how to plot results on a map. This dataset was used in an [empirical study on the structural conditions of book piracy in global and European academia](https://reprex.nl/publication/scholarly_pirate_libraries_2020/) published in PLOS One.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      We will show how to use open access survey data, and how to plot results on a map. This dataset was used in an &lt;a href=&#34;https://reprex.nl/publication/scholarly_pirate_libraries_2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;empirical study on the structural conditions of book piracy in global and European academia&lt;/a&gt; published in PLOS One.
+    &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;p&gt;Who would think that you can use &amp;ldquo;raw inflation data components&amp;rdquo; to create &lt;em&gt;cultural&lt;/em&gt; indicators? Working with open data often feels like working with raw diamonds, because most open data was originally collected and processed for a different use that you would have in mind. But this is our expertise – if you want to see public financing, opinion polling or sensory information about environmental and sustainability issues, &lt;strong&gt;do challenge us&lt;/strong&gt;. Be part of our Open Data Day, tell us about your research needs, and we’ll bring some open data to the surface to start the conversation.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Links&lt;/strong&gt;:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://opendataday.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Data Day&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://reprex.nl/talk/open-data-day-2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Our Event Page&lt;/a&gt;  &amp;ndash; with more details about guests and topics every day&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://opendataday.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Data Day&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[Our Event Page](&lt;a href=&#34;https://reprex.nl/talk/Open&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://reprex.nl/talk/Open&lt;/a&gt; data-day-2021/)  &amp;ndash; with more details about guests and topics every day&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>Save The Date: Open Data Day 2021 on 6th March</title>
-      <link>/post/2021-02-12-opendataday/</link>
+      <link>https://dataandlyrics.com/post/2021-02-12-opendataday/</link>
       <pubDate>Wed, 03 Feb 2021 09:16:00 +0200</pubDate>
-      <guid>/post/2021-02-12-opendataday/</guid>
+      <guid>https://dataandlyrics.com/post/2021-02-12-opendataday/</guid>
       <description>&lt;p&gt;Open data is not only a cheap resource for scientists or NGOs, but a serious business opportunity for the business sector, too. The European Union has been promoting the business reuse of data collected at the taxpayer’s expense since 2003 – and our team members have been involved since the beginning. This is a particularly good deal opportunity for small businesses and organizations that do not have a big data infrastructure or budget.&lt;/p&gt;
 &lt;p&gt;At &lt;strong&gt;Open Data Day 2021&lt;/strong&gt;, our goal is to demonstrate how our open-source software can connect different sources and types of data to generate new knowledge about environmental sustainability by combining several perspectives: from air pollution sensors, public perceptions and opinions, and government policies. We will show how to connect environmental sensory data, environmental spending, and opinion polling data about the environment together with open-source software from open data sources, to follow the four highlighted topics of #ODD21. We’ll offer tutorials, webinars, and Q&amp;amp;A based around these topics.&lt;/p&gt;
 
@@ -78,7 +62,6 @@
 
 
 
-  
 
 
 
@@ -90,62 +73,18 @@
 
 
 
-&lt;figure id=&#34;figure-we-will-show-how-to-use-open-access-survey-data-and-how-to-plot-results-on-a-map-this-dataset-was-used-in-an-empirical-study-on-the-structural-conditions-of-book-piracy-in-global-and-european-academiahttpsreprexnlpublicationscholarly_pirate_libraries_2020-published-in-plos-one&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/Eurobarometer_79_2_files/limitedlibrary-1.png&#34; data-caption=&#34;We will show how to use open access survey data, and how to plot results on a map. This dataset was used in an empirical study on the structural conditions of book piracy in global and European academia published in PLOS One.&#34;&gt;
-
-
-  &lt;img src=&#34;/img/Eurobarometer_79_2_files/limitedlibrary-1.png&#34; alt=&#34;&#34;  &gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    We will show how to use open access survey data, and how to plot results on a map. This dataset was used in an &lt;a href=&#34;https://reprex.nl/publication/scholarly_pirate_libraries_2020/&#34;&gt;empirical study on the structural conditions of book piracy in global and European academia&lt;/a&gt; published in PLOS One.
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-
+&lt;figure  id=&#34;figure-we-will-show-how-to-use-open-access-survey-data-and-how-to-plot-results-on-a-map-this-dataset-was-used-in-an-empirical-study-on-the-structural-conditions-of-book-piracy-in-global-and-european-academiahttpsreprexnlpublicationscholarly_pirate_libraries_2020-published-in-plos-one&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;Eurobarometer_79_2_files/limitedlibrary-1.png&#34; alt=&#34;We will show how to use open access survey data, and how to plot results on a map. This dataset was used in an [empirical study on the structural conditions of book piracy in global and European academia](https://reprex.nl/publication/scholarly_pirate_libraries_2020/) published in PLOS One.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      We will show how to use open access survey data, and how to plot results on a map. This dataset was used in an &lt;a href=&#34;https://reprex.nl/publication/scholarly_pirate_libraries_2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;empirical study on the structural conditions of book piracy in global and European academia&lt;/a&gt; published in PLOS One.
+    &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;p&gt;Who would think that you can use &amp;ldquo;raw inflation data components&amp;rdquo; to create &lt;em&gt;cultural&lt;/em&gt; indicators? Working with open data often feels like working with raw diamonds, because most open data was originally collected and processed for a different use that you would have in mind. But this is our expertise – if you want to see public financing, opinion polling or sensory information about environmental and sustainability issues, &lt;strong&gt;do challenge us&lt;/strong&gt;. Be part of our Open Data Day, tell us about your research needs, and we’ll bring some open data to the surface to start the conversation.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Links&lt;/strong&gt;:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://opendataday.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Data Day&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://reprex.nl/talk/open-data-day-2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Our Event Page&lt;/a&gt;  &amp;ndash; with more details about guests and topics every day&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://opendataday.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Data Day&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[Our Event Page](&lt;a href=&#34;https://reprex.nl/talk/Open&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://reprex.nl/talk/Open&lt;/a&gt; data-day-2021/)  &amp;ndash; with more details about guests and topics every day&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Open Data Day 2021</title>
-      <link>/talk/2021_03_06_ood/</link>
-      <pubDate>Tue, 02 Feb 2021 10:10:00 +0100</pubDate>
-      <guid>/talk/2021_03_06_ood/</guid>
-      <description>&lt;p&gt;Open Data Day is an annual celebration of open data all over the world. It is an opportunity to show the benefits of open data and encourage the adoption of open data policies in government, business, and civil society. Reprex is a start-up that utilizes open data with open-source reproducible research: please challenge us with your data requests and participate in our web events.&lt;/p&gt;
-&lt;p&gt;The &lt;code&gt;Reprex Open Data Day 2021&lt;/code&gt; will be two informal conversations based on a series of run up introductory blogposts centered around two themes:&lt;/p&gt;
-&lt;p&gt;We are preparing with a series of blogposts, i.e. short interviews, research introductions, tutorials and inspiring ideas for the 6th of March.   We want to create an informal, inclusive, collaborative online event on International Open Data Day 2021. Please, grab a tea, coffee, or even a beer, and join us for an informal conversation. We hope that we will finish the afternoon with ideas on new, open-data driven collaborations.&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;9.30 EST / 15.30 CET&lt;/code&gt;:  &lt;strong&gt;Open collaboration in business, policy and science.&lt;/strong&gt;   Creating evidence-based policy, business strategy or scientific research with small contributions with independent components with incentives.  Short introduction with examples:  joining environmental sensory data and public opinion data on maps; creating harmonized datasets across the Arab world.  Survey harmonization, mapping, data products.&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;11.00 EST / 17.00 CET&lt;/code&gt;:  &lt;strong&gt;Scaling up open collaboration: making small organizations competitive with big tech in the big data era.&lt;/strong&gt;  Data sharing, data pooling, data altruism and observatories. The new European trustworthy AI and data governance agenda.&lt;/p&gt;
-&lt;p&gt;Our collaborative agenda can be found 
-&lt;a href=&#34;/presentations/00d21.html&#34;&gt;here&lt;/a&gt;.  If you want to add your name, works, blogposts, send a pull request to github or send Daniel a message on 
-&lt;a href=&#34;https://keybase.io/antaldaniel&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Keybase&lt;/a&gt;, Whatsapp or 
-&lt;a href=&#34;https://dataandlyrics.com/#contact&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;email&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Registration&lt;/strong&gt; is not necessary, but if you want to include your topics, LinkedIn, Github or other credentials, please get in touch till 5th March, 2020 &lt;code&gt;12.00 EST / 18.00 CET&lt;/code&gt;. We will publish the video conference link here at &lt;code&gt;9.15 EST / 15.15 CET&lt;/code&gt; (and send it to all confirmed guests in an email beforehand.)&lt;/p&gt;
-&lt;p&gt;Link: 
-&lt;a href=&#34;https://opendataday.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Data Day&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Reprex introduction in IVIR</title>
-      <link>/talk/2021_04_09_ivirtual/</link>
-      <pubDate>Tue, 02 Feb 2021 10:10:00 +0100</pubDate>
-      <guid>/talk/2021_04_09_ivirtual/</guid>
-      <description>&lt;p&gt;IViRtual 9 April 2021&lt;/p&gt;
 </description>
     </item>
     

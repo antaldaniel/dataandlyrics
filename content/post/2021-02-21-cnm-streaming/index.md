@@ -1,31 +1,31 @@
-+++
-title = "What If Your Stream Count Would Count For The Artists?"
+---
+title: "What If Your Stream Count Would Count For The Artists?"
 
-date = 2021-02-22T09:10:00+02:00
-lastmod = 2021-02-22T09:10:00+02:00
-draft = false
+date: 2021-02-22T09:10:00+02:00
+lastmod: 2021-02-22T09:10:00+02:00
+draft: false
 
-authors = ["Daniel Antal"]
+authors: ["Daniel Antal"]
 
-tags = ["listen-local", "AI", "Spotify", "algorithms", "Deezer", "justice", "competition"]
+tags: ["Listen local", "AI", "Spotify", "algorithms", "Deezer", "justice", "Competition"]
 
-summary = "Many people believe that if you play your favorite song again, the artist will receive more money. Unfortunately, this is not the case. But the French Centre National de la Musique imagines a world where this would happen."
+summary: "Many people believe that if you play your favorite song again, the artist will receive more money. Unfortunately, this is not the case. But the French Centre National de la Musique imagines a world where this would happen."
 
-projects = ["listen-local"]
+projects: ["Listen local"]
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = ""
+  caption: ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Right"
+  focal_point: "Right"
 
   # Show image only in page previews?
-  preview_only = true
+  preview_only: true
 
-+++
+---
 
 Contrary to what many believe, your music streaming history plays a relatively small role in the payouts of the artists whose songs you are listening to. The streaming platforms use a MCPS, or market-centred payout system, which is biased towards large market listeners. Contrary to UCPS, or user-centred payout systems, where all streams by all users are tallied up to determine the final distribution of subscription and advertisement revenues, MCPS uses weighted averaging that very heavily favours major music distributors and the biggest global stars.
 

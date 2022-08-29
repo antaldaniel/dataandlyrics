@@ -1,32 +1,32 @@
-+++
-title = "October Playlist: Wounded Egos"
+---
+title: "October Playlist: Wounded Egos"
 
-date = 2020-10-17T18:00:00+02:00
-lastmod = 2020-10-17T18:00:00+02:00
-draft = false
+date: 2020-10-17T18:00:00+02:00
+lastmod: 2020-10-17T18:00:00+02:00
+draft: false
 
-authors = ["Daniel Antal, CFA"]
+authors: ["Daniel Antal, CFA"]
 
-tags = ["musicology", "recommendations", "machine-learning", "playlist", "listen-local"]
+tags: ["Musicology", "recommendations", "Machine learning", "playlist", "Listen local"]
 
-summary = "I would like to use this example as a start of series how we are thinking about connecting musicians and their fans in new ways with the help of AI and big data. How we are planning to bring back life to the small venues after the pandemic? How we try to keep the link between musicians and their audience alive in this very sad year?"
+summary: "I would like to use this example as a start of series how we are thinking about connecting musicians and their fans in new ways with the help of AI and big data. How we are planning to bring back life to the small venues after the pandemic? How we try to keep the link between musicians and their audience alive in this very sad year?"
 
-projects = ["listen-local", "Digital Music Observatory"]
+projects: ["Listen local", "Digital Music Observatory"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
-[image]
+image:
   # Caption (optional)
-  caption = "Comparison of playlist features"
+  caption: "Comparison of playlist features"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point: "Center"
 
   # Show image only in page previews?
-  preview_only = false
+  preview_only: false
 
-+++
+---
 
 Every month I create a playlist for my friends and myself – a habit that I have started with mixtapes. This month reflects our team’s journey into one of the world’s most prestigious [startup validation
 lab](https://dataandlyrics.com/post/2020-09-25-yesdelft-validation/) in the AI field, in a year when the recession is deeper than ever since the World War 2, the music business is devastated by the pandemic, and our team is forced to lockdown, follow this excellent validation lab on Zoom screens, meet our first clients online, and learn to work together in a socially distanced way. The songs I chose are subjectively important to me, a bit maybe even controversial ones, and probably very different from the music that you are listening to.

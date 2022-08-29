@@ -1,31 +1,32 @@
-+++
-title = "We Are Looking for Partners in France"
-subtitle = "The Digital Music Observatory on the MaMA Festival & Convention"
-date = 2021-10-14T08:00:00
-lastmod = 2021-10-14T09:00:00
-draft = false
+---
+title: "We Are Looking for Partners in France"
+subtitle: "The Digital Music Observatory on the MaMA Festival & Convention"
+date: 2021-10-14T08:00:00
+lastmod: 2021-10-14T09:00:00
+draft: false
 
-authors = ["daniel_antal"]
+authors: ["daniel_antal"]
 
-tags = ["open-data", "open-science", "regional data","valuation", "France"]
+tags: ["Open data", "Open science", "Regional data","Valuation", "France"]
 
-summary = "We are looking for partners in France for our Digital Music Observatory. You can find us in Le Trianon on the Pigalle, in the JUMP Corner."
+summary: "We are looking for partners in France for our Digital Music Observatory. You can find us in Le Trianon on the Pigalle, in the JUMP Corner."
 
-projects = [""]
+projects: 
+  - Digital Music Observatory
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = "Daniel's pitch - see excerpts below"
+  caption: "Daniel's pitch - see excerpts below"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point: "Center"
 
   # Show image only in page previews?
-  preview_only = false
+  preview_only: false
 
-+++
+---
 
 *Join us for a coffee on the [MaMA Convention 2021](https://reprex.nl/talk/digital-music-observatory-on-the-mama-convention-2021/).*
 

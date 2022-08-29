@@ -1,29 +1,29 @@
-+++
-title = "From Play to Rec"
-subtitle = "Jeremy Dunne and the Open Studio Sessions in France"
-date = 2021-12-03T14:00:00+01:00
-lastmod = 2021-12-03T14:00:00+01:00
-draft = false
+---
+title: "From Play to Rec"
+subtitle: "Jeremy Dunne and the Open Studio Sessions in France"
+date: 2021-12-03T14:00:00+01:00
+lastmod: 2021-12-03T14:00:00+01:00
+draft: false
 
-authors = ["daniel_antal"]
+authors: ["daniel_antal"]
 
-tags = ["JUMP Europen Music Market Accelerator", "record shops", "recording", "independent labels"]
+tags: ["JUMP Europen Music Market Accelerator", "record shops", "recording", "independent labels"]
 
-summary = "Jeremy Dunne is the founder of the French Open Studio Sessions, which allows artists to open up in front of a very restricted audience and show themselves from a creative and working perspective---during they are producing a recorded performance."
+summary: "Jeremy Dunne is the founder of the French Open Studio Sessions, which allows artists to open up in front of a very restricted audience and show themselves from a creative and working perspective---during they are producing a recorded performance."
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = "Jeremy Dunne recroding in The Walrus. Photo: Daniel Antal"
+  caption: "Jeremy Dunne recroding in The Walrus. Photo: Daniel Antal"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point: "Center"
 
   # Show image only in page previews?
-  preview_only = false
+  preview_only: false
 
-+++
+---
 
 *We met in the [JUMP European Music Market Accelerator](https://www.jumpmusic.eu/) in spring, but for me, your project became clear when I saw your demonstration in [The Walrus Record Store](https://the-walrus.fr/record-store-paris-walrus/) in Paris, during the [MaMA showcase festival](https://www.mamafestival.com/en/). I love record stores - I used to have a collection of CDs, and my father a collection of vinyl’s. Are record store’s important locations in your project? Do you have a favorite record shop?*
 

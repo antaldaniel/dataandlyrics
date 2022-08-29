@@ -1,30 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>music | Data &amp; Lyrics</title>
-    <link>/tag/music/</link>
-      <atom:link href="/tag/music/index.xml" rel="self" type="application/rss+xml" />
-    <description>music</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Sun, 04 Apr 2021 09:00:00 +0200</lastBuildDate>
+    <title>Music | Data &amp; Lyrics</title>
+    <link>https://dataandlyrics.com/tag/music/</link>
+      <atom:link href="https://dataandlyrics.com/tag/music/index.xml" rel="self" type="application/rss+xml" />
+    <description>Music</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 04 Apr 2021 09:00:00 +0000</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>music</title>
-      <link>/tag/music/</link>
+      <url>https://dataandlyrics.com/media/icon_hu5bfde8608118b47b475864b70fd224b4_21674_512x512_fill_lanczos_center_3.png</url>
+      <title>Music</title>
+      <link>https://dataandlyrics.com/tag/music/</link>
     </image>
     
     <item>
       <title>&#39;In this Age Everyone Has to be Her Own Businesswoman, I Find this Somewhat Ridiculous&#39;</title>
-      <link>/post/2021-04-04-wdekrey/</link>
-      <pubDate>Sun, 04 Apr 2021 09:00:00 +0200</pubDate>
-      <guid>/post/2021-04-04-wdekrey/</guid>
+      <link>https://dataandlyrics.com/post/2021-04-04-wdekrey/</link>
+      <pubDate>Sun, 04 Apr 2021 09:00:00 +0000</pubDate>
+      <guid>https://dataandlyrics.com/post/2021-04-04-wdekrey/</guid>
       <description>&lt;p&gt;&lt;em&gt;Willemijn graduated from art academy ArtEZ in Enschede in 2011. At her final exhibition she was one of ten talented upcoming artists across the graduates of the three ArtEZ art academies selected to show their work at Oostenwind 11 in the Delta Lloyd building in Amsterdam. She moved to Antwerp to work in solitude and to find her creative environment. Besides making her own art, Willemijn also works as a painter on commission, as a production manager at Picoux Productions, and has been a vocalist and cellist with Verlin. She is looking for both audiences and collaborators.&lt;/em&gt;&lt;/p&gt;
 
 
 
 
 
-  
-  
 
 
 
@@ -36,25 +34,49 @@
 
 
 
-&lt;figure id=&#34;figure-willemijn-de-krey-photo-by-e-dierckx&#34;&gt;
+&lt;figure  id=&#34;figure-willemijn-de-krey-photo-by-e-dierckx&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Willemijn de Krey, photo by E. Dierckx&#34; srcset=&#34;
+               /post/2021-04-04-wdekrey/willemijn_hu9bf9ddec5ca65ef385284feb28382e20_48906_2b002ed2a3aab91eccb3d397e387753b.webp 400w,
+               /post/2021-04-04-wdekrey/willemijn_hu9bf9ddec5ca65ef385284feb28382e20_48906_198cbd114697cd1bfef12fbbaa06a3e6.webp 760w,
+               /post/2021-04-04-wdekrey/willemijn_hu9bf9ddec5ca65ef385284feb28382e20_48906_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://dataandlyrics.com/post/2021-04-04-wdekrey/willemijn_hu9bf9ddec5ca65ef385284feb28382e20_48906_2b002ed2a3aab91eccb3d397e387753b.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;538&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Willemijn de Krey, photo by E. Dierckx
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;em&gt;An update on on September 10, 2021. Willemijn&amp;rsquo;s debute solo single was released today:&lt;/em&gt; Sing for Your Lover, Matt Watts&amp;ndash;&lt;em&gt;&lt;a href=&#34;https://open.spotify.com/track/2aiqsH6ScCXmCSsnr8GD08?si=6af7cf4720814a86&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Retrace.Yr Company.Shit&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/2021-04-04-wdekrey/willemijn_hu9bf9ddec5ca65ef385284feb28382e20_48906_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Willemijn de Krey, photo by E. Dierckx&#34;&gt;
 
 
-  &lt;img data-src=&#34;/post/2021-04-04-wdekrey/willemijn_hu9bf9ddec5ca65ef385284feb28382e20_48906_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;960&#34; height=&#34;680&#34;&gt;
-&lt;/a&gt;
 
 
-  
-  
-  &lt;figcaption&gt;
-    Willemijn de Krey, photo by E. Dierckx
-  &lt;/figcaption&gt;
 
 
-&lt;/figure&gt;
 
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-follow-her-on-instagramhttpswwwinstagramcomsingforyourloverhlen-and-spotifyhttpsopenspotifycomartist1e2pcs8lj1fqe01ruhqzydsiyfad3l99qd6xovz8giaefgdl_branch1&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Follow her on [instagram](https://www.instagram.com/singforyourlover/?hl=en) and [spotify](https://open.spotify.com/artist/1e2Pcs8Lj1fQe01ruhqzyD?si=yfAd3L99QD6xovz8gIAEfg&amp;amp;dl_branch=1)&#34; srcset=&#34;
+               /post/2021-04-04-wdekrey/sing_for_your_lover_debut_hu2d6612f6c90459f8b3643591b15002ec_217528_de49c4a6de782ed4787a3fa530571cc6.webp 400w,
+               /post/2021-04-04-wdekrey/sing_for_your_lover_debut_hu2d6612f6c90459f8b3643591b15002ec_217528_c4a6e62d9d7b0d27efdcd975fc4e330c.webp 760w,
+               /post/2021-04-04-wdekrey/sing_for_your_lover_debut_hu2d6612f6c90459f8b3643591b15002ec_217528_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://dataandlyrics.com/post/2021-04-04-wdekrey/sing_for_your_lover_debut_hu2d6612f6c90459f8b3643591b15002ec_217528_de49c4a6de782ed4787a3fa530571cc6.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;506&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Follow her on &lt;a href=&#34;https://www.instagram.com/singforyourlover/?hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;instagram&lt;/a&gt; and &lt;a href=&#34;https://open.spotify.com/artist/1e2Pcs8Lj1fQe01ruhqzyD?si=yfAd3L99QD6xovz8gIAEfg&amp;amp;dl_branch=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;spotify&lt;/a&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;p&gt;&lt;strong&gt;Our initiative, Listen Local, is trying to connect local audiences with locally relevant musicians. Where do you feel at home as a musician?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Feeling at home for me is not linked to a place, feeling at home for me has to do with connecting with people. That’s also what art is about, right? Touching people with what you do or make.&lt;/p&gt;
 &lt;p&gt;It’s true, though, that I feel at home in Antwerp; I did from the moment I stepped out of the train the first time I came here. There’s something about the atmosphere here, it’s sort of laissez-faire — or at least it felt that way nine years ago. It’s the reason why I wanted to live here, even though I didn’t know anyone here. The second time ever that I came to Antwerp was to move my belongings from the Netherlands to my Antwerp apartment. It was freedom, it was following my heart: on my own in a city and country I didn’t really know, choosing art above everything.&lt;/p&gt;
@@ -63,8 +85,6 @@
 
 
 
-  
-  
 
 
 
@@ -76,42 +96,27 @@
 
 
 
-&lt;figure id=&#34;figure-willemijn-de-krey-sixteen-and-beautiful&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/2021-04-04-wdekrey/16_and_beautiful_hu1094bafd3849937d2b4c1f48a6e9da0e_2260129_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Willemijn de Krey: Sixteen and Beautiful&#34;&gt;
-
-
-  &lt;img data-src=&#34;/post/2021-04-04-wdekrey/16_and_beautiful_hu1094bafd3849937d2b4c1f48a6e9da0e_2260129_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;3154&#34; height=&#34;2542&#34;&gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Willemijn de Krey: Sixteen and Beautiful
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-
+&lt;figure  id=&#34;figure-willemijn-de-krey-sixteen-and-beautiful&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Willemijn de Krey: Sixteen and Beautiful&#34; srcset=&#34;
+               /post/2021-04-04-wdekrey/16_and_beautiful_hu1094bafd3849937d2b4c1f48a6e9da0e_2260129_cd73c4d2b80be58984f5c996aae3612c.webp 400w,
+               /post/2021-04-04-wdekrey/16_and_beautiful_hu1094bafd3849937d2b4c1f48a6e9da0e_2260129_6969968a1b1bb10f8e8501b5a6fb142f.webp 760w,
+               /post/2021-04-04-wdekrey/16_and_beautiful_hu1094bafd3849937d2b4c1f48a6e9da0e_2260129_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://dataandlyrics.com/post/2021-04-04-wdekrey/16_and_beautiful_hu1094bafd3849937d2b4c1f48a6e9da0e_2260129_cd73c4d2b80be58984f5c996aae3612c.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;612&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Willemijn de Krey: Sixteen and Beautiful
+    &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;p&gt;This is the morning of my sixteenth birthday. The first time I slept on the campsite of a music festival. Lowlands with my best friend. I hate camping, but I love music! Still glad someone found it worth it to capture this moment: “It’s your birthday!” #flash We’re eating bread with ‘schuddebuikjes’ here. In other words, “bread with minuscule cookies.” She’s wearing her skeleton hoodie and I’m wearing my Nirvana hoodie. The day before, when I was still 15, I saw PJ Harvey perform. Bless her. And bless how beautiful my friend and I were then.&lt;/p&gt;
 &lt;p&gt;…But yeah, where do I feel at home as a musician? It’s got to do with the connection on stage and bringing it out there. It’s got to do with sincerity.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;If people from other places would visit Antwerp, what would you recommend them to see, hear or try out? Can you recommend some local music or places?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;In Antwerp I like 
-&lt;a href=&#34;https://www.oltrivierenhof.be/nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Openluchttheater Rivierenhof&lt;/a&gt; very much. I saw Patti Smith perform there, which was kind of magical. It’s this stage in the middle of a huge park. People can sit in a semi-circle on benches or stand in front of the stage. It creates a really nice ambience.&lt;/p&gt;
+&lt;p&gt;In Antwerp I like &lt;a href=&#34;https://www.oltrivierenhof.be/nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Openluchttheater Rivierenhof&lt;/a&gt; very much. I saw Patti Smith perform there, which was kind of magical. It’s this stage in the middle of a huge park. People can sit in a semi-circle on benches or stand in front of the stage. It creates a really nice ambience.&lt;/p&gt;
 &lt;p&gt;Recently I discovered Matt Watts’s music. At the moment he’s working on a new album with Stef Kamil Carlens as producer. The first single got released in February. And he also has another project with Nicolas Rombauts. So there are two albums of his coming out this year that I do believe are worthy of people’s attention.&lt;/p&gt;
 &lt;iframe src=&#34;https://open.spotify.com/embed?uri=spotify%3Aartist%3A0AGWpc8nl5NQNkvsz75rkF&#34; width=&#34;700&#34; height=&#34;433&#34; frameborder=&#34;0&#34; allowtransparency=&#34;true&#34; allow=&#34;encrypted-media&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;strong&gt;Music performers and DJs usually start out at small local clubs and stages, and they are often constrained by the logistics of live performance. Is there any difference in building your audience as a painter? Is it important to be part of a local scene in art?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;I think pretty much everything starts from where you are located, so yes, local is the logical first step. Last July I had an exhibition in a place here in Antwerp called 
-&lt;a href=&#34;https://whosafraid.be/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Who’s Afraid of Red, Yellow and Blue&lt;/a&gt;. The owner gives courses in art, people can drink and eat something there and she has a space where every month other artists can show their work.&lt;/p&gt;
-
-
-
-
-
-  
-  
+&lt;p&gt;I think pretty much everything starts from where you are located, so yes, local is the logical first step. Last July I had an exhibition in a place here in Antwerp called &lt;a href=&#34;https://whosafraid.be/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Who’s Afraid of Red, Yellow and Blue&lt;/a&gt;. The owner gives courses in art, people can drink and eat something there and she has a space where every month other artists can show their work.&lt;/p&gt;
 
 
 
@@ -123,33 +128,30 @@
 
 
 
-&lt;figure id=&#34;figure-willemijn-de-krey-the-rabbit-dream-two--pink-is-for-punk-in-private-collection&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/2021-04-04-wdekrey/the_rabbit_dream_hu31b1fac278729f85960dc08dbcf80be2_4041011_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Willemijn de Krey: The Rabbit Dream Two — Pink is for Punk (in private collection)&#34;&gt;
 
 
-  &lt;img data-src=&#34;/post/2021-04-04-wdekrey/the_rabbit_dream_hu31b1fac278729f85960dc08dbcf80be2_4041011_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;3602&#34; height=&#34;2717&#34;&gt;
-&lt;/a&gt;
 
-
-  
-  
-  &lt;figcaption&gt;
-    Willemijn de Krey: The Rabbit Dream Two — Pink is for Punk (in private collection)
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-
+&lt;figure  id=&#34;figure-willemijn-de-krey-the-rabbit-dream-two--pink-is-for-punk-in-private-collection&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Willemijn de Krey: The Rabbit Dream Two — Pink is for Punk (in private collection)&#34; srcset=&#34;
+               /post/2021-04-04-wdekrey/the_rabbit_dream_hu31b1fac278729f85960dc08dbcf80be2_4041011_0e6049d33741eeba22f5d148631aef12.webp 400w,
+               /post/2021-04-04-wdekrey/the_rabbit_dream_hu31b1fac278729f85960dc08dbcf80be2_4041011_ccbca291194518beab7de7154d619799.webp 760w,
+               /post/2021-04-04-wdekrey/the_rabbit_dream_hu31b1fac278729f85960dc08dbcf80be2_4041011_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://dataandlyrics.com/post/2021-04-04-wdekrey/the_rabbit_dream_hu31b1fac278729f85960dc08dbcf80be2_4041011_0e6049d33741eeba22f5d148631aef12.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;573&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Willemijn de Krey: The Rabbit Dream Two — Pink is for Punk (in private collection)
+    &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;p&gt;The thing is that in art you have to get introduced to galleries and such by someone who has a connection with the gallery owner. Someone has to say, Hey, I think you might be interested in seeing the work of this artist, rather than going somewhere and saying, Hey, I’m an artist, want to look at my work? It also doesn’t feel right to present yourself like that, or at least for me it doesn’t.&lt;/p&gt;
 
 
 
 
 
-  
-  
 
 
 
@@ -161,25 +163,19 @@
 
 
 
-&lt;figure id=&#34;figure-willemijn-de-krey-up-is-the-only-way-down&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/2021-04-04-wdekrey/up_is_the_only_way_down_hu41e71184351a6c9d24cc1edbc8303387_552588_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Willemijn de Krey: Up is the Only Way Down&#34;&gt;
-
-
-  &lt;img data-src=&#34;/post/2021-04-04-wdekrey/up_is_the_only_way_down_hu41e71184351a6c9d24cc1edbc8303387_552588_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;700&#34; height=&#34;965&#34;&gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Willemijn de Krey: Up is the Only Way Down
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-
+&lt;figure  id=&#34;figure-willemijn-de-krey-up-is-the-only-way-down&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Willemijn de Krey: Up is the Only Way Down&#34; srcset=&#34;
+               /post/2021-04-04-wdekrey/up_is_the_only_way_down_hu41e71184351a6c9d24cc1edbc8303387_552588_27c553886e10c308a6a807f0622ead94.webp 400w,
+               /post/2021-04-04-wdekrey/up_is_the_only_way_down_hu41e71184351a6c9d24cc1edbc8303387_552588_65d3926fda885856f3296457bf7fa368.webp 760w,
+               /post/2021-04-04-wdekrey/up_is_the_only_way_down_hu41e71184351a6c9d24cc1edbc8303387_552588_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://dataandlyrics.com/post/2021-04-04-wdekrey/up_is_the_only_way_down_hu41e71184351a6c9d24cc1edbc8303387_552588_27c553886e10c308a6a807f0622ead94.webp&#34;
+               width=&#34;551&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Willemijn de Krey: Up is the Only Way Down
+    &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;blockquote&gt;
 &lt;p&gt;In this day and age it seems that everyone has to be their own businessman/woman, but in my opinion that’s somewhat ridiculous.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -191,8 +187,6 @@
 
 
 
-  
-  
 
 
 
@@ -204,25 +198,19 @@
 
 
 
-&lt;figure id=&#34;figure-willemijn-de-krey-men-of-words-in-private-collection&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/2021-04-04-wdekrey/men_of_words_huc9d92c1772ab0c9e9cd59703f046f5a2_2845221_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Willemijn de Krey: Men of Words (in private collection)&#34;&gt;
-
-
-  &lt;img data-src=&#34;/post/2021-04-04-wdekrey/men_of_words_huc9d92c1772ab0c9e9cd59703f046f5a2_2845221_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;3488&#34; height=&#34;2468&#34;&gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Willemijn de Krey: Men of Words (in private collection)
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-
+&lt;figure  id=&#34;figure-willemijn-de-krey-men-of-words-in-private-collection&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Willemijn de Krey: Men of Words (in private collection)&#34; srcset=&#34;
+               /post/2021-04-04-wdekrey/men_of_words_huc9d92c1772ab0c9e9cd59703f046f5a2_2845221_61197d4b517b1ad5f38925b8ac19df00.webp 400w,
+               /post/2021-04-04-wdekrey/men_of_words_huc9d92c1772ab0c9e9cd59703f046f5a2_2845221_76032fe7e4d1530b328eb3950cd906ee.webp 760w,
+               /post/2021-04-04-wdekrey/men_of_words_huc9d92c1772ab0c9e9cd59703f046f5a2_2845221_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://dataandlyrics.com/post/2021-04-04-wdekrey/men_of_words_huc9d92c1772ab0c9e9cd59703f046f5a2_2845221_61197d4b517b1ad5f38925b8ac19df00.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;538&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Willemijn de Krey: Men of Words (in private collection)
+    &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;p&gt;You painted the cover art for your own band. Have you worked with other bands as a painter, creative designer, makeup artist or in another, non-musician role?&lt;/p&gt;
 &lt;p&gt;I did several artworks for Verlin. I haven’t done anything for other bands yet, but I would love to. Ever since I was young I’ve had a fascination for album covers. I could sit for hours in front of my parents’ record collection and look at them.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Is there any location in particular where you would like to make music or find an audience for your music and your paintings?&lt;/strong&gt;&lt;/p&gt;
@@ -234,17 +222,7 @@
 &lt;p&gt;I would like to find someone who I can work with like how John Parish and PJ Harvey work together, I think they have a wonderful collaboration. Further, I’d like to do several projects, to be totally immersed in music making. I really want to work with different types of musicians ’cause I think it helps one grow as a musician and artist. It’s really about the depth of it all, that’s what I’m searching for in life.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;We are doing some experiments to figure out how certain artists end up on Forgetify, an app that plays music that has absolutely no audience, and how to avoid this happening. Would you participate in an anonymous experimental music project with us to find out how algorithms learn to recommend new music?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Sure! Bring it on.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;You can see more of Willemijn’s work on and of course, find her for commissions on 
-&lt;a href=&#34;https://dekreyw.wixsite.com/willemijndekrey&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;her website&lt;/a&gt;, and her social media pages on 
-&lt;a href=&#34;https://www.facebook.com/wdekrey/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Facebook&lt;/a&gt; and 
-&lt;a href=&#34;https://www.instagram.com/wdekrey.artist.page/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Instagram&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-
-
-
-
-
-  
-  
+&lt;p&gt;&lt;em&gt;You can see more of Willemijn’s work on and of course, find her for commissions on &lt;a href=&#34;https://dekreyw.wixsite.com/willemijndekrey&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;her website&lt;/a&gt;, and her social media pages on &lt;a href=&#34;https://www.facebook.com/wdekrey/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Facebook&lt;/a&gt; and &lt;a href=&#34;https://www.instagram.com/wdekrey.artist.page/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Instagram&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 
 
 
@@ -256,89 +234,51 @@
 
 
 
-&lt;figure id=&#34;figure-willemijn-de-krey-mio-cuore&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/2021-04-04-wdekrey/mio_cuore_hu437779248125b441cc2e59ce6015ffca_2912552_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Willemijn de Krey: Mio Cuore&#34;&gt;
 
 
-  &lt;img data-src=&#34;/post/2021-04-04-wdekrey/mio_cuore_hu437779248125b441cc2e59ce6015ffca_2912552_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;3376&#34; height=&#34;2649&#34;&gt;
-&lt;/a&gt;
 
-
-  
-  
-  &lt;figcaption&gt;
-    Willemijn de Krey: Mio Cuore
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-
-&lt;p&gt;&lt;em&gt;If you read Medium, you can read 
-&lt;a href=&#34;https://medium.com/data-lyrics/in-this-age-everyone-has-to-be-her-own-businesswoman-i-find-this-somewhat-ridiculous-1cfaa743ec73&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this&lt;/a&gt; and all our other stories on the premium blogging platform, too.&lt;/em&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Launching Our Demo Music Observatory</title>
-      <link>/post/2020-09-15-music-observatory-launch/</link>
-      <pubDate>Tue, 15 Sep 2020 08:00:39 +0200</pubDate>
-      <guid>/post/2020-09-15-music-observatory-launch/</guid>
-      <description>&lt;p&gt;Today, on 15 September 2020, we officially launched our &lt;code&gt;minimal viable product&lt;/code&gt; as we promised to partners back in February. This was a particularly difficult period for everybody. We aspired to deliver by September in a very different environment, our hopes for commissioned work went up in flames with the pandemic, and our targeted users, musicians and music entrepreneurs, talent managers, music venues lost most of their income. The organizations helping them, granting authorities, export offices and collective management societies are overwhelmed with the problem. During these troublesome times, our team expanded, attracted great new talent, and kept working.&lt;/p&gt;
-&lt;p&gt;Our first product is the 
-&lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo Music Observatory&lt;/a&gt;, a collaborative, automated research-based 
-&lt;a href=&#34;https://dataobservatory.eu/faq/observatories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;observatory&lt;/a&gt; for the music industry, one that is particularly hard hit by the COVID19 crisis. Not only great artists, composers, technicians, managers fell victim to the virus, but musicians lost about 50–90% of their income from live music. This translates to a 100% loss for the live music technicians and managers.&lt;/p&gt;
-&lt;p&gt;
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/fQJHflWPS34&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-See our 
-&lt;a href=&#34;https://dataobservatory.eu/post/2020-09-11-creating-automated-observatory/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;earlier blogpost&lt;/a&gt; on what you see on the video.&lt;/p&gt;
-&lt;p&gt;The music industry was never a place for great job security. For putting up a show, you usually need a network of 10–200 artists, technicians and managers to work together as freelancers without all those social benefits that many people enjoy in other walks of life. We have been trying to figure out how to help this microenterprise and freelancer-network based industry with research for five years. Our aim is to make them competitive when they are talking with their buyers: Google, Apple, Spotify, who are really heavy-weight data and AI pros. Our better plan their tours, when they will be back on the road, to understand what sort of audiences and purchasing power waits for them in different European cities.&lt;/p&gt;
-&lt;p&gt;We are launching at a time when the music industry is crying for help.Therefore, we have decided to make our demo observatory open and unfinished. Over the last 7 years, we have built up about 2000 music and creative sector indicators to be used for business KPIs, forecasting targets, grant evaluations, royalty valuations, concert demography target group analysis and other professional uses. We would like to open up, based on your needs, about 50 well-designed indicators, and pledge to keep it daily refreshed, corrected, documented, citaable, downloadable. Also, feel free to use our most valuable source code—use it for your own purposes, even modify it, as long as you keep it open.&lt;/p&gt;
-&lt;p&gt;For our smaller partners, we follow what musicians do these days on Bandcamp: name your price. We make a pledge to our small partners: if you need reliable data to plan your next grant calls, calculate royalties, compensations, predict hit candidates, give us the job—and name your price. Post-corona, you can take for a dollar the best music from Bandcamp. You can take our research products, for a limited period, for any amount you name, as long as  it is for a good cause and serves the industry, musicians, technicians or managers. In return, we ask for your feedback. Help us validate whether we are on the right track, tell us how we can cooperate after the pandemic, in better times.&lt;/p&gt;
-&lt;p&gt;Our larger and better funded partners? We ask you to pay the price we name, because we believe that it is a well-justified, fair and competitive price, set by pricing experts.&lt;/p&gt;
-&lt;p&gt;We appreciate it if you take a look at our offering, or if you pass this blogpost on to your colleagues in the industry.  Our main target audience initially are music professional in broader Europe, but we are planning to cover all major global markets very soon, too. Feedback from the U.S., Australia, Canada, Colombia, Brazil &amp;amp; Argentina is particularly welcome as we have great plans over there!&lt;/p&gt;
-&lt;h2 id=&#34;who-we-are&#34;&gt;Who we are?&lt;/h2&gt;
-&lt;p&gt;We 
-&lt;a href=&#34;https://dataobservatory.eu/post/2020-08-24-start-up/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;started&lt;/a&gt; our operations on 1 September 2020 on the basis of 
-&lt;a href=&#34;http://documentation.ceemid.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CEEMID&lt;/a&gt;, a pan-European data observatory that created about 2000 music and creative industry indicators for its users. In the coming days, we are gradually opening up about 50 
-&lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;music industry&lt;/a&gt; and 50 broader creative industry indicators in a fully reproducible workflow, with daily re-freshed, re-processed, well-formatted and documented indicators for business and policy decisions.&lt;/p&gt;
-&lt;p&gt;We would like to validate this approach in one of the world&amp;rsquo;s most prestigious university-backed incubator programs, in the 
-&lt;a href=&#34;https://www.yesdelft.com/yes-programs/ai-blockchain-validation-lab/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yes!Delft AI/Blockchain Validation Lab&lt;/a&gt;. We&amp;rsquo;re finalist on their selection, and all help before 23 September from our friends in the music industry is more than appreciated. If we get there, we can rely on probably the best pros in Europe to make our offering better tailored and financially sustainable.&lt;/p&gt;
-&lt;h2 id=&#34;get-in-touch&#34;&gt;Get in touch!&lt;/h2&gt;
-&lt;p&gt;We use the very simple and extremely secure &lt;strong&gt;keybase.io&lt;/strong&gt;, a kind of mix of Whatsapp, Skype, Google Drive, One Drive and zoom. You can get in touch on that platform with us in anytime 
-&lt;a href=&#34;https://keybase.io/team/reprexcommunity&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;You can easily contact on LinkedIn 
-&lt;a href=&#34;https://www.linkedin.com/in/antaldaniel/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel&lt;/a&gt; or 
-&lt;a href=&#34;https://www.linkedin.com/in/k%C3%A1tya-nagy-a9447730/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kátya&lt;/a&gt; and of course, we have a usually working 
-&lt;a href=&#34;https://dataobservatory.eu/#about&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;email contact form&lt;/a&gt;, too. Our email is name.surname at our main domain.&lt;/p&gt;
-&lt;h2 id=&#34;video-credits&#34;&gt;Video credits&lt;/h2&gt;
+&lt;figure  id=&#34;figure-willemijn-de-krey-mio-cuore&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Willemijn de Krey: Mio Cuore&#34; srcset=&#34;
+               /post/2021-04-04-wdekrey/mio_cuore_hu437779248125b441cc2e59ce6015ffca_2912552_ee84f5b9da39533a24d41c51afe304d0.webp 400w,
+               /post/2021-04-04-wdekrey/mio_cuore_hu437779248125b441cc2e59ce6015ffca_2912552_d5fd07dc71a099c4b4f15d7fcd69d465.webp 760w,
+               /post/2021-04-04-wdekrey/mio_cuore_hu437779248125b441cc2e59ce6015ffca_2912552_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://dataandlyrics.com/post/2021-04-04-wdekrey/mio_cuore_hu437779248125b441cc2e59ce6015ffca_2912552_ee84f5b9da39533a24d41c51afe304d0.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;597&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Willemijn de Krey: Mio Cuore
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;em&gt;If you read Medium, you can read &lt;a href=&#34;https://medium.com/data-lyrics/in-this-age-everyone-has-to-be-her-own-businesswoman-i-find-this-somewhat-ridiculous-1cfaa743ec73&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this&lt;/a&gt; and all our other stories on the premium blogging platform, too.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Other artists:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Data acquisition and processing: Daniel Antal, CFA and Marta Kołczyńska, PhD (
-&lt;a href=&#34;https://music.dataobservatory.eu/economy.html#demand&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;survey data&lt;/a&gt;).&lt;/li&gt;
-&lt;li&gt;Documentation automation: Sandor Budai&lt;/li&gt;
-&lt;li&gt;Video art: Line Matson&lt;/li&gt;
-&lt;li&gt;Music: 
-&lt;a href=&#34;https://www.youtube.com/moonmoonmoon&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Moon Moon Moon&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dataandlyrics.com/post/2020-11-11-listen-local-robin-kester/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Robin Kestner&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dataandlyrics.com/post/2020-10-28-duka-mission/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Duka Base&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dataandlyrics.com/post/2020-11-25-katarzia/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Katarzia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dataandlyrics.com/post/2020-11-18-where-they-understand-us/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Twentees&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dataandlyrics.com/post/2020-11-30-youniverse/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Youniverse&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dataandlyrics.com/post/2021-07-15-marie_de_la_montagne/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Marie de la Montagne&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;And a label:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://dataandlyrics.com/post/2020-12-14-tinyrooms/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tiny Rooms&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>2020 Music Professionals Survey Wave</title>
-      <link>/post/2020-music-professional-survey-wave/</link>
+      <link>https://dataandlyrics.com/post/2020-music-professional-survey-wave/</link>
       <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/post/2020-music-professional-survey-wave/</guid>
+      <guid>https://dataandlyrics.com/post/2020-music-professional-survey-wave/</guid>
       <description>&lt;p&gt;CEEMID is conducing its 8th survey programme this among musicians, music professionals, and music managers. This is the largest empirical research program in the world about how people work and earn their living in the music industry.&lt;/p&gt;
 &lt;h2 id=&#34;why&#34;&gt;Why?&lt;/h2&gt;
 &lt;p&gt;We are teaming up with some music organizations and research universities to form a Music Observatory, which will support all participant countries musicians with free data for royalty calculation, advocacy at government, tour scheduling and tour planning.  This year we particularly focus on effective COVID19 relief measures, too.&lt;/p&gt;
-&lt;p&gt;See the results of last years&#39; results:
-
+&lt;p&gt;See the results of last years&amp;rsquo; results:
 &lt;a href=&#34;http://ceereport2020.ceemid.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Central European Music Industry Report 2020&lt;/a&gt; - free download in PDF, epub, or browse the html version.
-
 &lt;a href=&#34;post/2020-01-30-ceereport/&#34;&gt;CCS Ecosystems: Evidence-Driven CCI Policy &amp;amp; The Central &amp;amp; Eastern European Music Industry Report&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;what&#34;&gt;What?&lt;/h2&gt;
 &lt;p&gt;We are asking music organizations to send out our questionnaires to their members, and we ask musicians to forward our questionnaires to music technicians and managers, too. After the fieldwork is done, we are sending back statistically analysed data, reports to the participating countries, and assist local music organizations to make the best use of the data.&lt;/p&gt;
@@ -349,92 +289,21 @@ See our
     </item>
     
     <item>
-      <title>Granting And Policy Evaluation For Musicians In Hungary</title>
-      <link>/post/2015-11-12-cstp/</link>
-      <pubDate>Thu, 12 Nov 2015 19:00:00 +0100</pubDate>
-      <guid>/post/2015-11-12-cstp/</guid>
-      <description>&lt;p&gt;The data and intelligence of CEEMID was used in Hungary to create an ex ante evaluation of the new Cseh Tamás Program to support popular music development in Hungary.  Our mandate was to create concrete granting proposals that have a high chance of making a change in terms of the later royalty earning capabilities of artists.&lt;/p&gt;
-&lt;p&gt;In the first phase of the project, we made two workshops with the eight fields development method to understand the challenges and existing working practices that result in a low level of royalties paid out in Hungary. This methodology requires a groupwork of all stakeholders and professionals of the industry. In this case, we worked in groups of 30-40, covering various artists, stage, light, sound technicians, producers, managers and even band transporters.  One group predominantly was Budapest-based and one in Eastern Hungary, to have a different view on working and market conditions in the metropolitan city and in the countryside. While royalties are not applicable for live music, it was well understood by the granting authority and the music industry that royalties cannot grow without a healthy live music sector in the country.&lt;/p&gt;
-&lt;p&gt;In the workshop, the consultant with several aides facilitates a very structured conversation that starts with a desired state of the industry which is not described by slogans but by actual characterizations of a desired working environment.   Instead of envisioning that “everybody gets a grant”, we describe the ideal project planning and management cycle of a new tour or record to see how a granting can fit into this workflow and what type of grants add effective assistance to realize goals.  For each goal and change we envision how that effects the work of the performing artists, her manager, the technician crew, even the schedule of the tour bus driver.  We discuss if the change makes any material change in the way we can prepare for a new album release.&lt;/p&gt;
-&lt;p&gt;In the latter stages what sort of changes we envision in day practices, programmers, institutions and what concrete steps are needed to be made to get there.  As a controlling step, we assign indicators that can be objectively judged, and which can show the degree of change if recommended actions are taken.&lt;/p&gt;
-&lt;p&gt;The advantage of the eight-fields methodology, which was originally developed to support EU and global aid program design is that it allows conflicting viewpoints, finding consensus, and display very highly detailed policy and program scenarios already in a day. It is generally a very enjoyable experience for artists and professionals.  If the workshop takes place over 2 days, a first draft program is already presented on the second morning and by the end of the day participants usually have a detailed program.  In this case, we came up with dozens of concrete proposals, many of which could be addressed to the stakeholders themselves without any action taken from the granting authority.&lt;/p&gt;
+      <title>Eurpoean Comparison: How Many People Ever Pay For Music, Film or Software</title>
+      <link>https://dataandlyrics.com/post/2018-06-08_how_many_ever_pay/</link>
+      <pubDate>Fri, 08 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://dataandlyrics.com/post/2018-06-08_how_many_ever_pay/</guid>
+      <description>&lt;!---
+# Set captions for image gallery.
 
+[[gallery_item]]
+album: &#34;gallery&#34;
+image: &#34;theme-default.png&#34;
+caption: &#34;Default&#34;
 
-
-
-
-
-
-
-  
-  
-
-
-&lt;div class=&#34;gallery&#34;&gt;
-
-  
-  
-  
-  
-    
-    
-    
-    
-    
-      
-        
-      
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2015-11-12-cstp/gallery/01-featured.JPG&#34; data-caption=&#34;Workshop in the Design Terminal, Budapest&#34;&gt;
-  &lt;img data-src=&#34;/post/2015-11-12-cstp/gallery/01-featured_hu48dff82355c51cb9da72e1905faaf94d_108737_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-        
-      
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2015-11-12-cstp/gallery/02-mindmap.jpg&#34; data-caption=&#34;Creating the mindmap&#34;&gt;
-  &lt;img data-src=&#34;/post/2015-11-12-cstp/gallery/02-mindmap_hu54f47b9031cb6332641cf1916acdc576_98341_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-        
-      
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2015-11-12-cstp/gallery/03-mindmap.jpg&#34; data-caption=&#34;Excerpt of mindmap&#34;&gt;
-  &lt;img data-src=&#34;/post/2015-11-12-cstp/gallery/03-mindmap_hu83e8e21014b7b14b6bb8e4256a9d2c34_145989_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-        
-      
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2015-11-12-cstp/gallery/04-professions.png&#34; data-caption=&#34;Participating professions&#34;&gt;
-  &lt;img data-src=&#34;/post/2015-11-12-cstp/gallery/04-professions_hud961f54fec5297723fa4ca07fa483799_954022_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-
-  
-&lt;/div&gt;
-&lt;p&gt;In the next stage we carried out the annual CEEMID Music Professional Survey with additional questions where artists, managers and technicians could rate the proposals.  They could also optionally give their next year development priorities in the fields of live performances, recordings and composition, in the context of their current work, pre-existing financing and professional assistance of financial assistance needs.  In Hungary, more than 1000 music professionals filled out the survey in 2015.&lt;/p&gt;
-&lt;p&gt;At the end of the workshop and the survey, we could present a very comprehensive policy and granting program, with preliminary estimates on granting needs, ideal and minimum grant sizes, and grant contractual conditions to avoid grant calls that cannot be contracted out to winners due to unrealistic prerequisites.&lt;/p&gt;
-&lt;p&gt;These results, with suggested cultural policy indicators, program indicators and budgetary outlines were presented to the granting authority of the Cseh Tamás Program (currently named: 
-&lt;a href=&#34;https://hangfoglalo.hu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hangfoglaló Popular Music Support Program&lt;/a&gt;)&lt;/p&gt;
+---&gt;
+&lt;p&gt;In our recent private copying reports we compiled European survey data relevant to analysis.  In Europe, there is a big difference between the use of electronic entertainment devices in richer and poorer countries. Nevertheless, the real difference is between the number of people who sometimes and who never pay for downloaded music, films and software.&lt;/p&gt;
+&lt;p&gt;In some countries of Europe, less then 10 percent of the population ever pays for the content that is loaded to their computers, smartphones and tablets.  These survey data, accompanied by other objective data, can help explaining 96% of the variance among digital music sales levels within the EU countries, and it is highly relevant in calculating the economic benefit of home copying for users, and the harm for rightsholders.&lt;/p&gt;
 </description>
     </item>
     

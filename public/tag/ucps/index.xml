@@ -2,33 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>UCPS | Data &amp; Lyrics</title>
-    <link>/tag/ucps/</link>
-      <atom:link href="/tag/ucps/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dataandlyrics.com/tag/ucps/</link>
+      <atom:link href="https://dataandlyrics.com/tag/ucps/index.xml" rel="self" type="application/rss+xml" />
     <description>UCPS</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Tue, 02 Mar 2021 07:23:00 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 02 Mar 2021 07:23:00 +0200</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>https://dataandlyrics.com/media/icon_hu5bfde8608118b47b475864b70fd224b4_21674_512x512_fill_lanczos_center_3.png</url>
       <title>UCPS</title>
-      <link>/tag/ucps/</link>
+      <link>https://dataandlyrics.com/tag/ucps/</link>
     </image>
     
     <item>
       <title>Do Independent Labels and Major Record Labels Compete on a Level Playing Field When It Comes to Streaming?</title>
-      <link>/post/2021-03-01-major-vs-independent/</link>
+      <link>https://dataandlyrics.com/post/2021-03-01-major-vs-independent/</link>
       <pubDate>Tue, 02 Mar 2021 07:23:00 +0200</pubDate>
-      <guid>/post/2021-03-01-major-vs-independent/</guid>
-      <description>&lt;p&gt;Do Independent Labels and Major Record Labels Compete on a Level Playing Field When It Comes to Streaming? According to the written evidence submitted by Dr. Franco Mariuzzo and Dr. Peter Ormosi to the Economics of music streaming inquiry of the 
-&lt;a href=&#34;https://committees.parliament.uk/writtenevidence/15122/html/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UK Parliament, Digital, Culture, Media, and Sports Committee&lt;/a&gt;, the answer is no.&lt;/p&gt;
+      <guid>https://dataandlyrics.com/post/2021-03-01-major-vs-independent/</guid>
+      <description>&lt;p&gt;Do Independent Labels and Major Record Labels Compete on a Level Playing Field When It Comes to Streaming? According to the written evidence submitted by Dr. Franco Mariuzzo and Dr. Peter Ormosi to the Economics of music streaming inquiry of the &lt;a href=&#34;https://committees.parliament.uk/writtenevidence/15122/html/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UK Parliament, Digital, Culture, Media, and Sports Committee&lt;/a&gt;, the answer is no.&lt;/p&gt;
 &lt;p&gt;The researchers compared the number of streams for 719 artists represented by the major labels Sony and UMG and 1101 artists represented by independent labels to assess whether similarly popular artists had the same chance to rack up new streams over a period of two weeks.&lt;/p&gt;
-&lt;p&gt;Applying advanced econometric techniques (you can read their publication before scientific peer-review 
-&lt;a href=&#34;https://poseidon01.ssrn.com/delivery.php?ID=587025086112006006104031017104122104113073037034031091095095089113004080075007105067020007042040000015016073015122067013079078037066031008013103119025115019095109091035012104070084028121027073072117103088016126127066004119110082124031112023000087116&amp;amp;EXT=pdf&amp;amp;INDEX=TRUE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;), the researchers ensured that the artists being compared met rigorous statistical similarity criteria. The growth prospects of artists represented by Sony and UMG do not appear to be significantly different. However, the researchers found significant differences in growth prospects when comparing artists associated with major and independent labels.&lt;/p&gt;
-
-
-
-
-
-  
-  
+&lt;p&gt;Applying advanced econometric techniques (you can read their publication before scientific peer-review &lt;a href=&#34;https://poseidon01.ssrn.com/delivery.php?ID=587025086112006006104031017104122104113073037034031091095095089113004080075007105067020007042040000015016073015122067013079078037066031008013103119025115019095109091035012104070084028121027073072117103088016126127066004119110082124031112023000087116&amp;amp;EXT=pdf&amp;amp;INDEX=TRUE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;), the researchers ensured that the artists being compared met rigorous statistical similarity criteria. The growth prospects of artists represented by Sony and UMG do not appear to be significantly different. However, the researchers found significant differences in growth prospects when comparing artists associated with major and independent labels.&lt;/p&gt;
 
 
 
@@ -40,25 +31,24 @@
 
 
 
-&lt;figure id=&#34;figure-umg-and-sony-artitsts-gather-streams-more-quickly-the-two-companies-happen-to-be-spotify-shareholders&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/2021-03-01-major-vs-independent/featured_hub2f9b2409c3a39637e702c75501b18c7_160334_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;UMG and Sony artitsts gather streams more quickly. The two companies happen to be Spotify shareholders.&#34;&gt;
 
 
-  &lt;img data-src=&#34;/post/2021-03-01-major-vs-independent/featured_hub2f9b2409c3a39637e702c75501b18c7_160334_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;911&#34; height=&#34;565&#34;&gt;
-&lt;/a&gt;
 
-
-  
-  
-  &lt;figcaption&gt;
-    UMG and Sony artitsts gather streams more quickly. The two companies happen to be Spotify shareholders.
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-
+&lt;figure  id=&#34;figure-umg-and-sony-artitsts-gather-streams-more-quickly-the-two-companies-happen-to-be-spotify-shareholders&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;UMG and Sony artitsts gather streams more quickly. The two companies happen to be Spotify shareholders.&#34; srcset=&#34;
+               /post/2021-03-01-major-vs-independent/featured_hub2f9b2409c3a39637e702c75501b18c7_160334_da209c156dd0df62107938faf2dd341a.webp 400w,
+               /post/2021-03-01-major-vs-independent/featured_hub2f9b2409c3a39637e702c75501b18c7_160334_be6b465f030115f63c8c54d080aa6656.webp 760w,
+               /post/2021-03-01-major-vs-independent/featured_hub2f9b2409c3a39637e702c75501b18c7_160334_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://dataandlyrics.com/post/2021-03-01-major-vs-independent/featured_hub2f9b2409c3a39637e702c75501b18c7_160334_da209c156dd0df62107938faf2dd341a.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;471&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      UMG and Sony artitsts gather streams more quickly. The two companies happen to be Spotify shareholders.
+    &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;blockquote&gt;
 &lt;p&gt;“One possible explanation could be that major label artists feature disproportionately in Spotify generated playlists, which gives them access to distributional channels — and consequently revenue — that indie labels do not have. Our simulation results confirm this explanation.”&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -68,8 +58,6 @@
 
 
 
-  
-  
 
 
 
@@ -81,35 +69,21 @@
 
 
 
-&lt;figure id=&#34;figure-major-label-releases-appear-to-generate-more-streams&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/2021-03-01-major-vs-independent/major_vs_indy_scatterplot_hu9cc1496809d6da41eb6c4d784b64bfc9_73709_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Major label releases appear to generate more streams.&#34;&gt;
-
-
-  &lt;img data-src=&#34;/post/2021-03-01-major-vs-independent/major_vs_indy_scatterplot_hu9cc1496809d6da41eb6c4d784b64bfc9_73709_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;920&#34; height=&#34;518&#34;&gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Major label releases appear to generate more streams.
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-
+&lt;figure  id=&#34;figure-major-label-releases-appear-to-generate-more-streams&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Major label releases appear to generate more streams.&#34; srcset=&#34;
+               /post/2021-03-01-major-vs-independent/major_vs_indy_scatterplot_hu9cc1496809d6da41eb6c4d784b64bfc9_73709_856ce8d9efaa33facbc532d6ee9f3130.webp 400w,
+               /post/2021-03-01-major-vs-independent/major_vs_indy_scatterplot_hu9cc1496809d6da41eb6c4d784b64bfc9_73709_d8b457fbb31f6c58f50205350111a5a0.webp 760w,
+               /post/2021-03-01-major-vs-independent/major_vs_indy_scatterplot_hu9cc1496809d6da41eb6c4d784b64bfc9_73709_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://dataandlyrics.com/post/2021-03-01-major-vs-independent/major_vs_indy_scatterplot_hu9cc1496809d6da41eb6c4d784b64bfc9_73709_856ce8d9efaa33facbc532d6ee9f3130.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Major label releases appear to generate more streams.
+    &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;p&gt;UMG and Sony artitsts gather streams more quickly. The two companies happen to be Spotify shareholders.
-This research is consistent with the findings of the 
-&lt;a href=&#34;https://dataandlyrics.com/post/2021-02-21-cnm-streaming/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Centre National de la Musique and Deloitte&lt;/a&gt;, which show that the income of certain music genres that major labels invest into —such as rap and Afrobeat — receive about 20% more income than their share in streams at the expense of other genres.&lt;/p&gt;
-
-
-
-
-
-  
-  
+This research is consistent with the findings of the &lt;a href=&#34;https://dataandlyrics.com/post/2021-02-21-cnm-streaming/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Centre National de la Musique and Deloitte&lt;/a&gt;, which show that the income of certain music genres that major labels invest into —such as rap and Afrobeat — receive about 20% more income than their share in streams at the expense of other genres.&lt;/p&gt;
 
 
 
@@ -121,45 +95,38 @@ This research is consistent with the findings of the
 
 
 
-&lt;figure id=&#34;figure-if-royalty-distribution-were-proportional-to-the-number-of-streams-by-listeners-classical-music-hard-rock-blues-pop-and-rock-labels-and-their-artists-would-get-1724-revenue-per-year&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/2021-03-01-major-vs-independent/cnm_genre_huc90c01e306aa840b99af21d2eca24b0d_92397_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;If royalty distribution were proportional to the number of streams by listeners, classical music, hard rock, blues, pop, and rock labels and their artists would get 17–24% revenue per year.&#34;&gt;
 
 
-  &lt;img data-src=&#34;/post/2021-03-01-major-vs-independent/cnm_genre_huc90c01e306aa840b99af21d2eca24b0d_92397_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;595&#34; height=&#34;437&#34;&gt;
-&lt;/a&gt;
 
-
-  
-  
-  &lt;figcaption&gt;
-    If royalty distribution were proportional to the number of streams by listeners, classical music, hard rock, blues, pop, and rock labels and their artists would get 17–24% revenue per year.
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-
+&lt;figure  id=&#34;figure-if-royalty-distribution-were-proportional-to-the-number-of-streams-by-listeners-classical-music-hard-rock-blues-pop-and-rock-labels-and-their-artists-would-get-1724-revenue-per-year&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;If royalty distribution were proportional to the number of streams by listeners, classical music, hard rock, blues, pop, and rock labels and their artists would get 17–24% revenue per year.&#34; srcset=&#34;
+               /post/2021-03-01-major-vs-independent/cnm_genre_huc90c01e306aa840b99af21d2eca24b0d_92397_b940b2ff16534e1f5d10dc7c7bbc396d.webp 400w,
+               /post/2021-03-01-major-vs-independent/cnm_genre_huc90c01e306aa840b99af21d2eca24b0d_92397_7243f5bb516a1a93b4aa7675f5ed9580.webp 760w,
+               /post/2021-03-01-major-vs-independent/cnm_genre_huc90c01e306aa840b99af21d2eca24b0d_92397_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://dataandlyrics.com/post/2021-03-01-major-vs-independent/cnm_genre_huc90c01e306aa840b99af21d2eca24b0d_92397_b940b2ff16534e1f5d10dc7c7bbc396d.webp&#34;
+               width=&#34;595&#34;
+               height=&#34;437&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      If royalty distribution were proportional to the number of streams by listeners, classical music, hard rock, blues, pop, and rock labels and their artists would get 17–24% revenue per year.
+    &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;p&gt;If royalty distribution were proportional to the number of streams by listeners, classical music, hard rock, blues, pop, and rock labels and their artists would get 17–24% revenue per year.&lt;/p&gt;
-&lt;p&gt;Our own investigation with 
-&lt;a href=&#34;https://listenlocal.community/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Listen Local&lt;/a&gt; focused on the artists who are never recommended at all and ended up on 
-&lt;a href=&#34;https://dataandlyrics.com/post/2020-10-24-forgetify_pop_october/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Forgetify&lt;/a&gt;. Our data suggests, but not yet proves, that certain countries of origin have a similar disadvantage. We are building 
-&lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a Music Observatory&lt;/a&gt; to continuously share, collect data that can help empirically decide questions in such inquiries.  And we’ll join forces with Dr. Mariuzzo and Dr. Ormosi to find it out!&lt;/p&gt;
+&lt;p&gt;Our own investigation with &lt;a href=&#34;https://listenlocal.community/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Listen Local&lt;/a&gt; focused on the artists who are never recommended at all and ended up on &lt;a href=&#34;https://dataandlyrics.com/post/2020-10-24-forgetify_pop_october/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Forgetify&lt;/a&gt;. Our data suggests, but not yet proves, that certain countries of origin have a similar disadvantage. We are building &lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a Music Observatory&lt;/a&gt; to continuously share, collect data that can help empirically decide questions in such inquiries.  And we’ll join forces with Dr. Mariuzzo and Dr. Ormosi to find it out!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Music Streaming: Is It a Level Playing Field?</title>
-      <link>/post/2021-02-24-music-level-playing-field/</link>
+      <link>https://dataandlyrics.com/post/2021-02-24-music-level-playing-field/</link>
       <pubDate>Tue, 23 Feb 2021 21:23:00 +0200</pubDate>
-      <guid>/post/2021-02-24-music-level-playing-field/</guid>
-      <description>&lt;p&gt;Our article, 
-&lt;a href=&#34;https://www.competitionpolicyinternational.com/music-streaming-is-it-a-level-playing-field/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Music Streaming: Is It a Level Playing Field?&lt;/a&gt; is published in the February 2021 issue of CPI Antitrust Chronicle, which is fully devoted to competition policy issues in the music industry.&lt;/p&gt;
+      <guid>https://dataandlyrics.com/post/2021-02-24-music-level-playing-field/</guid>
+      <description>&lt;p&gt;Our article, &lt;a href=&#34;https://www.competitionpolicyinternational.com/music-streaming-is-it-a-level-playing-field/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Music Streaming: Is It a Level Playing Field?&lt;/a&gt; is published in the February 2021 issue of CPI Antitrust Chronicle, which is fully devoted to competition policy issues in the music industry.&lt;/p&gt;
 &lt;p&gt;The dramatic growth of music streaming over recent years is potentially very positive. Streaming provides consumers with low cost, easy access to a wide range of music, while it provides music creators with low cost, easy access to a potentially wide audience. But many creators are unhappy about the major streaming platforms. They consider that they act in an unfair way, create an unlevel playing field and threaten long-term creativity in the music industry.&lt;/p&gt;
 &lt;p&gt;Our paper describes and assesses the basis for one element of these concerns, competition between recordings on streaming platforms. We argue that fair competition is restricted by the nature of the remuneration arrangements between creators and the streaming platforms, the role of playlists, and the strong negotiating power of the major labels. It concludes that urgent consideration should be given to a user-centric payment system, as well as greater transparency of the factors underpinning playlist creation and of negotiated agreements.&lt;/p&gt;
-&lt;p&gt;You can read the entire issue and the full text of our article on 
-&lt;a href=&#34;https://www.competitionpolicyinternational.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Competition Policy International&lt;/a&gt; in 
-&lt;a href=&#34;https://www.competitionpolicyinternational.com/wp-content/uploads/2021/02/2-Music-Streaming-Is-It-a-Level-Playing-Field-By-Daniel-Antal-Amelia-Fletcher-14-Peter-L.-Ormosi.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pdf&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can read the entire issue and the full text of our article on &lt;a href=&#34;https://www.competitionpolicyinternational.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Competition Policy International&lt;/a&gt; in &lt;a href=&#34;https://www.competitionpolicyinternational.com/wp-content/uploads/2021/02/2-Music-Streaming-Is-It-a-Level-Playing-Field-By-Daniel-Antal-Amelia-Fletcher-14-Peter-L.-Ormosi.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pdf&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

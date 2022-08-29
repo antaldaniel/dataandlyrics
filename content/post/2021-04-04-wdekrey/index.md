@@ -1,31 +1,31 @@
-+++
-title = "'In this Age Everyone Has to be Her Own Businesswoman, I Find this Somewhat Ridiculous'"
-subtitle = "Listen Local interview"
-date = 2021-04-04T09:00:00
-lastmod = 2021-09-10T13:52:00
-draft = false
+---
+title: "'In this Age Everyone Has to be Her Own Businesswoman, I Find this Somewhat Ridiculous'"
+subtitle: "Listen Local interview"
+date: 2021-04-04T09:00:00
+lastmod: 2021-09-10T13:52:00
+draft: false
 
-authors = ["Daniel Antal"]
+authors: ["Daniel Antal"]
 
-project = ["listen-local"]
+project: ["Listen local"]
 
-tags = ["Belgium", "Antwerpen", "career", "painting", "cello", "music"]
+tags: ["Belgium", "Antwerpen", "career", "painting", "cello", "music"]
 
-summary = "Willemijn de Krey is a Dutch painter, musician, and occasional filmmaker living in Antwerp, Belgium."
+summary: "Willemijn de Krey is a Dutch painter, musician, and occasional filmmaker living in Antwerp, Belgium."
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = ""
+  caption: ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Top"
+  focal_point: "Top"
 
   # Show image only in page previews?
-  preview_only = true
+  preview_only: true
 
-+++
+---
 
 *Willemijn graduated from art academy ArtEZ in Enschede in 2011. At her final exhibition she was one of ten talented upcoming artists across the graduates of the three ArtEZ art academies selected to show their work at Oostenwind 11 in the Delta Lloyd building in Amsterdam. She moved to Antwerp to work in solitude and to find her creative environment. Besides making her own art, Willemijn also works as a painter on commission, as a production manager at Picoux Productions, and has been a vocalist and cellist with Verlin. She is looking for both audiences and collaborators.*
 

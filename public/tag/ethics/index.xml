@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ethics | Data &amp; Lyrics</title>
-    <link>/tag/ethics/</link>
-      <atom:link href="/tag/ethics/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dataandlyrics.com/tag/ethics/</link>
+      <atom:link href="https://dataandlyrics.com/tag/ethics/index.xml" rel="self" type="application/rss+xml" />
     <description>ethics</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Thu, 26 Nov 2020 15:10:00 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Nov 2020 15:10:00 +0200</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>https://dataandlyrics.com/media/icon_hu5bfde8608118b47b475864b70fd224b4_21674_512x512_fill_lanczos_center_3.png</url>
       <title>ethics</title>
-      <link>/tag/ethics/</link>
+      <link>https://dataandlyrics.com/tag/ethics/</link>
     </image>
     
     <item>
       <title>Turning Tide: hCaptcha Competes With Big Tech On Privacy And Market Share</title>
-      <link>/post/2020-11-26-hcaptcha/</link>
+      <link>https://dataandlyrics.com/post/2020-11-26-hcaptcha/</link>
       <pubDate>Thu, 26 Nov 2020 15:10:00 +0200</pubDate>
-      <guid>/post/2020-11-26-hcaptcha/</guid>
+      <guid>https://dataandlyrics.com/post/2020-11-26-hcaptcha/</guid>
       <description>
 
 
@@ -32,25 +32,13 @@
 
 
 
-&lt;figure id=&#34;figure-hcaptcha&#34;&gt;
 
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;featured.png&#34; data-caption=&#34;hCaptcha&#34;&gt;
-
-
-  &lt;img src=&#34;featured.png&#34; alt=&#34;&#34;  &gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    hCaptcha
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-
+&lt;figure  id=&#34;figure-hcaptcha&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;featured.png&#34; alt=&#34;hCaptcha&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      hCaptcha
+    &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;p&gt;If you tried to fill out forms, find product information, you are have filled out many riddles, captchas.  These captchas are there to prevent robots filling out the forms with funny data, steal your email address or to pretend to be human viewers for paid traffic, because who wants to pay for bots visiting the website?&lt;/p&gt;
 &lt;p&gt;The problem with the captcha business is that until now, Google was the main provider of them, which created an inherent conflict of interests. Google, as the world&amp;rsquo;s biggest advertising agency, has an interest in letting robots viewing advertisements - something that the &amp;ldquo;free&amp;rdquo; captchas are supposed to stop.  And Google let&amp;rsquo;s them do it in a small percent of the cases. Those small percent add up to billions of page views.&lt;/p&gt;
 &lt;p&gt;Robots learned to fill in captchas, but Google did not fundamentally change the way they work, instead it released its 3rd version, which collects plenty of personal data about the viewer &amp;ndash; an important input again for its advertisment personalization business.&lt;/p&gt;
@@ -60,8 +48,6 @@
 
 
 
-  
-  
 
 
 
@@ -73,41 +59,28 @@
 
 
 
-&lt;figure id=&#34;figure-hcaptchas-new-types-of-riddles-are-more-difficult-to-solve-for-robots&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/2020-11-26-hcaptcha/hcaptcha_examples_hu1f72806249125aea927c666fc76bbf2c_375098_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;hCaptcha&amp;rsquo;s new types of riddles are more difficult to solve for robots.&#34;&gt;
-
-
-  &lt;img data-src=&#34;/post/2020-11-26-hcaptcha/hcaptcha_examples_hu1f72806249125aea927c666fc76bbf2c_375098_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1266&#34; height=&#34;444&#34;&gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    hCaptcha&amp;rsquo;s new types of riddles are more difficult to solve for robots.
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-
+&lt;figure  id=&#34;figure-hcaptchas-new-types-of-riddles-are-more-difficult-to-solve-for-robots&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;hCaptcha&amp;#39;s new types of riddles are more difficult to solve for robots.&#34; srcset=&#34;
+               /post/2020-11-26-hcaptcha/hcaptcha_examples_hu1f72806249125aea927c666fc76bbf2c_375098_6ed4d4677aa04764339cdad54c97f32b.webp 400w,
+               /post/2020-11-26-hcaptcha/hcaptcha_examples_hu1f72806249125aea927c666fc76bbf2c_375098_1f65c75f517509cce00aa321520bf4e3.webp 760w,
+               /post/2020-11-26-hcaptcha/hcaptcha_examples_hu1f72806249125aea927c666fc76bbf2c_375098_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://dataandlyrics.com/post/2020-11-26-hcaptcha/hcaptcha_examples_hu1f72806249125aea927c666fc76bbf2c_375098_6ed4d4677aa04764339cdad54c97f32b.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;267&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      hCaptcha&amp;rsquo;s new types of riddles are more difficult to solve for robots.
+    &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;blockquote&gt;
 &lt;p&gt;“Competing with Google and other Big Tech companies seems like a tall order: their monopolistic market power, platform effects and army of highly paid developers are generally considered too powerful to tackle for anyone but other tech giants such as Facebook or Amazon. Our story shows that it doesn&amp;rsquo;t have to be that way - you can beat Big Tech by focussing on privacy.”&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Eli-Shaoul Khedouri and Todd Anderson at Intuition Machines 
-&lt;a href=&#34;https://www.fastcompany.com/90377406/suspicious-of-googles-recaptcha-heres-a-popular-alternative&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;built up&lt;/a&gt; hCaptha, with an &lt;em&gt;h&lt;/em&gt; for humans in three years to rival Google. They created an ethical AI alternative that currently has a 
-&lt;a href=&#34;https://www.hcaptcha.com/post/hcaptcha-now-the-largest-independent-captcha-service&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;15% global market share&lt;/a&gt; in cybersecurity services focusing on privacy and re-inventing a business model, when they are actually paying for large webmasters to host their riddles.&lt;/p&gt;
-&lt;p&gt;If you embed their hCaptcha to your website, you will be offered either a cash-out after the recognition work your readers to for them, or you can opt to have the value of this work transferred to a charity &amp;ndash; currently to Wikimedia Foundation. As they write in their blogpost 
-&lt;a href=&#34;https://www.hcaptcha.com/ai-ethics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AI Ethics Policy&lt;/a&gt;,&lt;/p&gt;
+&lt;p&gt;Eli-Shaoul Khedouri and Todd Anderson at Intuition Machines &lt;a href=&#34;https://www.fastcompany.com/90377406/suspicious-of-googles-recaptcha-heres-a-popular-alternative&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;built up&lt;/a&gt; hCaptha, with an &lt;em&gt;h&lt;/em&gt; for humans in three years to rival Google. They created an ethical AI alternative that currently has a &lt;a href=&#34;https://www.hcaptcha.com/post/hcaptcha-now-the-largest-independent-captcha-service&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;15% global market share&lt;/a&gt; in cybersecurity services focusing on privacy and re-inventing a business model, when they are actually paying for large webmasters to host their riddles.&lt;/p&gt;
+&lt;p&gt;If you embed their hCaptcha to your website, you will be offered either a cash-out after the recognition work your readers to for them, or you can opt to have the value of this work transferred to a charity &amp;ndash; currently to Wikimedia Foundation. As they write in their blogpost &lt;a href=&#34;https://www.hcaptcha.com/ai-ethics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AI Ethics Policy&lt;/a&gt;,&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&amp;hellip; virtually every technology, from pencils to dynamite, is a dual use solution; it can be used for good or ill. Every company researching, building, or selling dual use solutions has an obligation to consider the consequences of their actions.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;em&gt;Our 
-&lt;a href=&#34;https://dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data observatories&lt;/a&gt; and our 
-&lt;a href=&#34;https://dataandlyrics.com/tag/listen-local/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Listen Local&lt;/a&gt; solutions have a similar aim: reduce inequality and unfair advantage from big data exploitation by joining many small data sources in our observatories, and creating recommendation systems and analytics solutions that empower local players to compete with Big Tech in their home markets. Challenge us with data request in 
-&lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;music&lt;/a&gt; or 
-&lt;a href=&#34;https://music.dataobservatory.eu/#contact&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ethical questions&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Our &lt;a href=&#34;https://dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data observatories&lt;/a&gt; and our &lt;a href=&#34;https://dataandlyrics.com/tag/listen-local/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Listen Local&lt;/a&gt; solutions have a similar aim: reduce inequality and unfair advantage from big data exploitation by joining many small data sources in our observatories, and creating recommendation systems and analytics solutions that empower local players to compete with Big Tech in their home markets. Challenge us with data request in &lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;music&lt;/a&gt; or &lt;a href=&#34;https://music.dataobservatory.eu/#contact&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ethical questions&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     

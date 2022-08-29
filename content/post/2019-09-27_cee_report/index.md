@@ -1,33 +1,33 @@
-+++
-title = "Central European Music Industry Report Presentation"
+---
+title: "Central European Music Industry Report Presentation"
 
-date = 2019-09-30T08:05:00
-lastmod = 2019-09-30T08:05:00
-draft = false
+date: 2019-09-30T08:05:00
+lastmod: 2019-09-30T08:05:00
+draft: false
 
-authors = ["Daniel Antal, CFA"]
+authors: ["Daniel Antal, CFA"]
 
-tags = ["CEE", "CEEMID", "music industry"]
+tags: ["CEE", "CEEMID", "music industry"]
 
-summary = "We had the first public and panel discussion of the forthcoming Central European Music Industry Report.  After mapping and analysing in depth the music industries of several CEE countries, I put together with the help of Consolidated Independent and state51 a regional report in previously unseen detail."
+summary: "We had the first public and panel discussion of the forthcoming Central European Music Industry Report.  After mapping and analysing in depth the music industries of several CEE countries, I put together with the help of Consolidated Independent and state51 a regional report in previously unseen detail."
 
 # Projects (optional).
-projects = ["grants", "Digital Music Observatory", "music-export"]
+projects: ["grants", "Digital Music Observatory", "music-export"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
-[image]
+image:
   # Caption (optional)
-  caption = ""
+  caption: ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
+  focal_point: ""
 
   # Show image only in page previews?
-  preview_only = false
+  preview_only: false
 
-+++
+---
 
 We had the first public and panel discussion of the forthcoming Central European Music Industry Report.  After mapping and analysing in depth the music industries of several CEE countries, I put together with the help of Consolidated Independent and state51 a regional report in previously unseen detail.
 

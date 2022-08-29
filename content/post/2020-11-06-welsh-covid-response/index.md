@@ -1,32 +1,32 @@
-+++
-title = "Inquiry Into The Live Music Industry In Wales"
+---
+title: "Inquiry Into The Live Music Industry In Wales"
 
-date = 2020-11-06T08:10:00+02:00
-lastmod = 2020-11-06T08:10:00+02:00
-draft = false
+date: 2020-11-06T08:10:00+02:00
+lastmod: 2020-11-06T08:10:00+02:00
+draft: false
 
-authors = ["Daniel Antal, CFA"]
+authors: ["Daniel Antal, CFA"]
 
-tags = ["Wales", "United-Kingdom", "Covid-19", "live-music", "music industry"]
+tags: ["Wales", "United-Kingdom", "Covid-19", "live-music", "music industry"]
 
-summary = "In July 2020, Professor Paul Carr of University of South Wales was commissioned by the Welsh Parliament to create a report examining the music industries in Wales hit by Covid-19 in Wales. Many of his findings may be very interesting starting points for a discussion in other small nations."
+summary: "In July 2020, Professor Paul Carr of University of South Wales was commissioned by the Welsh Parliament to create a report examining the music industries in Wales hit by Covid-19 in Wales. Many of his findings may be very interesting starting points for a discussion in other small nations."
 
-projects = ["Digital Music Observatory"]
+projects: ["Digital Music Observatory"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
-[image]
+image:
   # Caption (optional)
-  caption = "Senedd CWLC interview with Prof. Carr"
+  caption: "Senedd CWLC interview with Prof. Carr"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "TopLeft"
+  focal_point: "TopLeft"
 
   # Show image only in page previews?
-  preview_only = false
+  preview_only: false
 
-+++
+---
 
 In July 2020, Professor Paul Carr of [University of South Wales](http://staff.southwales.ac.uk/users/381-pcarr) was commissioned by [Senedd Cymru – the Welsh Parliament](https://senedd.wales/en/Pages/Home.aspx) to create a report examining the ‘*state of play*’ in the post Covid-19 music industries in Wales.
 

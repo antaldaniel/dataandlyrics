@@ -1,32 +1,32 @@
-+++
-title = "CCS Ecosystems: Evidence-Driven CCI Policy & The Central & Eastern European Music Industry Report"
+---
+title: "CCS Ecosystems: Evidence-Driven CCI Policy & The Central & Eastern European Music Industry Report"
 
-date = 2020-01-29T16:00:00
-lastmod = 2020-01-29T16:00:00
-draft = false
+date: 2020-01-29T16:00:00
+lastmod: 2020-01-29T16:00:00
+draft: false
 
-authors = ["Daniel Antal, CFA"]
+authors: ["Daniel Antal, CFA"]
 
-tags = ["market report", "music industry", "CCI", "CEEMID", "opendata", "Armenia", "Austria", "Bulgaria", "Czechia", "Lithuania", "Hungary", "Slovakia", "Serbia", "Digital Music Observatory"]
+tags: ["market report", "music industry", "CCI", "CEEMID", "opendata", "Armenia", "Austria", "Bulgaria", "Czechia", "Lithuania", "Hungary", "Slovakia", "Serbia", "Digital Music Observatory"]
 
-summary = "The Central & Eastern European Music Industry Report 2020 was presented as a case-study on national and comparative evidence-based policymaking in the cultural and creative sector."
+summary: "The Central & Eastern European Music Industry Report 2020 was presented as a case-study on national and comparative evidence-based policymaking in the cultural and creative sector."
 
-projects = ["market report", "music-export", "opendata"]
+projects: ["market report", "music-export", "opendata"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
-[image]
+image:
   # Caption (optional)
-  caption = ""
+  caption: ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point: "Center"
 
   # Show image only in page previews?
-  preview_only = false
+  preview_only: false
 
-+++
+---
 
 CEEMID & Consolidated Independent presented and discussed with stakeholders the  [Central & Eastern European Music Industry Report 2020](https://danielantal.eu/publication/ceereport_2020/) as a case-study on national and comparative evidence-based policymaking in the cultural and creative sector on the [CCS Ecosystems: FLIPPING THE ODDS Conference](http://creativeflip.creativehubs.net/2019/12/03/flipping-the-odds/) – a two-day high-level stakeholder event jointly organized by Geothe-Institute and the DG Education and Culture of the European Commission with the Creative FLIP project.
 

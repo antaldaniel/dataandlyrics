@@ -1,31 +1,31 @@
-+++
-title = "Working With Localities and Location Tags"
-substitle  = "Bandcamp Librarian — Part II"
-date = 2021-04-13T09:00:00
-lastmod = 2021-04-16T09:10:00
-draft = false
+---
+title: "Working With Localities and Location Tags"
+substitle : "Bandcamp Librarian — Part II"
+date: 2021-04-13T09:00:00
+lastmod: 2021-04-16T09:10:00
+draft: false
 
-authors = ["Botond Vitos"]
+authors: ["Botond Vitos"]
 
-project = ["listen-local"]
+project: ["Listen local"]
 
-tags = ["genres", "bandcamp", "mapping", "scenes"]
+tags: ["genres", "bandcamp", "mapping", "scenes"]
 
-summary = "The second post in this series presents two use cases focused on localities and location tags (signifying cities, countries and sometimes nationalities). Such tags help putting local music scenes on the map; in the case of particularly prolific or creative cities they can be connected to specific genres too. Most commonly, they identify the city or country where the music label or the artist is based."
+summary: "The second post in this series presents two use cases focused on localities and location tags (signifying cities, countries and sometimes nationalities). Such tags help putting local music scenes on the map; in the case of particularly prolific or creative cities they can be connected to specific genres too. Most commonly, they identify the city or country where the music label or the artist is based."
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = ""
+  caption: ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Top"
+  focal_point: "Top"
 
   # Show image only in page previews?
-  preview_only = false
+  preview_only: false
 
-+++
+---
 
 My [previous blogpost ](https://medium.com/data-lyrics/how-to-speak-about-music-in-the-digital-age-from-taxonomies-to-folksonomies-ac2d25ed29f7) addressed two ways of classifying music in the digital age: on the one hand, subgenre taxonomies proposed by industry vendors; on the other hand, user-defined collaborative tagging systems or folksonomies, which are more suitable for exploring niche music genres and to delve into the intricacies of an ever-evolving musical landscape. The Bandcamp Dance Librarian project takes into account both classification systems, using the taxonomy of industry vendor Beatport to detect stylistic tendencies or repertoires within the Bandcamp libraries of grassroots electronic dance music labels. This is performed by identifying clusters within a Bandcamp library based on Beatport’s subgenre labels. For instance, a cluster from the library of *Samurai Music* is identifed as an amalgam of `Drum&Bass`, `Leftfield Bass`, and to a lesser extent `Trap-Hip-Hop-R&B`. The dimension of this cluster (i.e., the number of tracks) is then displayed on a timeline among other clusters.
 

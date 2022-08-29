@@ -1,48 +1,50 @@
-+++
-title = "Comparing Social Distancing in Europe"
+---
+title: "Comparing Social Distancing in Europe"
 
-date = 2020-04-15T13:00:00
-lastmod = 2020-04-16T13:30:00
-draft = false
+date: 2020-04-15T13:00:00
+lastmod: 2020-04-16T13:30:00
+draft: false
 
-authors = ["Daniel Antal, CFA"]
+authors: ["Daniel Antal, CFA"]
 
-tags = ["geolocations", "public-policy", "COVID-19"]
+doi: https://doi.org/10.6084/m9.figshare.12124194.v1
 
-summary = "Based on the locational data of various smartphones and application data, we know that people spend 10-15% more time at home since January, and 40-50% less in their workplaces.  Similar data is available for other locations."
+tags: 
+ - Covid-19
+ - Geolocations
+ - Regional statistics
+
+summary: "Based on the locational data of various smartphones and application data, we know that people spend 10-15% more time at home since January, and 40-50% less in their workplaces.  Similar data is available for other locations."
 
 # Featured image
-[image]
-  # Caption (optional)
-  caption = "Staying home or going to work? Visualization by Daniel Antal"
-
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Left"
+image:
+  caption: "Staying home or going to work? Visualization by Daniel Antal"
+  focal_point: "Left"
 
   # Show image only in page previews?
-  preview_only = false
-  
-[[gallery_item]]
-album = "gallery"
-image = "countryclusters.jpg"
-caption = "Clustering countries on current lockdown strictness and change"
-
-[[gallery_item]]
-album = "gallery"
-image = "difference_summary_en.jpg"
-caption = "Changes in community space use, end of March and early April"
-
-[[gallery_item]]
-album = "gallery"
-image = "work_home_change_EN.jpg"
-caption = "Growth in time spend at home and in the workplace since January"
-
-+++
+  preview_only: false
+---
 
 People around the world are facing newer and newer exponential charts everyday. We’re all hoping for new information about the progress against the coronavirus. Unfortunately, the vast majority of these charts is meaningless. In fact, [coronavirus case counts are meaningless](https://fivethirtyeight.com/features/coronavirus-case-counts-are-meaningless/), unless they are done with very heavy statistical knowledge, and even then they are very messy. Countries have different testing and hospitalization protocols, death certificating standards, and there are less and more trustworthy governments. We do not really know the severity of the local epidemics and the relative success of public health policies.
 
+<!---
 {{< gallery >}} 
+  
+[[gallery_item]]
+album: "gallery"
+image: "countryclusters.jpg"
+caption: "Clustering countries on current lockdown strictness and change"
+
+[[gallery_item]]
+album: "gallery"
+image: "difference_summary_en.jpg"
+caption: "Changes in community space use, end of March and early April"
+
+[[gallery_item]]
+album: "gallery"
+image: "work_home_change_EN.jpg"
+caption: "Growth in time spend at home and in the workplace since January"
+--->
 
 Nevertheless, we have some timely information on how people and the economy react to the epidemic, because there are ongoing, frequent, and comparable data sources on various consequences of the epidemic.  A particularly interesting big data source is [Google’s geolocational reporting](https://www.blog.google/technology/health/covid-19-community-mobility-reports/) on how people’s time spent in homes, workplaces, parks, shopping areas and recreational areas change. Google gets plenty of realtime data from hundreds of millions of people and compares them by days in the week and local time with the ‘baseline’ scenario before the outbreak of the coronavirus.
 

@@ -1,31 +1,31 @@
-+++
-title = "Beyond Human: Jazz Popcorn Robot"
+---
+title: "Beyond Human: Jazz Popcorn Robot"
 
-date = 2021-03-07T09:19:00+02:00
-lastmod = 2021-03-07T09:19:00+02:00
-draft = false
+date: 2021-03-07T09:19:00+02:00
+lastmod: 2021-03-07T09:19:00+02:00
+draft: false
 
-authors = ["Daniel Antal"]
+authors: ["Daniel Antal"]
 
-tags = ["robots", "copyright", "future"]
+tags: ["robots", "copyright", "future"]
 
-summary = "The Jazz Popcorn Robot is a performance without a performer, without composer and audience, but still music."
+summary: "The Jazz Popcorn Robot is a performance without a performer, without composer and audience, but still music."
 
-projects = ["Digital Music Observatory"]
+projects: ["Digital Music Observatory"]
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = ""
+  caption: ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Right"
+  focal_point: "Right"
 
   # Show image only in page previews?
-  preview_only = false
+  preview_only: false
 
-+++
+---
 
 The **Jazz Popcorn Robot** is a performance without a performer, without composer and audience, but still music. It is a creation of *Moritz Simon Geist*, who is a performer, musicologist, and robotics engineer. His projects range from robotic music performances to robotic sound installations.
 

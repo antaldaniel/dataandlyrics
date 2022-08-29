@@ -1,32 +1,32 @@
-+++
-title = "Listen Local: Open Collaboration Experiment & Feasibility Study"
+---
+title: "Listen Local: Open Collaboration Experiment & Feasibility Study"
 
-date = 2020-10-18T18:00:00+02:00
-lastmod = 2020-10-18T18:00:00+02:00
-draft = false
+date: 2020-10-18T18:00:00+02:00
+lastmod: 2020-10-18T18:00:00+02:00
+draft: false
 
-authors = ["Daniel Antal, CFA"]
+authors: ["Daniel Antal, CFA"]
 
-tags = ["musicology", "recommendations", "machine-learning", "playlists", "listen-local", "Slovakia", "Netherlands", "Belgium", "Hungary", "recommendations", "playlists", "big-data", "algorithms"]
+tags: ["Musicology", "recommendations", "Machine learning", "playlists", "Listen local", "Slovakia", "Netherlands", "Belgium", "Hungary", "recommendations", "playlists", "Big data", "algorithms"]
 
-summary = "Big data creates injustice. We want to help small venues, independent small businesses, great artists and dedicated fans to make algorithms work for them. We create locally relevant recommendations and measure their effect."
+summary: "Big data creates injustice. We want to help small venues, independent small businesses, great artists and dedicated fans to make algorithms work for them. We create locally relevant recommendations and measure their effect."
 
-projects = ["listen-local"]
+projects: ["Listen local"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
-[image]
+image:
   # Caption (optional)
-  caption = "Listen Local Mindmap"
+  caption: "Listen Local Mindmap"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point: "Center"
 
   # Show image only in page previews?
-  preview_only = false
+  preview_only: false
 
-+++
+---
 
 *“Big data creates injustice.”* -- Cathy O'Neil, author of [Weapons of Math Destruction](https://blogs.scientificamerican.com/roots-of-unity/review-weapons-of-math-destruction/)
 

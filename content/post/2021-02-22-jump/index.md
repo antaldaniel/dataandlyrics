@@ -1,31 +1,31 @@
-+++
-title = "Daniel Antal, co-founder of Reprex Was Selected into the 2021 Fellowship Program of the European Music Market Accelerator"
+---
+title: "Daniel Antal, co-founder of Reprex Was Selected into the 2021 Fellowship Program of the European Music Market Accelerator"
 
-date = 2021-02-22T21:23:00+02:00
-lastmod = 2021-02-22T21:23:00+02:00
-draft = false
+date: 2021-02-22T21:23:00+02:00
+lastmod: 2021-02-22T21:23:00+02:00
+draft: false
 
-authors = ["Daniel Antal"]
+authors: ["Daniel Antal"]
 
-tags = ["Listen Local", "Digital Music Observatory", "JUMP Europen Music Market Accelerator", "EU"]
+tags: ["Listen Local", "Digital Music Observatory", "JUMP Europen Music Market Accelerator", "EU"]
 
-summary = "Daniel Antal, co-founder of Reprex, was selected into 2021 Fellowship program of JUMP, the European Music Market Accelerator. Jump provides a framework for music professionals to develop innovative business models, encouraging the music sector to work on a transnational level.  The European Music Market Accelerator composed of MaMA Festival and Convention, UnConvention, MIL, Athens Music Week, Nouvelle Prague and Linecheck support him in the development of our two, interrelated projects over the next nine months."
+summary: "Daniel Antal, co-founder of Reprex, was selected into 2021 Fellowship program of JUMP, the European Music Market Accelerator. Jump provides a framework for music professionals to develop innovative business models, encouraging the music sector to work on a transnational level.  The European Music Market Accelerator composed of MaMA Festival and Convention, UnConvention, MIL, Athens Music Week, Nouvelle Prague and Linecheck support him in the development of our two, interrelated projects over the next nine months."
 
-projects = ["listen-local"]
+projects: ["Listen local"]
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = "Dutch AI Coalition - Nederlandse AI Coalitie"
+  caption: "Dutch AI Coalition - Nederlandse AI Coalitie"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Right"
+  focal_point: "Right"
 
   # Show image only in page previews?
-  preview_only = true
+  preview_only: true
 
-+++
+---
 {{< figure src="/img/logos/JUMP_Banner_851x315.png" >}}
 
 Daniel Antal, co-founder of Reprex, and co-editor of Data & Lyrics, was selected into 2021 Fellowship program of [JUMP, the European Music Market Accelerator](https://www.jumpmusic.eu/). Jump provides a framework for music professionals to develop innovative business models, encouraging the music sector to work on a transnational level.  The European Music Market Accelerator composed of MaMA Festival and Convention, UnConvention, MIL, Athens Music Week, Nouvelle Prague and Linecheck support him in the development of our two, interrelated projects over the next nine months.

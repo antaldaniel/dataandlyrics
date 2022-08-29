@@ -1,32 +1,32 @@
-+++
-title = "Forgetify: Popular Music That Nobody Listens To"
+---
+title: "Forgetify: Popular Music That Nobody Listens To"
 
-date = 2020-10-24T18:00:00+02:00
-lastmod = 2020-10-24T18:00:00+02:00
-draft = false
+date: 2020-10-24T18:00:00+02:00
+lastmod: 2020-10-24T18:00:00+02:00
+draft: false
 
-authors = ["Daniel Antal, CFA"]
+authors: ["Daniel Antal, CFA"]
 
-tags = ["musicology", "recommendations", "machine-learning", "playlist", "listen-local", "forgetify"]
+tags: 
+ - Musicology
+ - Machine learning
+ - Forgetify
+ - Music recommendations
+ - Playlist
+ - Listen Local
 
-summary = "Forgetify is an application that is “recommending” you songs that have never been played on Spotify - not even by their families, friends or foes. When you design a recommendation engine for an artist or a label, you want to avoid that their songs ever arrive to Forgetify."
+summary: "Forgetify is an application that is “recommending” you songs that have never been played on Spotify - not even by their families, friends or foes. When you design a recommendation engine for an artist or a label, you want to avoid that their songs ever arrive to Forgetify."
 
-projects = ["listen-local", "Digital Music Observatory"]
+projects: ["Listen local", "Digital Music Observatory"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
-[image]
+image:
   # Caption (optional)
-  caption = "Forgetify Pop October 2020"
-
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "TopLeft"
-
-  # Show image only in page previews?
-  preview_only = false
-
-+++
+  caption: "Forgetify Pop October 2020"
+  focal_point: "TopLeft"
+  preview_only: false
+---
 
 When you work on recommendation engines, particularly recommendation engines that are different from the ones developed by large media or streaming platforms, you do not want to consider goals and directions that you follow, but also the road where you do not want to end up at all. For me, Forgetify has always been a puzzling and wonderful application, because it shows purely where your artists do not want to end up.
 

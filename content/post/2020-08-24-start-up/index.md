@@ -1,29 +1,29 @@
-+++
-title = "Starting-up"
+---
+title: "Starting-up"
 
-date = 2020-08-24T10:15:00
-lastmod = 2020-09-01T17:34:00
-draft = false
+date: 2020-08-24T10:15:00
+lastmod: 2020-09-01T17:34:00
+draft: false
 
-authors = ["Daniel Antal, CFA", "Réka Szentirmay"]
+authors: ["Daniel Antal, CFA", "Réka Szentirmay"]
 
-tags = ["R", "open-data", "reproducible"]
+tags: ["R", "Open data", "Reproducible research"]
 
-summary = "The big day has come: the co-founders singed off the documents at the public notary and started the registration of a reproducible research start-up. Do you want to help us?"
+summary: "The big day has come: the co-founders singed off the documents at the public notary and started the registration of a reproducible research start-up. Do you want to help us?"
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = "Co-founders after the paperwork"
+  caption: "Co-founders after the paperwork"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point: "Center"
 
   # Show image only in page previews?
-  preview_only = false
+  preview_only: false
 
-+++
+---
 
 The big day has come: the co-founders singed off the documents at the public notary and started the registration of a reproducible research start-up in Leiden.  We got a lot of support from our friends! Your encouragement gives us a lot of energy to accomplish our first milestones, and to get Reprex B.V. going! 
 

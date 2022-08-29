@@ -1,27 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>cee | Data &amp; Lyrics</title>
-    <link>/tag/cee/</link>
-      <atom:link href="/tag/cee/index.xml" rel="self" type="application/rss+xml" />
-    <description>cee</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Sat, 09 Nov 2019 11:00:00 +0100</lastBuildDate>
+    <title>CEE | Data &amp; Lyrics</title>
+    <link>https://dataandlyrics.com/tag/cee/</link>
+      <atom:link href="https://dataandlyrics.com/tag/cee/index.xml" rel="self" type="application/rss+xml" />
+    <description>CEE</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 09 Nov 2019 11:00:00 +0000</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>cee</title>
-      <link>/tag/cee/</link>
+      <url>https://dataandlyrics.com/media/icon_hu5bfde8608118b47b475864b70fd224b4_21674_512x512_fill_lanczos_center_3.png</url>
+      <title>CEE</title>
+      <link>https://dataandlyrics.com/tag/cee/</link>
     </image>
     
     <item>
       <title>Czech Music Development Program &amp; Comparative Market Research</title>
-      <link>/post/2019-11-09-nouvelle-prague/</link>
-      <pubDate>Sat, 09 Nov 2019 11:00:00 +0100</pubDate>
-      <guid>/post/2019-11-09-nouvelle-prague/</guid>
-      <description>&lt;p&gt;I was presenting some highlights from the work we started with in the organization of SoundCzech with 25 music professionals representing more than 20 stakeholders in the 
-&lt;a href=&#34;https://danielantal.eu/talk/2019_10_09_praha/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How We Would Like To Work in the Czech Music Industry in 2020&lt;/a&gt; &lt;em&gt;ex ante&lt;/em&gt; evaluation workshop in the context of the comparative 
-&lt;a href=&#34;https://danielantal.eu/post/2019-09-27_cee_report/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Central European Music Industry Report&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;You can find the full presentation, including slides not shown in the workshop 
-&lt;a href=&#34;https://danielantal.eu/presentation/nouvelle-prague&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;. The presentation is a self-contained big file of 20Mb, takes time to load.&lt;/em&gt;&lt;/p&gt;
+      <link>https://dataandlyrics.com/post/2019-11-09-nouvelle-prague/</link>
+      <pubDate>Sat, 09 Nov 2019 11:00:00 +0000</pubDate>
+      <guid>https://dataandlyrics.com/post/2019-11-09-nouvelle-prague/</guid>
+      <description>&lt;p&gt;I was presenting some highlights from the work we started with in the organization of SoundCzech with 25 music professionals representing more than 20 stakeholders in the &lt;a href=&#34;https://danielantal.eu/talk/2019_10_09_praha/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How We Would Like To Work in the Czech Music Industry in 2020&lt;/a&gt; &lt;em&gt;ex ante&lt;/em&gt; evaluation workshop in the context of the comparative &lt;a href=&#34;https://danielantal.eu/post/2019-09-27_cee_report/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Central European Music Industry Report&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;You can find the full presentation, including slides not shown in the workshop &lt;a href=&#34;https://danielantal.eu/presentation/nouvelle-prague&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;. The presentation is a self-contained big file of 20Mb, takes time to load.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;The work is done in a collaborative manner with the open Research Consortium started by SoundCzech, CEEMID &amp;amp; Consolidated Independent.  We would like to invite any Czech stakeholders, or even individuals to join our efforts.  Because in the music sector, all organization are microenterprise or small enterprise sized, they usually have no significant market research, innovation and strategic HR management capacities. We hope to give them in each country useful tools.&lt;/p&gt;
 &lt;p&gt;A very interesting part of the discussion in the morning was around transparency and potential conflict between stronger and weaker markets. Thank you for all colleagues who came on a Saturday morning after great showcase concerts the night before, and let&amp;rsquo;s stay in touch!&lt;/p&gt;
 </description>
@@ -29,28 +26,60 @@
     
     <item>
       <title>Central European Music Industry Report Presentation</title>
-      <link>/post/2019-09-27_cee_report/</link>
-      <pubDate>Mon, 30 Sep 2019 08:05:00 +0200</pubDate>
-      <guid>/post/2019-09-27_cee_report/</guid>
+      <link>https://dataandlyrics.com/post/2019-09-27_cee_report/</link>
+      <pubDate>Mon, 30 Sep 2019 08:05:00 +0000</pubDate>
+      <guid>https://dataandlyrics.com/post/2019-09-27_cee_report/</guid>
       <description>&lt;p&gt;We had the first public and panel discussion of the forthcoming Central European Music Industry Report.  After mapping and analysing in depth the music industries of several CEE countries, I put together with the help of Consolidated Independent and state51 a regional report in previously unseen detail.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;You can review the whole 
-&lt;a href=&#34;/presentation/CEE_Music_Report.html&#34;&gt;presentation here&lt;/a&gt; (10Mb self-contained HTML file, takes some time to load).&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;After 
-&lt;a href=&#34;post/2016-04-20_makk15&#34;&gt;mapping&lt;/a&gt; and analysing (see most recently 
-&lt;a href=&#34;https://danielantal.eu/publication/slovak_music_industry_2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slovakia&lt;/a&gt;) in depth the music industries of several CEE countries, with the help of Consolidated Independent I put together a regional report in previously unseen detail.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;You can review the whole &lt;a href=&#34;https://dataandlyrics.com/presentation/CEE_Music_Report.html&#34;&gt;presentation here&lt;/a&gt; (10Mb self-contained HTML file, takes some time to load).&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;After &lt;a href=&#34;post/2016-04-20_makk15&#34;&gt;mapping&lt;/a&gt; and analysing (see most recently &lt;a href=&#34;https://danielantal.eu/publication/slovak_music_industry_2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slovakia&lt;/a&gt;) in depth the music industries of several CEE countries, with the help of Consolidated Independent I put together a regional report in previously unseen detail.&lt;/p&gt;
 &lt;p&gt;The live music part explains the different demography and other demand drivers of the CEE region for concerts, resulting in high seasonality, low venue profitability, an unusually high vulnerability of small venues – and as a result an unusually strong music festival scene.&lt;/p&gt;
 &lt;p&gt;For recordings, the report shows the royalty gap in comparison to Western Europe and the difficulties of labels and publishers to create value added to musicians.  In the absence of a fully functional recording market, musicians are more reliant on collective management revenues than in the rest of Europe – yet in many countries collective management has profound difficulty in asking the correct price for music or collecting it.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/img/ceemid/expenditure_private_cultural_cinema_theatre_concert_filled_plot.jpg&#34; alt=&#34;Consumer demand for music events&#34;&gt;&lt;/p&gt;
-&lt;p&gt;When analysing the music flows among European countries, and the 
-&lt;a href=&#34;https://danielantal.eu/post/cross_border_2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;export-import flows&lt;/a&gt; of other emerging markets in Latin America and the worlds most stable ones, like that of the United States, Brazil and Japan, we must realize that these nations face an uphill battle to get into the better paying markets and at the same time to protect their domestic market from increasing import substitution.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://dataandlyrics.com/img/ceemid/expenditure_private_cultural_cinema_theatre_concert_filled_plot.jpg&#34; alt=&#34;Consumer demand for music events&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;When analysing the music flows among European countries, and the &lt;a href=&#34;https://danielantal.eu/post/cross_border_2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;export-import flows&lt;/a&gt; of other emerging markets in Latin America and the worlds most stable ones, like that of the United States, Brazil and Japan, we must realize that these nations face an uphill battle to get into the better paying markets and at the same time to protect their domestic market from increasing import substitution.&lt;/p&gt;
 &lt;p&gt;Music grants could be an important tool to balance the disadvantaged position of CEE musicians in this global competition.  Austria and Hungary has a strong popular music support program, but usually the availability and suitability of grants is lower in those countries where musicians and their technical and managerial team would need it most.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/img/dataanimation/is_grant_animation_1000_no_loop.gif&#34; alt=&#34;Accessibility and suitability of music grants&#34;&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://dataandlyrics.com/img/dataanimation/is_grant_animation_1000_no_loop.gif&#34; alt=&#34;Accessibility and suitability of music grants&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;I am very grateful for the support given by 
-&lt;a href=&#34;https://ci-info.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Consolidated Independent&lt;/a&gt; in the making of this report. CI is the market leader in managed services for the digital music industry, connecting the best independent music with the opportunities of the global market. With their data science team, we put together data from about 700,000,000 royalty statement documents about the whole region. I believe that this is the first time that a global player releases large amounts of data to help understanding the changing music landscape in the era of digital streaming. Equally thankful for Franz Hergovich (Music Austria) for inviting us to discuss these findings on 
-&lt;a href=&#34;https://danielantal.eu/talk/waves_2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Waves Music Showcase Festival and Conference&lt;/a&gt; &lt;em&gt;on 27 September 2019&lt;/em&gt;  with Márton Náray (SoundCzech) and Péter Benjámin Tóth (Artisjus). And of course, the most important people to thank for are the more than 2000 musicians, managers and technicians who participated in the 
-&lt;a href=&#34;https://danielantal.eu/post/2019-06-07_ceemid_survey/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CEEMID Music Professional Survey&lt;/a&gt;, which is one of the main data sources of this report, where no other information was available. You can find out more about the data sources 
-&lt;a href=&#34;https://danielantal.eu/usecase/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;. The report will be shortly released in a free downloadable ebook, and musicians, who requested it, will receive their personalized mini-reports shortly.&lt;/p&gt;
+&lt;p&gt;I am very grateful for the support given by &lt;a href=&#34;https://ci-info.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Consolidated Independent&lt;/a&gt; in the making of this report. CI is the market leader in managed services for the digital music industry, connecting the best independent music with the opportunities of the global market. With their data science team, we put together data from about 700,000,000 royalty statement documents about the whole region. I believe that this is the first time that a global player releases large amounts of data to help understanding the changing music landscape in the era of digital streaming. Equally thankful for Franz Hergovich (Music Austria) for inviting us to discuss these findings on &lt;a href=&#34;https://danielantal.eu/talk/waves_2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Waves Music Showcase Festival and Conference&lt;/a&gt; &lt;em&gt;on 27 September 2019&lt;/em&gt;  with Márton Náray (SoundCzech) and Péter Benjámin Tóth (Artisjus). And of course, the most important people to thank for are the more than 2000 musicians, managers and technicians who participated in the &lt;a href=&#34;https://danielantal.eu/post/2019-06-07_ceemid_survey/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CEEMID Music Professional Survey&lt;/a&gt;, which is one of the main data sources of this report, where no other information was available. You can find out more about the data sources &lt;a href=&#34;https://danielantal.eu/usecase/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;. The report will be shortly released in a free downloadable ebook, and musicians, who requested it, will receive their personalized mini-reports shortly.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;All feedback is, as always, welcome.&lt;/p&gt;
 </description>
@@ -58,9 +87,9 @@
     
     <item>
       <title>CEE Mini Recording Industry Workshop</title>
-      <link>/post/2017-11-01_cee_mini/</link>
-      <pubDate>Wed, 01 Nov 2017 09:00:00 +0100</pubDate>
-      <guid>/post/2017-11-01_cee_mini/</guid>
+      <link>https://dataandlyrics.com/post/2017-11-01_cee_mini/</link>
+      <pubDate>Wed, 01 Nov 2017 09:00:00 +0000</pubDate>
+      <guid>https://dataandlyrics.com/post/2017-11-01_cee_mini/</guid>
       <description>&lt;p&gt;I presented my market view and experience with distinguished colleagues from the Baltic states, Central Europe and the Balkan, representatives of WIN and IFPI and the international indie distributor State 51. We had a lively discussion on why emerging markets are emerging so slowly in the new digital music business.&lt;/p&gt;
 &lt;p&gt;After a decade of decline due to piracy and change in business model, the global music business is steadily growing.  However, defying some economic expectation, to growth is stronger in mature markets than in most emerging markets, and most of the global growth came from the United States. The dollar-based IFPI Global Music Report hides the fact that mature and emerging Europe is truly lagging behind the United States.&lt;/p&gt;
 &lt;p&gt;The European music scene is very fragmented, has many languages and the lack of critical market size often leads to neglect by innovative global players. In a world where most music is soled by big data driven algorithms in subscription streams, the lack of large repertoires, data analytics capabilities and critical audience masses puts the smaller European repertoires into a competitive disadvantage.&lt;/p&gt;
@@ -72,46 +101,44 @@
 
 
 
-  
-  
 
 
-&lt;div class=&#34;gallery&#34;&gt;
+
+
+&lt;div class=&#34;gallery-grid&#34;&gt;
 
   
   
   
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-2017-11-01_cee_mini&#34; href=&#34;https://dataandlyrics.com/media/albums/2017-11-01_cee_mini/digital_gap.jpg&#34; &gt;
+      &lt;img src=&#34;https://dataandlyrics.com/media/albums/2017-11-01_cee_mini/digital_gap_hu791651d5ca2404d74016b85aa8de3dcd_59241_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;digital_gap.jpg&#34; width=&#34;750&#34; height=&#34;375&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
   
     
     
     
     
     
-      
-        
-      
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2017-11-01_cee_mini/gallery/digital_gap.jpg&#34; data-caption=&#34;Digital gap: share in household recreational spending and digital music revenues.&#34;&gt;
-  &lt;img data-src=&#34;/post/2017-11-01_cee_mini/gallery/digital_gap_hu791651d5ca2404d74016b85aa8de3dcd_59241_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;380&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
   
-    
-    
-    
-    
-    
-      
-        
-      
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2017-11-01_cee_mini/gallery/featured.png&#34; data-caption=&#34;The source of growth has been mainly the United States so far.&#34;&gt;
-  &lt;img data-src=&#34;/post/2017-11-01_cee_mini/gallery/featured_hu0603511b481da77ae47104f64292b1ac_44645_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-2017-11-01_cee_mini&#34; href=&#34;https://dataandlyrics.com/media/albums/2017-11-01_cee_mini/featured.png&#34; &gt;
+      &lt;img src=&#34;https://dataandlyrics.com/media/albums/2017-11-01_cee_mini/featured_hu0603511b481da77ae47104f64292b1ac_44645_750x750_fit_q75_h2_lanczos_3.webp&#34; loading=&#34;lazy&#34; alt=&#34;featured.png&#34; width=&#34;711&#34; height=&#34;474&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
   
 
-  
 &lt;/div&gt;
-&lt;p&gt;We had a very interesting discussion that will lead to hopefully many new initiatives on a number of problems, including low market prices in collectively managed and private channels, distribution problems, the difficulties and opportunities in regional cooperation and a number of other topics. 
+&lt;p&gt;We had a very interesting discussion that will lead to hopefully many new initiatives on a number of problems, including low market prices in collectively managed and private channels, distribution problems, the difficulties and opportunities in regional cooperation and a number of other topics.
 The presentation and the working paper is not public, but the similar workshops in the future may help growing a more mature network of CEE industry players and the adoption of new business models, pricing and promotion methods and more coordinated planning and marketing.&lt;/p&gt;
 </description>
     </item>

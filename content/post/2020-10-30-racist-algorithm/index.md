@@ -1,32 +1,32 @@
-+++
-title = "The Racist Music Algorithm"
+---
+title: "The Racist Music Algorithm"
 
-date = 2020-10-30T08:10:00+02:00
-lastmod = 2021-02-25T08:10:00+02:00
-draft = false
+date: 2020-10-30T08:10:00+02:00
+lastmod: 2021-02-25T08:10:00+02:00
+draft: false
 
-authors = ["Daniel Antal, CFA"]
+authors: ["Daniel Antal, CFA"]
 
-tags = ["racism", "listen-local", "big-data", "injustice", "turning-tide"]
+tags: ["Racism", "Listen local", "Big data", "injustice", "turning-tide"]
 
-summary = "Big data algorithms will increase injustice and breach social norms if they are trained on improper data, or the algorithms are biased -- this is why we place so much emphasis on algorithm transparency and input data transparency.   Facebook, Apple or Spotify are often criticized for helping the spread of hate, for example.  But how can an algorithm turn racist?"
+summary: "Big data algorithms will increase injustice and breach social norms if they are trained on improper data, or the algorithms are biased -- this is why we place so much emphasis on algorithm transparency and input data transparency.   Facebook, Apple or Spotify are often criticized for helping the spread of hate, for example.  But how can an algorithm turn racist?"
 
-projects = ["listen-local"]
+projects: ["Listen local"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
-[image]
+image:
   # Caption (optional)
-  caption = " by Janusz Kaliszczak"
+  caption: " by Janusz Kaliszczak"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "TopLeft"
+  focal_point: "TopLeft"
 
   # Show image only in page previews?
-  preview_only = false
+  preview_only: false
 
-+++
+---
 We want big data algorithms to work for small venues, undiscovered bands, and all artists coming from diverse walks of life. We often find that big data works against such types of users, and our Listen Local Initiative was designed to change this trend.
 
 Big data algorithms will increase injustice and breach social norms if they are trained on biased data, or if the algorithms themselves are biased — this is why we place so much emphasis on algorithm transparency and input data transparency. Facebook, Apple, and Spotify are often criticized for helping the spread of hate, for example. But how can an algorithm turn racist?

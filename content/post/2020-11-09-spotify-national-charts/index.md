@@ -1,32 +1,32 @@
-+++
-title = "New Demo Music Observatory Dataset: Domestic Market Share On Spotify National Charts"
+---
+title: "New Demo Music Observatory Dataset: Domestic Market Share On Spotify National Charts"
 
-date = 2020-11-08T18:10:00+02:00
-lastmod = 2020-11-08T18:10:00+02:00
-draft = false
+date: 2020-11-08T18:10:00+02:00
+lastmod: 2020-11-08T18:10:00+02:00
+draft: false
 
-authors = ["Daniel Antal, CFA"]
+authors: ["Daniel Antal, CFA"]
 
-tags = ["recommendations", "charts", "Spotify", "datasets", "Digital Music Observatory"]
+tags: ["recommendations", "charts", "Spotify", "datasets", "Digital Music Observatory"]
 
-summary = "Our Demo Music Observatory started the release of the national markets shares on Spotify’s National Top 50 years with 15 months of history in a few select European countries. In some countries, the market share of locally produced music remains critically low, or decreasing, but there are notable exceptions.  Getting on the top of the US market is becoming more difficult from the rest of the world."
+summary: "Our Demo Music Observatory started the release of the national markets shares on Spotify’s National Top 50 years with 15 months of history in a few select European countries. In some countries, the market share of locally produced music remains critically low, or decreasing, but there are notable exceptions.  Getting on the top of the US market is becoming more difficult from the rest of the world."
 
-projects = ["Digital Music Observatory", "listen-local", "music-export"]
+projects: ["Digital Music Observatory", "Listen local", "music-export"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
-[image]
+image:
   # Caption (optional)
-  caption = "Senedd CWLC interview with Prof. Carr"
+  caption: "Senedd CWLC interview with Prof. Carr"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "TopLeft"
+  focal_point: "TopLeft"
 
   # Show image only in page previews?
-  preview_only = true
+  preview_only: true
 
-+++
+---
 
 
 The conversion to a subscription-based sales model with Spotify, Apple Music, YouTube Music, Deezer, Pandora and similar services was hailed by some to beat piracy and bringing back growth to the recording industry.  However, there are very few labels and artists who actually feel that they are profiting from this conversion.

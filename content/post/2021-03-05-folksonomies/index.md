@@ -1,31 +1,31 @@
-+++
-title = "How to Speak About Music in the Digital Age from Taxonomies to Folksonomies"
+---
+title: "How to Speak About Music in the Digital Age from Taxonomies to Folksonomies"
 
-date = 2021-03-05T15:00:00+02:00
-lastmod = 2021-03-05T15:00:00+02:00
-draft = false
+date: 2021-03-05T15:00:00+02:00
+lastmod: 2021-03-05T15:00:00+02:00
+draft: false
 
-authors = ["Botond Vitos"]
+authors: ["Botond Vitos"]
 
-tags = ["listen-local", "Digital Music Observatory", "library", "Bandcamp", "clustering", "musicology"]
+tags: ["Listen local", "Digital Music Observatory", "Library", "Bandcamp", "clustering", "Musicology"]
 
-summary = "As a cultural anthropologist, I have been involved in the study of alternative electronic dance music communities and event-based cultures. The Bandcamp Dance Librarian project grew out of this work. It uses the industry taxonomy of Beatport in an attempt to detect stylistic tendencies or repertoires within the Bandcamp libraries of (mainly) grasroots labels. The project output also show the tags (folksonomies) added by the artists/labels to the Bandcamp pages. It is therefore possible to compare the industry taxonomy of Beatport with artist folksonomies, as long as such tags are provided on Bandcamp, and eventually create a searchable system in this kaleidoscopic musical landscape, which can be especially useful for newcomer researchers, promoters, music exporters."
+summary: "As a cultural anthropologist, I have been involved in the study of alternative electronic dance music communities and event-based cultures. The Bandcamp Dance Librarian project grew out of this work. It uses the industry taxonomy of Beatport in an attempt to detect stylistic tendencies or repertoires within the Bandcamp libraries of (mainly) grasroots labels. The project output also show the tags (folksonomies) added by the artists/labels to the Bandcamp pages. It is therefore possible to compare the industry taxonomy of Beatport with artist folksonomies, as long as such tags are provided on Bandcamp, and eventually create a searchable system in this kaleidoscopic musical landscape, which can be especially useful for newcomer researchers, promoters, music exporters."
 
-projects = ["listen-local"]
+projects: ["Listen local"]
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = ""
+  caption: ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Right"
+  focal_point: "Right"
 
   # Show image only in page previews?
-  preview_only = false
+  preview_only: false
 
-+++
+---
 
 Since the dawn of the digital age we have experienced an unprecedented proliferation of music tied to the emergence of digital tools and media channels that accelerate its production and dissemination. Music streaming platforms like Spotify, media platforms like YouTube, or alternative sales platforms like [Bandcamp](https://bandcamp.com/tags) make around 100 million songs available worldwide.
 

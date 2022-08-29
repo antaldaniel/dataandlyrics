@@ -1,0 +1,42 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: Blog
+    url: 'post/'
+    weight: 10
+  - name: Topic
+    url: '#tags'
+    weight: 15
+  - name: Initiatives
+    url: '#initiatives'
+    weight: 20
+  - name: Longread
+    url: '#featured'
+    weight: 30
+  - name: Authors
+    url: 'authors/'
+    weight: 50
+  - name: Digital Music Observatory
+    url: "https://music.dataobservatory.eu/"
+    weight: 60
+  - name: Contact
+    url: ''
+    weight: 90
+    identifier: Contact
+  - name: About
+    url: '#about'
+    weight: 90
+    parent: Contact
+  - name: Emails
+    url: '#contact'
+    weight: 90
+    parent: Contact
+
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
+#  - name: CV
+#    url: uploads/resume.pdf
+#    weight: 70

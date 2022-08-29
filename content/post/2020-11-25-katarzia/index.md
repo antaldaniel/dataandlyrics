@@ -1,31 +1,31 @@
-+++
-title = "Listen Local: Katarzia"
-subtitle = "Listen Local interview"
-date = 2020-11-25T15:10:00+02:00
-lastmod = 2020-11-27T08:55:00+02:00
-draft = false
+---
+title: "Listen Local: Katarzia"
+subtitle: "Listen Local interview"
+date: 2020-11-25T15:10:00+02:00
+lastmod: 2020-11-27T08:55:00+02:00
+draft: false
 
-authors = ["Jana Gombiková"]
+authors: ["Jana Gombiková"]
 
-tags = ["listen-local", "Slovakia", "Prague", "Czechia", "Nitra", "recommendations"]
+tags: ["Listen local", "Slovakia", "Prague", "Czechia", "Nitra", "recommendations"]
 
-summary = "Katarzia's latest album tour was postponed indefinitely because of Covid-19. She signs in Slovak, and would like to stick around – as soon as the pandemic is over, she would like to return to the clubs and play for her fans."
+summary: "Katarzia's latest album tour was postponed indefinitely because of Covid-19. She signs in Slovak, and would like to stick around – as soon as the pandemic is over, she would like to return to the clubs and play for her fans."
 
-projects = ["listen-local"]
+projects: ["Listen local"]
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = "photo: Ladislav Kyllar"
+  caption: "photo: Ladislav Kyllar"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "TopLeft"
+  focal_point: "TopLeft"
 
   # Show image only in page previews?
-  preview_only = true
+  preview_only: true
 
-+++
+---
 
 {{< figure src="katarzia_avatar.jpg" title="Katarzia. Photography by Ladislav Kyllar" >}}
 

@@ -1,32 +1,32 @@
-+++
-title = "Duka’s Mission: Collaborate With Musicians From Every Country On Earth"
-subtitle = "Listen Local interviews"
-date = 2020-10-28T08:10:00+02:00
-lastmod = 2020-10-28T08:10:00+02:00
-draft = false
+---
+title: "Duka’s Mission: Collaborate With Musicians From Every Country On Earth"
+subtitle: "Listen Local interviews"
+date: 2020-10-28T08:10:00+02:00
+lastmod: 2020-10-28T08:10:00+02:00
+draft: false
 
-authors = ["Daniel Antal, CFA"]
+authors: ["Daniel Antal, CFA"]
 
-tags = ["music-production", "listen-local", "Germany", "Bosnia-Herzegovnia", "Pakistan"]
+tags: ["music-production", "Listen local", "Germany", "Bosnia-Herzegovnia", "Pakistan"]
 
-summary = "It was hard at the beginning to convince artists to take a part in the show, because it was hard to describe the whole idea. After the first show, everything went better, because the artist could see exactly what I wanted from them. Now, the response is way better of course."
+summary: "It was hard at the beginning to convince artists to take a part in the show, because it was hard to describe the whole idea. After the first show, everything went better, because the artist could see exactly what I wanted from them. Now, the response is way better of course."
 
-projects = ["listen-local"]
+projects: ["Listen local"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
-[image]
+image:
   # Caption (optional)
-  caption = "Amina Kamran on Watch Me by Duka Base"
+  caption: "Amina Kamran on Watch Me by Duka Base"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "TopLeft"
+  focal_point: "TopLeft"
 
   # Show image only in page previews?
-  preview_only = false
+  preview_only: false
 
-+++
+---
 
 Cologne-based musician and film producer, 
 Damir Bašić aka Duka decided to try to collaborate with recording artists from all over the world in his new project.  Originally from Sarajevo, Bosnia-Herzegovina, he finished last year putting their former band’s songs into a 40-minute feature film [Delta wave (2019) with English subtitles](https://www.youtube.com/watch?v=OvJ0NlAFjCQ&t=1715s) and started to look for a new music film challenge.  [Propeler](https://www.youtube.com/channel/UCjcWWrl-DEnNg-qOxRZfRSg), with one Bosnian ‘l’, had to move on with a new drummer, and Duka wanted to find himself a new music project in his new town, Cologne, Germany.

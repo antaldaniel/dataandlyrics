@@ -1,32 +1,31 @@
-+++
-title = "Tiny Rooms: A Label That Connects DIY Scenes"
+---
+title: "Tiny Rooms: A Label That Connects DIY Scenes"
 
-date = 2020-12-14T08:10:00+02:00
-lastmod = 2020-12-14T08:10:00+02:00
-draft = false
+date: 2020-12-14T08:10:00+02:00
+lastmod: 2020-12-14T08:10:00+02:00
+draft: false
 
-authors = ["Daniel Antal"]
+authors: ["Daniel Antal"]
 
-tags = ["Utrecht", "Netherlands", "labels", "listen-local", "DIY"]
+tags: 
+ - Utrecht
+ - Listen Local
+ - DIY
+ - Labels
+ 
+projects: 
+ - Listen Local
 
-projects = ["listen-local"]
-
-summary = "I’d say we all know the potential of the internet and big data, but the best we can do right now is just let as much happen with that as we can. We don’t really feel like we have any control over what happens in that area or our overall “success” on social media."
+summary: "I’d say we all know the potential of the internet and big data, but the best we can do right now is just let as much happen with that as we can. We don’t really feel like we have any control over what happens in that area or our overall “success” on social media."
 
 
 # Featured image
-[image]
-  # Caption (optional)
-  caption = "www.tinyroom.nl"
+image:
+  caption: "www.tinyroom.nl"
+  focal_point: "Center"
+  preview_only: true
 
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
-
-  # Show image only in page previews?
-  preview_only = true
-
-+++
+---
 
 {{< figure src="tiny_rooms_banner.png" title="www.tinyroom.nl" >}}
 

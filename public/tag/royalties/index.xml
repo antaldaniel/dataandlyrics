@@ -2,54 +2,70 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>royalties | Data &amp; Lyrics</title>
-    <link>/tag/royalties/</link>
-      <atom:link href="/tag/royalties/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dataandlyrics.com/tag/royalties/</link>
+      <atom:link href="https://dataandlyrics.com/tag/royalties/index.xml" rel="self" type="application/rss+xml" />
     <description>royalties</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Tue, 27 Oct 2020 10:00:00 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 27 Oct 2020 10:00:00 +0200</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>https://dataandlyrics.com/media/icon_hu5bfde8608118b47b475864b70fd224b4_21674_512x512_fill_lanczos_center_3.png</url>
       <title>royalties</title>
-      <link>/tag/royalties/</link>
+      <link>https://dataandlyrics.com/tag/royalties/</link>
     </image>
     
     <item>
       <title>Why Did We Start The Demo Music Observatory?</title>
-      <link>/post/2020-10-27-why-start-music-observatory/</link>
+      <link>https://dataandlyrics.com/post/2020-10-27-why-start-music-observatory/</link>
       <pubDate>Tue, 27 Oct 2020 10:00:00 +0200</pubDate>
-      <guid>/post/2020-10-27-why-start-music-observatory/</guid>
+      <guid>https://dataandlyrics.com/post/2020-10-27-why-start-music-observatory/</guid>
       <description>&lt;p&gt;I was contacted during the consultation period of the Feasibility Study of the European Music Observatory. That led to an uneasy series of conversations with the consultants of this project, and a very enlightening series of conversations with European civil servants, music industry organizations, music managers and artists.  My main pitch was that every single assumption of this project is wrong.&lt;/p&gt;
-&lt;p&gt;They started from the assumption that there is hardly any data available on the European music scene &amp;ndash; whereas we found while building up CEEMID, errr, a pan-European music data observatory, is that music is one of the most data-driven industries in the world, it is choking in numbers, and the reason why this data is not visible is very different. They were talking about lack of data in fields where we already had about 2000 pan-European indicators ready. (See 
-&lt;a href=&#34;https://danielantal.eu/presentation/ceemid-observatory.html#/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introducing the CEEMID Observatory, 9/28/2019&lt;/a&gt; &lt;em&gt;large self-contained html file, takes time to load into browser&lt;/em&gt;)&lt;/p&gt;
+&lt;p&gt;They started from the assumption that there is hardly any data available on the European music scene &amp;ndash; whereas we found while building up CEEMID, errr, a pan-European music data observatory, is that music is one of the most data-driven industries in the world, it is choking in numbers, and the reason why this data is not visible is very different. They were talking about lack of data in fields where we already had about 2000 pan-European indicators ready. (See &lt;a href=&#34;https://danielantal.eu/presentation/ceemid-observatory.html#/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introducing the CEEMID Observatory, 9/28/2019&lt;/a&gt; &lt;em&gt;large self-contained html file, takes time to load into browser&lt;/em&gt;)&lt;/p&gt;
 &lt;h2 id=&#34;big-data-creates-injustice&#34;&gt;Big data creates injustice&lt;/h2&gt;
 &lt;p&gt;The music industry is scattered: it has the author’s or publishing side, the recording side, a large live music business and usually a very environment for classical (art) music. Within these segments there are hundreds of organizations in each EU country, and each have their own small or large datasets. The music industry has plenty of data, but it is not integrated, and it is often hidden from organizations that may have a conflicting agenda.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://dataandlyrics.com/post/2020-10-27-why-start-music-observatory/three_income_streams_croatia.png&#34; alt=&#34;Fragmentation: Three income streams in Croatia&#34; title=&#34;Fragmentation: Three income streams in Croatia&#34;&gt;&lt;/p&gt;
-&lt;p&gt;The fragmentation of data makes these players easy prey in the era of big data. Companies who monopolise big datasets first and create 
-&lt;a href=&#34;https://blogs.scientificamerican.com/roots-of-unity/review-weapons-of-math-destruction/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;weapons of math destruction&lt;/a&gt; in the forms of algorithms that work for them, can take an unusually large share of the money created throughout the value chain. Proprietary, uncontrolled, big data trained algorithms reinforce inequality &amp;mdash; this makes Google’s YouTube, Spotify, but also Netflix in films or Amazon in books so powerful against its competitors, but also against competition regulators or suppliers &amp;mdash; in this case songwriters, video producers, filmmakers, book publishers and authors.  If their algorithm works against a creator, the creator is doomed, because half of the global sales are driven by secret algorithms.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-fragmentation-three-income-streams-in-croatia&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://dataandlyrics.com/post/2020-10-27-why-start-music-observatory/three_income_streams_croatia.png&#34; alt=&#34;Fragmentation: Three income streams in Croatia&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Fragmentation: Three income streams in Croatia
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;The fragmentation of data makes these players easy prey in the era of big data. Companies who monopolise big datasets first and create &lt;a href=&#34;https://blogs.scientificamerican.com/roots-of-unity/review-weapons-of-math-destruction/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;weapons of math destruction&lt;/a&gt; in the forms of algorithms that work for them, can take an unusually large share of the money created throughout the value chain. Proprietary, uncontrolled, big data trained algorithms reinforce inequality &amp;mdash; this makes Google’s YouTube, Spotify, but also Netflix in films or Amazon in books so powerful against its competitors, but also against competition regulators or suppliers &amp;mdash; in this case songwriters, video producers, filmmakers, book publishers and authors.  If their algorithm works against a creator, the creator is doomed, because half of the global sales are driven by secret algorithms.&lt;/p&gt;
 &lt;h2 id=&#34;big-data-vs-small-datasets-research-automation&#34;&gt;Big Data vs Small Datasets, Research Automation&lt;/h2&gt;
 &lt;p&gt;The problem of the music industry is not too little, but too much data. Music is drowning in numbers, and it has too little resources to turn much data into valuable information.&lt;/p&gt;
 &lt;p&gt;Our concept of the European Music Observatory is to pool enough resources to create value for rightsholders, talent managers, venues, festivals and the entire music ecosystem. Most music organization employ 1-5 people, and even the largest national organization, like collective management organizations, fall under the EU definition of &lt;em&gt;small- and medium sized enterprises&lt;/em&gt;. They do not have data scientists, market researchers, forecasters.  They are small organizations with small research budgets and very little time for researching. Nevertheless, with more than 60 partners in 12 countries we have shown that this is possible:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;we turned 700 million royalty statements into meaningful indicators about 
-&lt;a href=&#34;https://ceereport2020.ceemid.eu/market.html#recmarket&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the price and volume growth&lt;/a&gt; in 20 European streaming markets;&lt;/p&gt;
+&lt;p&gt;we turned 700 million royalty statements into meaningful indicators about &lt;a href=&#34;https://ceereport2020.ceemid.eu/market.html#recmarket&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the price and volume growth&lt;/a&gt; in 20 European streaming markets;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;calculated the value gap and the value of private copying in Hungary and 
-&lt;a href=&#34;https://dataandlyrics.com/publication/private_copying_croatia_2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Croatia&lt;/a&gt;;&lt;/p&gt;
+&lt;p&gt;calculated the value gap and the value of private copying in Hungary and &lt;a href=&#34;https://dataandlyrics.com/publication/private_copying_croatia_2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Croatia&lt;/a&gt;;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;helped closing the royalty gap in Hungary and Slovakia by helping collective management to significantly increase their royalty collection;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;digital_gap_2018.jpg&#34; width=&#34;90%&#34; alt=&#34;Difference between potential market (household cultural spending) and actual digital music revenues&#34; title=&#34;Closing the royalty gap in Europe&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;digital_gap_2018.jpg&#34; width=&#34;90%&#34; alt=&#34;Difference between potential market (household cultural spending) and actual digital music revenues&#34; title=&#34;Closing the royalty gap in Europe&#34; /&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;helped granting agencies to make more relevant 
-&lt;a href=&#34;https://dataandlyrics.com/project/grants/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;grant calls&lt;/a&gt; and designed indicators to measure the impact of their grants;&lt;/p&gt;
+&lt;p&gt;helped granting agencies to make more relevant &lt;a href=&#34;https://dataandlyrics.com/project/grants/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;grant calls&lt;/a&gt; and designed indicators to measure the impact of their grants;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;started the creation of 
-&lt;a href=&#34;https://dataandlyrics.com/project/listen-local/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;local recommendation engines&lt;/a&gt; that help the circulation of the small nation repertoires or city scenes in Europe or beyond.&lt;/p&gt;
+&lt;p&gt;started the creation of &lt;a href=&#34;https://dataandlyrics.com/project/listen-local/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;local recommendation engines&lt;/a&gt; that help the circulation of the small nation repertoires or city scenes in Europe or beyond.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;music-has-data-but-you-need-a-map&#34;&gt;Music Has Data, But You Need A Map&lt;/h2&gt;
@@ -57,12 +73,10 @@
 &lt;p&gt;We were able to collect at least 70% of the information content of the planned European Music Observatory, and far more, than most of the 50 data observatories we examined in Europe, because we took an approach inspired in open source software development: continuous opt-in, opt-out data integration, focusing on the synergies that partners can achieve, instead of aiming at endless discussions and compromises on sharing data. We never take away proprietary data from anybody, we just connect data among partners, and enrich it with open data. We would like to guide the industry from hierarchical database planning to the philosophy of open collaboration.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;We 
-&lt;a href=&#34;https://dataandlyrics.com/post/2020-09-11-creating-automated-observatory/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;automated&lt;/a&gt; most of the research tasks, to make it less costly, less error-prone, and require less labour input.  We can automate most of the data collection, data processing, imputation, validation, documentation, reporting, even some modelling.&lt;/p&gt;
+&lt;p&gt;We &lt;a href=&#34;https://dataandlyrics.com/post/2020-09-11-creating-automated-observatory/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;automated&lt;/a&gt; most of the research tasks, to make it less costly, less error-prone, and require less labour input.  We can automate most of the data collection, data processing, imputation, validation, documentation, reporting, even some modelling.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;We invested into harvesting the vast 
-&lt;a href=&#34;https://dataobservatory.eu/project/open_data/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;open data&lt;/a&gt; of the European Union and its member states.  In the EU, most taxpayer funded research data is freely available, but at a cost of significant data reprocessing cost. If the data was originally collected to calculate to inflation or monitor tax revenues, it needs to be significantly altered for the music industry to be useful.&lt;/p&gt;
+&lt;p&gt;We invested into harvesting the vast &lt;a href=&#34;https://dataobservatory.eu/project/open_data/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;open data&lt;/a&gt; of the European Union and its member states.  In the EU, most taxpayer funded research data is freely available, but at a cost of significant data reprocessing cost. If the data was originally collected to calculate to inflation or monitor tax revenues, it needs to be significantly altered for the music industry to be useful.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;We have found a way to connect many small data sources and open data. We can create big data from much small data, and deploy analytics, algorithms on collective datasets.&lt;/p&gt;
@@ -73,126 +87,44 @@
     
     <item>
       <title>Making Websites Is Not Easy</title>
-      <link>/post/2020-10-14-making_websites/</link>
+      <link>https://dataandlyrics.com/post/2020-10-14-making_websites/</link>
       <pubDate>Wed, 14 Oct 2020 10:00:00 +0200</pubDate>
-      <guid>/post/2020-10-14-making_websites/</guid>
+      <guid>https://dataandlyrics.com/post/2020-10-14-making_websites/</guid>
       <description>&lt;p&gt;I often find myself in a crossfire between artists and managers who want more transparency and innovation and collective management societies that see themselves as the last stable pillar for music composers, producers and performers to collect their royalties. I was in Bratislava preparing a project with the Slovak societies when a Belgian music professional, Suzanne Verschueren working in the Slovak music industry showed my Moon Moon Moon’s Journal Entry 10. A letter of complaint to the Dutch collective management societies, Buma and Stemra. In a song.  With video animation!&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://www.youtube.com/watch?v=UtaEKUy6KGE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://dataandlyrics.com/post/2020-10-14-making_websites/playjournal10.png&#34; alt=&#34;Click on image to play video&#34;&gt;&lt;/a&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=UtaEKUy6KGE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://dataandlyrics.com/post/2020-10-14-making_websites/playjournal10.png&#34; alt=&#34;Click on image to play video&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;
 &lt;a href=&#34;https://www.youtube.com/watch?v=UtaEKUy6KGE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Click on image to play video&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;I immediately contacted Moon Moon Moon, because I had a better laugh at a music industry insider joke, and because I realized that this is one of the many bridges that we need to close if we want to build the European Music Observatory. (See our Demo Music Observatory 
-&lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.)&lt;/p&gt;
-&lt;p&gt;Of course, Buma/Stemra reached out to 
-&lt;a href=&#34;https://www.facebook.com/moonmoonmoontheband&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Moon Moon Moon&lt;/a&gt; within a day of the release, and within a week they figured out where did the 1500 euro go, apologized for the mistake. The band and the collective management organization have been working together ever since as best friends forever.&lt;/p&gt;
-&lt;p&gt;For me, this story is not over.  A year later, the video had less than 1000 views on YouTube.  How is it possible, when the 
-&lt;a href=&#34;https://www.youtube.com/playlist?list=PLA58ktFjlFijWiHTbTju4-OnswRmjKTC9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Moon Moon Moon Journal Entries&lt;/a&gt; are so good?  My 
-&lt;a href=&#34;https://dataobservatory.eu/team/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;startup team&lt;/a&gt; decided to team up with the MMM collective to figure out how it is possible that with all the might of the artificial intelligence of YouTube’s and Spotify’s algorithms this gem is not world famous yet.  And yes, we are working with a sister society of Buma/Stemra in Slovakia to make this happen, who, in spite of their bad rep among artists, have been fighting with me side by side since 2016 to make this happen.&lt;/p&gt;
-&lt;p&gt;We decided to design an app that connects artists and their fans in a better way, using the same might of the algorithms, but working for the small band.  We will re-release the Journal Entries as an album, and we will create algorithms that will find audiences for MMM all over in the Netherlands and Belgium, and in Japan, and probably in many other countries on the way from Utrecht to 
-&lt;a href=&#34;https://www.youtube.com/watch?v=Tw0zYd0eIlk&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kyoto&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I immediately contacted Moon Moon Moon, because I had a better laugh at a music industry insider joke, and because I realized that this is one of the many bridges that we need to close if we want to build the European Music Observatory. (See our Demo Music Observatory &lt;a href=&#34;https://music.dataobservatory.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.)&lt;/p&gt;
+&lt;p&gt;Of course, Buma/Stemra reached out to &lt;a href=&#34;https://www.facebook.com/moonmoonmoontheband&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Moon Moon Moon&lt;/a&gt; within a day of the release, and within a week they figured out where did the 1500 euro go, apologized for the mistake. The band and the collective management organization have been working together ever since as best friends forever.&lt;/p&gt;
+&lt;p&gt;For me, this story is not over.  A year later, the video had less than 1000 views on YouTube.  How is it possible, when the &lt;a href=&#34;https://www.youtube.com/playlist?list=PLA58ktFjlFijWiHTbTju4-OnswRmjKTC9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Moon Moon Moon Journal Entries&lt;/a&gt; are so good?  My &lt;a href=&#34;https://dataobservatory.eu/team/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;startup team&lt;/a&gt; decided to team up with the MMM collective to figure out how it is possible that with all the might of the artificial intelligence of YouTube’s and Spotify’s algorithms this gem is not world famous yet.  And yes, we are working with a sister society of Buma/Stemra in Slovakia to make this happen, who, in spite of their bad rep among artists, have been fighting with me side by side since 2016 to make this happen.&lt;/p&gt;
+&lt;p&gt;We decided to design an app that connects artists and their fans in a better way, using the same might of the algorithms, but working for the small band.  We will re-release the Journal Entries as an album, and we will create algorithms that will find audiences for MMM all over in the Netherlands and Belgium, and in Japan, and probably in many other countries on the way from Utrecht to &lt;a href=&#34;https://www.youtube.com/watch?v=Tw0zYd0eIlk&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kyoto&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;further-links&#34;&gt;Further links&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://www.bumastemra.nl/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Buma/Stemra&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://www.youtube.com/moonmoonmoon&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Moon Moon Moon on YouTube&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://discord.com/invite/v3upRs7?fbclid=IwAR04uKn_1TurL6cZArdwMigw9BDXpVqp9AXL3W12U94a69SeobDBT6jCbSo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Moon Moon Moon on Discord&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://www.youtube.com/watch?v=UtaEKUy6KGE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal Entry 10: Growing a Beard While Using The New Buma/Stemra Website&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://icons8.com/icons/set/play&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Play icon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bumastemra.nl/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Buma/Stemra&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/moonmoonmoon&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Moon Moon Moon on YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://discord.com/invite/v3upRs7?fbclid=IwAR04uKn_1TurL6cZArdwMigw9BDXpVqp9AXL3W12U94a69SeobDBT6jCbSo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Moon Moon Moon on Discord&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=UtaEKUy6KGE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal Entry 10: Growing a Beard While Using The New Buma/Stemra Website&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://icons8.com/icons/set/play&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Play icon&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Granting And Policy Evaluation For Musicians In Hungary</title>
-      <link>/post/2015-11-12-cstp/</link>
-      <pubDate>Thu, 12 Nov 2015 19:00:00 +0100</pubDate>
-      <guid>/post/2015-11-12-cstp/</guid>
-      <description>&lt;p&gt;The data and intelligence of CEEMID was used in Hungary to create an ex ante evaluation of the new Cseh Tamás Program to support popular music development in Hungary.  Our mandate was to create concrete granting proposals that have a high chance of making a change in terms of the later royalty earning capabilities of artists.&lt;/p&gt;
-&lt;p&gt;In the first phase of the project, we made two workshops with the eight fields development method to understand the challenges and existing working practices that result in a low level of royalties paid out in Hungary. This methodology requires a groupwork of all stakeholders and professionals of the industry. In this case, we worked in groups of 30-40, covering various artists, stage, light, sound technicians, producers, managers and even band transporters.  One group predominantly was Budapest-based and one in Eastern Hungary, to have a different view on working and market conditions in the metropolitan city and in the countryside. While royalties are not applicable for live music, it was well understood by the granting authority and the music industry that royalties cannot grow without a healthy live music sector in the country.&lt;/p&gt;
-&lt;p&gt;In the workshop, the consultant with several aides facilitates a very structured conversation that starts with a desired state of the industry which is not described by slogans but by actual characterizations of a desired working environment.   Instead of envisioning that “everybody gets a grant”, we describe the ideal project planning and management cycle of a new tour or record to see how a granting can fit into this workflow and what type of grants add effective assistance to realize goals.  For each goal and change we envision how that effects the work of the performing artists, her manager, the technician crew, even the schedule of the tour bus driver.  We discuss if the change makes any material change in the way we can prepare for a new album release.&lt;/p&gt;
-&lt;p&gt;In the latter stages what sort of changes we envision in day practices, programmers, institutions and what concrete steps are needed to be made to get there.  As a controlling step, we assign indicators that can be objectively judged, and which can show the degree of change if recommended actions are taken.&lt;/p&gt;
-&lt;p&gt;The advantage of the eight-fields methodology, which was originally developed to support EU and global aid program design is that it allows conflicting viewpoints, finding consensus, and display very highly detailed policy and program scenarios already in a day. It is generally a very enjoyable experience for artists and professionals.  If the workshop takes place over 2 days, a first draft program is already presented on the second morning and by the end of the day participants usually have a detailed program.  In this case, we came up with dozens of concrete proposals, many of which could be addressed to the stakeholders themselves without any action taken from the granting authority.&lt;/p&gt;
-
-
-
-
-
-
-
-
-  
-  
-
-
-&lt;div class=&#34;gallery&#34;&gt;
-
-  
-  
-  
-  
-    
-    
-    
-    
-    
-      
-        
-      
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2015-11-12-cstp/gallery/01-featured.JPG&#34; data-caption=&#34;Workshop in the Design Terminal, Budapest&#34;&gt;
-  &lt;img data-src=&#34;/post/2015-11-12-cstp/gallery/01-featured_hu48dff82355c51cb9da72e1905faaf94d_108737_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-        
-      
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2015-11-12-cstp/gallery/02-mindmap.jpg&#34; data-caption=&#34;Creating the mindmap&#34;&gt;
-  &lt;img data-src=&#34;/post/2015-11-12-cstp/gallery/02-mindmap_hu54f47b9031cb6332641cf1916acdc576_98341_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-        
-      
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2015-11-12-cstp/gallery/03-mindmap.jpg&#34; data-caption=&#34;Excerpt of mindmap&#34;&gt;
-  &lt;img data-src=&#34;/post/2015-11-12-cstp/gallery/03-mindmap_hu83e8e21014b7b14b6bb8e4256a9d2c34_145989_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-        
-      
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/2015-11-12-cstp/gallery/04-professions.png&#34; data-caption=&#34;Participating professions&#34;&gt;
-  &lt;img data-src=&#34;/post/2015-11-12-cstp/gallery/04-professions_hud961f54fec5297723fa4ca07fa483799_954022_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-
-  
-&lt;/div&gt;
-&lt;p&gt;In the next stage we carried out the annual CEEMID Music Professional Survey with additional questions where artists, managers and technicians could rate the proposals.  They could also optionally give their next year development priorities in the fields of live performances, recordings and composition, in the context of their current work, pre-existing financing and professional assistance of financial assistance needs.  In Hungary, more than 1000 music professionals filled out the survey in 2015.&lt;/p&gt;
-&lt;p&gt;At the end of the workshop and the survey, we could present a very comprehensive policy and granting program, with preliminary estimates on granting needs, ideal and minimum grant sizes, and grant contractual conditions to avoid grant calls that cannot be contracted out to winners due to unrealistic prerequisites.&lt;/p&gt;
-&lt;p&gt;These results, with suggested cultural policy indicators, program indicators and budgetary outlines were presented to the granting authority of the Cseh Tamás Program (currently named: 
-&lt;a href=&#34;https://hangfoglalo.hu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hangfoglaló Popular Music Support Program&lt;/a&gt;)&lt;/p&gt;
 </description>
     </item>
     

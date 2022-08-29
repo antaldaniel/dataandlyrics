@@ -1,29 +1,29 @@
-+++
-title = "Lapee: Making Festivals More Accessible For Women"
+---
+title: "Lapee: Making Festivals More Accessible For Women"
 
-date = 2021-03-10T19:19:00+02:00
-lastmod = 2021-03-10T19:19:00+02:00
-draft = false
+date: 2021-03-10T19:19:00+02:00
+lastmod: 2021-03-10T19:19:00+02:00
+draft: false
 
-authors = ["Daniel Antal"]
+authors: ["Daniel Antal"]
 
-tags = ["feminism", "live music", "future", "JUMP Europen Music Market Accelerator", "Denmark", "Copenhagen", "startup"]
+tags: ["feminism", "live music", "future", "JUMP Europen Music Market Accelerator", "Denmark", "Copenhagen", "startup"]
 
-summary = "Gina Périer is a fellow in the JUMP European Music Market Accelerator. She is an architect trying to solve a serious problem before music festivals reopen after the pandemic: many, many women, all in one place… who need to pee."
+summary: "Gina Périer is a fellow in the JUMP European Music Market Accelerator. She is an architect trying to solve a serious problem before music festivals reopen after the pandemic: many, many women, all in one place… who need to pee."
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = "Walking around the festival populated with male urinals, it was quite hard to understand why there wasn’t a proper industrialized solution for womxn yet."
+  caption: "Walking around the festival populated with male urinals, it was quite hard to understand why there wasn’t a proper industrialized solution for womxn yet."
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Right"
+  focal_point: "Right"
 
   # Show image only in page previews?
-  preview_only = false
+  preview_only: false
 
-+++
+---
 
 **Gina Périer is a fellow in the JUMP European Music Market Accelerator. She is an architect trying to solve a serious problem before music festivals reopen after the pandemic: many, many women, all in one place… who need to pee.**
 

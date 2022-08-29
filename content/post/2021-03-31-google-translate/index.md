@@ -1,28 +1,28 @@
-+++
-title = "The Problem of Gender Bias In Machine Translation"
-date = 2021-03-31T09:00:00
-lastmod = 2021-03-31T09:00:00
-draft = false
+---
+title: "The Problem of Gender Bias In Machine Translation"
+date: 2021-03-31T09:00:00
+lastmod: 2021-03-31T09:00:00
+draft: false
 
-authors = ["Daniel Antal"]
+authors: ["Daniel Antal"]
 
-tags = ["Hungary", "trustworthy-AI", "translation", "Google", "sexism"]
+tags: ["Hungary", "trustworthy-AI", "translation", "Google", "sexism"]
 
-summary = "An interesting meme is going around on social media that shows the gender specific translations created by Google Translate from a source text typed in a genderless language, Hungarian."
+summary: "An interesting meme is going around on social media that shows the gender specific translations created by Google Translate from a source text typed in a genderless language, Hungarian."
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = ""
+  caption: ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Top"
+  focal_point: "Top"
 
   # Show image only in page previews?
-  preview_only = true
+  preview_only: true
 
-+++
+---
 
 An interesting meme is going around on social media that shows the gender specific translations created by Google Translate from a source text typed in a genderless language, Hungarian.
 

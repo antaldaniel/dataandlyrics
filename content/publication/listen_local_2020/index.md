@@ -1,79 +1,96 @@
-+++
-title = "Feasibility Study On Promoting Slovak Music In Slovakia & Abroad"
-date = 2021-03-25T11:00:00
-draft = false
+---
+title: 'Feasibility Study On Promoting Slovak Music In Slovakia & Abroad'
 
-authors = ["Daniel Antal", "Dáša Bulíková (translator)"]
+# Authors
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
+# and it will be replaced with their full name and linked to their profile.
+authors:
+ - Daniel Antal 
+ - Dáša Bulíková (translator)
+
+# Author notes (optional)
+#author_notes:
+# - 'Equal contribution'
+#  - 'Equal contribution'
+
+date: '2020-12-27T11:00:00'
+doi: ''
+
+# Schedule page publish date (NOT publication's date).
+publishDate: '2020-12-27T11:00:00'
 
 # Publication type.
-# Legend:
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ['4']
 
-publication_types = ["4"]
+# Publication name and optional abbreviated publication name.
+publication: Published by *SOZA*.
 
-# Abstract and optional shortened version.
-abstract = "Why are the total market shares of Slovak music relatively low both on the domestic and the foreign markets? How can we measure the market share of the Slovak music in the domestic and foreign markets? We offer some answers and solution based on empirical research and with the creation of a database and an AI application."
+abstract: "Why are the total market shares of Slovak music relatively low both on the domestic and the foreign markets? How can we measure the market share of the Slovak music in the domestic and foreign markets? We offer some answers and solution based on empirical research and with the creation of a database and an AI application."
 
-# Is this a selected publication? (true/false)
-featured = true
+# Summary. An optional shortened abstract.
+summary: Why are the total market shares of Slovak music relatively low both on the domestic and the foreign markets? How can we measure the market share of the Slovak music in the domestic and foreign markets? We offer some answers and solution based on empirical research and with the creation of a database and an AI application."
 
-# Projects (optional).
-projects = ["listen-local"]
+tags: 
+ - Listen Local
+ - Trustworthy AI
+ - Music recommender systems
 
-# Slides (optional).
-#   `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides = ""
+# Display this page in the Featured widget?
+featured: true
 
-# Tags (optional).
-tags = ["Slovakia", "trustworthy-AI", "recommendations", "music-distribution", "local-content-regulation"]
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
 
-# Links (optional).
-url_pdf = "https://dataandlyrics.com/publications/Listen_Local_Feasibility_Study_2020_EN.pdf"
-url_preprint = ""
-url_code = ""
-url_dataset = ""
-url_project = ""
-url_slides = ""
-url_video = ""
-url_poster = ""
-url_source = ""
-
-# Custom links (optional).
-#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
-
-# Digital Object Identifier (DOI)
-doi = ""
-
-# Does this page contain LaTeX math? (true/false)
-math = true
+url_pdf: "https://www.jipitec.eu/issues/jipitec-13-1-2022/5515/senftleben_pdf"
+url_preprint: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3785272"
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 
 # Featured image
-[image]
-  # Caption (optional)
-  caption = ""
+# To use, add an image named `featured.jpg/png` to your page's folder.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
 
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Left"
-+++
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects:
+  - Listen Local
 
-Download the study {{% staticref "publications/Listen_Local_Feasibility_Study_2020_SK.pdf" "newtab" %}}in Slovak{{% /staticref %}} or {{% staticref "publications/Listen_Local_Feasibility_Study_2020_EN.pdf" "newtab" %}}in English{{% /staticref %}}.
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides: ""
+---
+
+Download the study {{% staticref "media/publications/Listen_Local_Feasibility_Study_2020_SK.pdf" "newtab" %}}in Slovak{{% /staticref %}} or {{% staticref "media/publications/Listen_Local_Feasibility_Study_2020_EN.pdf" "newtab" %}}in English{{% /staticref %}}.
 
 In 2015, realizing the low visibility and income-generating potential of Slovak music, the legislation introduced an amendment to the broadcasting act to regulate local content in radiostreams. The Slovak content promoting policy was well-intended but not based on any impact assessment, and it reached its goal only partially.
 
-The Slovak broadcasting quotas in comparison with other national quotas a very simple, and they are impossible to measure, which makes both compliance and enforcement very difficult. Radio editors do not get any help to find music that fits into the playlists and fulfill the quota obligations – in many cases, it is impossible for them to find out if a song actually meets the quota requirements. For the same reason, neither is enforcement possible.
+The Slovak broadcasting quotas in comparison with other national quotas a very simple, and they are impossible to measure, which makes both compliance and enforcement very difficult. Radio editors do not get any help to find music that fits into the playlists and fulfil the quota obligations – in many cases, it is impossible for them to find out if a song actually meets the quota requirements. For the same reason, neither is enforcement possible.
 
 Another deficiency of the broadcasting quotas is that because of its fuzzy target, it is not clear whom it tries to help, and it has few friends. It is unclear how performers, composers or Slovak music producers can benefit from the system. Furthermore, it only helps a few genres, and it decreases the chances of other Slovak music in instrumental and non-Slovak language genres (for example, classical, jazz, rock) to be heard.
-
-{{< figure src="/img/streaming/mind_map_goal_setting.jpg" caption="What should a good local content policy (radio quota, recommendation system, streaming quota) achieve?" numbered="true" >}}
 
 And at last, radio is losing its importance in music discovery. New generation find the music during their music discovery age on YouTube and digital streaming platforms. A Slovak content promoting policy that does not work on digital streaming platforms will be obsolete when radio content providers will switch to digital streaming in the foreseeable future.
 
 **Our Feasibility Study follows the following logic:**
 In the first chapter we introduce various music recommendation systems in the context of local content promotion polices, like local mandatory content quota regulations.
-
-{{< figure src="/img/streaming/mind_map_recommendations.jpg" caption="We aimed to create a demo version of a utility-based, transparent, accountable recommendation system." numbered="true" >}}
 
 In the second chapter, we consider the market-based or creative industry economy supporting policy goals, measurements, and potential support given to artists and producers.
 
@@ -81,14 +98,11 @@ We then turn in the third chapter to content-based local regulations promoting t
 
 We introduce the idea of the **Slovak Music Database**, a comprehensive, mainly opt-in, opt-out database that of Slovak artists and Slovak music that should be supported by the local content regulation and other policies. We also create a Demo Slovak Music Database to understand the problem and scope of the creation of the comprehensive version.
 
-The project website contains the [Demo Slovak Music Database](https://listenlocal.community/project/demo-sk-music-db/).
+The project website contains the [Demo Slovak Music Database](https://listen-local.net/project/demo-sk-music-db/).
 
-We also created a [Demo Recommendation System](https://listenlocal.community/project/demo-app/). We explain here [why](https://listenlocal.community/post/2020-11-23-alternative-recommendations/).
+We also created a [Demo Recommendation System](https://listen-local.net/project/demo-app/). We explain here [why](https://listen-local.net/post/2020-11-23-alternative-recommendations/).
 
-{{< figure src="/img/streaming/listen_local_app_1.png" caption="Screenshot of the first verison of the demo app." numbered="true" >}}
-
-## Research questions
-
+##Research questions
 * Why are the total market shares of Slovak music relatively low both on the domestic and the foreign markets?
 * How can we measure the market share of the Slovak music in the domestic and foreign markets?
 * How can we measure the value gap between what some media platforms, most particularly the biggest YouTube, does not pay out to the Slovak stakeholders within Slovakia?
@@ -96,22 +110,14 @@ We also created a [Demo Recommendation System](https://listenlocal.community/pro
 * How ‘shadow-markets’ of home copying and unlicensed media platforms, such as YouTube impact market shares directly and national quotas indirectly?
 * How can modern data science, predictive microeconomics and statistics help increase the market share of Slovak music in Slovakia and abroad?
 
-We would like to continue this work in more depth in Slovakia, and include new countries and regions, for example, Estonia, Hungary, the Netherlands, Flanders and Wales in the next versions. We are also planning city-version. 
 
 Thanks for the entire Reprex team who contributed to the English version:
 
-- **Budai, Sándor**, programming and deployment
-- **Dr. Emily H. Clarke**, musicologist
+- **Dr. Emily H. Clarke**, musicology
 - **Stef Koenis**, musicologist, musician
 - **Dr. Andrés Garcia Molina**, data scientist, musicologist, editor
 - **Kátya Nagy**, music journalist, research assistant; 
 
 and the Slovak version:
-- **Dáša Bulíková**, musician, translator
-- **Dominika Semaňáková**, musicologist, editor, layout.
-
-Special thanks to [Tammy Nižňanska](https://dataandlyrics.com/post/2020-11-30-youniverse/).
-
-## Project Website, Demo App
-
-[Listen Local](https://listenlocal.community/#about) is an open initiative for musicians and music organizations to create new, open AI applications that make locally relevant music visible online and offline. Listen Slovak is our first demonstration project, accompanied with a Feasibility Study. It was created jointly with the Slovak Performing Rights Society, and with the support of the Slovak Arts Council and Consolidated Independent, a music distributor company for independent labels and artist. Our aim was to understand why some Slovak music cannot be heard on radio and on streaming platforms, and to create a database and a demo application that makes that music discoverable.
+- **Dominika Semaňáková**, musicologist, editor
+- **Dáša Bulíková**, musician, translator.

@@ -1,65 +1,35 @@
-+++
-title = "First CEEMID Regional Open Data Release"
+---
+title: "First CEEMID Regional Open Data Release"
 
-date = 2020-04-16T17:00:00
-lastmod = 2020-04-16T17:30:00
-draft = false
+date: 2020-04-16T17:00:00
+lastmod: 2020-04-16T17:30:00
+draft: false
 
-authors = ["Daniel Antal, CFA"]
+authors: ["Daniel Antal, CFA"]
 
-tags = ["CEEMID", "open-data", "music-demand", "Digital Music Observatory"]
+tags: ["CEEMID", "Open data", "Music demand", "Digital Music Observatory"]
 
-projects = ["Digital Music Observatory"]
+projects: ["Digital Music Observatory"]
 
-categories = ["rbloggers"]
+categories: ["rbloggers"]
 
-summary = "In the preparation to make the CEEMID available as an open-source data integration platform and as a source of open data for the European Music Observatory, the first regional dataset was published today."
+summary: "In the preparation to make the CEEMID available as an open-source data integration platform and as a source of open data for the European Music Observatory, the first regional dataset was published today."
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = "Six years of regional data visualized"
+  caption: "Six years of regional data visualized"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point: "Center"
 
   # Show image only in page previews?
-  preview_only = false
+  preview_only: false
   
-[[gallery_item]]
-album = "gallery"
-image = "ceemid_regional_social_media_use_2011.jpg"
-caption = "Internet use: participating in social networks (2011)"
-
-[[gallery_item]]
-album = "gallery"
-image = "ceemid_regional_social_media_use_2015.jpg"
-caption = "Internet use: participating in social networks (2015)"
-
-[[gallery_item]]
-album = "gallery"
-image = "ceemid_regional_social_media_use_2019.jpg"
-caption = "Internet use: participating in social networks (2019)"
-
-[[gallery_item]]
-album = "gallery"
-image = "metadata_ceemid_regional_social_media_use_2011.jpg"
-caption = "CEEMID metadata summary (2011)"
-
-[[gallery_item]]
-album = "gallery"
-image = "metadata_ceemid_regional_social_media_use_2015.jpg"
-caption = "CEEMID metadata summary (2015)"
 
 
-[[gallery_item]]
-album = "gallery"
-image = "metadata_ceemid_regional_social_media_use_2019.jpg"
-caption = "CEEMID metadata summary (2019)"
-
-
-+++
+---
 
 _Internet use: participating in social networks (creating user profile, posting messages or other contributions to facebook, twitter, etc.) [percentage of individuals]_ shows the development of social media use in the past 10 years in very high detail.  Social media is one of the most important ways to communicate with fans and find audiences for gigs, performances and to share new releases.
 
@@ -80,5 +50,39 @@ At last, the data was put into a table that complies with the [tidy data](https:
 _Use this in your article? Further research? Collaboration? Let's get in touch on [LinkedIn](https://www.linkedin.com/in/antaldaniel/), [Twitter](https://twitter.com/antaldaniel), or via [danielantal.eu](https://danielantal.eu/#contact)_
 
 
-{{< gallery >}} 
+{{< gallery album="regionalopendatarelease" >}} 
 
+
+<!---
+[[gallery_item]]
+album: "gallery"
+image: "ceemid_regional_social_media_use_2011.jpg"
+caption: "Internet use: participating in social networks (2011)"
+
+[[gallery_item]]
+album: "gallery"
+image: "ceemid_regional_social_media_use_2015.jpg"
+caption: "Internet use: participating in social networks (2015)"
+
+[[gallery_item]]
+album: "gallery"
+image: "ceemid_regional_social_media_use_2019.jpg"
+caption: "Internet use: participating in social networks (2019)"
+
+[[gallery_item]]
+album: "gallery"
+image: "metadata_ceemid_regional_social_media_use_2011.jpg"
+caption: "CEEMID metadata summary (2011)"
+
+[[gallery_item]]
+album: "gallery"
+image: "metadata_ceemid_regional_social_media_use_2015.jpg"
+caption: "CEEMID metadata summary (2015)"
+
+
+[[gallery_item]]
+album: "gallery"
+image: "metadata_ceemid_regional_social_media_use_2019.jpg"
+caption: "CEEMID metadata summary (2019)"
+
+--->

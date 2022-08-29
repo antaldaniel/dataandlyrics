@@ -1,40 +1,40 @@
-+++
-title = "Value added by music in public performance and home copying: economic theory and empirical applications for tariff setting"
-date = 2013-11-18T00:00:00
-lastmod = 2013-11-18T00:00:00
-draft = false
+---
+title: "Value added by music in public performance and home copying: economic theory and empirical applications for tariff setting"
+date: 2013-11-18T00:00:00
+lastmod: 2013-11-18T00:00:00
+draft: false
 
-authors = ["Daniel Antal"]
+authors: ["Daniel Antal"]
 
-tags = ["cisac", "pricing", "private-copying", "pcr", "restaurants", "hedonic-pricing", "valuation"]
+tags: ["cisac", "pricing", "private-copying", "pcr", "restaurants", "hedonic-pricing", "valuation"]
 
-summary = "My short presentation highlighted the fact that the CEE region’s is much richer in terms of household cultural and recreational spending than music publishers believe."
+summary: "My short presentation highlighted the fact that the CEE region’s is much richer in terms of household cultural and recreational spending than music publishers believe."
 
-projects = ["Digital Music Observatory"]
+projects: ["Digital Music Observatory"]
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references 
+#   E.g. `projects: ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-# projects = ["pricing", "royalties"]
+#   Otherwise, set `projects: []`.
+# projects: ["pricing", "royalties"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
-[image]
+image:
   # Caption (optional)
-  caption = ""
+  caption: ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
+  focal_point: ""
 
   # Show image only in page previews?
-  preview_only = false
+  preview_only: false
 
 
-+++
+---
 You can review the slides below.
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/MPGDNcEefEU04I" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/antaldaniel/sgeur13-1037-dantal" title="Value added by music in public performance and home copying: economic theory and empirical applications in tariff setting" target="_blank">Value added by music in public performance and home copying: economic theory and empirical applications in tariff setting</a> </strong> from <strong><a href="//www.slideshare.net/antaldaniel" target="_blank">Dániel Antal</a></strong> </div>
