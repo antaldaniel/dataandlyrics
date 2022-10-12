@@ -15,16 +15,10 @@ summary: "Marie de la Montagne is a performing musician and a music publisher. S
 
 # Featured image
 image:
-  # Caption (optional)
   caption: "Marie de la Montagne"
-
-  # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point: "Top"
-
-  # Show image only in page previews?
   preview_only: false
-
 ---
 
 <!-- HERE I WOULD INCLUDE A BREIF INTRODUCTION ABOUT WHO MARIE IS AND WHY WE'RE INTERVIEWING HER
@@ -49,8 +43,7 @@ That’s a great question, one that is hard to answer in my case since I am loca
 I consider myself a storyteller. My music is a space to communicate emotions about experiences we might not always talk about. I love performing live and I can see myself doing this anywhere, but mostly in Europe. I feel very close to all the countries I’ve lived in, so France and even the UK. I always build a small fanbase where I live, and then uproot again.
 
 <!--  This is the script to include a jpg or png file.  If it is large, it will be ready for zooming in. -->
-{{< figure src="/media/img/listen_local_interviews/Marie_de_la_Montagne_with_band.jpg" caption="Marie on stage" >}}
-
+{{< figure src="/img/listen_local_interviews/Marie_de_la_Montagne_with_band.jpg" caption="Marie on stage" >}}
 
 I would like to spend more time in Central and Eastern Europe too. I feel like I neglected these countries and quite unfairly so. This has been a challenge as touring is always an expense, and since I collaborate with a pianist who has two children, there are practical aspects that I have to consider. 
 

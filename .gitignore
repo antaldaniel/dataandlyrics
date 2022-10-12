@@ -4,6 +4,8 @@
 .Ruserdata
 
 public/
+^public
+^public$
 
 resources/
 .hugo_build.lock
