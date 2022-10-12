@@ -4,8 +4,7 @@ title: ‘If you had told me what was in store 10 years ago, I probably would no
 subtitle: Listen Local interview
 date: "2022-10-12T16:30:00+02:00"
 lastmod: "2022-10-12T16:30:00+02:00"
-draft: true
-authors: Marie Zhořová
+authors: marie_zhorova
 project: Listen local
 tags:
 - Prague
