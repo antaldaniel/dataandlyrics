@@ -5,7 +5,7 @@ date: 2021-07-15T09:00:00
 lastmod: 2021-07-15T09:00:00
 draft: false
 
-authors: ["Daniel Antal", "Katie Long"]
+authors: ["daniel_antal", "katie_long"]
 
 project: ["Listen local"]
 

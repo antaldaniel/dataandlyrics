@@ -4,7 +4,6 @@ subtitle: "Jeremy Dunne and the Open Studio Sessions in France"
 date: 2021-12-03T14:00:00+01:00
 lastmod: 2021-12-03T14:00:00+01:00
 draft: false
-
 authors: ["daniel_antal"]
 
 tags: ["JUMP Europen Music Market Accelerator", "record shops", "recording", "independent labels"]
