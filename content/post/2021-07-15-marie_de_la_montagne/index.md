@@ -43,7 +43,7 @@ That’s a great question, one that is hard to answer in my case since I am loca
 I consider myself a storyteller. My music is a space to communicate emotions about experiences we might not always talk about. I love performing live and I can see myself doing this anywhere, but mostly in Europe. I feel very close to all the countries I’ve lived in, so France and even the UK. I always build a small fanbase where I live, and then uproot again.
 
 <!--  This is the script to include a jpg or png file.  If it is large, it will be ready for zooming in. -->
-{{< figure src="/img/listen_local_interviews/Marie_de_la_Montagne_with_band.jpg" caption="Marie on stage" >}}
+{{< figure src="/img/blogposts_2021/Marie_de_la_Montagne_with_band.jpg" caption="Marie on stage" >}}
 
 I would like to spend more time in Central and Eastern Europe too. I feel like I neglected these countries and quite unfairly so. This has been a challenge as touring is always an expense, and since I collaborate with a pianist who has two children, there are practical aspects that I have to consider. 
 
@@ -62,6 +62,10 @@ Yes, you could say this is the territory where I would like people to listen to 
 France is really my sacred place. It is a place where I feel insanely inspired and at home. Even from miles away, it gives me a sense of confidence and freedom. I lived in the mountains for six years, and I loved it because it was a place where you needed to rely on yourself to survive. There is no industry there so anything I wanted to exist, I had to create everything myself. And that was amazing, because I proved to myself that I could do anything I decided to. When you are in a city, you always have to ask permissions. As a woman in this industry, no one listens to you. You have to work triple hard for people to let you say or do something. 
 
 I come back to the mountains for consolation, really. I even changed my French surname to mean “from the mountains,” as a way for people to stop focusing on where I am from and more on what I do. It worked, and I became Marie De La Montagne. I identified with that name so much, I had a hard time using my civil surname in my professional life when I became a publisher. Me and my colleague had a lot of laughs about it. It just seemed so strange to me.  
+
+
+
+{{< figure src="/img/blogposts_2021/marie_de_la_montagne_avoid_floating.jpg" caption="Sunset git at [(A)VOID Floating Gallery](https://www.facebook.com/AVOIDFloatingGallery/)" >}}
 
 My other source of inspiration in music is in America. A lot of people might judge me for saying that, but America doesn’t do what I  mentioned above. I don’t feel so smothered when I work with my American colleagues. When I started to work with supervisors and people around the entertainment industry, I saw new potential, and my storytelling side resonated there. So I aligned myself at that, and wish to connect all these places creatively and also use the opportunities they offer. 
 
@@ -98,7 +102,7 @@ We really would need more time to talk :)!
 
 ## More about Marie de la Montagne
 
-Find more of about Marie and her work on [instagram](https://www.instagram.com/mariedelamontagne/?hl=en) or her [website](https://mariedelamontagne.com/) and make sure to check out her music!
+Find more of about Marie and her work on [instagram](https://www.instagram.com/mariedelamontagne/?hl=en), [facebook](https://www.facebook.com/mariedelamontagnemusic/), and or her [website](https://mariedelamontagne.com/) and make sure to check out her music!
 
 Other artists:
 
