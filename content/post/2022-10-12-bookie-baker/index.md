@@ -37,8 +37,7 @@ The short answer is that we would be delighted to play for anyone who likes our 
 Home, for me, is more about the people that surround you. When you live abroad as an expat for extended periods (and we have both lived away from our respective countries for a very long time), your home becomes the people you choose, your adopted family, so to speak. Ireland will always be my home country and where I come from, but I think of home as where my best friends are. The Czech Republic is the country we have chosen to live in, and we love it here.
 
 <!--  This code is copy pasted from Spotify.  You can adjust the height to look better.  -->
-<iframe src="https://open.spotify.com/playlist/7e16W7CEUoFS5u6G8lTGFM?si=9b6af14e94ef4b59" width="700" height="433" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe> 
-
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7e16W7CEUoFS5u6G8lTGFM?utm_source=generator" width="100%" height="433" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Can you recommend some music from the regions where you feel at home? Or some music that inspired you recently? We are interested in how musical inspiration comes to artists.**
 
