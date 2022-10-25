@@ -69,7 +69,6 @@ I come back to the mountains for consolation, really. I even changed my French s
 
 My other source of inspiration in music is in America. A lot of people might judge me for saying that, but America doesn’t do what I  mentioned above. I don’t feel so smothered when I work with my American colleagues. When I started to work with supervisors and people around the entertainment industry, I saw new potential, and my storytelling side resonated there. So I aligned myself at that, and wish to connect all these places creatively and also use the opportunities they offer. 
 
-
 **Can you recommend some music from the region of France where you feel at home? Or some music from the US that inspired you much recently? We are interested in how musical inspiration comes to our artists, physically. We want to understand how music travels via word of mouth, algorithms, etc.**  
 
 I can point you to a few artists that I met and find so inspiring. Definitely Amistat, a twin duo who have Czech roots, lived in Australia, and now live in Germany. We worked together for about two years, and I could listen to their song Love & Light on repeat. 
