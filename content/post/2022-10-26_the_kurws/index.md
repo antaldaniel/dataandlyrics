@@ -5,6 +5,7 @@ date: "2022-10-26T16:30:00+02:00"
 lastmod: "2022-10-26T16:30:00+02:00"
 authors: ["gabija_liaugminaite"]
 project: Listen Local
+draft: true
 tags:
 - Wrocław
 - Poland
@@ -14,8 +15,9 @@ summary: "Sebastiaan and Kuba are both members of Wrocław’s post-punk band �
 image:
 caption: The Kurws
 focal_point: Smart
-preview_only: no
+preview_only: yes
 ---
+{{< figure src="/img/blogposts_2022/Bookie_Baker_main_square.jpg" caption="Bookie Baker in the Main Square of Prague" >}}
   **Caolan, you are both currently living in Prague, and you come from Ireland and Canada. You have met each other while traveling in one of the most extraordinary places, and even ended up in a pretty unlikely destination. What was this journey like for you?**
   
   It has been pretty incredible, at times unpleasant, but definitely unanticipated. If you had told me what was in store 10 years ago, I probably would not have believed you, but that’s the fun of it, I guess. It was, at times, wild living in China, and the friends I met there and the experiences I had I am not likely to forget, and I feel the same about the Czech Republic and Prague. Also, getting arrested in China wasn’t exactly on our to-do list. It was pretty scary then and eventually led to us living in the Czech Republic. I loathe to say something like, “everything happens for a reason,” you really don’t know what is coming next; we met the most wonderful people here.
