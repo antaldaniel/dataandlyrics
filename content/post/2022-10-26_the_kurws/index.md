@@ -5,7 +5,7 @@ date: "2022-10-26T14:30:00+02:00"
 lastmod: "2022-10-26T15:31:00+02:00"
 authors: ["gabija_liaugminaite"]
 project: Listen Local
-draft: true
+draft: false
 tags:
  - Wrocław
  - Poland
