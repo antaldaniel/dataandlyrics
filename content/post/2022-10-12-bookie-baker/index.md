@@ -5,13 +5,13 @@ subtitle: Listen Local interview
 date: "2022-10-12T16:30:00+02:00"
 lastmod: "2022-10-12T16:30:00+02:00"
 authors: ["marie_zhorova"]
-project: Listen local
+project: Listen Local
 tags:
 - Prague
 - Czechia
 - Ireland
 - Canada
-- Listen local
+- Listen Local
 summary: "Bookie Baker are a Canadian-Irish contemporary folk duo based in Prague,
   Czech Republic."
 image:
