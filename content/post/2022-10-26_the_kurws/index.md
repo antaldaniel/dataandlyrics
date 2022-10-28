@@ -13,7 +13,7 @@ tags:
  - Listen Local
  - Sarajevo
 
-summary: "Kuba and Sebastiaan are both members of the Wrocław-based post-punk bands 'Kurws' and 'Zdrój'. On 26 October 2022, they start a tour with concerts planned in Germany, the Netherlands, Belgium, France and Czechia."
+summary: "Kuba and Sebastiaan are both members of the Wrocław-based post-punk band 'Kurws'. On 26 October 2022, they start a tour with concerts planned in Germany, the Netherlands, Belgium, France and Czechia."
 
 image:
   caption: The_Kurws
@@ -70,7 +70,7 @@ _Sebastiaan_: It’s also inspiring music-wise, but in the end it’s all about 
 
 _Sebastiaan_: There’s [Czuła jest noc](https://www.facebook.com/czulajestnoc/), it’s a club close to the main railway station. It’s under the tracks, so every few minutes there is a train going over. It’s a small bar and it also has a small concert hall. It’s one of my favourite places here in the city. When we had some gigs or album presentations, it was in there. 
 
-_Kuba_: There’s also a bookshop, where the bassist of the band ‘Atol Atol Atol’, formally in a band [Ukryte Zalety Systemu](https://open.spotify.com/artist/3o7RBuYFXDl4gXK0WBHff8), and he was also in a band that I had before ‘Przepych’, so he’s part of our community and a pretty engaged member, and he’s working daily in the bookshop. In this bookshop they also do events and concerts, and the place is called [Tajne Komplety](https://tajnekomplety.osdw.pl/) and they started making streamed concerts during the pandemic. They called the cycle _Tajne Koncerty_ and apart from the cycle, there were also regular shows sometimes, but it's mostly acoustic music, not that loud. It’s a very nice place. 
+_Kuba_: There’s also a bookshop, where the bassist of the band ‘Atol Atol Atol’, formally in a band [Ukryte Zalety Systemu](https://open.spotify.com/artist/3o7RBuYFXDl4gXK0WBHff8), works. He was also in a band that I had before ‘Przepych’, so he’s part of our community and a pretty engaged member. He’s working daily in the bookshop and in this bookshop they also do events and concerts. The place is called [Tajne Komplety](https://tajnekomplety.osdw.pl/) and they started making streamed concerts during the pandemic. They called the cycle _Tajne Koncerty_ and apart from the cycle, there were also regular shows sometimes, but it's mostly acoustic music, not that loud. It’s a very nice place. 
 
 {{< youtube jnDN0RhcBgc >}}
 
@@ -80,10 +80,14 @@ _Kuba_: There’s also a bookshop, where the bassist of the band ‘Atol Atol At
 _Kuba_: As hell! Kurws used to have at least one 3-week tour each year and then the pandemic paused everything. So, this would be the longest tour in four years. It’s going to be twelve days. Usually is a bit under, so we’ll see how we’ll survive it. Maybe we are too old! But I’m pretty sure it’s going to turn out great. 
 
 
-**You can listen and purchace Sebaastian and Kuba's latest album as a band “Zdrój” here:**
+**You can listen and purchace Kurws' latest album _Powięź / Fascia_ here:**
 
-<iframe style="border: 0; width: 700px; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=650809301/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://zdroj.bandcamp.com/album/zdr-j">Zdrój by Zdrój</a></iframe>
+<iframe style="border: 0; width: 400px; height: 373px;" src="https://bandcamp.com/EmbeddedPlayer/album=603369917/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://kurws.bandcamp.com/album/powi-fascia">Powięź / Fascia by Kurws</a></iframe>
 
+**You can listen and purchase Zdrój's latest album here:**
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=650809301/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://zdroj.bandcamp.com/album/zdr-j">Zdrój by Zdrój</a></iframe>
+    
 ## Links
 
 - [kurws.org](https://www.kurws.org/)
