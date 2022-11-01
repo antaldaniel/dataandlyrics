@@ -20,7 +20,7 @@ image:
   focal_point: Smart
   preview_only: yes
 ---
-{{<figure src="/img/blogposts_2022/Kurws.jpg" caption="Kurws">}}
+{{<figure src="/img/blogposts_2022/Kurws.jpg" caption="Kurws. Photo by Maciek Bielawski">}}
 
 **Considering that Sebastiaan is Dutch, how did you meet and where?**
   
