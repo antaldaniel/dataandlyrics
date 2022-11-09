@@ -3,9 +3,10 @@ title: "‘It’s about carving out your own path’"
 subtitle: Listen Local Interview
 date: "2022-11-09T18:00:00+02:00"
 lastmod: "2022-11-09T18:00:00+02:00"
-authors: gabija_liaugminaite
+
+authors: ["gabija_liaugminaite"]
+
 project: Listen Local
-draft: TRUE
 
 tags:
 - Tallinn
@@ -13,20 +14,23 @@ tags:
 - Listen Local
 - Folktronica
 
-summary: Mari and Johannes are members of the Estonian folktronica band OOPUS. They curate a folktronica showcase stage at the Tallinn Music Week
+summary: Mari and Johannes are members of the Estonian folktronica band OOPUS. They curate a folktronica showcase stage at the Tallinn Music Week. How do you find audience for something that is neither folk nor electronica? 
 
 image: null
 caption: oopus
 focal_point: Smart
-preview_only: TRUE
+preview_only: true
 ---
+
 
 **How did you come up with the name for your band?**
   
 _Mari:_ It’s the Estonian version of the Latin word opus, as “a piece of work”.
 
-_Johannes:_ It happened at the end of one rehearsal, as Mari was just having fun, singing, and said, ‘Ladies and Gentlemen, now Johannes is going to present his oopus number 1!’. Then I really thought that whatever I play now, I really have to deliver. So instead of being tired at the end of our rehearsal, we actually got really excited. It felt like I’m not just practicing anymore, but we are actually playing and that boosted me. And when thought about the band name, OOPUS was a great candidate, because our approach was that every time we create something, it’s the best that we can do.
+_Johannes:_ It happened at the end of one rehearsal, as Mari was just having fun, singing, and said, ‘Ladies and Gentlemen, now Johannes is going to present his oopus number 1!’. Then I really thought that whatever I play now, I really have to deliver. So instead of being tired at the end of our rehearsal, we actually got really excited. It felt like I’m not just practicing anymore, but we are actually playing and that boosted me. And when thought about the band name, `OOPUS` was a great candidate, because our approach was that every time we create something, it’s the best that we can do.
 
+{{% callout note %}}
+Engage with Data&Lyrics on {{< staticref "https://www.linkedin.com/company/68855596/" "newtab" >}}{{< icon name="linkedin" pack="fab" >}}LinkedIn{{< /staticref >}} or {{< staticref "https://twitter.com/dataandlyrics/" "newtab" >}}{{< icon name="twitter" pack="fab" >}}@dataandlyrics{{< /staticref >}}! You can find our here {{< staticref "https://zenodo.org/communities/music_observatory/" "newtab" >}}{{< icon name="database" pack="fas" >}}open data{{< /staticref >}} and {{< staticref "https://github.com/dataobservatory-eu/" "newtab" >}} {{< icon name="code" pack="fas" >}} open repositories, code, tutorials{{< /staticref >}}.{{% /callout %}}
 
 **How did you get into the genre of folktronica?**
   
@@ -62,7 +66,7 @@ _Johannes:_ When we started the band, we thought that we definitely need to do a
 
 _Mari:_ Sometimes we use traditional lyrics and add lines of our own.
 
-_Johannes:_ For example, the single Käi kiike korge’elle from the last album is an original based on traditional lyrics, but of course the music and melodies are all coming from us. 
+_Johannes:_ For example, the single _Käi kiike korge’elle_ from the last album is an original based on traditional lyrics, but of course the music and melodies are all coming from us. 
 
 {{< figure src="/img/blogposts_2022/OOPUS_2022_Estonia_album_Folk_On_Acid_Photo_Kerttu_Kruusla_folktronica.jpg" caption="OOPUS, 2022. Photo by Kerttu Kruusla" >}}
 
@@ -72,7 +76,6 @@ _Johannes:_ For example, the single Käi kiike korge’elle from the last album 
 _Johannes:_ Well, the answer is quite simple. Mari is a long time ‘burner’, she has been to Burning Man four times, and she invited me to see what’s it like in 2017. We took our instruments with us, we looked for opportunities to perform. It was a total disaster in terms of weather and technical equipment. But what we found out was that we are really connected with our root music from Estonia. In the Nevada desert, very far from home. There we performed and asked people if they were ready to go to space, of course they said “Yeeeees!”. To elaborate this a bit, Estonian traditional stories note that our world was created from an egg. Finno-Ugric worldview believes that the world was created from an egg and the shells of the egg make up the moon, the stars, the sun and the Earth. Space is an ancestral home for us. When a person dies, their spirit goes behind the Milky Way. In a way, space travel was always there for us, so we just use it in our stories.
 
 _Mari:_ We went really far away to find out that we don’t need to create anything new and just share our roots, something that has already been there for thousands of years. This is where it started, and we were really well received and we got hyped. But I would also say that Lithuania has been really awesome. It’s really strange for us. We also had very nice shows in Finland, Latvia, Poland, Germany, but we really felt a strong connection in Lithuania. 
-
 
 **How would you describe your fanbase then, are they mostly based in Estonia?**
   
@@ -116,6 +119,11 @@ _Mari:_ I’ve seen that word to mouth recommendations has worked very well for 
 
 _Johannes:_ At the same time, when we started our motto was that we are going fast, but it’s still too slow. But you can’t skip time. There’s no right answer to when things are supposed to start happening. For example, we had a conversation with an organiser who liked us, but could only get us a concert in 2025, because plans have already been made until then. And word-to-mouth recommendations… When they see us, they love it, but it’s all about timing. It might take 2 years, easily, because life is a rollercoaster. This is the part where you have to have faith as a young artist. 
 
+{{% callout note %}}
+Check out OOPUS: [Spotify](https://open.spotify.com/artist/5rsGXqid3BD43iDxtgVGJR?si=-AD_lCelSUaKbLgx31rOHg) | [Bandcamp](https://oopus.bandcamp.com/) | [YouTube](https://www.youtube.com/oopusmusic) | [Facebook](https://www.facebook.com/oopusmusic/) | [Instagram](https://www.instagram.com/oopusofficial/)
+{{% /callout %}}
+  
+
 _Mari:_ For us, it was difficult to communicate ourselves, so we couldn’t just wait for something to happen. We had to start organising ourselves in order to be seen and get the material out there. We started organising events, curating stages for different festivals in Estonia, and then we could also present ourselves there. This is where our proposition for Tallinn Music Week came, that we would love to organise folktronica showcase stage there.
 
 _Johannes:_ Now, the showcase will already have its 4th edition and it’s such an honour to be able to do this, because the genre is rising, and the last years have been very awesome. All the artists were beyond amazing. We think that is a very exciting future that is already around, but it’s just not acknowledged on a bigger scale yet. 
@@ -127,25 +135,10 @@ _Mari:_ It’s about carving out your own path, and not only relying on differen
   
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3309892440/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://oopus.bandcamp.com/album/folk-on-acid">FOLK ON ACID by OOPUS</a></iframe>
 
-  ## Links
-  
-- [Spotify](https://open.spotify.com/artist/5rsGXqid3BD43iDxtgVGJR?si=-AD_lCelSUaKbLgx31rOHg)
-- [Bandcamp](https://oopus.bandcamp.com/)
-- [Youtube](https://www.youtube.com/oopusmusic)   
-- [Facebook](https://www.facebook.com/oopusmusic/)   
-- [Instagram](https://www.instagram.com/oopusofficial/)
+{{% callout note %}}
 
+We had conversations with other European artists on similar topics: 
+[Kurws](https://dataandlyrics.com/post/2022-10-26_the_kurws/) | [Bookie Baker](https://dataandlyrics.com/post/2022-10-12-bookie-baker/) | [Jeremy Dunne](https://dataandlyrics.com/post/2021-12-03-rec_to_play/) | [Katarzia](https://dataandlyrics.com/post/2020-11-25-katarzia/) |  [Twentees](https://dataandlyrics.com/post/2020-11-18-where-they-understand-us/) | [Youniverse](https://dataandlyrics.com/post/2020-11-30-youniverse/) | [Robin Kester](/post/2020-11-11-listen-local-robin-kester/) | [Marie de la Montagne](/post/2021-07-15-marie_de_la_montagne/) | [Damir Bašić aka Duka](/post/2020-10-28-duka-mission/) & with small companies and startups [Tiny Rooms](https://dataandlyrics.com/post/2020-12-14-tinyrooms/) | [LaPee](http://localhost:4321/post/2021-03-10-lapee/) | [Flower of Sound](http://localhost:4321/post/2021-03-22-flower-of-sound/) | [Hajde](http://localhost:4321/post/2021-03-21-hajde/) | [From Rec to Play](/post/2021-12-03-rec_to_play/) 
 
-## Other artists
-
-We had conversations with other European artists on similar topics:
-  
-- [Kurws](https://dataandlyrics.com/post/2022-10-26_the_kurws/)
-- [Bookie Baker](https://dataandlyrics.com/post/2022-10-12-bookie-baker/)
-- [Jeremy Dunne](https://dataandlyrics.com/post/2021-12-03-rec_to_play/)
-- [Katarzia](https://dataandlyrics.com/post/2020-11-25-katarzia/)
-- [Twentees](https://dataandlyrics.com/post/2020-11-18-where-they-understand-us/)
-- [Youniverse](https://dataandlyrics.com/post/2020-11-30-youniverse/)
-
-And a label:
-- [Tiny Rooms](https://dataandlyrics.com/post/2020-12-14-tinyrooms/)
+Engage with Data&Lyrics on {{< staticref "https://www.linkedin.com/company/68855596/" "newtab" >}}{{< icon name="linkedin" pack="fab" >}}LinkedIn{{< /staticref >}} or {{< staticref "https://twitter.com/dataandlyrics/" "newtab" >}}{{< icon name="twitter" pack="fab" >}}@dataandlyrics{{< /staticref >}}! You can find our here {{< staticref "https://zenodo.org/communities/music_observatory/" "newtab" >}}{{< icon name="database" pack="fas" >}}open data{{< /staticref >}} and {{< staticref "https://github.com/dataobservatory-eu/" "newtab" >}} {{< icon name="code" pack="fas" >}} open repositories, code, tutorials{{< /staticref >}}.
+{{% /callout %}}

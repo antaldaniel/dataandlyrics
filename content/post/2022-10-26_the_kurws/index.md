@@ -49,6 +49,14 @@ _Kuba_: I don't think so. Of course, the local public is the best because they a
 
 _Sebastiaan_: I think the best way to get people to know your music is just to play a lot and to tour, play abroad and help bands that you get to know along the way. This is the best way to grow your audience organically. But I think this is not our mission _per se_. This is just something that happens. 
 
+{{% callout note %}}
+Check out the band on [kurws.org](https://www.kurws.org/) | [Spotify](https://open.spotify.com/artist/2U79lRbZXWgTbtiDWHRj8a) | 
+ [Bandcamp](https://kurws.bandcamp.com/album/powi-fascia) |
+ [Youtube](https://www.youtube.com/user/Kurws) |
+ [Facebook](https://www.facebook.com/kurws) |
+ [Instagram](https://www.instagram.com/kurwsgram/). 
+{{% /callout %}}
+
 _Kuba_: The question was new to me because I never really thought about this. I was always curious to be somewhere in the world that I have never been to before and I was curious about how people would respond to our music. That's why I decided to book certain tours, and we got invited by artists to other parts of the world. It was a natural process. I want to go where I want, where I am wanted, and the rest comes. If you respect people and if you're honest, it comes back.
 
 _Sebastiaan_: Mutual respect can get you very far as a band. For example, the Dutch band Ex marked history by doing that—playing in other countries and inviting bands to come to play with them. This is a ‘do it together’ mentality. If you respect each other, you respect the people that you meet, the rest just goes automatically. I wouldn’t say it’s a deliberate mission to look for a new audience, it’s just something that happens when you play. I don’t have so much experience, but Kurws already have fourteen years of experience in operating in such a way. I think this works best.
@@ -95,26 +103,10 @@ _Kuba_: As hell! Kurws used to have at least one 3-week tour each year and then 
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=835559293/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://barlog.bandcamp.com/album/ii">II by Barłóg</a></iframe>
     
-## Links
+{{% callout note %}}
 
-- [kurws.org](https://www.kurws.org/)
-- [Spotify](https://open.spotify.com/artist/2U79lRbZXWgTbtiDWHRj8a)
-- [Bandcamp](https://kurws.bandcamp.com/album/powi-fascia)
-- [Youtube](https://www.youtube.com/user/Kurws)   
-- [Facebook](https://www.facebook.com/kurws)   
-- [Instagram](https://www.instagram.com/kurwsgram/)
+We had conversations with other European artists on similar topics: 
+[OOPUS](/post/2022-11-09_oopus/) | [Bookie Baker](https://dataandlyrics.com/post/2022-10-12-bookie-baker/) | [Jeremy Dunne](https://dataandlyrics.com/post/2021-12-03-rec_to_play/) | [Katarzia](https://dataandlyrics.com/post/2020-11-25-katarzia/) |  [Twentees](https://dataandlyrics.com/post/2020-11-18-where-they-understand-us/) | [Youniverse](https://dataandlyrics.com/post/2020-11-30-youniverse/) | [Robin Kester](/post/2020-11-11-listen-local-robin-kester/) | [Marie de la Montagne](/post/2021-07-15-marie_de_la_montagne/) | [Damir Bašić aka Duka](/post/2020-10-28-duka-mission/) & with small companies and startups [Tiny Rooms](https://dataandlyrics.com/post/2020-12-14-tinyrooms/) | [LaPee](http://localhost:4321/post/2021-03-10-lapee/) | [Flower of Sound](http://localhost:4321/post/2021-03-22-flower-of-sound/) | [Hajde](http://localhost:4321/post/2021-03-21-hajde/) | [From Rec to Play](/post/2021-12-03-rec_to_play/) 
 
-
-## Other artists
-
-We had conversations with other artists about the same topics earlier:
-  
-- [Bookie Baker](https://dataandlyrics.com/post/2022-10-12-bookie-baker/)
-- [Jeremy Dunne](https://dataandlyrics.com/post/2021-12-03-rec_to_play/)
-- [Katarzia](https://dataandlyrics.com/post/2020-11-25-katarzia/)
-- [Twentees](https://dataandlyrics.com/post/2020-11-18-where-they-understand-us/)
-- [Youniverse](https://dataandlyrics.com/post/2020-11-30-youniverse/)
-- [Willemijn de Krey](https://dataandlyrics.com/post/2021-04-04-wdekrey/)
-
-And a label:
-  - [Tiny Rooms](https://dataandlyrics.com/post/2020-12-14-tinyrooms/)
+Engage with Data&Lyrics on {{< staticref "https://www.linkedin.com/company/68855596/" "newtab" >}}{{< icon name="linkedin" pack="fab" >}}LinkedIn{{< /staticref >}} or {{< staticref "https://twitter.com/dataandlyrics/" "newtab" >}}{{< icon name="twitter" pack="fab" >}}@dataandlyrics{{< /staticref >}}! You can find our here {{< staticref "https://zenodo.org/communities/music_observatory/" "newtab" >}}{{< icon name="database" pack="fas" >}}open data{{< /staticref >}} and {{< staticref "https://github.com/dataobservatory-eu/" "newtab" >}} {{< icon name="code" pack="fas" >}} open repositories, code, tutorials{{< /staticref >}}.
+{{% /callout %}}
