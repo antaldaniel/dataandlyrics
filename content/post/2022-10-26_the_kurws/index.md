@@ -26,7 +26,7 @@ image:
   
 _Sebastiaan_: It's a funny story. At one point I was living in Sarajevo, in Bosnia and Herzegovina. Kurws played in an old cinema theatre there, so I went to see their concert and really liked it. Then a few years went by, and my wife and I moved to Wrocław. I knew that Kurws are from there, so I just sent them a message: 'Hey guys, I'm a drummer, and I'm looking for people to play with.' That's how we met.
 
-_Kuba_: He got immediately incorporated into our _CRK Salka_ family because I was organizing a tour for another band and their drummer got very ill right before leaving. I just said to Sebastiaan 'You're in now, you have to replace her!'. I sent him all the tracks and he just learned them.
+_Kuba_: He got immediately incorporated into our _CRK Salka_ family because I was organizing a tour for another band, Barłóg, and their drummer got very ill right before leaving. I just said to Sebastiaan 'You're in now, you have to replace her!'. I sent him all the tracks and he just learned them.
 
 _Sebastiaan_: It was a very warm welcome—I moved to Wrocław and two or three months later I was already going on tour. Then, via Kurws I got involved in this small music community _CRK Salka_. It is a rehearsal space, a collective where bands help each other and organise things together. 
 
@@ -87,6 +87,10 @@ _Kuba_: As hell! Kurws used to have at least one 3-week tour each year and then 
 **You can listen and purchase Zdrój's latest album here:**
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=650809301/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://zdroj.bandcamp.com/album/zdr-j">Zdrój by Zdrój</a></iframe>
+    
+**You can listen and purchase Barłóg's music here:**
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=835559293/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://barlog.bandcamp.com/album/ii">II by Barłóg</a></iframe>
     
 ## Links
 
