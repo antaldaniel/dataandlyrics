@@ -21,6 +21,7 @@ image:
   preview_only: false
 ---
 
+
 <!-- HERE I WOULD INCLUDE A BREIF INTRODUCTION ABOUT WHO MARIE IS AND WHY WE'RE INTERVIEWING HER
 Please go ahead and extend it
 
@@ -33,6 +34,10 @@ Please go ahead and extend it
 I got locked down in Prague actually. I intended to move to Berlin after leaving London, as my pianist lives there and has kids. It seemed like the best next destination, but it just didn’t work out. Lockdown came out of the blue and I decided to stay in Czech Republic. I eventually found an apartment in Prague and a job I've wanted to do all my life, so I think this is it. 
 
 I now work for a label and I am in charge of our sync & publishing department. My professional focus is still abroad for the most part which helps me work towards my ambitions, yet also come back to my roots. I feel like this is what I really needed for my creativity to strive. 
+
+
+{{% callout note %}}
+Engage with us on {{< staticref "https://www.linkedin.com/company/68855596/" "newtab" >}}{{< icon name="linkedin" pack="fab" >}}LinkedIn{{< /staticref >}} {{< staticref "https://twitter.com/dataandlyrics/" "newtab" >}}{{< icon name="twitter" pack="fab" >}}@dataandlyrics{{< /staticref >}} or check out our {{< staticref "https://zenodo.org/communities/music_observatory/" "newtab" >}}{{< icon name="database" pack="fas" >}}open data{{< /staticref >}} and {{< staticref "https://github.com/dataobservatory-eu/" "newtab" >}} {{< icon name="code" pack="fas" >}} open repositories, code, tutorials{{< /staticref >}}{{% /callout %}}
 
 <!-- HERE I WOULD INCLUDE A BREIF INTRODUCTION ABOUT WHO MARIE IS AND WHY WE'RE INTERVIEWING HER-->
 

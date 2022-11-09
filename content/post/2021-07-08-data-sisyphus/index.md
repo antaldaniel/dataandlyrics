@@ -38,6 +38,10 @@ Big data creates inequality and injustice. On aspect of this inequality is the c
 
 Metadata, which is information about the history of the data, and information how it can be technically and legally reused, has a hidden cost. Cheap or low-quality external data comes with poor or no metadata, and small organizations lack the resources to add high-quality metadata to their datasets. However, this only perpetuates the problem.
 
+{{% callout note %}}
+Engage with us on {{< staticref "https://www.linkedin.com/company/68855596/" "newtab" >}}{{< icon name="linkedin" pack="fab" >}}LinkedIn{{< /staticref >}} {{< staticref "https://twitter.com/dataandlyrics/" "newtab" >}}{{< icon name="twitter" pack="fab" >}}@dataandlyrics{{< /staticref >}} or check out our {{< staticref "https://zenodo.org/communities/music_observatory/" "newtab" >}}{{< icon name="database" pack="fas" >}}open data{{< /staticref >}} and {{< staticref "https://github.com/dataobservatory-eu/" "newtab" >}} {{< icon name="code" pack="fas" >}} open repositories, code, tutorials{{< /staticref >}}{{% /callout %}}
+
+
 ## The hidden cost item behind the unbillable hours {#metadata-unbillable-hours}
 
 As we have shown with our research partners, such metadata problems are not unique to data analysis.  Independent artists and small labels are suffering on music or book sales platforms, because their copyrighted content is not well documented.  If you automatically document tens of thousands of songs or datasets, the documentation cost is very small per item. If you, do it manually, the cost may be higher than the expected revenue from the song, or the total cost of the dataset itself. (See our research consortiums' preprint paper: [Ensuring the Visibility and Accessibility of European Creative Content on the World Market: The Need for Copyright Data Improvement in the Light of New Technologies](https://dataandlyrics.com/publication/european_visibilitiy_2021/))

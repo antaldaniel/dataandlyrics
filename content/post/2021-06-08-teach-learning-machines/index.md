@@ -26,6 +26,8 @@ image:
   preview_only: false
 ---
 
+{{% callout note %}}
+Engage with us on {{< staticref "https://www.linkedin.com/company/68855596/" "newtab" >}}{{< icon name="linkedin" pack="fab" >}}LinkedIn{{< /staticref >}} {{< staticref "https://twitter.com/dataandlyrics/" "newtab" >}}{{< icon name="twitter" pack="fab" >}}@dataandlyrics{{< /staticref >}} or check out our {{< staticref "https://zenodo.org/communities/music_observatory/" "newtab" >}}{{< icon name="database" pack="fas" >}}open data{{< /staticref >}} and {{< staticref "https://github.com/dataobservatory-eu/" "newtab" >}} {{< icon name="code" pack="fas" >}} open repositories, code, tutorials{{< /staticref >}}{{% /callout %}}
 
 We do care what our children learn, but we do not care yet about what our robots learn from.  One key idea behind trustworthy AI is that you verify what data sources your machine learning algorithms can learn from.  As we have emphasised in our forthcoming academic paper and in our experiments, one key problem that goes wrong when you see too few small country artists, or too few womxn in the charts is that the big tech recommendation systems and other autonomous systems are learning from historically biased or patchy data.
 
