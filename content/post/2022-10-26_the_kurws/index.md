@@ -30,6 +30,9 @@ _Kuba_: He got immediately incorporated into our _CRK Salka_ family because I wa
 
 _Sebastiaan_: It was a very warm welcome—I moved to Wrocław and two or three months later I was already going on tour. Then, via Kurws I got involved in this small music community _CRK Salka_. It is a rehearsal space, a collective where bands help each other and organise things together. 
 
+{{% callout note %}}
+Engage with us on {{< staticref "https://www.linkedin.com/company/68855596/" "newtab" >}}{{< icon name="linkedin" pack="fab" >}}LinkedIn{{< /staticref >}} {{< staticref "https://twitter.com/dataandlyrics/" "newtab" >}}{{< icon name="twitter" pack="fab" >}}@dataandlyrics{{< /staticref >}} or check out our {{< staticref "https://zenodo.org/communities/music_observatory/" "newtab" >}}{{< icon name="database" pack="fas" >}}open data{{< /staticref >}} and {{< staticref "https://github.com/dataobservatory-eu/" "newtab" >}} {{< icon name="code" pack="fas" >}} open repositories, code, tutorials{{< /staticref >}}{{% /callout %}}
+
 **Now that you've travelled and had many concerts, where do you feel most at home?**
   
 _Kuba_: I wouldn't want to pinpoint a certain geographical location because I think that is not really an issue. You can find places to feel at home anywhere. There are places in Europe and Asia where I felt at home, places in Russia, places in Portugal. For me, the definition of a place where I feel at home is where people care, love our music or have other reasons to be excited about us doing something together. 
