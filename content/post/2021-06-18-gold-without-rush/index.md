@@ -32,7 +32,7 @@ image:
 Every year, the EU announces that billions and billions of data are now “open” again, but this is not gold. At least not in the form of nicely minted gold coins, but in gold dust and nuggets found in the muddy banks of chilly rivers. There is no rush for it, because panning out its value requires a lot of hours of hard work. Our goal is to automate this work to make open data usable at scale, even in trustworthy AI solutions.
 
 
-{{< figure src="/media/img/slides/gold_panning_slide_notitle.png" caption="There is no rush for it, because panning out its value requires a lot of hours of hard work. Our goal is to automate this work to make open data usable at scale, even in trustworthy AI solutions." numbered="true" >}}
+{{< figure src="/img/slides/gold_panning_slide_notitle.png" caption="There is no rush for it, because panning out its value requires a lot of hours of hard work. Our goal is to automate this work to make open data usable at scale, even in trustworthy AI solutions." numbered="true" >}}
 
 Most open data is not public, it is not downloadable from the Internet – in the EU parlance, “open” only means a legal entitlement to get access to it. And even in the rare cases when data is open and public, often it is mired by data quality issues. We are working on the prototypes of a data-as-service and research-as-service built with open-source statistical software that taps into various and often neglected open data sources.
 

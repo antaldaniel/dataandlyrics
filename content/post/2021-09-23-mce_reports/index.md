@@ -41,7 +41,7 @@ Our [report](https://mce.dataobservatory.eu/) highlights some important lessons.
 
 ## Context
 
-{{< figure src="/media/img/blogposts_20121/dcms_economics_music_streaming.png" numbered="false">}}
+{{< figure src="/img/blogposts_20121/dcms_economics_music_streaming.png" numbered="false">}}
 
 The idea of our Digital Music Observatory was brought to the UK policy debate on music streaming by the _Written evidence submitted by The state51 Music Group_ to the _Economics of music streaming review_ of the UK Parliaments' DCMS Committee[^1].
 
@@ -57,7 +57,7 @@ CEEMID was eventually to formed into the *Demo Music Observatory* in 2020[^3], f
 
 In December 2020, we started investigating how the music observatory concept could be introduced in the UK, and how our data and analytical skills could be used in the [Music Creators’ Earnings in the Streaming Era](https://digit-research.org/research/related-projects/music-creators-earnings-in-the-streaming-era/) (in short: MCE) project, which is taking place paralell to the heated political debates around the DCMS inquiry. After the *state51 music group* gave permission for the UK Intellectual Property Office to reuse the data that was originally published as the experimental [CEEMID-CI Streaming Volume and Revenue Indexes](https://ceereport2020.ceemid.eu/market.html#recmarket), we came to a cooperation agreement between the MCE Project and the [Digital Music Observatory](https://music.dataobservatory.eu/). We provided a detailed historical analysis and computer simulation for the MCE Project, and we will host all the data of the *Music Creators’ Earnings Report* in our observatory, hopefully no later than early July 2021.
 
-{{< figure src="/media/img/observatory_screenshots/dmo_opening_screen.png" caption="The [Digital Music Observatory](https://music.dataobservatory.eu/) contributes to the Music Creators’ Earnings in the Streaming Era project with understanding the level of justified and unjustified differences in rightsholder earnings, and putting them into a broader music economy context." numbered="true">}}
+{{< figure src="/img/observatory_screenshots/dmo_opening_screen.png" caption="The [Digital Music Observatory](https://music.dataobservatory.eu/) contributes to the Music Creators’ Earnings in the Streaming Era project with understanding the level of justified and unjustified differences in rightsholder earnings, and putting them into a broader music economy context." numbered="true">}}
 
 We started our cooperation with the two  principal investigators of the project, [Prof David Hesmondhalgh](https://music.dataobservatory.eu/author/prof-david-hesmondhalgh/) and [Dr Hyojugn Sun](https://music.dataobservatory.eu/author/hyojung-sun/) back in April and will start releasing the findings and the data in July 2021.
 
