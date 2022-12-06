@@ -8,6 +8,8 @@ authors: ["daniel_antal"]
 
 tags: ["JUMP Europen Music Market Accelerator", "record shops", "recording", "independent labels"]
 
+# Elipsis …, emdash —
+
 summary: "Jeremy Dunne is the founder of the French Open Studio Sessions, which allows artists to open up in front of a very restricted audience and show themselves from a creative and working perspective---during they are producing a recorded performance."
 
 # Featured image

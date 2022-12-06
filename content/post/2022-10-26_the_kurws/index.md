@@ -13,6 +13,8 @@ tags:
  - Listen Local
  - Sarajevo
 
+# Elipsis …, emdash —
+
 summary: "Kuba and Sebastiaan are both members of the Wrocław-based post-punk band 'Kurws'. On 26 October 2022, they start a tour with concerts planned in Germany, the Netherlands, Belgium, France and Czechia."
 
 image:
