@@ -17,7 +17,7 @@ tags:
 - Electronic music
 - Alternative
 
-summary: "*Innerglow* is a trio band from Bulgaria playing alternative music."
+summary: "*Innerglow* is a trio band from Bulgaria playing alternative music. Apart from the electronic sound, they do acoustic concerts, with a growing international audience from sometimes surprising locations and a planned European tour."
 
 image:
   caption: Innerglow
@@ -85,7 +85,7 @@ There are other great bands here doing similar things. The problem is that the a
 
 We’re now in the process of arranging some concerts for this year. Apart from the electronic sound, we also do acoustic concerts. We love to rearrange our songs, playing them with guitars, ukulele and percussion. We are also doing DJ parties where we perform our own remixes. So, we have different types of concerts that we need to think about, and we’re arranging them right now in Bulgaria. 
 
-We’re also planning to do a European tour, which will involve a couple of countries. Last year we travelled to Germany and received great feedback, made connections and people are expecting us back this year. We’re also planning to do a tour of other Balkan countries. People here are often surprised to hear that we’re from Bulgaria because we don’t sound like it at all. When they hear our songs on the radio, they have no idea that we’re Bulgarians. Unfortunately, Bulgarian pop is almost non-existent outside of our borders. There are no stars from Bulgaria and that needs to change because we have so much to offer. Things are already improving, very slowly and the process can often seem cumbersome, but it is getting better and there’s a cause for optimism. It looks like it’s going to be quite a busy year for us and that’s great.
+We’re also planning to do a European tour, which will involve a couple of countries. Last year we traveled to Germany and received great feedback, made connections and people are expecting us back this year. We’re also planning to do a tour of other Balkan countries. People here are often surprised to hear that we’re from Bulgaria because we don’t sound like it at all. When they hear our songs on the radio, they have no idea that we’re Bulgarians. Unfortunately, Bulgarian pop is almost non-existent outside of our borders. There are no stars from Bulgaria and that needs to change because we have so much to offer. Things are already improving, very slowly and the process can often seem cumbersome, but it is getting better and there’s a cause for optimism. It looks like it’s going to be quite a busy year for us and that’s great.
 
 {{% callout note %}}
 
