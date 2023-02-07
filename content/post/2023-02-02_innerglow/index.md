@@ -33,6 +33,10 @@ My name is Todor Kovachev and I’m the singer and a keyboardist of Innerglow. W
 
 It wasn’t easy to pick a band name. We wanted the name to be short and it turned out that *Innerglow* was available, so we decided that it doesn't only fit our music but it also can inspire us in the future. The name includes a lot, while being short. I think now we like it even more than we did in the beginning, we find more meaning in it.
 
+{{< spoiler text="Listen Local Bulgaria" >}}
+Musicautor and the Open Music Europe consortium starts a new service called [Listen Local Bulgaria](https://bulgaria.listen-local.net/). We want to make sure that Bulgarian music will more easily find audience on global platforms, festivals, and create higher revenues for its creators. 
+{{< /spoiler >}}
+
 **And who are your band members?**
   
 Peter Zhelev is our guitar player and Matey Hristoskov is our drummer. First, we also had a bassist, but we had to remain a trio. Since then, we use backing tracks for our bass and the three of us play live. It was a necessary solution, although we do miss having a live bass. However, having three people has a lot of advantages. Sometimes it’s easier and faster to work with fewer people, and the three of us now are 100% involved and passionate about this band, which is more important than having more members.
