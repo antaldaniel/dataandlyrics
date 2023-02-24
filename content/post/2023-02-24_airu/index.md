@@ -101,7 +101,7 @@ We would like to be on the big playlist in Spain that has indie pop songs. It is
 
 *Erik*:  One of the negative aspects of globalization is that it kills the little ones and makes the big bigger. The little cultures, like the Basque culture, are estranged from the omnipresence of the English language culture.
 
-**What sort of playlisting would be comfortable for you that is not imprisoning you in the Basque music scene, that is too loud and heavy for your music, or in a female-led ghetto?**
+**What sort of playlisting would be comfortable for you that is not imprisoning you in the Basque music scene, that is too loud and heavy for your music, or in a female-led box?**
 
 *Irune*: If you look at our Spotify profile, many of the artists related to us are local artists. The algorithm already knows that we are from the same place, and the people living in Bilbao also listen to music from Bilbao. Then maybe what could be done is create playlists out of these “similar artists” profiling so that you’ll get a good mixture of things happening in our city that’s not only limited to a specific genre. 
 
