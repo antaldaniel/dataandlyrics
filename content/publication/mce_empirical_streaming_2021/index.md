@@ -21,7 +21,7 @@ featured: true
 # Projects (optional).
 projects: ["music-reports"]
 
-tags: ["market-report", "music-industry", "United Kingdom", "music-streaming", "equitable remuneration"]
+tags: ["Market report", "Music industry", "United Kingdom", "music-streaming", "Equitable remuneration"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -54,11 +54,7 @@ math: false
 
 # Featured image
 image:
-  # Caption (optional)
   caption: ""
-
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point: "Center"
 ---
 

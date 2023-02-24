@@ -10,6 +10,17 @@ authors: ["gabija_liaugminaite"]
 
 project: Listen Local
 
+links:
+- icon: spotify
+  icon_pack: fab
+  name: Listen
+  url: https://open.spotify.com/artist/65SwXEKxGXV9wzibCq1yIc?go=1&nd=1
+- icon: youtube
+  icon_pack: fab
+  name: Watch
+  url: https://www.youtube.com/channel/UCfly1UedFZdVhYPNHuTf5SQ
+  
+  
 tags:
 - Bulgaria
 - Sofia
