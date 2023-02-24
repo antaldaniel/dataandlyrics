@@ -79,7 +79,7 @@ Erik, Patricia, and Irune agree that there is not much, only in superficial ways
 
 *Erik*: Our main source of inspiration is British bands, like the Arctic Monkeys or King Krule.
 
-Irune*: When I was living in the UK, and I listened to a lot of King Krule, I caught myself almost imitating the way he sings, as if I put on a female King Krule identity.  And then, I lived in Northern England, and I think I put on a bit of a Northern English accent; I did not want to sing in standard English. Some critics were amused, in a good way, by how I pronounced the lyrics.
+*Irune*: When I was living in the UK, and I listened to a lot of King Krule, I caught myself almost imitating the way he sings, as if I put on a female King Krule identity.  And then, I lived in Northern England, and I think I put on a bit of a Northern English accent; I did not want to sing in standard English. Some critics were amused, in a good way, by how I pronounced the lyrics.
 
 {{< youtube Kecm3vFIZlA >}} <br>
 
@@ -90,6 +90,10 @@ We would like to be on the big playlist in Spain that has indie pop songs. It is
 **Airu is a half-female, half-male band, and you were a Keychange band.  Would a female-led playlist be appropriate for you?  What would be appropriate for you in terms of gender identity?**
 
 *Irune*: I do not like to be on a female-led playlist; I think that it is already creating a division. Songs made by women should be on the playlist where the popular artists are.  Some years ago, we made it to the finals of a talent competition. When they called us that we were in the finals, we were very happy, but it turned out that the finals had a “female” category with less than a third of the main prize. So it was not the same thing as the real prize; they placed the “female” prize way below the ”main prize.” This is a very stupid way of supporting female artists.
+
+{{<figure src="/img/blogposts_2023/D_Antal_Airu_Linecheck_2022.jpg" caption="Photo: Daniel Antal ([@back_to_digital](https://www.instagram.com/back_to_digital/)). We met Airu on [Linecheck 2022](), where they played in the [Keychange](https://www.keychange.eu/directory/underrepresented-talent-profile/airu) programme provides women and gender expansive participants with the skills and opportunities they need to progress to the next stage in their career.">}} 
+
+
 
 **I understand that your position does not support the female playlist, but how can you create equal opportunities in playlisting or regional diversity?**
 
@@ -114,7 +118,7 @@ Here you go:
 *Erik*: Not only that, there are very few people who go to live performances.  The big stages are hard to reach, and the small stages in bars prefer to offer gastronomical pleasures than live music because they make more money with that.
 What is a good label for music? And what sort of institutional support you need.
 
-*Irune*, Erik, and Patricia agree that they were looking for a label to help book live performances and need help because Basque institutional help comes only from well-established bands. There seems to be some effort in the last couple of years to put everything Basque on the world stage that is not so much focused on language preservation, such as Basque Music. 
+Irune, Erik, and Patricia agree that they were looking for a label to help book live performances and need help because Basque institutional help comes only from well-established bands. There seems to be some effort in the last couple of years to put everything Basque on the world stage that is not so much focused on language preservation, such as Basque Music. 
 
 {{< spoiler text="New single out on 23 February 2023" >}}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/3kn0EG91PC6bOa1QX5wnee?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
